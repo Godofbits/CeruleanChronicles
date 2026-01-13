@@ -17,7 +17,7 @@
             display: flex;
             align-items: center;
             justify-content: center;
-            font-family: 'Courier New', monospace;
+            font-family: Copperplate, 'Copperplate Gothic', Georgia, serif;
             color: #8b7355;
             position: relative;
         }
@@ -82,6 +82,49 @@
             max-width: 600px;
         }
 
+        /* Navigation */
+        .nav {
+            display: flex;
+            justify-content: center;
+            gap: 2rem;
+            margin-top: 2rem;
+            flex-wrap: wrap;
+        }
+
+        .nav-tab {
+            padding: 0.8rem 2rem;
+            background: linear-gradient(180deg, #2a2a2a 0%, #1a1a1a 100%);
+            border: 2px solid #4a4a4a;
+            color: #8b7355;
+            text-decoration: none;
+            font-size: 1rem;
+            letter-spacing: 0.15rem;
+            text-transform: uppercase;
+            transition: all 0.3s ease;
+            position: relative;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+        }
+
+        .nav-tab:hover {
+            background: linear-gradient(180deg, #3a3a3a 0%, #2a2a2a 100%);
+            border-color: #6b7355;
+            color: #a89968;
+            transform: translateY(-2px);
+            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7);
+        }
+
+        .nav-tab::before {
+            content: "⚔";
+            position: absolute;
+            left: 0.5rem;
+            opacity: 0;
+            transition: opacity 0.3s ease;
+        }
+
+        .nav-tab:hover::before {
+            opacity: 1;
+        }
+
         @media (max-width: 768px) {
             .logo {
                 max-width: 90%;
@@ -89,6 +132,13 @@
             .tagline {
                 font-size: 1rem;
                 letter-spacing: 0.1rem;
+            }
+            .nav {
+                gap: 1rem;
+            }
+            .nav-tab {
+                padding: 0.6rem 1.5rem;
+                font-size: 0.9rem;
             }
         }
 
@@ -102,6 +152,17 @@
             .container {
                 padding: 2rem 1rem;
             }
+            .nav {
+                flex-direction: column;
+                gap: 0.8rem;
+                align-items: center;
+            }
+            .nav-tab {
+                width: 80%;
+                text-align: center;
+                padding: 0.8rem 1rem;
+                font-size: 0.85rem;
+            }
         }
     </style>
 </head>
@@ -112,6 +173,12 @@
         <img src="logo.png" alt="Cerulean Chronicles - Into the Abyss" class="logo">
         <div class="border-bottom"></div>
         <div class="tagline">A dark dungeon crawler for the bold and the brave</div>
+
+        <nav class="nav">
+            <a href="#foes" class="nav-tab">Foes</a>
+            <a href="#spoils" class="nav-tab">Spoils of War</a>
+            <a href="#quests" class="nav-tab">Quests</a>
+        </nav>
     </div>
 </body>
 </html>

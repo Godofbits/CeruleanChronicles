@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved from the heart of an ancient glacier, containing ice that has not melted in ten thousand years. It grants the resilience of eternal ice and the power to freeze water instantly. Ice elementalists who study the patient power of glaciers favor such staffs.",
+  "id" : "staff_of_the_glacier",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Glacier",
+  "rarity" : "Rare",
+  "textureName" : "Staff of the Glacier",
+  "value" : 1250,
+  "weight" : 3
+}

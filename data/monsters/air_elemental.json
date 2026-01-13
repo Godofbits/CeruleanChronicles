@@ -1,0 +1,147 @@
+{
+    "id": "air_elemental",
+    "isActive": false,
+    "name": "Air Elemental",
+    "sortName": "Elemental, Air",
+    "size": "large",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "trueNeutral",
+
+    "armorClass": 15,
+    "armorType": null,
+    "hitDice": {
+        "count": 12,
+        "die": "d10",
+        "modifier": 24
+    },
+    "speeds": {
+        "fly": 90
+    },
+    "hoverCapable": true,
+
+    "abilities": {
+        "strength": 14,
+        "dexterity": 20,
+        "constitution": 14,
+        "intelligence": 6,
+        "wisdom": 10,
+        "charisma": 6
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "lightning", "condition": null },
+        { "type": "thunder", "condition": null },
+        { "type": "bludgeoning", "condition": "from nonmagical attacks" },
+        { "type": "piercing", "condition": "from nonmagical attacks" },
+        { "type": "slashing", "condition": "from nonmagical attacks" }
+    ],
+    "immunities": ["poison"],
+    "conditionImmunities": ["exhaustion", "grappled", "paralyzed", "petrified", "poisoned", "prone", "restrained", "unconscious"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Auran"],
+    "telepathyRange": null,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "mons_air_elemental_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "deep",
+        "description": "Air elementals manifest as living whirlwinds from the Elemental Plane of Air, summoned to serve as swift messengers or devastating combatants. They embody the freedom and fury of the endless sky.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Air Form",
+            "description": "The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.",
+            "effect": {
+                "type": "airForm",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The elemental makes two slam attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Slam",
+            "description": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 8,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 5,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Whirlwind",
+            "description": "Each creature in the elemental's space must make a DC 13 Strength saving throw. On a failure, a target takes 15 (3d8 + 2) bludgeoning damage and is flung up to 20 feet away from the elemental in a random direction and knocked prone. On a success, the target takes half the bludgeoning damage and isn't flung away or knocked prone.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 13,
+                "type": "strength",
+                "onFail": "full damage and flung 20 ft prone",
+                "onSuccess": "half damage"
+            },
+            "recharge": {
+                "range": [4, 6]
+            },
+            "onHit": [
+                {
+                    "type": "damage",
+                    "saveDC": 13,
+                    "saveType": "strength",
+                    "condition": "prone",
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 3,
+                        "dieType": "d8",
+                        "modifier": 2,
+                        "type": "bludgeoning"
+                    },
+                    "description": "DC 13 Str save, 3d8+2 bludgeoning, flung 20 ft and prone on fail"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

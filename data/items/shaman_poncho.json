@@ -1,0 +1,14 @@
+{
+  "baseAC" : 10,
+  "category" : "Magical",
+  "description" : "Woven poncho decorated with tribal patterns and animal totems. Shamans of the plains tribes wear such garments during spirit journeys and healing rituals. The patterns represent the four directions and the spirits of earth, sky, thunder, and rain. Each poncho is unique, telling the story of the shaman who wears it.",
+  "id" : "shaman_poncho",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Shaman Poncho",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Shaman Poncho",
+  "value" : 60,
+  "weight" : 3
+}

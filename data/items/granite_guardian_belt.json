@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A heavy belt reinforced with plates of polished granite. The stone provides weight and stability, making the wearer harder to move or knock down. Dwarf warriors particularly favor these belts, appreciating both their defensive qualities and connection to the living stone.",
+  "id" : "granite_guardian_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to saves vs being knocked prone",
+  "name" : "Granite Guardian Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Granite Guardian Belt",
+  "value" : 245,
+  "weight" : 0.5
+}

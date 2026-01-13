@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Massive black plate covered in spikes and blades. Worn by the elite guard of dark lords, this armor is as much weapon as protection. The spikes damage enemies who grapple the wearer or hit with unarmed attacks. The intimidating appearance grants advantage on Intimidation checks but disadvantage on Persuasion. Those who wear doomguard plate embrace their role as harbingers of destruction.",
+  "id" : "doomguard_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Doomguard Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Doomguard Plate",
+  "value" : 3800,
+  "weight" : 62
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Plain",
+  "description" : "A once-fine silver ring now darkened with age. Still holds some value despite its condition.",
+  "id" : "tarnished_silver_band",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Tarnished Silver Band",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_11",
+  "value" : 8,
+  "weight" : 0
+}

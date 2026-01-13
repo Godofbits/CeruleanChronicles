@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A red belt symbolizing a sacred oath of protection. Warriors who swear to defend others unto death sometimes seal their vow by donning such a belt. The crimson color represents both the blood they will spill and the blood they will shed in service of their oath.",
+  "id" : "crimson_oath_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to attack rolls when defending an ally",
+  "name" : "Crimson Oath Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Crimson Oath Belt",
+  "value" : 265,
+  "weight" : 0.5
+}

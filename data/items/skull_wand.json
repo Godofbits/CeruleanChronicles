@@ -1,0 +1,11 @@
+{
+  "description" : "A dark wooden wand crowned with a human skull. The skull belonged to a powerful necromancer who willingly bound their spirit to the wand after death. It whispers dark secrets to those who listen. +1 spell bonus, 7 charges, necrotic damage.",
+  "id" : "skull_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Skull Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Skull Wand",
+  "value" : 550,
+  "weight" : 1
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Gloves woven from silk gathered under the light of the full moon. They shimmer with silvery luminescence and grant the wearer enhanced vision in darkness. Elven rangers who patrol during twilight hours favor such gloves.",
+  "id" : "moonlight_silk_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Moonlight Silk Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Moonlight Silk Gloves",
+  "value" : 185,
+  "weight" : 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A wand of pure condensed flame, constantly wreathed in roaring fire. Created by binding a fire elemental's essence, it produces flames of incredible intensity. The wielder becomes immune to their own fire magic while holding it. +2 spell bonus, 10 charges, fire damage.",
+  "id" : "wand_of_inferno",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Inferno",
+  "rarity" : "Very Rare",
+  "textureName" : "Wand of Inferno",
+  "value" : 6500,
+  "weight" : 1.5
+}

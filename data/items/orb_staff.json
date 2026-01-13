@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a crystal orb that shows distant visions. The orb clouds with mist when revealing far-off places and hidden truths. Diviners and spies use such staffs to observe from afar.",
+  "id" : "orb_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Orb Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Orb Staff",
+  "value" : 310,
+  "weight" : 3
+}

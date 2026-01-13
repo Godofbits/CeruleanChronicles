@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "An emerald carved with seals of binding. King Solomon wore such rings to command demons and djinn, bending supernatural beings to his will. The ring grows warm when otherworldly entities draw near.",
+  "id" : "solomons_ring_of_command",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Summon a djinni (once per week, serves for 1 hour)",
+  "name" : "Solomon's Ring of Command",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_39",
+  "value" : 2500,
+  "weight" : 0
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Pale blue silk leggings woven by elven craftsmen. Light as air yet surprisingly durable. Elven dancers and acrobats wear such garments, valuing grace over protection.",
+  "id" : "elven_silken_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Elven Silken Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Elven_Silken_Leggings",
+  "value" : 25,
+  "weight" : 1
+}

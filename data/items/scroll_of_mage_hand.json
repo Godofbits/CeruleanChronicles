@@ -1,0 +1,11 @@
+{
+  "description" : "A small rolled scroll bearing a cantrip known to every wizard. This spell conjures a spectral floating hand that can manipulate objects at a distance. Invented by a lazy wizard who didn't want to leave his chair to retrieve his spell book, it has since proven invaluable for disarming traps, pulling levers, and stealing keys from sleeping guards. The hand is invisible to most, appearing only as a faint shimmer in the air. Single use.",
+  "id" : "scroll_of_mage_hand",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Mage Hand",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Mage Hand",
+  "value" : 10,
+  "weight" : 0.10000000000000001
+}

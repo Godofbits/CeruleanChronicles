@@ -1,0 +1,11 @@
+{
+  "description" : "A blue scroll that numbs fingers that hold it too long. This cantrip creates patches of intense cold on a creature's body, causing frostbite damage and making their attacks less accurate. Unlike ray of frost which projects cold, frostbite manifests directly on the target's skin. The spell is favored by druids who draw power from winter, as it connects to the natural world's seasonal cycles. The numbing effect makes it valuable for disrupting enemy attacks even when damage is minimal. Single use.",
+  "id" : "scroll_of_frostbite",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Frostbite",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Frostbite",
+  "value" : 25,
+  "weight" : 0.10000000000000001
+}

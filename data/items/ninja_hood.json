@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A form-fitting black hood that covers the entire head except for the eyes. Worn by shadow warriors of the eastern clans, the fabric is treated to muffle sound and resist staining. Perfect for those who strike from darkness. +0 AC.",
+  "id" : "ninja_hood",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Ninja Hood",
+  "rarity" : "Uncommon",
+  "textureName" : "Ninja Hood",
+  "value" : 180,
+  "weight" : 0.20000000000000001
+}

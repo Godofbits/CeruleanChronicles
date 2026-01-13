@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Luxurious tan breeches tailored from the finest silk and linen. The cut and quality mark the wearer as a person of wealth and influence. Trade princes of the coastal cities commission such garments from master tailors, believing that proper attire oils the wheels of commerce. The fabric bears subtle enchantments that make the wearer more persuasive in negotiations.",
+  "id" : "merchant_lord_breeches",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Persuasion checks",
+  "name" : "Merchant Lord Breeches",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Merchant_Lord_Breeches",
+  "value" : 220,
+  "weight" : 2
+}

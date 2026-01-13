@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll crackling with electrical potential. Evocation masters consider this the perfect offensive spell—direct, powerful, and visually impressive. The spell channel lightning from the heavens or conjures it from thin air, sending a stroke of electricity that chains through multiple foes. The technique was perfected by studying Thor's lightning strikes during storms over Asgard. Single use.",
+  "id" : "scroll_of_lightning_bolt",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Lightning Bolt",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Lightning Bolt",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

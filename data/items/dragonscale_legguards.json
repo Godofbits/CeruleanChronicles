@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Leg armor with scale-like overlapping plates. Though not true dragonscale, the design mimics the natural armor of wyrms. Popular among warriors who cannot afford genuine dragon material.",
+  "id" : "dragonscale_legguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dragonscale Legguards",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Dragonscale_Legguards",
+  "value" : 55,
+  "weight" : 8
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "An elegant staff topped with a perfectly preserved rose. The flower never wilts and its beauty enchants all who behold it. Bards and enchanters favor such staffs for their symbolic connection to love and beauty.",
+  "id" : "staff_of_the_rose",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Rose",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of the Rose",
+  "value" : 265,
+  "weight" : 3
+}

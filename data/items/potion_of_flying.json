@@ -1,0 +1,13 @@
+{
+  "description" : "This sky-blue potion is light as air. Gain a flying speed of 60 ft. for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_flying",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Flying",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Flying",
+  "value" : 500,
+  "weight" : 0.5
+}

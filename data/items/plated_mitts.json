@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Leather gloves with small metal plates sewn into the backing. They provide more protection than simple leather while remaining flexible enough for weapon handling. City guards and caravan defenders favor such practical protection.",
+  "id" : "plated_mitts",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Plated Mitts",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Plated Mitts",
+  "value" : 20,
+  "weight" : 0.5
+}

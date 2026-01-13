@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Purple-tinted metal greaves inlaid with amethyst gems. These were crafted by dwarven artificers who studied the properties of gem dragons, particularly the enigmatic amethyst wyrms of the Underdark. The gems provide protection against mental assault, shielding the wearer's mind from psychic intrusion. Mind flayers and other psionic creatures find their mental probes turned aside by the crystalline resonance.",
+  "id" : "amethyst_dragon_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to saves vs psychic damage",
+  "name" : "Amethyst Dragon Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Amethyst_Dragon_Greaves",
+  "value" : 380,
+  "weight" : 14
+}

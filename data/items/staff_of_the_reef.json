@@ -1,0 +1,11 @@
+{
+  "description" : "A staff made from living coral that still grows and changes. It grants the ability to communicate with sea creatures. Druids who protect ocean ecosystems carry such staffs.",
+  "id" : "staff_of_the_reef",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Reef",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of the Reef",
+  "value" : 255,
+  "weight" : 3
+}

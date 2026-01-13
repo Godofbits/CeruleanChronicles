@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled letter secured with a wax seal. Personal correspondence forms the backbone of communication in civilized lands, connecting families separated by distance and enabling business dealings across continents. The quality of the parchment and seal indicates the sender's status and wealth. Opening another's sealed letter is considered a breach of trust in most cultures, though spies and thieves rarely respect such conventions.",
+  "id" : "sealed_letter",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Sealed Letter",
+  "rarity" : "Common",
+  "textureName" : "Sealed Letter",
+  "value" : 5,
+  "weight" : 0.10000000000000001
+}

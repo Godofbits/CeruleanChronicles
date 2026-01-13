@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Heavy bronze greaves worn by champions of the arena. Each dent and scratch tells of battles fought before roaring crowds. Forged in the foundries beneath the great colosseum, these greaves have witnessed countless victories and defeats. The metal has been blessed by priests of the war god, granting the wearer enhanced combat prowess. Gladiators who survive to win their freedom often keep their battle greaves as prized trophies.",
+  "id" : "gladiator_battle_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to attack rolls",
+  "name" : "Gladiator Battle Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Gladiator_Battle_Greaves",
+  "value" : 250,
+  "weight" : 14
+}

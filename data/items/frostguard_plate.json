@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Steel plate with blue-white finish, forged in the frozen north. The armor provides resistance to cold damage, enchanted through rituals performed on frozen mountaintops. Frostguard plate never feels cold to the touch, maintaining comfortable temperature even in blizzards. Northern warriors who defend against frost giants and white dragons wear such armor, protection forged from the very element they face.",
+  "id" : "frostguard_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Frostguard Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Frostguard Plate",
+  "value" : 1000,
+  "weight" : 55
+}

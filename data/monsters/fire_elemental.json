@@ -1,0 +1,151 @@
+{
+    "id": "fire_elemental",
+    "isActive": false,
+    "name": "Fire Elemental",
+    "sortName": "Elemental, Fire",
+    "size": "large",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "trueNeutral",
+
+    "armorClass": 13,
+    "armorType": null,
+    "hitDice": {
+        "count": 12,
+        "die": "d10",
+        "modifier": 36
+    },
+    "speeds": {
+        "walk": 50
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 10,
+        "dexterity": 17,
+        "constitution": 16,
+        "intelligence": 6,
+        "wisdom": 10,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "bludgeoning", "condition": "from nonmagical attacks" },
+        { "type": "piercing", "condition": "from nonmagical attacks" },
+        { "type": "slashing", "condition": "from nonmagical attacks" }
+    ],
+    "immunities": ["fire", "poison"],
+    "conditionImmunities": ["exhaustion", "grappled", "paralyzed", "petrified", "poisoned", "prone", "restrained", "unconscious"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Ignan"],
+    "telepathyRange": null,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "mons_fire_elemental_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "deep",
+        "description": "Fire elementals are living flames from the Elemental Plane of Fire, summoned to the Material Plane by powerful spellcasters. They burn with an insatiable hunger for destruction, consuming everything flammable in their path.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Fire Form",
+            "description": "The elemental can move through a space as narrow as 1 inch wide without squeezing. A creature that touches the elemental or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage. In addition, the elemental can enter a hostile creature's space and stop there. The first time it enters a creature's space on a turn, that creature takes 5 (1d10) fire damage and catches fire; until someone takes an action to douse the fire, the creature takes 5 (1d10) fire damage at the start of each of its turns.",
+            "effect": {
+                "type": "fireForm",
+                "parameters": {
+                    "contactDamage": "1d10",
+                    "damageType": "fire"
+                }
+            }
+        },
+        {
+            "name": "Illumination",
+            "description": "The elemental sheds bright light in a 30-foot radius and dim light in an additional 30 feet.",
+            "effect": {
+                "type": "illumination",
+                "parameters": {
+                    "brightLight": 30,
+                    "dimLight": 30
+                }
+            }
+        },
+        {
+            "name": "Water Susceptibility",
+            "description": "For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.",
+            "effect": {
+                "type": "waterSusceptibility",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The elemental makes two touch attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Touch",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) fire damage. If the target is a creature or a flammable object, it ignites. Until a creature takes an action to douse the fire, the target takes 5 (1d10) fire damage at the start of each of its turns.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "ignite",
+                    "saveDC": null,
+                    "saveType": null,
+                    "condition": "on fire",
+                    "duration": "until doused",
+                    "damage": {
+                        "diceCount": 1,
+                        "dieType": "d10",
+                        "modifier": 0,
+                        "type": "fire"
+                    },
+                    "description": "Target ignites and takes 1d10 fire damage at start of each turn until doused"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Dark leather armor treated with oils that resist mold and acid. Created by explorers who delve into ancient ruins where ordinary leather would rot within days. The treatment gives it a distinctive musty scent.",
+  "id" : "dungeon_leather",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dungeon Leather",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Dungeon Leather",
+  "value" : 35,
+  "weight" : 8
+}

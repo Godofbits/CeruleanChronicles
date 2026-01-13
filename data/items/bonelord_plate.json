@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor crafted partially from the bones of ancient creatures. Necromancer-lords who achieve mastery over death itself commission such armor, combining steel with bones of dragons, demons, and other fell beings. The bone components grant resistance to necrotic damage and allow the wearer to command undead as if they were two levels higher. The armor whispers with voices of the dead.",
+  "id" : "bonelord_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Bonelord Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Bonelord Plate",
+  "value" : 3000,
+  "weight" : 54
+}

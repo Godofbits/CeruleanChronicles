@@ -1,0 +1,15 @@
+{
+  "baseAC" : 13,
+  "category" : "Medium",
+  "description" : "Living bark shaped into armor by druidic magic. The bark retains autumn colors of orange and red, and continues to grow slowly, repairing minor damage over time. Druids of the autumn circle craft such armor from treants who willingly shed their bark. It provides protection while remaining part of the natural world.",
+  "id" : "autumn_bark_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Autumn Bark Armor",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Autumn Bark Armor",
+  "value" : 180,
+  "weight" : 25
+}

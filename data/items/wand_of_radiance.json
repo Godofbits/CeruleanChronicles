@@ -1,0 +1,11 @@
+{
+  "description" : "A golden wand that shines with brilliant holy light. Blessed by solar angels, it channels the pure radiance of the Upper Planes. Undead and fiends recoil from its light, and it can banish darkness with a thought. +2 spell bonus, 10 charges, radiant damage.",
+  "id" : "wand_of_radiance",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Radiance",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Radiance",
+  "value" : 3500,
+  "weight" : 1
+}

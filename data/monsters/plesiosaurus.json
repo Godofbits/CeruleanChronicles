@@ -1,0 +1,99 @@
+{
+    "id": "plesiosaurus",
+    "isActive": false,
+    "name": "Plesiosaurus",
+    "size": "large",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 13,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 8,
+        "die": "d10",
+        "modifier": 24
+    },
+    "speeds": {
+        "walk": 20,
+        "swim": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 15,
+        "constitution": 16,
+        "intelligence": 2,
+        "wisdom": 12,
+        "charisma": 5
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 3 },
+        { "skill": "stealth", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "Plesiosaurus_01",
+
+    "habitat": {
+        "environments": ["aquatic", "coastal"],
+        "depth": "deep",
+        "description": "Plesiosaurs are ancient marine reptiles that hunt in coastal waters and deep lakes, their long necks allowing them to strike at prey from unexpected angles. They sometimes surface near ships, leading to legends of sea serpents.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Hold Breath",
+            "description": "The plesiosaurus can hold its breath for 1 hour.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 14 (3d6 + 4) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 4,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

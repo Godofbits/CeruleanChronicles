@@ -1,0 +1,16 @@
+{
+  "acBonus" : 4,
+  "category" : "Plate",
+  "description" : "Legendary leg plates forged in the heart of Mount Doom from metal salvaged from Ancalagon the Black, mightiest of Morgoth's dragons. When Eärendil slew the great wyrm in the War of Wrath, smiths of the Noldor gathered fragments of his scales and bones. Over centuries, they forged these greaves, imbuing them with the dragon's fire. The wearer becomes immune to flame and radiates intense heat that burns nearby foes. The metal glows with internal fire, and steam rises when rain touches it. Only the mightiest warriors can bear the weight and heat of these legendary greaves, which have been worn by dragon-slayers across the ages.",
+  "id" : "dragonfire_knight_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire, Fire aura (1d8 fire damage to nearby enemies)",
+  "name" : "Dragonfire Knight Legplates",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Dragonfire_Knight_Legplates",
+  "value" : 5500,
+  "weight" : 16
+}

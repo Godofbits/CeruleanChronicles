@@ -1,0 +1,128 @@
+{
+    "id": "magma_mephit",
+    "isActive": false,
+    "name": "Magma Mephit",
+    "sortName": "Mephit, Magma",
+    "size": "small",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "neutralEvil",
+
+    "armorClass": 11,
+    "armorType": null,
+    "hitDice": {
+        "count": 5,
+        "die": "d6",
+        "modifier": 5
+    },
+    "speeds": {
+        "walk": 30,
+        "fly": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 8,
+        "dexterity": 12,
+        "constitution": 12,
+        "intelligence": 7,
+        "wisdom": 10,
+        "charisma": 10
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "stealth", "bonus": 3 }
+    ],
+
+    "vulnerabilities": ["cold"],
+    "resistances": null,
+    "immunities": ["fire", "poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Ignan", "Terran"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/2",
+    "experiencePoints": 100,
+
+    "texture": "MagmaMephit_01",
+
+    "habitat": {
+        "environments": ["planar", "mountain"],
+        "depth": "deep",
+        "description": "Magma mephits emerge from volcanic vents and planar rifts where fire and earth collide. They are hot-tempered and destructive, leaving scorched footprints wherever they walk and delighting in setting things ablaze.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Death Burst",
+            "description": "When the mephit dies, it explodes in a burst of lava. Each creature within 5 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.",
+            "effect": null
+        },
+        {
+            "name": "False Appearance",
+            "description": "While the mephit remains motionless, it is indistinguishable from an ordinary mound of magma.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one creature. Hit: 3 (1d4 + 1) slashing damage plus 2 (1d4) fire damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 1,
+                        "type": "slashing"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Fire Breath",
+            "description": "The mephit exhales a 15-foot cone of fire. Each creature in that area must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 11,
+                "type": "dexterity",
+                "onFail": "full damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": {
+                "range": [6]
+            },
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

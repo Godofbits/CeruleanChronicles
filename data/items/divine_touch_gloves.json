@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Radiant gloves blessed by the gods themselves. A touch from these hands can heal grievous wounds, cure diseases, and break curses. High priests and chosen champions wear such gloves, their hands becoming conduits for divine mercy. The gloves shine with holy light, and those healed by them speak of warmth like a parent's embrace.",
+  "id" : "divine_touch_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Divine Touch Gloves",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Divine Touch Gloves",
+  "value" : 6500,
+  "weight" : 0.5
+}

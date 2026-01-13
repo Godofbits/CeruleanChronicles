@@ -1,0 +1,11 @@
+{
+  "description" : "A staff fashioned to resemble Poseidon's trident, the three prongs channeling the power of the sea. It aids in swimming and grants a measure of the ocean god's authority. Priests who serve sea deities carry such staffs.",
+  "id" : "trident_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Trident Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Trident Staff",
+  "value" : 240,
+  "weight" : 3
+}

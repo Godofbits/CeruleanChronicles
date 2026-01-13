@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll bearing defensive wards that flare when hostile magic is cast nearby. Developed during the ancient wizard duels of the Arcane Brotherhood, this spell intercepts magic at the moment of casting, snuffing it out before it can manifest. The technique requires split-second timing and deep understanding of the Weave. Many wizard duels are won not by the flashiest spell, but by a well-timed counterspell. Single use.",
+  "id" : "scroll_of_counterspell",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Counterspell",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Counterspell",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

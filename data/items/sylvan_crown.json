@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A living crown of intertwined branches, leaves, and flowers that never wilt. Worn by druids who have achieved perfect harmony with nature, the crown attunes its wearer to the forest's wisdom. Animals and plants recognize the wearer as a friend, and the forest itself will protect them from harm. +0 AC.",
+  "id" : "sylvan_crown",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Sylvan Crown",
+  "rarity" : "Very Rare",
+  "textureName" : "Sylvan Crown",
+  "value" : 7200,
+  "weight" : 0.5
+}

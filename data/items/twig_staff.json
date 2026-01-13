@@ -1,0 +1,11 @@
+{
+  "description" : "A slender staff that appears almost too delicate to be practical. Despite its fragile appearance, the intertwined twigs are bound with natural magic that makes them surprisingly resilient. Hedge wizards and forest hermits craft such staffs from fallen branches.",
+  "id" : "twig_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Twig Staff",
+  "rarity" : "Common",
+  "textureName" : "Twig Staff",
+  "value" : 10,
+  "weight" : 3
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A bronze wand decorated with spinning cogs and gears. A simpler version of artificer wands, popular among gnomish apprentices learning to blend magic with machinery. The cogs click satisfyingly when casting. +1 spell bonus, 8 charges.",
+  "id" : "cogwork_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Cogwork Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Cogwork Wand",
+  "value" : 450,
+  "weight" : 1.5
+}

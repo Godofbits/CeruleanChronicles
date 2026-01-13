@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Magnificent gauntlets worn by the Praetorian Guard who protected Roman emperors. The bronze is worked to perfection and decorated with imperial symbols. These gauntlets represent the highest standard of craftsmanship available to the ancient world.",
+  "id" : "praetorian_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Praetorian Gauntlets",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Praetorian Gauntlets",
+  "value" : 225,
+  "weight" : 0.5
+}

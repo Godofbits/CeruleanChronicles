@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A sash adorned with jade carved into serpent forms. In eastern lands, the serpent symbolizes wisdom and healing, and jade is believed to draw poison from the body. Monks and assassins both prize these sashes, though for very different reasons.",
+  "id" : "jade_serpent_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to saves vs poison",
+  "name" : "Jade Serpent Sash",
+  "rarity" : "Uncommon",
+  "textureName" : "Jade Serpent Sash",
+  "value" : 260,
+  "weight" : 0.5
+}

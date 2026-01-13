@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Armor crafted from the carapaces of giant insects. Desert tribes harvest the chitin from giant scorpions and beetles, shaping the naturally curved plates into armor. Lighter than steel and naturally resistant to acid, chitin armor is prized in lands where such creatures roam.",
+  "id" : "chitin_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Chitin Plate",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Chitin Plate",
+  "value" : 250,
+  "weight" : 30
+}

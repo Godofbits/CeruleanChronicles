@@ -1,0 +1,16 @@
+{
+  "baseAC" : 16,
+  "category" : "Heavy",
+  "description" : "Mass-produced plate armor for city militias. Slightly cheaper and lighter than military-grade plate, but still effective protection. Often features the heraldry of the city or lord that issued it.",
+  "id" : "militia_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Militia Plate",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 13,
+  "textureName" : "Militia Plate",
+  "value" : 180,
+  "weight" : 48
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll decorated with reflective silver ink. This clever illusion creates multiple duplicate images of the caster, confusing attackers about which target is real. The duplicates mirror every movement perfectly, making it nearly impossible to discern the original. The technique was developed by elven bladesingers who needed to survive melee combat despite their fragile frames. Many an assassin's blade has struck empty air thanks to this spell. Single use.",
+  "id" : "scroll_of_mirror_image",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Mirror Image",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Mirror Image",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

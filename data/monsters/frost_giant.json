@@ -1,0 +1,125 @@
+{
+    "id": "frost_giant",
+    "isActive": false,
+    "name": "Frost Giant",
+    "sortName": "Giant, Frost",
+    "size": "huge",
+    "type": "giant",
+    "subtype": null,
+    "alignment": "neutralEvil",
+
+    "armorClass": 15,
+    "armorType": "patchwork armor",
+    "hitDice": {
+        "count": 12,
+        "die": "d12",
+        "modifier": 60
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 23,
+        "dexterity": 9,
+        "constitution": 21,
+        "intelligence": 9,
+        "wisdom": 10,
+        "charisma": 12
+    },
+
+    "savingThrows": ["constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "athletics", "bonus": 9 },
+        { "skill": "perception", "bonus": 3 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["cold"],
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": ["Giant"],
+    "telepathyRange": null,
+
+    "challengeRating": "8",
+    "experiencePoints": 3900,
+
+    "texture": "IceGiant_01",
+
+    "habitat": {
+        "environments": ["arctic", "mountain"],
+        "depth": "surface",
+        "description": "Frost giants dwell in glacial rifts and frozen mountain peaks, building great halls from ice and stone. They value strength above all and constantly raid neighboring settlements for food, treasure, and slaves. Their jarls lead through might, and their skalds sing of legendary hunts and battles against white dragons, remorhazes, and rival giant clans.",
+        "rarity": "uncommon"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The giant makes two greataxe attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Greataxe",
+            "description": "Melee Weapon Attack: +9 to hit, reach 10 ft., one target. Hit: 25 (3d12 + 6) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 9,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d12",
+                        "modifier": 6,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Rock",
+            "description": "Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 9,
+                "reach": null,
+                "rangeNormal": 60,
+                "rangeLong": 240,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d10",
+                        "modifier": 6,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A simple conical hat worn by practitioners of the arcane arts. While lacking in enchantments, the traditional design marks the wearer as a student of magic. +0 AC.",
+  "id" : "mage_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Mage Hat",
+  "rarity" : "Common",
+  "textureName" : "Mage Hat",
+  "value" : 50,
+  "weight" : 0.29999999999999999
+}

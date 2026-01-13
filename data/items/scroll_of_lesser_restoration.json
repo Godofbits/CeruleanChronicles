@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll bearing purification symbols. This spell removes diseases and cures conditions like blindness, deafness, paralysis, and poisoning. It represents a deeper understanding of healing than mere wound closure, addressing afflictions that damage the body's function rather than its structure. Temple healers maintain stocks of these scrolls for treating plague victims and adventurers poisoned by monsters. The spell draws on natural resilience, accelerating the body's own healing processes. Single use.",
+  "id" : "scroll_of_lesser_restoration",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Lesser Restoration",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Lesser Restoration",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

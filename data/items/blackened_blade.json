@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "Fire-hardened until the steel turned permanently black, this blade was salvaged from the ruins of Ashhold after the dragon's attack. Its dark edge holds well despite the heat damage. Deals 1d8 slashing damage.",
+  "id" : "blackened_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Blackened Blade",
+  "rarity" : "Uncommon",
+  "textureName" : "Blackened Blade",
+  "value" : 200,
+  "weight" : 3.5
+}

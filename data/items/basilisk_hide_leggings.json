@@ -1,0 +1,15 @@
+{
+  "acBonus" : 1,
+  "category" : "Leather",
+  "description" : "Leggings crafted from the hide of a basilisk, the legendary serpent whose gaze turns flesh to stone. The leather retains some of the creature's resistance to petrification, protecting the wearer from being turned to stone. Hunters who stalk gorgons, cockatrices, and other petrifying monsters seek such armor, for it provides crucial defense against their deadliest ability. The hide is brown-green with a distinctive pattern, marking its exotic origin.",
+  "id" : "basilisk_hide_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to petrification",
+  "name" : "Basilisk Hide Leggings",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Basilisk_Hide_Leggings",
+  "value" : 400,
+  "weight" : 4
+}

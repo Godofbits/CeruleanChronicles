@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand encrusted with purple amethyst crystals that pulse with arcane energy. Crafted by the gem-mages of the Crystalspire Academy, each amethyst resonates with raw magical power. The crystals were grown over decades in chambers suffused with pure arcana. +1 spell bonus, 7 charges.",
+  "id" : "amethyst_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Amethyst Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Amethyst Wand",
+  "value" : 450,
+  "weight" : 1
+}

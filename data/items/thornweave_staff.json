@@ -1,0 +1,11 @@
+{
+  "description" : "A staff woven from thorn-bearing vines that never wither. The thorns remain sharp but will not prick the staff's rightful bearer. Druids who guard wild places use such staffs, the thorns serving as both warning and weapon.",
+  "id" : "thornweave_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Thornweave Staff",
+  "rarity" : "Common",
+  "textureName" : "Thornweave Staff",
+  "value" : 37,
+  "weight" : 3
+}

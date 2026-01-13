@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A girdle forged in the fires of the Nine Hells, blazing with infernal flame that never consumes it. The metal is black as coal but burns with hellfire, and the air around it shimmers with heat. Devils crafted this belt for a mortal warlord who sold his soul for power. The wearer becomes a conduit for hellfire, their spells blazing with increased intensity while flames dance around them, scorching nearby foes.",
+  "id" : "hellfire_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire, Fire spells deal +1d6 damage, Fire aura (2d6 fire damage to nearby enemies)",
+  "name" : "Hellfire Girdle",
+  "rarity" : "Very Rare",
+  "textureName" : "Hellfire Girdle",
+  "value" : 8000,
+  "weight" : 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A practical leather belt worn by those who seek fortune and glory in forgotten ruins and wild lands. Made to carry the weight of sword, coin purse, and the various odds and ends collected during a life of adventure. Many have begun their legendary careers wearing such a humble girdle.",
+  "id" : "adventurers_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Adventurer's Girdle",
+  "rarity" : "Common",
+  "textureName" : "Adventurer's Girdle",
+  "value" : 14,
+  "weight" : 0.5
+}

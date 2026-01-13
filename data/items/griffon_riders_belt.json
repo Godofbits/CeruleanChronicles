@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A specialized belt worn by the elite griffon riders of the mountain kingdoms. Designed with extra attachment points for safety lines and harnesses used when riding these magnificent beasts. The belt bears stylized griffon talons, symbolizing the bond between rider and mount.",
+  "id" : "griffon_riders_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on Animal Handling checks with flying mounts",
+  "name" : "Griffon Rider's Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Griffon Rider's Belt",
+  "value" : 275,
+  "weight" : 0.5
+}

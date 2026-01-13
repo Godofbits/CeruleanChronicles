@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A wizard's hat decorated with star and constellation patterns. Worn by astrologers and those who study the celestial bodies, the hat is enchanted to help the wearer see stars even during daylight. Some claim it grants minor prophetic abilities during meteor showers. +0 AC.",
+  "id" : "stargazer_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Stargazer Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Stargazer Hat",
+  "value" : 480,
+  "weight" : 0.40000000000000002
+}

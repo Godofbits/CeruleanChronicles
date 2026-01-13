@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Light tan trousers designed for desert travel. The loose fit allows air circulation in extreme heat. Nomads and caravan traders wear such practical garments.",
+  "id" : "desert_nomad_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Desert Nomad Pants",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Desert_Nomad_Pants",
+  "value" : 14,
+  "weight" : 1.5
+}

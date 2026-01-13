@@ -1,0 +1,13 @@
+{
+  "description" : "This swirling purple elixir drives the drinker temporarily insane. Gain +4 to all ability scores but suffer from random hallucinations and confusion for 1 hour. Make a Wisdom save (DC 15) each minute or act randomly as per the Confusion spell.",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "elixir_of_madness",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Madness",
+  "potionType" : "Poison",
+  "rarity" : "Rare",
+  "textureName" : "Elixir of Madness",
+  "value" : 400,
+  "weight" : 0.5
+}

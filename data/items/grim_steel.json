@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A no-nonsense blade favored by sellswords and mercenaries. The dark steel finish prevents glare that might give away a position. Deals 1d8 slashing damage.",
+  "id" : "grim_steel",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Grim Steel",
+  "rarity" : "Common",
+  "textureName" : "Grim Steel",
+  "value" : 30,
+  "weight" : 3.5
+}

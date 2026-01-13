@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A great helm marked with the holy cross of the Templar Order. Worn by warrior monks sworn to protect pilgrims and sacred sites, the helm is blessed to resist demonic influence. The wearer can sense evil creatures nearby and gains advantage on saves against fear. +2 AC.",
+  "id" : "templar_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Templar Helm",
+  "rarity" : "Rare",
+  "textureName" : "Templar Helm",
+  "value" : 1850,
+  "weight" : 5
+}

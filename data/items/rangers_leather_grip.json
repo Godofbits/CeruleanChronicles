@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Well-crafted leather gloves with reinforced fingertips for bowstring protection. Elven rangers who walk the borders of Mirkwood favor such gloves. The leather whispers against bow and blade, making no sound to alert wary prey.",
+  "id" : "rangers_leather_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ranger's Leather Grip",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Ranger's Leather Grip",
+  "value" : 15,
+  "weight" : 0.5
+}

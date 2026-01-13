@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Greaves enchanted to protect the wearer from crushing ocean depths. Those who dive for pearls or explore sunken ruins wear such greaves. The magic maintains normal pressure around the legs even in the deepest trenches.",
+  "id" : "deepwater_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Pressure resistance, +1 Constitution in water",
+  "name" : "Deepwater Greaves",
+  "rarity" : "Uncommon",
+  "textureName" : "Deepwater Greaves",
+  "value" : 195,
+  "weight" : 1
+}

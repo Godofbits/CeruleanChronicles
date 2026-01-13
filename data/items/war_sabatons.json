@@ -1,0 +1,13 @@
+{
+  "category" : "Reinforced",
+  "description" : "Heavy sabatons designed purely for combat effectiveness. They're built to last through multiple campaigns and countless battles. Veterans of long wars swear by such sabatons, which have carried them through more fights than they can count.",
+  "id" : "war_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC, +1 Intimidation",
+  "name" : "War Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "War Sabatons",
+  "value" : 175,
+  "weight" : 1
+}

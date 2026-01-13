@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Specialized boots worn by those who follow trails through the wilderness. The soles are designed to provide good grip on various terrain while leaving minimal tracks. Bounty hunters and manhunters favor such boots.",
+  "id" : "trackers_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Tracker's Boots",
+  "rarity" : "Common",
+  "textureName" : "Tracker's Boots",
+  "value" : 14,
+  "weight" : 1
+}

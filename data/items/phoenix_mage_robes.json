@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Flowing orange robes decorated with phoenix motifs. Fire mages wear these as symbols of rebirth and transformation. The fabric is specially treated to resist scorching.",
+  "id" : "phoenix_mage_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Phoenix Mage Robes",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Phoenix_Mage_Robes",
+  "value" : 35,
+  "weight" : 1.5
+}

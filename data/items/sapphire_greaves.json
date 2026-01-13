@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Magnificent greaves set with sapphires that capture the essence of clear thought and divine wisdom. They enhance both scholarly knowledge and spiritual insight. Philosopher-kings and sage-warriors wear such greaves, combining martial prowess with intellectual and spiritual power. Each sapphire holds centuries of accumulated knowledge.",
+  "id" : "sapphire_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Intelligence, +2 Wisdom, +1 spell save DC",
+  "name" : "Sapphire Greaves",
+  "rarity" : "Rare",
+  "textureName" : "Sapphire Greaves",
+  "value" : 900,
+  "weight" : 1
+}

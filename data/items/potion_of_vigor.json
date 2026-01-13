@@ -1,0 +1,13 @@
+{
+  "description" : "A vibrant red potion that restores energy and vitality. Remove 1 level of exhaustion and gain +5 temporary HP for 1 hour.",
+  "effect" : "Your Strength becomes 21 for 1 hour.",
+  "id" : "potion_of_vigor",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Vigor",
+  "potionType" : "Potion of Strength",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Vigor",
+  "value" : 180,
+  "weight" : 0.5
+}

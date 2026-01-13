@@ -1,0 +1,12 @@
+{
+  "category" : "Plain",
+  "description" : "A gold wedding ring, symbol of eternal vows. Its sentimental value far exceeds its material worth.",
+  "id" : "wedding_band",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Wedding Band",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_25",
+  "value" : 20,
+  "weight" : 0
+}

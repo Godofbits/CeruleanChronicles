@@ -1,0 +1,11 @@
+{
+  "description" : "A golden scroll inscribed with divine blessings. This enchantment grants courage and divine guidance to multiple allies, improving their combat prowess and resistance to fear. Priests speak these blessings over warriors before battle, and the words carry supernatural weight. The spell was first uttered by priests of ancient war gods, but has since been adopted by clerics of all alignments. A blessed warrior fights with confidence, knowing their deity watches over them. Single use.",
+  "id" : "scroll_of_bless",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Bless",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Bless",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

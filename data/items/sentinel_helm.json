@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A sturdy steel helm worn by elite guards and sentinels. The reinforced construction can withstand repeated blows, and the narrow eye slits provide protection while still allowing adequate vision. Sentinels pride themselves on never removing their helms while on duty. +2 AC.",
+  "id" : "sentinel_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Sentinel Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Sentinel Helm",
+  "value" : 220,
+  "weight" : 4.5
+}

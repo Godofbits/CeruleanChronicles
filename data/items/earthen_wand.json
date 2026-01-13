@@ -1,0 +1,11 @@
+{
+  "description" : "A rough stone wand that feels like holding a piece of living earth. Geomancers craft these from stones found at the heart of mountains, where elemental earth energy is strongest. It trembles slightly when earthquakes occur anywhere in the world. +1 spell bonus, 7 charges.",
+  "id" : "earthen_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Earthen Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Earthen Wand",
+  "value" : 400,
+  "weight" : 2
+}

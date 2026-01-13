@@ -1,0 +1,15 @@
+{
+  "acBonus" : 1,
+  "category" : "Leather",
+  "description" : "Leather pants with a mottled pattern that shifts to match surrounding foliage. Created by wood elves who defend Mirkwood from giant spiders and orcs, these pants make the wearer nearly invisible in forest terrain. The pattern is not painted but woven into the leather itself using magic taught by the ents. Rangers who protect the borders of civilized lands prize such pants, for they allow perfect concealment in the wilderness they guard.",
+  "id" : "woodland_camouflage_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on Stealth in forests, +1 to Dexterity",
+  "name" : "Woodland Camouflage Pants",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Woodland_Camouflage_Pants",
+  "value" : 740,
+  "weight" : 2.5
+}

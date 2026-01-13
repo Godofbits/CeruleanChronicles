@@ -1,0 +1,11 @@
+{
+  "description" : "A silver wand topped with a crescent moon that glows with soft lunar light. Blessed by the moon goddess during the Night of Stars, it channels divine lunar energy. Its power is strongest under the night sky and can illuminate darkness with pale moonlight. +2 spell bonus, 10 charges, radiant damage.",
+  "id" : "wand_of_luna",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Luna",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Luna",
+  "value" : 3200,
+  "weight" : 1
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Green leather trousers perfect for blending into woodland. Rangers and hunters favor these for their camouflage properties. Silent movement through underbrush.",
+  "id" : "forest_scout_trousers",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Forest Scout Trousers",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Forest_Scout_Trousers",
+  "value" : 16,
+  "weight" : 3
+}

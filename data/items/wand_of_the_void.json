@@ -1,0 +1,11 @@
+{
+  "description" : "A wand of absolute darkness that seems to be a hole in reality itself. Created by entities from the Far Realm, it channels the emptiness between stars. Those who stare at it too long feel their sense of self begin to unravel. +3 spell bonus, 15 charges, void damage.",
+  "id" : "wand_of_the_void",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Void",
+  "rarity" : "Legendary",
+  "textureName" : "Wand of the Void",
+  "value" : 25000,
+  "weight" : 1
+}

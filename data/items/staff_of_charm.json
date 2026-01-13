@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that makes the wielder impossibly charming and persuasive. People want to agree, to please, to obey. Bards and diplomats use such staffs to smooth negotiations, though some question the ethics of such influence.",
+  "id" : "staff_of_charm",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Charm",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Charm",
+  "value" : 1100,
+  "weight" : 3
+}

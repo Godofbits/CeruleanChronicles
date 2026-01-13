@@ -1,0 +1,13 @@
+{
+  "description" : "This pitch-black elixir contains the essence of the Abyss itself. Gain resistance to all damage but take 1d6 necrotic damage per minute for 10 minutes. Grants darkvision 120 ft. and the ability to see invisible creatures.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "elixir_of_the_abyss",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of the Abyss",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Very Rare",
+  "textureName" : "Elixir of the Abyss",
+  "value" : 900,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "An elegant elven helm of mithril and gold, crafted by the high elves in the style of ancient Valinor. Despite its delicate appearance, the enchanted metal is stronger than steel. The winged design allows the wearer to hear whispers from great distances. +2 AC.",
+  "id" : "noldorin_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Noldorin Helm",
+  "rarity" : "Very Rare",
+  "textureName" : "Noldorin Helm",
+  "value" : 4800,
+  "weight" : 3
+}

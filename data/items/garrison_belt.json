@@ -1,0 +1,12 @@
+{
+  "category" : "Studded",
+  "description" : "A regulation belt issued to soldiers stationed in frontier forts and border garrisons. Built to military specifications with consistent quality, such belts see hard service in remote postings. Veterans often carry their garrison belt long after their term of service ends.",
+  "id" : "garrison_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Garrison Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Garrison Belt",
+  "value" : 140,
+  "weight" : 0.5
+}

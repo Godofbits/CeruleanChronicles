@@ -1,0 +1,14 @@
+{
+  "baseAC" : 10,
+  "category" : "Cloth",
+  "description" : "Threadbare cloth garments patched together from scraps. Offers no real protection but better than facing the elements bare-skinned. Worn by beggars, hermits, and the desperately poor.",
+  "id" : "tattered_rags",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Tattered Rags",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Tattered Rags",
+  "value" : 1,
+  "weight" : 2
+}

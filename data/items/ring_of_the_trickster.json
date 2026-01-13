@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A blue sapphire blessed by Loki himself. The trickster god laughs as arrows miss, flames part, and certain death becomes narrow escape. Fortune favors those who walk in the trickster's shadow.",
+  "id" : "ring_of_the_trickster",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "When you fail a Dex save, succeed instead (3\/day)",
+  "name" : "Ring of the Trickster",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_46",
+  "value" : 1750,
+  "weight" : 0
+}

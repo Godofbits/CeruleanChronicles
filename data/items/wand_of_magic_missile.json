@@ -1,0 +1,11 @@
+{
+  "description" : "A classic crystalline wand that fires unerring bolts of force. The most reliable combat wand ever devised, its missiles never miss their target. Standard equipment for adventuring wizards throughout the realms. +1 spell bonus, 7 charges, force damage.",
+  "id" : "wand_of_magic_missile",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Magic Missile",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of Magic Missile",
+  "value" : 500,
+  "weight" : 0.5
+}

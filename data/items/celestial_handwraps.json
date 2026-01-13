@@ -1,0 +1,14 @@
+{
+  "acBonus" : 4,
+  "category" : "Legendary",
+  "description" : "Wraps woven from pure celestial light by angels in the highest heavens. They transform the wearer's hands into holy weapons that burn with righteous fire. Each touch can heal the virtuous or destroy the wicked. Only those of absolutely pure heart can wear these wraps—the unworthy are burned by their radiance. Champions of good who wear them become living conduits of divine power, their every action blessed by the heavens themselves.",
+  "id" : "celestial_handwraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Celestial Handwraps",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : false,
+  "textureName" : "Celestial Handwraps",
+  "value" : 18000,
+  "weight" : 0.5
+}

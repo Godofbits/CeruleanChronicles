@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Supple leather gloves designed for those who track prey through wilderness. The leather is soft enough for delicate work yet tough enough to handle thorns and brambles. Many a dangerous beast was brought down by hands wearing such gloves.",
+  "id" : "rangers_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ranger's Grip",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Ranger's Grip",
+  "value" : 14,
+  "weight" : 0.5
+}

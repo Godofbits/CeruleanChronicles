@@ -1,0 +1,95 @@
+{
+    "id": "rhinoceros",
+    "isActive": false,
+    "name": "Rhinoceros",
+    "size": "large",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 11,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 6,
+        "die": "d10",
+        "modifier": 12
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 21,
+        "dexterity": 8,
+        "constitution": 15,
+        "intelligence": 2,
+        "wisdom": 12,
+        "charisma": 6
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 11,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "Rhinoceros_01",
+
+    "habitat": {
+        "environments": ["grassland"],
+        "depth": "surface",
+        "description": "Rhinoceroses graze on the vast savannas and grasslands, their poor eyesight compensated by keen hearing and smell. Though generally peaceful herbivores, they charge with devastating force when threatened or startled.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Charge",
+            "description": "If the rhinoceros moves at least 20 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) bludgeoning damage. If the target is a creature, it must succeed on a DC 15 Strength saving throw or be knocked prone.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Gore",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 5,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

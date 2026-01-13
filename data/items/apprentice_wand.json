@@ -1,0 +1,11 @@
+{
+  "description" : "A simple dark wooden wand given to novice spellcasters. Basic but reliable for practicing cantrips. +0 spell bonus.",
+  "id" : "apprentice_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Apprentice Wand",
+  "rarity" : "Common",
+  "textureName" : "Apprentice Wand",
+  "value" : 10,
+  "weight" : 0.5
+}

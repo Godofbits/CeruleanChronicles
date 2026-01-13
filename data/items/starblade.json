@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+2",
+  "damageType" : "radiant",
+  "description" : "Forged from metal that fell from the heavens, this blade contains the light of a dying star. It glows brightest on clear nights and dims during the day. Astronomers have traced its origin to a constellation that no longer exists. Deals 1d8+2 radiant damage.",
+  "id" : "starblade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Starblade",
+  "rarity" : "Legendary",
+  "textureName" : "Starblade",
+  "value" : 7000,
+  "weight" : 2.5
+}

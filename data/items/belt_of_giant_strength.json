@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A massive belt forged by hill giants from the bones of the earth and blessed by their god Grolantor. When worn, the belt grants the terrible strength of giantkind, allowing the wearer to perform superhuman feats of might. Warriors wearing this belt have been known to hurl boulders like pebbles, tear down castle gates with their bare hands, and match giants in contests of strength. The belt resizes to fit any wearer, though it retains its substantial weight and presence.",
+  "id" : "belt_of_giant_strength",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Strength becomes 23 (+6), Advantage on Strength checks",
+  "name" : "Belt of Giant Strength",
+  "rarity" : "Legendary",
+  "textureName" : "Belt of Giant Strength",
+  "value" : 18000,
+  "weight" : 0.5
+}

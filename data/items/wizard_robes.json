@@ -1,0 +1,14 @@
+{
+  "baseAC" : 10,
+  "category" : "Magical",
+  "description" : "Standard arcane robes in deep blue, adorned with mystical symbols. Every wizard's academy issues such robes to its students. While providing no physical protection, the robes are woven with minor enchantments that help channel magical energy.",
+  "id" : "wizard_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Wizard Robes",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Wizard Robes",
+  "value" : 15,
+  "weight" : 4
+}

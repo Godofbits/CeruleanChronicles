@@ -1,0 +1,13 @@
+{
+  "category" : "Reinforced",
+  "description" : "Brutally effective sabatons with reinforced toes designed to deliver devastating kicks. The name comes from their use in finishing fallen opponents. Gladiators and pit fighters favor such sabatons for their lethal versatility.",
+  "id" : "skullcrusher_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 AC, Kick attacks do +2 damage",
+  "name" : "Skullcrusher Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "Skullcrusher Sabatons",
+  "value" : 220,
+  "weight" : 1
+}

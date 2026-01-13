@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A colorful witch hat decorated with ribbons and flowers, worn during harvest festivals and magical celebrations. While it has no magical properties, tradition holds that wearing one brings good luck. +0 AC.",
+  "id" : "festival_witch_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Festival Witch Hat",
+  "rarity" : "Common",
+  "textureName" : "Festival Witch Hat",
+  "value" : 35,
+  "weight" : 0.29999999999999999
+}

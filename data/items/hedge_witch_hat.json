@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A practical brown hat worn by village healers and hedge witches who practice folk magic. The wide brim provides shade while gathering herbs, and many have small pouches sewn inside for storing remedies. +0 AC.",
+  "id" : "hedge_witch_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Hedge Witch Hat",
+  "rarity" : "Common",
+  "textureName" : "Hedge Witch Hat",
+  "value" : 45,
+  "weight" : 0.29999999999999999
+}

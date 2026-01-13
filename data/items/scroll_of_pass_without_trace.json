@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll that seems to fade from memory the moment you look away. This spell cloaks a group in nature's veil, making them nearly impossible to track and enhancing their stealth. Footprints vanish, scents disperse, and even magical detection becomes difficult. The spell was taught to mortals by fey rangers who move through forests like ghosts. Scouts and guerrilla forces prize this magic, as it allows entire war bands to move unseen. Nature itself conspires to hide those under this spell's protection. Single use.",
+  "id" : "scroll_of_pass_without_trace",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Pass Without Trace",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Pass Without Trace",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

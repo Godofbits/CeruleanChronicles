@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A purple amethyst containing swirling patterns of all four elements—earth, air, fire, and water. Ancient archmages forged such rings to bind the primal forces of creation itself. When you wear this ring, elementals recognize you as their master, and the raw power of nature bends to your command. The Elemental Princes themselves must acknowledge your authority.",
+  "id" : "ring_of_elemental_mastery",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Command elementals, Immunity to damage from chosen element, Cast Conjure Elemental 1\/day",
+  "name" : "Ring of Elemental Mastery",
+  "rarity" : "Legendary",
+  "textureName" : "Rings V2_57",
+  "value" : 7500,
+  "weight" : 0
+}

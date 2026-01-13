@@ -1,0 +1,11 @@
+{
+  "description" : "A wand wreathed in ghostly blue flames that burn cold to the touch. The blue fire is conjured from the elemental boundary between fire and ice, burning with supernatural intensity. These flames can harm even creatures normally immune to fire. +2 spell bonus, 10 charges, fire damage.",
+  "id" : "wand_of_blue_flame",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Blue Flame",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Blue Flame",
+  "value" : 3200,
+  "weight" : 1
+}

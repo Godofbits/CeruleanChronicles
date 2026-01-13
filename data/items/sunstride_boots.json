@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots woven from solidified sunlight by celestial beings who serve the sun god. They allow the wearer to stride from one sunbeam to another, teleporting across vast distances instantly. During daylight hours, those wearing these boots are elevated to near-divine status, their every ability enhanced by solar power. Apollo himself blessed the first pair of such boots, and they have been passed down through generations of sun-priests and champions of light. The boots glow like captured sunshine, banishing all darkness around them.",
+  "id" : "sunstride_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 to all ability scores during day, Teleport to anywhere sunlight touches, Immune to fire, Radiant damage immunity",
+  "name" : "Sunstride Boots",
+  "rarity" : "Legendary",
+  "textureName" : "Sunstride Boots",
+  "value" : 18000,
+  "weight" : 1
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll that causes nearby plants to wither. This spell drains moisture and life from a creature, causing necrotic damage and rapid withering. The magic is particularly effective against plant creatures and those who draw power from nature. Dark druids and necromancers developed this spell as the antithesis of natural magic, turning life's vigor into death's decay. The target ages decades in seconds, their flesh drying and their vitality evaporating. It is especially feared in forests, where it can kill ancient trees in moments. Single use.",
+  "id" : "scroll_of_blight",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Blight",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Blight",
+  "value" : 200,
+  "weight" : 0.10000000000000001
+}

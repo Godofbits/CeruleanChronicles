@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots inscribed with flowing arcane runes that pulse with magical power. Created by master wizards in their towers, these boots serve as reservoirs of magical energy. The runes shift and change with each step, drawing power from the wearer's movement to fuel their spells.",
+  "id" : "arcane_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 spell attack rolls, +1 spell slot (1st level)",
+  "name" : "Arcane Boots",
+  "rarity" : "Rare",
+  "textureName" : "Arcane Boots",
+  "value" : 650,
+  "weight" : 1
+}

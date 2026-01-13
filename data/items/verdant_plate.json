@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Green-enameled plate armor that seems to breathe with life. Forged by druids working with master smiths, verdant plate protects nature's champions without severing their connection to the natural world. Living vines grow along its surface, and the wearer finds plants respond to them more readily. Despite being metal, the armor feels more alive than dead.",
+  "id" : "verdant_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Verdant Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Verdant Plate",
+  "value" : 1100,
+  "weight" : 52
+}

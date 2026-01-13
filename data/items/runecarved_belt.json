@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A leather belt carved with flowing runic inscriptions that glow faintly with magical power. Each rune was carefully inscribed by a master runecrafter, binding arcane energy into the physical form. The runes enhance the wearer's magical abilities, making their spells harder to resist. Such belts are treasured by wizards and sorcerers who understand the ancient art of runecraft.",
+  "id" : "runecarved_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 spell save DC",
+  "name" : "Runecarved Belt",
+  "rarity" : "Rare",
+  "textureName" : "Runecarved Belt",
+  "value" : 700,
+  "weight" : 0.5
+}

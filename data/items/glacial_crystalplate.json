@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor made from eternal ice that will never melt. Harvested from the Elemental Plane of Ice, this frozen crystal is harder than steel yet weightless as frost. The armor grants immunity to cold damage, resistance to fire damage, and creates an aura of cold that deals damage to nearby enemies. Snowflakes constantly form and fall from the armor, and the wearer's breath frosts the air even in summer. Those who wear it report dreaming of frozen wastes and hearing the howling of eternal blizzards.",
+  "id" : "glacial_crystalplate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Glacial Crystalplate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Glacial Crystalplate",
+  "value" : 14000,
+  "weight" : 46
+}

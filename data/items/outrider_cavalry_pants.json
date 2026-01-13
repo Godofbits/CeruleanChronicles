@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Brown leather pants designed specifically for cavalry riders. The Rohirrim, the horse-lords of Rohan, wear such pants when riding to war. The leather is specially treated to prevent chafing during long rides, and enchantments woven into the stitching enhance the bond between rider and mount. Outriders who scout ahead of cavalry columns trust these pants to keep them comfortable during days in the saddle.",
+  "id" : "outrider_cavalry_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on Animal Handling checks with horses",
+  "name" : "Outrider Cavalry Pants",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Outrider_Cavalry_Pants",
+  "value" : 190,
+  "weight" : 3.5
+}

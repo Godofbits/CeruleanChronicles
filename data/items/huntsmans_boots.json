@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Boots designed for those who hunt for survival rather than sport. The leather is thick enough to turn thorns and resistant to the damp of marsh and moorland. Many a winter was survived by those wearing such boots.",
+  "id" : "huntsmans_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Huntsman's Boots",
+  "rarity" : "Common",
+  "textureName" : "Huntsman's Boots",
+  "value" : 10,
+  "weight" : 1
+}

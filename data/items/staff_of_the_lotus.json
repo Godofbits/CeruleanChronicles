@@ -1,0 +1,11 @@
+{
+  "description" : "A staff adorned with a lotus flower that represents enlightenment and purity. The lotus remains pristine despite growing from murky waters, teaching that wisdom can bloom in any circumstance. Monks seeking enlightenment meditate while holding such staffs.",
+  "id" : "staff_of_the_lotus",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Lotus",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of the Lotus",
+  "value" : 270,
+  "weight" : 3
+}

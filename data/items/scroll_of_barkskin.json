@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll textured like tree bark. This spell toughens the target's skin until it resembles bark, providing natural armor without restricting movement. Druids developed this magic by observing ancient treants, whose bark-like hide turned aside swords and arrows. The transformation is painless and temporary, though disconcerting to those unused to druidic magic. Wild warriors who reject metal armor favor this spell, as it offers protection without separating them from nature's touch. Single use.",
+  "id" : "scroll_of_barkskin",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Barkskin",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Barkskin",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

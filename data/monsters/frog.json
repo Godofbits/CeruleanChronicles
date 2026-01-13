@@ -1,0 +1,134 @@
+{
+    "id": "frog",
+    "isActive": false,
+    "name": "Frog",
+    "size": "medium",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 11,
+    "armorType": null,
+    "hitDice": {
+        "count": 4,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30,
+        "swim": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 12,
+        "dexterity": 13,
+        "constitution": 11,
+        "intelligence": 2,
+        "wisdom": 10,
+        "charisma": 3
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 2 },
+        { "skill": "stealth", "bonus": 3 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 30 }
+    ],
+    "passivePerception": 12,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "mons_frog_01",
+
+    "habitat": {
+        "environments": ["swamp", "forest", "aquatic"],
+        "depth": "surface",
+        "description": "Giant frogs lurk at the edges of ponds, rivers, and swamps, their mottled skin providing excellent camouflage among lily pads and reeds. They can swallow prey whole with their sticky, lightning-fast tongues.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Amphibious",
+            "description": "The frog can breathe air and water.",
+            "effect": {
+                "type": "amphibious",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Standing Leap",
+            "description": "The frog's long jump is up to 20 feet and its high jump is up to 10 feet, with or without a running start.",
+            "effect": {
+                "type": "standingLeap",
+                "parameters": {
+                    "longJump": 20,
+                    "highJump": 10
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) piercing damage, and the target is grappled (escape DC 11). Until this grapple ends, the target is restrained, and the frog can't bite another target.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 1,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "grapple",
+                    "saveDC": 11,
+                    "saveType": "strength",
+                    "condition": "grappled",
+                    "duration": "until escape",
+                    "damage": null,
+                    "description": "Target is grappled and restrained (escape DC 11)"
+                }
+            ]
+        },
+        {
+            "name": "Swallow",
+            "description": "The frog makes one bite attack against a Small or smaller target it is grappling. If the attack hits, the target is swallowed, and the grapple ends. The swallowed target is blinded and restrained, has total cover against attacks from outside the frog, and takes 5 (2d4) acid damage at the start of each of the frog's turns.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

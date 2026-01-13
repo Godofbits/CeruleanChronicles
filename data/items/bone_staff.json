@@ -1,0 +1,11 @@
+{
+  "description" : "A staff constructed from the leg bone of a massive creature. The marrow has long since dried, but the bone remains strong. Necromancers and death priests sometimes use such staffs, though their origin raises questions best left unasked.",
+  "id" : "bone_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Bone Staff",
+  "rarity" : "Common",
+  "textureName" : "Bone Staff",
+  "value" : 35,
+  "weight" : 3
+}

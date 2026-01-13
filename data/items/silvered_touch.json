@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gloves threaded with pure silver throughout the leather. They allow the wearer to harm creatures vulnerable to silver without wielding a silvered weapon. Hunters of werewolves and other shapeshifters prize such gloves for hand-to-hand combat with the cursed.",
+  "id" : "silvered_touch",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Silvered Touch",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Silvered Touch",
+  "value" : 275,
+  "weight" : 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Reinforced",
+  "description" : "Austere but perfectly crafted greaves in the Spartan style. No decoration mars the smooth bronze—only function matters to the warriors of Lacedaemon. These greaves saw service in history's most disciplined armies.",
+  "id" : "spartan_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Spartan Greaves",
+  "rarity" : "Common",
+  "textureName" : "Spartan Greaves",
+  "value" : 32,
+  "weight" : 1
+}

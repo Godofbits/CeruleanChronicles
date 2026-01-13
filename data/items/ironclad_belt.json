@@ -1,0 +1,12 @@
+{
+  "category" : "Studded",
+  "description" : "A belt plated with overlapping iron scales that provide excellent protection. Common among professional soldiers and mercenaries who value reliability over flash. The iron has been treated to resist rust, and the belt can turn aside glancing blows that would otherwise find vulnerable flesh.",
+  "id" : "ironclad_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ironclad Belt",
+  "rarity" : "Common",
+  "textureName" : "Ironclad Belt",
+  "value" : 26,
+  "weight" : 0.5
+}

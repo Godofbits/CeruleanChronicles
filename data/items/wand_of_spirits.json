@@ -1,0 +1,11 @@
+{
+  "description" : "A pale wand wreathed in ghostly wisps that whisper ancient secrets. Spirit mediums use these to communicate with the dead and summon ancestral guardians. The spirits sometimes offer advice, though their wisdom can be cryptic. +2 spell bonus, 10 charges.",
+  "id" : "wand_of_spirits",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Spirits",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Spirits",
+  "value" : 3200,
+  "weight" : 0.5
+}

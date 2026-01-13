@@ -1,0 +1,13 @@
+{
+  "description" : "This churning blue potion swirls like a whirlpool. For 1 minute, you command wind and water: create whirlwinds, water spouts, and control weather in a 1-mile radius.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "elixir_of_the_maelstrom",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of the Maelstrom",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Very Rare",
+  "textureName" : "Elixir of the Maelstrom",
+  "value" : 900,
+  "weight" : 0.5
+}

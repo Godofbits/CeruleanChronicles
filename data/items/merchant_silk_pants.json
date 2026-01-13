@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Fine yellow silk trousers worn by wealthy merchants. The quality of the fabric speaks of prosperity and success in trade. Such pants mark the wearer as a person of means.",
+  "id" : "merchant_silk_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Merchant Silk Pants",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Merchant_Silk_Pants",
+  "value" : 30,
+  "weight" : 1.5
+}

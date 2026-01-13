@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Blue-dyed leather leggings reinforced with metal plates. Worn by knights in service to maritime kingdoms. The sapphire color represents loyalty and the deep ocean.",
+  "id" : "sapphire_knight_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Sapphire Knight Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Sapphire_Knight_Leggings",
+  "value" : 42,
+  "weight" : 7
+}

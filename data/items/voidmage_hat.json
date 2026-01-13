@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A dark purple hat that seems to contain absolute darkness within its folds. Worn by mages who study the void between worlds, the hat grants glimpses into other dimensions. The wearer can briefly become incorporeal but risks attracting attention from entities beyond the veil. +0 AC.",
+  "id" : "voidmage_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Voidmage Hat",
+  "rarity" : "Very Rare",
+  "textureName" : "Voidmage Hat",
+  "value" : 4800,
+  "weight" : 0.40000000000000002
+}

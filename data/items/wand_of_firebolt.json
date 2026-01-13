@@ -1,0 +1,11 @@
+{
+  "description" : "A red wooden wand with a flame-shaped tip that crackles with fire magic. Standard issue for war mages, it reliably produces bolts of flame for ranged combat. The tip burns perpetually but never consumes itself. +1 spell bonus, 7 charges, fire damage.",
+  "id" : "wand_of_firebolt",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Firebolt",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of Firebolt",
+  "value" : 550,
+  "weight" : 1
+}

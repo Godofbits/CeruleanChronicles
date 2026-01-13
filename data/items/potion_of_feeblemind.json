@@ -1,0 +1,13 @@
+{
+  "description" : "This disturbing purple potion destroys the intellect. Target must make an Intelligence save (DC 17) or have Intelligence and Charisma reduced to 1 for 1 hour. They cannot cast spells or understand language.",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "potion_of_feeblemind",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Feeblemind",
+  "potionType" : "Poison",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Feeblemind",
+  "value" : 500,
+  "weight" : 0.5
+}

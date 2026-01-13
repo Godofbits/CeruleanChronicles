@@ -1,0 +1,15 @@
+{
+  "baseAC" : 15,
+  "category" : "Medium",
+  "description" : "Armor crafted from actual dragon scales. Each scale is incredibly hard yet remarkably light, shed naturally by ancient wyrms or taken from slain dragons. The scales retain a faint shimmer of draconic magic, granting resistance to the dragon type's associated element. Such armor is the ultimate trophy of dragon slayers.",
+  "id" : "dragonscale_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Dragonscale Mail",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Dragonscale Mail",
+  "value" : 1500,
+  "weight" : 30
+}

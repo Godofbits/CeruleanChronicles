@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll covered in spatial coordinates and dimensional mathematics. The art of teleportation was jealously guarded by the ancient empires, for it allowed instant travel across vast distances. This spell folds space itself, stepping from one point to another without crossing the distance between. The caster must know their destination well, for a mishap can scatter travelers across planes. The formula was first devised by the elven archmage Larloch the Undying. Single use.",
+  "id" : "scroll_of_teleport",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Teleport",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Teleport",
+  "value" : 500,
+  "weight" : 0.10000000000000001
+}

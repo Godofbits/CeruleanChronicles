@@ -1,0 +1,11 @@
+{
+  "description" : "A blue coral wand shaped like a miniature trident. Blessed by the sea god, it channels the power of storms and tides. Particularly effective when near large bodies of water. +1 spell bonus, 7 charges, water\/lightning damage.",
+  "id" : "trident_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Trident Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Trident Wand",
+  "value" : 450,
+  "weight" : 1
+}

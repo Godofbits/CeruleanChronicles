@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A steel helm inscribed with arcane runes, worn by battle mages who fight in armor. The enchantments allow the wearer to cast spells without the somatic interference normally caused by heavy armor. The runes glow faintly when magic is being channeled. +2 AC.",
+  "id" : "spellknight_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Spellknight Helm",
+  "rarity" : "Rare",
+  "textureName" : "Spellknight Helm",
+  "value" : 2800,
+  "weight" : 4
+}

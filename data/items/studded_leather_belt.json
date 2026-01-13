@@ -1,0 +1,12 @@
+{
+  "category" : "Studded",
+  "description" : "A durable brown leather belt reinforced with small metal studs. Popular among soldiers, caravan guards, and adventurers who need gear that can withstand rough treatment. The studs provide extra strength to the leather and can be used to attach small pouches or tools.",
+  "id" : "studded_leather_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Studded Leather Belt",
+  "rarity" : "Common",
+  "textureName" : "Studded Leather Belt",
+  "value" : 15,
+  "weight" : 0.5
+}

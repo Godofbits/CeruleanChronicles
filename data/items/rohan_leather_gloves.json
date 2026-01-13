@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Supple leather gloves crafted in the horselord style of Rohan. The leather is soft as silk yet durable as iron, treated with oils that make horses respond more readily to the wearer's touch. Riders of the Mark wear such gloves, and mearas themselves accept them without hesitation.",
+  "id" : "rohan_leather_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Rohan Leather Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Rohan Leather Gloves",
+  "value" : 145,
+  "weight" : 0.5
+}

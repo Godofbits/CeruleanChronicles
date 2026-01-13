@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "An ornate jade ring carved with intricate dragon motifs. In the Eastern kingdoms, such rings are symbols of wisdom and longevity.",
+  "id" : "carved_jade_dragon_ring",
+  "isActive" : true,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Wisdom saves",
+  "name" : "Carved Jade Dragon Ring",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_28",
+  "value" : 120,
+  "weight" : 0
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Reinforced",
+  "description" : "Greaves made of interlocking metal rings over leather backing. They provide excellent protection while remaining flexible enough for rapid movement. Knights and men-at-arms wear such greaves when full plate is too expensive or cumbersome.",
+  "id" : "chainmail_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC",
+  "name" : "Chainmail Greaves",
+  "rarity" : "Uncommon",
+  "textureName" : "Chainmail Greaves",
+  "value" : 140,
+  "weight" : 1
+}

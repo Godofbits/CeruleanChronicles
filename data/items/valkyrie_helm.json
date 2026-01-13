@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A magnificent winged helm of polished steel, worn by the legendary warrior maidens who serve the All-Father. The wings allow the wearer to slow their descent from great heights, and the helm grants visions of those destined to die in battle. Only the truly heroic may wear it without invoking divine wrath. +2 AC.",
+  "id" : "valkyrie_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Valkyrie Helm",
+  "rarity" : "Very Rare",
+  "textureName" : "Valkyrie Helm",
+  "value" : 5800,
+  "weight" : 3.5
+}

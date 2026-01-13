@@ -1,0 +1,11 @@
+{
+  "description" : "A living staff that still grows leaves and roots despite being separated from the earth. Druids of the Old Faith craft such staffs from sacred trees in hidden groves. The wood remembers the forest and strengthens the bearer's connection to the natural world.",
+  "id" : "druid_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Druid Staff",
+  "rarity" : "Common",
+  "textureName" : "Druid Staff",
+  "value" : 35,
+  "weight" : 3
+}

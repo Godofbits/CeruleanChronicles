@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A sash that appears to be wrapped in a thin layer of frost. The cold never bothers the wearer, instead invigorating them and strengthening their endurance. Barbarians of the frozen north sometimes receive such sashes as gifts from ice spirits they have befriended.",
+  "id" : "frostbound_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to cold damage, +1 Constitution",
+  "name" : "Frostbound Sash",
+  "rarity" : "Rare",
+  "textureName" : "Frostbound Sash",
+  "value" : 720,
+  "weight" : 0.5
+}

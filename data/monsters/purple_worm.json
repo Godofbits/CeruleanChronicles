@@ -1,0 +1,142 @@
+{
+    "id": "purple_worm",
+    "isActive": false,
+    "name": "Purple Worm",
+    "sortName": null,
+    "size": "gargantuan",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 18,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 15,
+        "die": "d20",
+        "modifier": 75
+    },
+    "speeds": {
+        "walk": 50,
+        "burrow": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 28,
+        "dexterity": 7,
+        "constitution": 22,
+        "intelligence": 1,
+        "wisdom": 8,
+        "charisma": 4
+    },
+
+    "savingThrows": ["constitution", "wisdom"],
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 30 },
+        { "sense": "tremorsense", "range": 60 }
+    ],
+    "passivePerception": 9,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "15",
+    "experiencePoints": 13000,
+
+    "texture": "PurpleWorm_01",
+
+    "habitat": {
+        "environments": ["underground", "underdark", "desert"],
+        "depth": "abyssal",
+        "description": "Purple worms are apex predators of the deep Underdark, tunneling through solid rock in search of prey. Their passage creates vast networks of tunnels that other creatures later inhabit. Ancient purple worms can grow over 80 feet long, and their arrival is heralded by tremors that send even drow fleeing. Desert varieties hunt beneath the sands, erupting to swallow caravans whole.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Tunneler",
+            "description": "The worm can burrow through solid rock at half its burrow speed and leaves a 10-foot-diameter tunnel in its wake.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The worm makes two attacks: one with its bite and one with its stinger.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 22 (3d8 + 9) piercing damage. If the target is a Large or smaller creature, it must succeed on a DC 19 Dexterity saving throw or be swallowed by the worm. A swallowed creature is blinded and restrained, has total cover against attacks from outside the worm, and takes 21 (6d6) acid damage at the start of each of the worm's turns.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 14,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d8",
+                        "modifier": 9,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": {
+                "type": "dexterity",
+                "dc": 19,
+                "onFail": "swallowed",
+                "onSuccess": "not swallowed"
+            },
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tail Stinger",
+            "description": "Melee Weapon Attack: +14 to hit, reach 10 ft., one creature. Hit: 19 (3d6 + 9) piercing damage, and the target must make a DC 19 Constitution saving throw, taking 42 (12d6) poison damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 14,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 9,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": {
+                "type": "constitution",
+                "dc": 19,
+                "onFail": "42 (12d6) poison damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

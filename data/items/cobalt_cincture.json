@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A belt decorated with deep blue cobalt ornaments. The rich blue color is associated with scholarly pursuits and intellectual achievement. Wizards' academies sometimes award such cinctures to students who demonstrate exceptional theoretical knowledge.",
+  "id" : "cobalt_cincture",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Intelligence",
+  "name" : "Cobalt Cincture",
+  "rarity" : "Uncommon",
+  "textureName" : "Cobalt Cincture",
+  "value" : 215,
+  "weight" : 0.5
+}

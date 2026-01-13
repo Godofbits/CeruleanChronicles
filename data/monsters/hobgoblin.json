@@ -1,0 +1,125 @@
+{
+    "id": "hobgoblin",
+    "isActive": false,
+    "name": "Hobgoblin",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "goblinoid",
+    "alignment": "lawfulEvil",
+
+    "armorClass": 18,
+    "armorType": "chain mail, shield",
+    "hitDice": {
+        "count": 2,
+        "die": "d8",
+        "modifier": 2
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 13,
+        "dexterity": 12,
+        "constitution": 12,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 9
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Common", "Goblin"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/2",
+    "experiencePoints": 100,
+
+    "texture": "mons_hobgoblin_01",
+
+    "habitat": {
+        "environments": ["forest", "mountain", "underground", "ruins"],
+        "depth": "shallow",
+        "description": "Hobgoblins establish militaristic strongholds in conquered fortresses, mountain passes, and forest territories. Their iron discipline and tactical prowess make them formidable occupiers who demand tribute from surrounding settlements.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Martial Advantage",
+            "description": "Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.",
+            "effect": {
+                "type": "martialAdvantage",
+                "parameters": {
+                    "extraDamage": "2d6"
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Longsword",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) slashing damage, or 6 (1d10 + 1) slashing damage if used with two hands.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 1,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Longbow",
+            "description": "Ranged Weapon Attack: +3 to hit, range 150/600 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": null,
+                "rangeNormal": 150,
+                "rangeLong": 600,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 1,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

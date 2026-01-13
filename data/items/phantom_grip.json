@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Legendary",
+  "description" : "Translucent gloves that can phase through solid matter. Master thieves use them to reach into locked chests and extract contents without opening locks. The sensation of passing through solid objects is deeply unsettling, as if one's hands no longer quite belong to the material world.",
+  "id" : "phantom_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Phantom Grip",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Phantom Grip",
+  "value" : 1150,
+  "weight" : 0.5
+}

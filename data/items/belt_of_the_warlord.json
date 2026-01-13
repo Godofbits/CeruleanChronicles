@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A magnificent belt worn by history's greatest military commanders. The belt radiates an aura of authority and martial prowess that inspires all who fight alongside its wearer. Forged for a legendary warlord who conquered half the known world, the belt passes from one great leader to another, always finding its way to those destined to command armies and change the course of history.",
+  "id" : "belt_of_the_warlord",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Strength, +2 Charisma, Allies within 30 feet gain +1 attack and damage",
+  "name" : "Belt of the Warlord",
+  "rarity" : "Very Rare",
+  "textureName" : "Belt of the Warlord",
+  "value" : 5000,
+  "weight" : 0.5
+}

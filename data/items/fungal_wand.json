@@ -1,0 +1,11 @@
+{
+  "description" : "A pale wand topped with purple mushrooms that glow faintly in darkness. Cultivated by myconid druids in the Underdark, these fungi produce spores that enhance poison and disease magic. The mushrooms release hallucinogenic spores when spells are cast. +1 spell bonus, 7 charges, poison damage.",
+  "id" : "fungal_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Fungal Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Fungal Wand",
+  "value" : 400,
+  "weight" : 0.5
+}

@@ -1,0 +1,124 @@
+{
+    "id": "earth_elemental",
+    "isActive": false,
+    "name": "Earth Elemental",
+    "sortName": "Elemental, Earth",
+    "size": "large",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "trueNeutral",
+
+    "armorClass": 17,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 12,
+        "die": "d10",
+        "modifier": 60
+    },
+    "speeds": {
+        "walk": 30,
+        "burrow": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 20,
+        "dexterity": 8,
+        "constitution": 20,
+        "intelligence": 5,
+        "wisdom": 10,
+        "charisma": 5
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": ["thunder"],
+    "resistances": [
+        { "type": "bludgeoning", "condition": "from nonmagical attacks" },
+        { "type": "piercing", "condition": "from nonmagical attacks" },
+        { "type": "slashing", "condition": "from nonmagical attacks" }
+    ],
+    "immunities": ["poison"],
+    "conditionImmunities": ["exhaustion", "paralyzed", "petrified", "poisoned", "unconscious"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 },
+        { "sense": "tremorsense", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Terran"],
+    "telepathyRange": null,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "mons_earth_elemental_01",
+
+    "habitat": {
+        "environments": ["planar", "underground", "mountain"],
+        "depth": "deep",
+        "description": "Earth elementals are animated stone and soil from the Elemental Plane of Earth, capable of gliding through solid rock as easily as fish swim through water. They embody the patient, unyielding power of the deep earth.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Earth Glide",
+            "description": "The elemental can burrow through nonmagical, unworked earth and stone. While doing so, the elemental doesn't disturb the material it moves through.",
+            "effect": {
+                "type": "earthGlide",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Siege Monster",
+            "description": "The elemental deals double damage to objects and structures.",
+            "effect": {
+                "type": "siegeMonster",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The elemental makes two slam attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Slam",
+            "description": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 14 (2d8 + 5) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 8,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 5,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,112 @@
+{
+    "id": "bandit",
+    "isActive": false,
+    "name": "Bandit",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "chaoticNeutral",
+
+    "armorClass": 12,
+    "armorType": "leather armor",
+    "hitDice": {
+        "count": 2,
+        "die": "d8",
+        "modifier": 2
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 11,
+        "dexterity": 12,
+        "constitution": 12,
+        "intelligence": 10,
+        "wisdom": 10,
+        "charisma": 10
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 10,
+    "languages": ["Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/8",
+    "experiencePoints": 25,
+
+    "texture": "mons_bandit_01",
+
+    "habitat": {
+        "environments": ["forest", "grassland", "mountain", "urban"],
+        "depth": "surface",
+        "description": "Bandits lurk along trade routes and forest roads, preying on merchants and travelers. Some are desperate folk driven to outlawry by circumstance, while others are hardened criminals who revel in violence.",
+        "rarity": "common"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Scimitar",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 1,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Light Crossbow",
+            "description": "Ranged Weapon Attack: +3 to hit, range 80/320 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": null,
+                "rangeNormal": 80,
+                "rangeLong": 320,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 1,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

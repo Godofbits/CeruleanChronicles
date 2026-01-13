@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+2",
+  "damageType" : "force",
+  "description" : "A blade that shifts through all colors of the spectrum, forged from crystallized light by beings from the Plane of Radiance. Each strike can manifest different elemental effects. Only seven were ever created. Deals 1d8+2 force damage.",
+  "id" : "prismatic_edge",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Prismatic Edge",
+  "rarity" : "Legendary",
+  "textureName" : "Prismatic Edge",
+  "value" : 9000,
+  "weight" : 2.5
+}

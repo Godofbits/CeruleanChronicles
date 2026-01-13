@@ -1,0 +1,92 @@
+{
+    "id": "mage",
+    "isActive": false,
+    "name": "Evil Mage",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "neutralEvil",
+
+    "armorClass": 12,
+    "armorType": "15 with mage armor",
+    "hitDice": {
+        "count": 9,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 9,
+        "dexterity": 14,
+        "constitution": 11,
+        "intelligence": 17,
+        "wisdom": 12,
+        "charisma": 11
+    },
+
+    "savingThrows": ["intelligence", "wisdom"],
+    "skills": [
+        { "skill": "arcana", "bonus": 6 },
+        { "skill": "history", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 11,
+    "languages": ["Common", "Draconic", "Elvish", "Infernal"],
+    "telepathyRange": null,
+
+    "challengeRating": "6",
+    "experiencePoints": 2300,
+
+    "texture": "Mage_01",
+
+    "habitat": {
+        "environments": ["urban", "dungeon", "ruins"],
+        "depth": "shallow",
+        "description": "Evil mages pursue forbidden knowledge and dark power, often establishing laboratories in ancient ruins or hidden tower sanctums. They view lesser beings as test subjects for their experiments and potential sources of magical components.",
+        "rarity": "uncommon"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Dagger",
+            "description": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": 20,
+                "rangeLong": 60,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

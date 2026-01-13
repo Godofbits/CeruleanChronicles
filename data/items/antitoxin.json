@@ -1,0 +1,13 @@
+{
+  "description" : "Grants advantage on saving throws against poison for 1 hour.",
+  "effect" : "Cures the poisoned condition immediately.",
+  "id" : "antitoxin",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Antitoxin",
+  "potionType" : "Antidote",
+  "rarity" : "Uncommon",
+  "textureName" : "Antitoxin",
+  "value" : 85,
+  "weight" : 0.5
+}

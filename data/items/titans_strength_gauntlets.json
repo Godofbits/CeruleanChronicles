@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Massive gauntlets forged by the Titans, the primordial beings who ruled before the gods. They grant a fraction of titanic strength to mortal wearers. Greek heroes sought such gauntlets to perform impossible feats—lifting boulders, bending iron bars, wrestling mythical beasts.",
+  "id" : "titans_strength_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Titan's Strength Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Titan's Strength Gauntlets",
+  "value" : 1350,
+  "weight" : 0.5
+}

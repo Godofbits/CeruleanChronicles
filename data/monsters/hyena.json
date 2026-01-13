@@ -1,0 +1,100 @@
+{
+    "id": "hyena",
+    "isActive": false,
+    "name": "Hyena",
+    "size": "medium",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 11,
+    "armorType": null,
+    "hitDice": {
+        "count": 1,
+        "die": "d8",
+        "modifier": 1
+    },
+    "speeds": {
+        "walk": 50
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 11,
+        "dexterity": 13,
+        "constitution": 12,
+        "intelligence": 2,
+        "wisdom": 12,
+        "charisma": 5
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 3 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "0",
+    "experiencePoints": 10,
+
+    "texture": "mons_hyena_01",
+
+    "habitat": {
+        "environments": ["grassland", "desert"],
+        "depth": "surface",
+        "description": "Hyenas roam the savannas and arid plains in cackling packs, scavenging carrion and hunting weak or isolated prey. Their eerie laughing calls echo across the grasslands at dusk as they begin their nightly hunts.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Pack Tactics",
+            "description": "The hyena has advantage on an attack roll against a creature if at least one of the hyena's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "effect": {
+                "type": "packTactics",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 2,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

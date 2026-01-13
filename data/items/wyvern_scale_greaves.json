@@ -1,0 +1,15 @@
+{
+  "acBonus" : 3,
+  "category" : "Reinforced",
+  "description" : "Leg armor crafted from the scales of a wyvern, the venomous lesser cousin of true dragons. The scales retain the creature's resistance to poison, protecting the wearer from toxins. Wyvern hunters in the Grey Mountains fashion such armor from their kills, creating protection ideally suited for hunting more of the beasts. The green-grey scales mark the wearer as someone who has faced venomous death and triumphed.",
+  "id" : "wyvern_scale_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to poison damage",
+  "name" : "Wyvern Scale Greaves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Wyvern_Scale_Greaves",
+  "value" : 950,
+  "weight" : 9
+}

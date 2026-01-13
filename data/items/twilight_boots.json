@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots that seem to shimmer with the uncertain light of dusk and dawn. They're most potent during the liminal hours when day transitions to night. Elven rangers who patrol at twilight favor such boots.",
+  "id" : "twilight_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Dexterity during twilight hours",
+  "name" : "Twilight Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Twilight Boots",
+  "value" : 185,
+  "weight" : 1
+}

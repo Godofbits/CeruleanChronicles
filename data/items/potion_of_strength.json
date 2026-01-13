@@ -1,0 +1,13 @@
+{
+  "description" : "This scarlet potion swirls with raw might. Your Strength becomes 21 for 1 hour, granting you the power of a warrior in their prime.",
+  "effect" : "Your Strength becomes 21 for 1 hour.",
+  "id" : "potion_of_strength",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Strength",
+  "potionType" : "Potion of Strength",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Strength",
+  "value" : 200,
+  "weight" : 0.5
+}

@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Radiant white plate blessed by a solar angel. The armor shines with holy light that cannot be dimmed, shedding bright light in a 20-foot radius. It grants immunity to necrotic damage, resistance to all other damage, advantage on saves against spells, and allows the wearer to cast revivify once per week. Only those of pure heart and good alignment can wear it—others find the armor unbearably hot. The armor was gifted to mortal champions during the ancient war against demon lords.",
+  "id" : "seraphim_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Seraphim Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Seraphim Plate",
+  "value" : 15000,
+  "weight" : 50
+}

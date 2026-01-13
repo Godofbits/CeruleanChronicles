@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "An impressive tall hat adorned with arcane symbols and a jeweled clasp. Worn by senior members of the Wizard's Council, each hat is personally enchanted by its owner over decades of service. The accumulated magical energy enhances spellcasting significantly. +0 AC.",
+  "id" : "grand_wizard_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Grand Wizard Hat",
+  "rarity" : "Rare",
+  "textureName" : "Grand Wizard Hat",
+  "value" : 1200,
+  "weight" : 0.5
+}

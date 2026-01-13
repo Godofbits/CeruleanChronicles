@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll whose text seems to crawl across the page. This transmutation is the antithesis of haste, stretching time around targets and making them sluggish and ponderous. Affected creatures move as if through thick syrup, their attacks clumsy and their reactions dulled. The spell was developed as a countermeasure to haste during the Wizard Wars, but proved even more effective against un-enhanced foes. A slow spell cast on a charging cavalry can turn a rout into a slaughter. Single use.",
+  "id" : "scroll_of_slow",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Slow",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Slow",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

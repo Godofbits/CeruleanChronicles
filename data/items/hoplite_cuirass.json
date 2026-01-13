@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Bronze cuirass in the classical style of Greek hoplites. The muscled breastplate is formed to resemble an idealized torso, a tradition dating back centuries. Such armor represents the martial culture of city-states where citizen-soldiers formed impenetrable phalanxes. The bronze has developed a noble green patina with age.",
+  "id" : "hoplite_cuirass",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Hoplite Cuirass",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Hoplite Cuirass",
+  "value" : 150,
+  "weight" : 25
+}

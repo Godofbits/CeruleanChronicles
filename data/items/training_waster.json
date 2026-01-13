@@ -1,0 +1,14 @@
+{
+  "category" : "Simple",
+  "damage" : "1d4",
+  "damageType" : "bludgeoning",
+  "description" : "A wooden practice sword used by squires and students. Blunt enough to avoid serious injury, but still teaches proper form. Many legendary warriors started with one of these. Deals 1d4 bludgeoning damage.",
+  "id" : "training_waster",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Training Waster",
+  "rarity" : "Common",
+  "textureName" : "Training Waster",
+  "value" : 5,
+  "weight" : 2
+}

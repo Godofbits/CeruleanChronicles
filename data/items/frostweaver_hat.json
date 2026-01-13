@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A pale blue wizard's hat that constantly shimmers with frost crystals. Created by the ice mages of the Glacier Spire, it enhances cold magic and allows the wearer to shape ice with a thought. The fabric is woven from enchanted spider silk that never freezes. +0 AC.",
+  "id" : "frostweaver_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Frostweaver Hat",
+  "rarity" : "Rare",
+  "textureName" : "Frostweaver Hat",
+  "value" : 1500,
+  "weight" : 0.40000000000000002
+}

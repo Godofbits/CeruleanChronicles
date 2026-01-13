@@ -1,0 +1,136 @@
+{
+    "id": "lamia",
+    "isActive": false,
+    "name": "Lamia",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "chaoticEvil",
+
+    "armorClass": 13,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 13,
+        "die": "d10",
+        "modifier": 26
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 16,
+        "dexterity": 13,
+        "constitution": 15,
+        "intelligence": 14,
+        "wisdom": 15,
+        "charisma": 16
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "deception", "bonus": 7 },
+        { "skill": "insight", "bonus": 4 },
+        { "skill": "stealth", "bonus": 3 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 12,
+    "languages": ["Abyssal", "Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "4",
+    "experiencePoints": 1100,
+
+    "texture": "Lamia_01",
+
+    "habitat": {
+        "environments": ["desert", "ruins"],
+        "depth": "surface",
+        "description": "Lamias are vain and cruel creatures with the upper body of a beautiful humanoid and the lower body of a lion. They lure travelers into their desert lairs, draining their wisdom with an intoxicating touch before devouring them.",
+        "rarity": "rare"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The lamia makes two attacks: one with its claws and one with its dagger or Intoxicating Touch.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 14 (2d10 + 3) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d10",
+                        "modifier": 3,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Dagger",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Intoxicating Touch",
+            "description": "Melee Spell Attack: +5 to hit, reach 5 ft., one creature. Hit: The target is magically cursed for 1 hour. Until the curse ends, the target has disadvantage on Wisdom saving throws and all ability checks.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

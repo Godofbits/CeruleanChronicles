@@ -1,0 +1,16 @@
+{
+  "acBonus" : 5,
+  "category" : "Plate",
+  "description" : "Terrible leg plates forged in the fires of the deepest hell, adorned with demonic faces that seem to scream silently. These were created by Gothmog, Lieutenant of Morgul, as a gift to his greatest servants. The metal is darker than night and burns with hellfire that never consumes it. Those who wear these greaves gain demonic power—terrible strength, immunity to flame and poison, and the ability to summon lesser demons to do their bidding. But the price is steep: the wearer's soul is claimed by the abyss, and they slowly transform into a demon themselves. Many who have donned these greaves began as heroes seeking power to fight evil, only to become the very darkness they swore to destroy. The Nine Rings created the Nazgûl; these greaves create demon lords.",
+  "id" : "infernal_demon_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 Strength, +3 Constitution, Immunity to fire and poison, Summon lesser demon 1\/day, Fear aura",
+  "name" : "Infernal Demon Legplates",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 17,
+  "textureName" : "Infernal_Demon_Legplates",
+  "value" : 25000,
+  "weight" : 20
+}

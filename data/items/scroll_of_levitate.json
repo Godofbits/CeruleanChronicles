@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll that seems to weigh nothing in your hand. This transmutation lifts the target straight up into the air, allowing them to float at a height they can control. Unlike true flight, levitation provides only vertical movement—the caster must push off walls or pull themselves along ropes for horizontal travel. The spell was invented by a dwarf who was tired of being unable to reach high shelves. It remains popular for accessing high places and avoiding floor-based traps. Single use.",
+  "id" : "scroll_of_levitate",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Levitate",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Levitate",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

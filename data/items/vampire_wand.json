@@ -1,0 +1,11 @@
+{
+  "description" : "A black wand with bat wing decorations and a blood-red crystal. Forged by vampire lords, it drains life force from victims to restore the wielder's vitality. The crystal pulses like a heartbeat and grows brighter when it feeds on life energy. +2 spell bonus, 10 charges, necrotic damage.",
+  "id" : "vampire_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Vampire Wand",
+  "rarity" : "Rare",
+  "textureName" : "Vampire Wand",
+  "value" : 2500,
+  "weight" : 1
+}

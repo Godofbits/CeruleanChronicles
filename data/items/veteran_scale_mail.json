@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Well-maintained scale mail showing signs of many battles. The scales have been repaired and replaced over years of service, each one telling a story. Veteran soldiers know that armor which has protected you once will likely do so again.",
+  "id" : "veteran_scale_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Veteran Scale Mail",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Veteran Scale Mail",
+  "value" : 90,
+  "weight" : 44
+}

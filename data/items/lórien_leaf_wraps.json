@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Handwraps adorned with mallorn leaves that never wither, gifts from the Galadhrim of Lothlórien. The golden leaves shimmer with faint starlight, and the wearer leaves no trace when moving through woodland. These wraps mark one who has walked in the Golden Wood and earned the favor of its guardians.",
+  "id" : "lórien_leaf_wraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Lórien Leaf Wraps",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Lórien Leaf Wraps",
+  "value" : 180,
+  "weight" : 0.5
+}

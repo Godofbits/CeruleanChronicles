@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "force",
+  "description" : "Ancient dwarven runes cover this blade, each one a ward against a different threat. The secrets of their inscription died with the runesmith who forged it. The runes still pulse with power. Deals 1d8+1 force damage.",
+  "id" : "runeguard",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Runeguard",
+  "rarity" : "Rare",
+  "textureName" : "Runeguard",
+  "value" : 1450,
+  "weight" : 3.5
+}

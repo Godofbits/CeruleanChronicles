@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Well-maintained gauntlets with polished metal plates. The care taken in their upkeep speaks of a disciplined warrior. Knights and professional soldiers wear such gauntlets, their gleaming surfaces reflecting pride in one's equipment.",
+  "id" : "burnished_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Burnished Gauntlets",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Burnished Gauntlets",
+  "value" : 24,
+  "weight" : 0.5
+}

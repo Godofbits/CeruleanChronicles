@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Leather wraps blessed by Surtr, the fire giant who will burn the world at Ragnarok. They protect from flame while adding fire to the wearer's strikes. Berserkers who fear neither death nor fire wear such wraps into battle.",
+  "id" : "norsefire_handwraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Norsefire Handwraps",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Norsefire Handwraps",
+  "value" : 265,
+  "weight" : 0.5
+}

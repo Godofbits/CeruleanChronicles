@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Legendary",
+  "description" : "Gauntlets inscribed with arcane formulas that pulse with magical power. Created by archmages in their towers, these gauntlets serve as reservoirs of magical energy. The runes shift and change with each spell cast, drawing power from the wearer's movements. Sorcerers who wear these gauntlets find their innate magic amplified and refined.",
+  "id" : "sorcerers_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Sorcerer's Gauntlets",
+  "rarity" : "Rare",
+  "spellBonus" : "+2 spell attack rolls, +1 spell slot (2nd level)",
+  "stealthDisadvantage" : false,
+  "textureName" : "Sorcerer's Gauntlets",
+  "value" : 1100,
+  "weight" : 0.5
+}

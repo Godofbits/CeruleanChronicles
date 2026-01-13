@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Magnificent sabatons plated with actual gold. While softer than steel, the enchantments woven into them provide adequate protection while radiating authority and divine favor. Priest-kings and sacred warriors wear such sabatons in holy ceremonies.",
+  "id" : "golden_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Charisma, +1 Persuasion",
+  "name" : "Golden Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "Golden Sabatons",
+  "value" : 210,
+  "weight" : 1
+}

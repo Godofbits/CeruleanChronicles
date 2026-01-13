@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A wizard's hat stained with alchemical residue from years of potion brewing. The fabric has absorbed enough magical compounds to grant resistance to poison, and the wearer can identify potions by smell alone. Various pouches hold emergency ingredients. +0 AC.",
+  "id" : "potion_master_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Potion Master Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion Master Hat",
+  "value" : 420,
+  "weight" : 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved from dragonbone that grants the legendary sight of wyrms. Dragons can see through illusion and darkness, and this staff shares that gift. Dragon cultists who serve ancient wyrms carry such staffs.",
+  "id" : "staff_of_dragon_sight",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Dragon Sight",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Dragon Sight",
+  "value" : 1250,
+  "weight" : 3
+}

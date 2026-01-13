@@ -1,0 +1,11 @@
+{
+  "description" : "A staff plated with pure silver that gleams like moonlight. The silver allows the staff to harm creatures vulnerable to the sacred metal. Hunters of werewolves and other shapeshifters prize such staffs.",
+  "id" : "silver_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Silver Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Silver Staff",
+  "value" : 300,
+  "weight" : 3
+}

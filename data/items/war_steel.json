@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A battlefield-grade longsword designed for heavy combat. The thick blade and sturdy construction can withstand the chaos of war. Deals 1d8 slashing damage.",
+  "id" : "war_steel",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "War Steel",
+  "rarity" : "Common",
+  "textureName" : "War Steel",
+  "value" : 28,
+  "weight" : 3.5
+}

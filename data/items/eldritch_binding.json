@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A belt that pulses with otherworldly power, adorned with runes from languages never meant for mortal tongues. The Eldritch Binding was created by a sorcerer who made pacts with beings from beyond the stars. The belt channels their alien power, making the wearer's magic nearly unstoppable. Spells cast while wearing this binding pierce through magical defenses as if they were paper.",
+  "id" : "eldritch_binding",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 to spell attack rolls, Spells ignore resistance, +1 spell slot (all levels)",
+  "name" : "Eldritch Binding",
+  "rarity" : "Very Rare",
+  "textureName" : "Eldritch Binding",
+  "value" : 7200,
+  "weight" : 0.5
+}

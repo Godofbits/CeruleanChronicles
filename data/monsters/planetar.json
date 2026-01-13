@@ -1,0 +1,139 @@
+{
+    "id": "planetar",
+    "isActive": false,
+    "name": "Planetar",
+    "size": "large",
+    "type": "celestial",
+    "subtype": null,
+    "alignment": "lawfulGood",
+
+    "armorClass": 19,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 16,
+        "die": "d10",
+        "modifier": 112
+    },
+    "speeds": {
+        "walk": 40,
+        "fly": 120
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 24,
+        "dexterity": 20,
+        "constitution": 24,
+        "intelligence": 19,
+        "wisdom": 22,
+        "charisma": 25
+    },
+
+    "savingThrows": ["constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "perception", "bonus": 11 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "radiant" },
+        { "type": "bludgeoning", "condition": "nonmagical" },
+        { "type": "piercing", "condition": "nonmagical" },
+        { "type": "slashing", "condition": "nonmagical" }
+    ],
+    "immunities": ["necrotic", "poison"],
+    "conditionImmunities": ["charmed", "exhaustion", "frightened", "poisoned"],
+
+    "senses": [
+        { "sense": "truesight", "range": 120 }
+    ],
+    "passivePerception": 21,
+    "languages": ["all"],
+    "telepathyRange": 120,
+
+    "challengeRating": "16",
+    "experiencePoints": 15000,
+
+    "texture": "Planetar_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "surface",
+        "description": "Planetars are powerful angelic warriors who serve the gods of good, descending from the Upper Planes to smite evil and protect the innocent. Their emerald skin and towering presence inspires awe in mortals who behold them.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Angelic Weapons",
+            "description": "The planetar's weapon attacks are magical. When the planetar hits with any weapon, the weapon deals an extra 5d8 radiant damage (included in the attack).",
+            "effect": null
+        },
+        {
+            "name": "Divine Awareness",
+            "description": "The planetar knows if it hears a lie.",
+            "effect": null
+        },
+        {
+            "name": "Magic Resistance",
+            "description": "The planetar has advantage on saving throws against spells and other magical effects.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The planetar makes two melee attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Greatsword",
+            "description": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 21 (4d6 + 7) slashing damage plus 22 (5d8) radiant damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 12,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d6",
+                        "modifier": 7,
+                        "type": "slashing"
+                    },
+                    {
+                        "diceCount": 5,
+                        "dieType": "d8",
+                        "modifier": 0,
+                        "type": "radiant"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Healing Touch",
+            "description": "The planetar touches another creature. The target magically regains 30 (6d8 + 3) hit points and is freed from any curse, disease, poison, blindness, or deafness.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

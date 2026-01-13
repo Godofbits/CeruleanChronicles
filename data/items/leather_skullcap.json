@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A simple cap of hardened leather that covers the top of the head. Worn by peasants and laborers who need basic protection without the cost of metal. +0 AC.",
+  "id" : "leather_skullcap",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Leather Skullcap",
+  "rarity" : "Common",
+  "textureName" : "Leather Skullcap",
+  "value" : 8,
+  "weight" : 0.5
+}

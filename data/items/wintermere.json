@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "cold",
+  "description" : "Named for the frozen lake where it was discovered, this blade carries the endless cold of deep winter. Those cut by it feel the chill spread through their veins. It was found clutched by a frozen warrior of unknown origin. Deals 1d8+1 cold damage.",
+  "id" : "wintermere",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Wintermere",
+  "rarity" : "Rare",
+  "textureName" : "Wintermere",
+  "value" : 1450,
+  "weight" : 3
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A tan scroll inscribed with protective wards and sigils. This versatile abjuration creates a barrier against a specific type of creature—aberrations, celestials, elementals, fey, fiends, or undead. The spell was developed by traveling merchants who needed protection from the varied dangers of the road. Temple priests often scribe these scrolls for pilgrims venturing into dangerous lands, customizing each one to the specific threats they might face. Single use.",
+  "id" : "scroll_of_protection",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Protection",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Protection",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

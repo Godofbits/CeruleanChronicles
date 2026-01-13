@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Practical boots worn by those who protect the wild borders. Made from supple leather that moves silently on forest floors, they're equally suited for tracking game or stalking bandits. Rangers of the North mark their boots with small symbols denoting years of service.",
+  "id" : "rangers_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ranger's Boots",
+  "rarity" : "Common",
+  "textureName" : "Ranger's Boots",
+  "value" : 15,
+  "weight" : 1
+}

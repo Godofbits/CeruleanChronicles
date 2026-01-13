@@ -1,0 +1,11 @@
+{
+  "description" : "A blue wand topped with a preserved pink jellyfish that still pulses with bioluminescence. Sea witches of the Coral Courts create these using ancient preservation magic. The tendrils deliver shocking damage to those who touch them, and the wand excels at lightning spells. +1 spell bonus, 7 charges, lightning damage.",
+  "id" : "jellyfish_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Jellyfish Wand",
+  "rarity" : "Rare",
+  "textureName" : "Jellyfish Wand",
+  "value" : 1100,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "description" : "Distilled from the light of distant stars, this silvery elixir grants you guidance from the heavens. For 8 hours, you cannot get lost, and you have advantage on Wisdom (Survival) and Intelligence (Navigation) checks.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "starlight_elixir",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Starlight Elixir",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Starlight Elixir",
+  "value" : 450,
+  "weight" : 0.5
+}

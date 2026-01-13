@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand with red and white spotted toadstool caps. These toxic mushrooms enhance poison magic and can induce hallucinations in those struck by its spells. Popular among fey tricksters. +1 spell bonus, 7 charges, poison damage.",
+  "id" : "toadstool_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Toadstool Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Toadstool Wand",
+  "value" : 380,
+  "weight" : 0.5
+}

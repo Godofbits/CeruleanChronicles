@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "slashing",
+  "description" : "An elven blade with a core of enchanted emerald that grants supernatural sharpness. Crafted in the Evergreen Court, it was given to heroes who defended the forest realm. The gem pulses with nature's vitality. Deals 1d8+1 slashing damage.",
+  "id" : "emerald_edge",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Emerald Edge",
+  "rarity" : "Rare",
+  "textureName" : "Emerald Edge",
+  "value" : 1300,
+  "weight" : 2.5
+}

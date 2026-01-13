@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A belt that has been worn by multiple heroes across the ages. Each previous owner added their mark to it before passing it on. The belt seems to grant extra resilience when its wearer faces desperate circumstances, as if the spirits of past heroes lend their strength.",
+  "id" : "heros_binding",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to all saves when below half health",
+  "name" : "Hero's Binding",
+  "rarity" : "Uncommon",
+  "textureName" : "Hero's Binding",
+  "value" : 300,
+  "weight" : 0.5
+}

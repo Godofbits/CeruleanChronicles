@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "The cursed ring of Andvari the dwarf, stolen by Loki and passed through bloodstained hands. Norse legend tells how this ring brings wealth beyond measure but dooms its bearer to betrayal and death. The ring whispers promises of power while weaving a tapestry of tragedy. Kings and dragons have died for this accursed treasure.",
+  "id" : "andvaranaut",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to all ability scores, Generate 1d100 gold per day, Cursed: Attracts misfortune",
+  "name" : "Andvaranaut",
+  "rarity" : "Legendary",
+  "textureName" : "Rings V2_55",
+  "value" : 5000,
+  "weight" : 0
+}

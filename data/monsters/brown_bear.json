@@ -1,0 +1,133 @@
+{
+    "id": "brown_bear",
+    "isActive": false,
+    "name": "Brown Bear",
+    "size": "large",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 11,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 4,
+        "die": "d10",
+        "modifier": 12
+    },
+    "speeds": {
+        "walk": 40,
+        "climb": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 19,
+        "dexterity": 10,
+        "constitution": 16,
+        "intelligence": 2,
+        "wisdom": 13,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 3 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1",
+    "experiencePoints": 200,
+
+    "texture": "mons_bear_01",
+
+    "habitat": {
+        "environments": ["forest", "mountain", "arctic"],
+        "depth": "surface",
+        "description": "Brown bears roam through temperate forests and mountainous regions, emerging from hibernation each spring ravenously hungry. They are fiercely protective of their cubs and will attack any creature that ventures too close to their territory.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Smell",
+            "description": "The bear has advantage on Wisdom (Perception) checks that rely on smell.",
+            "effect": {
+                "type": "keenSmell",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The bear makes two attacks: one with its bite and one with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

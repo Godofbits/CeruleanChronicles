@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A massive bronze helm shaped like a bull's head, with functional horns that can be used in combat. Originally worn by the Labyrinth Guard, these helms are now prized by warriors who wish to inspire fear. The horns can deal 1d6 damage on a charge. +2 AC.",
+  "id" : "minotaur_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Minotaur Helm",
+  "rarity" : "Rare",
+  "textureName" : "Minotaur Helm",
+  "value" : 1100,
+  "weight" : 5.5
+}

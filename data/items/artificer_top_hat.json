@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A brass-fitted top hat with integrated goggles and spinning gears. Gnomish artificers of Clockwork City designed these to house tiny mechanical assistants. The goggles provide magnification for delicate work. +0 AC.",
+  "id" : "artificer_top_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Artificer Top Hat",
+  "rarity" : "Rare",
+  "textureName" : "Artificer Top Hat",
+  "value" : 600,
+  "weight" : 1
+}

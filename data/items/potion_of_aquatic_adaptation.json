@@ -1,0 +1,13 @@
+{
+  "description" : "Your body adapts to underwater environments for 8 hours. Breathe water, resist pressure, and your eyes adjust to murky depths.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_aquatic_adaptation",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Aquatic Adaptation",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Aquatic Adaptation",
+  "value" : 185,
+  "weight" : 0.5
+}

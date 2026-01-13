@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Light",
+  "description" : "A leather helm reinforced with metal studs. The studs provide additional protection without significantly increasing weight. Popular among rogues and light fighters who need mobility but some protection. +1 AC.",
+  "id" : "studded_leather_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Studded Leather Helm",
+  "rarity" : "Common",
+  "textureName" : "Studded Leather Helm",
+  "value" : 18,
+  "weight" : 1.5
+}

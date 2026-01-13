@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Black metal greaves adorned with bone and skull decorations. These were forged by the necromancers of Dol Guldur, steeped in the essence of death. The metal was quenched in the blood of sacrifices and inscribed with runes of undeath. Those who wear them find their command over death magic enhanced, their dark spells becoming more potent and harder to resist. The greaves whisper with the voices of the restless dead.",
+  "id" : "necromancer_dark_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to spell save DC for necromancy",
+  "name" : "Necromancer Dark Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Necromancer_Dark_Greaves",
+  "value" : 350,
+  "weight" : 14
+}

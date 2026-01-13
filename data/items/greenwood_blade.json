@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "slashing",
+  "description" : "Crafted from ironwood and edged with bronze, this elven sword is grown rather than forged. Druids who carry these blades can hear the whispers of the forest. Deals 1d6 slashing damage.",
+  "id" : "greenwood_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Greenwood Blade",
+  "rarity" : "Uncommon",
+  "textureName" : "Greenwood Blade",
+  "value" : 180,
+  "weight" : 2
+}

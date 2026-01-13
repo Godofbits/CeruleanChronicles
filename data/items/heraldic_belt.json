@@ -1,0 +1,12 @@
+{
+  "category" : "Ornate",
+  "description" : "A belt bearing the colors and symbols of a noble house. Worn by household guards, squires, and servants to display their allegiance. While not magical, such belts carry the weight of duty and loyalty to one's lord.",
+  "id" : "heraldic_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Heraldic Belt",
+  "rarity" : "Common",
+  "textureName" : "Heraldic Belt",
+  "value" : 21,
+  "weight" : 0.5
+}

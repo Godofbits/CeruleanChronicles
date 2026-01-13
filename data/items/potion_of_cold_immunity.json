@@ -1,0 +1,13 @@
+{
+  "description" : "This freezing cyan potion contains shards of magical ice that never melt. Gain complete immunity to cold damage for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_cold_immunity",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Cold Immunity",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Cold Immunity",
+  "value" : 400,
+  "weight" : 0.5
+}

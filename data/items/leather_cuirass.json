@@ -1,0 +1,14 @@
+{
+  "baseAC" : 12,
+  "category" : "Light",
+  "description" : "Molded leather chest piece offering solid protection. The cuirass design dates back to ancient legions, though this version is made of leather rather than bronze.",
+  "id" : "leather_cuirass",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Leather Cuirass",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Leather Cuirass",
+  "value" : 15,
+  "weight" : 10
+}

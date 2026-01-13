@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Red and gold plate forged from metals that fell from the sky. According to legend, a phoenix sacrificed itself in a volcano's heart, and from its ashes this armor was forged. The plate grants resistance to fire damage and provides advantage on death saving throws. If the wearer drops to 0 hit points, flames engulf them once per week, healing 4d8 hit points. Like the phoenix, the wearer rises from ashes reborn.",
+  "id" : "phoenix_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Phoenix Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Phoenix Plate",
+  "value" : 8000,
+  "weight" : 52
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "An ornate samurai helm with a distinctive crescent moon crest. Crafted by master armorers of the eastern islands, each kabuto is a work of art as well as functional protection. The lacquered surface resists rust, and the design reflects the wearer's clan and status. +2 AC.",
+  "id" : "samurai_kabuto",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Samurai Kabuto",
+  "rarity" : "Rare",
+  "textureName" : "Samurai Kabuto",
+  "value" : 1800,
+  "weight" : 3.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand adorned with ever-blooming flowers of pink and white. Blessed by spring spirits, the flowers never wilt and release a pleasant fragrance. Particularly effective for healing and growth magic. +1 spell bonus, 7 charges.",
+  "id" : "wand_of_blossoms",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Blossoms",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of Blossoms",
+  "value" : 450,
+  "weight" : 0.5
+}

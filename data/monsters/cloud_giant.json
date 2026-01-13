@@ -1,0 +1,140 @@
+{
+    "id": "cloud_giant",
+    "isActive": false,
+    "name": "Cloud Giant",
+    "sortName": "Giant, Cloud",
+    "size": "huge",
+    "type": "giant",
+    "subtype": null,
+    "alignment": "neutralGood",
+
+    "armorClass": 14,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 16,
+        "die": "d12",
+        "modifier": 96
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 27,
+        "dexterity": 10,
+        "constitution": 22,
+        "intelligence": 12,
+        "wisdom": 16,
+        "charisma": 16
+    },
+
+    "savingThrows": ["constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "insight", "bonus": 7 },
+        { "skill": "perception", "bonus": 7 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 17,
+    "languages": ["Common", "Giant"],
+    "telepathyRange": null,
+
+    "challengeRating": "9",
+    "experiencePoints": 5000,
+
+    "texture": "CloudGiant_01_128x128",
+
+    "habitat": {
+        "environments": ["mountain", "planar"],
+        "depth": "deep",
+        "description": "Cloud giants dwell in castles built upon enchanted clouds or atop the highest mountain peaks. They are proud and regal, considering themselves above the affairs of lesser beings. Some are benevolent stewards of the sky, while others are tyrannical lords who demand tribute from those below.",
+        "rarity": "very rare"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Smell",
+            "description": "The giant has advantage on Wisdom (Perception) checks that rely on smell.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The giant makes two morningstar attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Morningstar",
+            "description": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 21 (3d8 + 8) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 12,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d8",
+                        "modifier": 8,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Rock",
+            "description": "Ranged Weapon Attack: +12 to hit, range 60/240 ft., one target. Hit: 30 (4d10 + 8) bludgeoning damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 12,
+                "reach": null,
+                "rangeNormal": 60,
+                "rangeLong": 240,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d10",
+                        "modifier": 8,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": {
+        "ability": "charisma",
+        "saveDC": 15,
+        "attackBonus": 7,
+        "spells": {
+            "atWill": ["detect magic", "fog cloud", "light"],
+            "perDay3": ["feather fall", "fly", "misty step", "telekinesis"],
+            "perDay1": ["control weather", "gaseous form"]
+        }
+    }
+}

@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor incorporating parts of actual demons. Horns, scales, and chitin from various fiends have been worked into steel, creating armor that radiates malevolence. The armor grants resistance to fire and poison damage and allows the wearer to cast fear once per day. However, celestial beings can sense the demonic taint, and paladins may attack on sight. The armor whispers temptations in Abyssal, slowly corrupting the wearer's alignment toward chaos and evil.",
+  "id" : "demon_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Demon Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Demon Plate",
+  "value" : 10000,
+  "weight" : 60
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A sash woven from silk produced by spiders bred in the elven realms. Lighter than gossamer yet stronger than common rope, the silk moves with the wearer like a second skin. Elven dancers and acrobats created these sashes, and they remain prized by those who value grace and agility.",
+  "id" : "elven_silk_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Dexterity",
+  "name" : "Elven Silk Sash",
+  "rarity" : "Uncommon",
+  "textureName" : "Elven Silk Sash",
+  "value" : 195,
+  "weight" : 0.5
+}

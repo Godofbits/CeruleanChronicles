@@ -1,0 +1,11 @@
+{
+  "description" : "A purple wand topped with a silver crescent moon. Sacred to followers of lunar deities, the wand's power waxes and wanes with the moon's phases. At full moon, spells cast through it are noticeably stronger. +1 spell bonus, 7 charges.",
+  "id" : "crescent_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Crescent Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Crescent Wand",
+  "value" : 500,
+  "weight" : 1
+}

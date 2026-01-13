@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll bearing a skull and crackling with necrotic energy. This spell is among the most feared in necromancy's arsenal, sending a ray of death that can instantly kill weaker creatures and gravely wound even mighty heroes. The magic was developed by the lich-king Larloch, who sought to recreate the touch of death itself. Those slain by this spell rise as zombies under the caster's control. The spell's verbal component is a single word in the language of death, and speaking it is said to age the caster. Single use.",
+  "id" : "scroll_of_finger_of_death",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Finger of Death",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Finger of Death",
+  "value" : 500,
+  "weight" : 0.10000000000000001
+}

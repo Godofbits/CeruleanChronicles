@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A mystical hood inscribed with water runes, worn by mages of the Tidal College. The fabric stays perpetually damp with sea-blessed water, enhancing aquatic spells. Those who wear it can breathe underwater for short periods. +0 AC.",
+  "id" : "aquamancer_hood",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Aquamancer Hood",
+  "rarity" : "Rare",
+  "textureName" : "Aquamancer Hood",
+  "value" : 850,
+  "weight" : 0.5
+}

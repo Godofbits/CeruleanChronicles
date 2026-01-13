@@ -1,0 +1,12 @@
+{
+  "category" : "Studded",
+  "description" : "A belt made of interlocking steel chains, providing flexibility and strength. Popular among warriors who need protection without the rigidity of plate. The chains make a distinctive sound with each movement, announcing the wearer's approach.",
+  "id" : "chainlink_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Chainlink Sash",
+  "rarity" : "Common",
+  "textureName" : "Chainlink Sash",
+  "value" : 23,
+  "weight" : 0.5
+}

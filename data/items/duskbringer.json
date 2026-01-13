@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "necrotic",
+  "description" : "Forged during a solar eclipse by shadow-weavers of the Umbral Court, this blade brings twilight wherever it strikes. Light sources dim in its presence. The previous owners all met mysterious ends at dusk. Deals 1d8+1 necrotic damage.",
+  "id" : "duskbringer",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Duskbringer",
+  "rarity" : "Rare",
+  "textureName" : "Duskbringer",
+  "value" : 1600,
+  "weight" : 3
+}

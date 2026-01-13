@@ -1,0 +1,11 @@
+{
+  "description" : "A staff of polished wood topped with a brilliant azure crystal. The crystal focuses magical energy like a lens focuses light, making spells harder to resist. Master enchanters craft such staffs.",
+  "id" : "azure_crystal_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Azure Crystal Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Azure Crystal Staff",
+  "value" : 325,
+  "weight" : 3
+}

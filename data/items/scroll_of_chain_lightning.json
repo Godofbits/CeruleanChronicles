@@ -1,0 +1,11 @@
+{
+  "description" : "A purple scroll wrapped with silver wire that hums with electricity. This devastating spell was developed by the storm mages of the Sky Citadel, who learned to make lightning jump from target to target like Zeus hurling thunderbolts among his foes. The initial bolt is fierce, but each subsequent arc carries death to those who stand too close to their allies. Entire armies have broken before a single casting of chain lightning. Single use.",
+  "id" : "scroll_of_chain_lightning",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Chain Lightning",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Chain Lightning",
+  "value" : 400,
+  "weight" : 0.10000000000000001
+}

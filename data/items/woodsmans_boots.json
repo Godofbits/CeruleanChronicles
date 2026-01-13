@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Practical boots worn by those who make their living from the forest. Loggers, trappers, and charcoal burners wear such boots, which are designed to handle muddy forest floors and fallen timber. Simple but reliable.",
+  "id" : "woodsmans_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Woodsman's Boots",
+  "rarity" : "Common",
+  "textureName" : "Woodsman's Boots",
+  "value" : 9,
+  "weight" : 1
+}

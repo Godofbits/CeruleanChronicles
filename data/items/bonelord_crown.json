@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Magical",
+  "description" : "A crown of fused bone and antler, worn by necromancers who have mastered death itself. Forged in the crypts of the Hollow King, each crown contains the skull fragments of seven liches. Undead creatures instinctively obey the wearer's commands. +1 AC.",
+  "id" : "bonelord_crown",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bonelord Crown",
+  "rarity" : "Very Rare",
+  "textureName" : "Bonelord Crown",
+  "value" : 3500,
+  "weight" : 2
+}

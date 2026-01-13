@@ -1,0 +1,11 @@
+{
+  "description" : "A silver staff whose power changes with the lunar cycle. At full moon it blazes with cold light, at new moon it fades to near-invisibility. Moon druids who track the months by celestial cycles carry such staffs.",
+  "id" : "staff_of_luna",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Luna",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Luna",
+  "value" : 1150,
+  "weight" : 3
+}

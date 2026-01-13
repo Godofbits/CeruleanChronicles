@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A deep purple ring that thrums with reality-bending power. Tales from Arabian Nights and ancient Persia speak of rings that grant wishes to those pure or cunning enough to claim them. The ring contains the essence of a bound djinn or efreeti, compressed into crystalline form. Three times you may reshape reality itself—but choose wisely, for even gods cannot grant more than three wishes. The ring grows dimmer with each use, and when the third wish is spoken, it dissolves like a dream upon waking.",
+  "id" : "ring_of_three_wishes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Cast Wish (3 charges, ring crumbles to dust when expended)",
+  "name" : "Ring of Three Wishes",
+  "rarity" : "Legendary",
+  "textureName" : "Rings V2_60",
+  "value" : 10000,
+  "weight" : 0
+}

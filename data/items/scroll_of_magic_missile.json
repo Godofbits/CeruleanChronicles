@@ -1,0 +1,11 @@
+{
+  "description" : "A purple-glowing scroll bearing the most iconic spell in arcane history. Legend tells that the wizard Melf of Greyhawk perfected this spell during the Age of Glory, creating darts of pure force that strike true without fail. Every apprentice wizard learns this incantation before moving to more complex magic. The formula has remained unchanged for over a thousand years, a testament to its perfect design. Single use.",
+  "id" : "scroll_of_magic_missile",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Magic Missile",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Magic Missile",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

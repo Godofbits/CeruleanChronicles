@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Simple green leather leggings favored by woodsmen and scouts. Reinforced at the knees for crawling through underbrush, yet flexible enough for climbing trees. Rangers of the North wear such leggings, blending into forest shadows.",
+  "id" : "woodland_ranger_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Woodland Ranger Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Woodland_Ranger_Leggings",
+  "value" : 15,
+  "weight" : 3
+}

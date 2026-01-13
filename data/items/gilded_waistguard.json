@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A luxurious belt with golden decorations and fine craftsmanship. Wealthy merchants and successful adventurers wear such waistguards to display their prosperity. Legend says these belts attract wealth to their wearers, though skeptics claim it's merely the confidence that comes from appearing prosperous.",
+  "id" : "gilded_waistguard",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+10% to gold found",
+  "name" : "Gilded Waistguard",
+  "rarity" : "Uncommon",
+  "textureName" : "Gilded Waistguard",
+  "value" : 280,
+  "weight" : 0.5
+}

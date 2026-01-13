@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Gloves decorated with small emerald chips that shimmer like spring leaves. The emeralds resonate with natural magic, strengthening the wearer's connection to the living world. Druids and rangers seek such gloves to deepen their bond with nature.",
+  "id" : "emerald_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Emerald Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Emerald Gloves",
+  "value" : 230,
+  "weight" : 0.5
+}

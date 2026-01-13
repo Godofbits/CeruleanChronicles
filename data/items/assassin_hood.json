@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A dark cowl that shadows the wearer's face. Favored by the Silent Knives guild, the fabric muffles sound and resists staining. Many have met their end never seeing the face beneath. +0 AC.",
+  "id" : "assassin_hood",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Assassin Hood",
+  "rarity" : "Uncommon",
+  "textureName" : "Assassin Hood",
+  "value" : 150,
+  "weight" : 0.29999999999999999
+}

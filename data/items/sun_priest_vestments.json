@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Golden yellow robes worn by priests who worship the sun. The bright color represents solar radiance. Blessed in dawn ceremonies.",
+  "id" : "sun_priest_vestments",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Sun Priest Vestments",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Sun_Priest_Vestments",
+  "value" : 36,
+  "weight" : 1.5
+}

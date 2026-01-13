@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a humanoid skull whose empty eye sockets seem to follow movement. Whether the skull belonged to friend or foe, wise man or villain, none can say. Necromancers prize such staffs for their symbolic connection to death.",
+  "id" : "skull_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Skull Staff",
+  "rarity" : "Common",
+  "textureName" : "Skull Staff",
+  "value" : 45,
+  "weight" : 3
+}

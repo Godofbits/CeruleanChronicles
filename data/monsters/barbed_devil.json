@@ -1,0 +1,182 @@
+{
+    "id": "barbed_devil",
+    "isActive": true,
+    "name": "Barbed Devil",
+    "size": "medium",
+    "type": "fiend",
+    "subtype": "devil",
+    "alignment": "lawfulEvil",
+
+    "armorClass": 15,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 13,
+        "die": "d8",
+        "modifier": 52
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 16,
+        "dexterity": 17,
+        "constitution": 18,
+        "intelligence": 12,
+        "wisdom": 14,
+        "charisma": 14
+    },
+
+    "savingThrows": ["strength", "constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "deception", "bonus": 5 },
+        { "skill": "insight", "bonus": 5 },
+        { "skill": "perception", "bonus": 8 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold", "condition": null },
+        { "type": "bludgeoning", "condition": "from nonmagical attacks not made with silvered weapons" },
+        { "type": "piercing", "condition": "from nonmagical attacks not made with silvered weapons" },
+        { "type": "slashing", "condition": "from nonmagical attacks not made with silvered weapons" }
+    ],
+    "immunities": ["fire", "poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 18,
+    "languages": ["Infernal"],
+    "telepathyRange": 120,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "mons_barbed_devil_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "abyssal",
+        "description": "Barbed devils serve as the guardians and jailers of the Nine Hells, their thorn-covered bodies perfect for restraining escaped souls. When summoned to the Material Plane, they relish the opportunity to inflict pain on mortals.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Barbed Hide",
+            "description": "At the start of each of its turns, the barbed devil deals 5 (1d10) piercing damage to any creature grappling it.",
+            "effect": {
+                "type": "barbedHide",
+                "parameters": {
+                    "damage": "1d10"
+                }
+            }
+        },
+        {
+            "name": "Devil's Sight",
+            "description": "Magical darkness doesn't impede the devil's darkvision.",
+            "effect": {
+                "type": "devilsSight",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Magic Resistance",
+            "description": "The devil has advantage on saving throws against spells and other magical effects.",
+            "effect": {
+                "type": "magicResistance",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tail",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Hurl Flame",
+            "description": "Ranged Spell Attack: +5 to hit, range 150 ft., one target. Hit: 10 (3d6) fire damage.",
+            "actionType": "rangedSpell",
+            "attack": {
+                "bonus": 5,
+                "reach": null,
+                "rangeNormal": 150,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

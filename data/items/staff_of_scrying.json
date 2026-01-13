@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a perfect crystal sphere that shows distant visions. It allows observation of far-off places and reveals hidden things. Spymasters and diviners treasure such staffs for the intelligence they provide.",
+  "id" : "staff_of_scrying",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Scrying",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Scrying",
+  "value" : 1300,
+  "weight" : 3
+}

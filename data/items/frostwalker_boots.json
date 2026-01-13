@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Enchanted boots that freeze water into ice beneath the wearer's feet. They prevent slipping on icy surfaces and allow crossing of water by creating temporary ice paths. Frost giants sometimes gift such boots to worthy mortals.",
+  "id" : "frostwalker_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Walk on ice without slipping, Freeze water beneath feet",
+  "name" : "Frostwalker Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Frostwalker Boots",
+  "value" : 215,
+  "weight" : 1
+}

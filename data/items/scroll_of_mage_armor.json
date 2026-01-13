@@ -1,0 +1,11 @@
+{
+  "description" : "A brown scroll etched with diagrams of protective force. This essential spell surrounds the caster with an invisible field of magical force, providing protection equivalent to light armor. Developed by war wizards who recognized that heavy armor interfered with spellcasting, it became the standard defense for arcane casters. The force field moves with the caster and lasts for hours, making it far more practical than carrying actual armor on long journeys. Single use.",
+  "id" : "scroll_of_mage_armor",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Mage Armor",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Mage Armor",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

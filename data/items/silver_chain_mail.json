@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Chain mail forged from silver-plated rings. While softer than steel, silver holds special properties against lycanthropes and undead. Temple knights who hunt vampires and werewolves favor such armor, accepting the extra maintenance required to keep silver from tarnishing.",
+  "id" : "silver_chain_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Silver Chain Mail",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "textureName" : "Silver Chain Mail",
+  "value" : 400,
+  "weight" : 22
+}

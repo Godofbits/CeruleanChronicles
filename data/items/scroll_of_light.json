@@ -1,0 +1,11 @@
+{
+  "description" : "A small scroll that glows softly even when rolled. This simple cantrip causes an object to shed bright light, providing illumination without fire or oil. The spell was among the first breakthroughs of early wizards, proving that magic could serve practical as well as destructive purposes. Every dungeon delver and night watchman knows this spell, for light pushes back not only darkness but also the fear that dwells within it. Single use.",
+  "id" : "scroll_of_light",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Light",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Light",
+  "value" : 10,
+  "weight" : 0.10000000000000001
+}

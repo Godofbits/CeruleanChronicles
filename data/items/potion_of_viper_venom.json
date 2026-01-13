@@ -1,0 +1,13 @@
+{
+  "description" : "This bright green venom causes excruciating pain. Deals 5d6 poison damage and disadvantage on attack rolls for 1 minute on failed CON save (DC 14).",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "potion_of_viper_venom",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Viper Venom",
+  "potionType" : "Poison",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Viper Venom",
+  "value" : 180,
+  "weight" : 0.5
+}

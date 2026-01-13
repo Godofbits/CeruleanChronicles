@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Masterwork plate forged in dwarven forges deep beneath mountains. Dwarven smiths are unmatched in their craft, creating armor lighter and stronger than human-made plate. The armor is covered in runic inscriptions that strengthen the metal and ward against breakage. Owning dwarven plate is a mark of prestige, as the dwarves rarely sell their finest work to outsiders.",
+  "id" : "dwarven_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Dwarven Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Dwarven Plate",
+  "value" : 2500,
+  "weight" : 50
+}

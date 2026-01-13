@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Classical gauntlets made of bronze plates over leather backing. Hoplites and soldiers of ancient armies wore such handguards. The bronze has acquired a noble patina, marking these as veterans of many campaigns.",
+  "id" : "bronze_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bronze Gauntlets",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Bronze Gauntlets",
+  "value" : 25,
+  "weight" : 0.5
+}

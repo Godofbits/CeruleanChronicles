@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A sapphire with a six-pointed star that seems to float within. Norse seafarers used such stones to navigate by starlight, never losing their way even in the thickest fog.",
+  "id" : "star_sapphire_of_navigation",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Always know direction to north, +1 Survival",
+  "name" : "Star Sapphire of Navigation",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_47",
+  "value" : 460,
+  "weight" : 0
+}

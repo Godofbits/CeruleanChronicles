@@ -1,0 +1,11 @@
+{
+  "description" : "A crimson scroll decorated with rays of flame. This spell creates multiple beams of fire that streak toward targets with deadly accuracy. Each ray burns with concentrated heat, capable of igniting cloth and charring flesh. The spell allows the caster to spread damage among multiple enemies or focus all rays on a single target for devastating effect. Fire mages favor this spell for its precision—unlike fireball, it won't burn down the tavern while eliminating the bandits inside. Single use.",
+  "id" : "scroll_of_scorching_ray",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Scorching Ray",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Scorching Ray",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

@@ -1,0 +1,13 @@
+{
+  "description" : "A masterwork of alchemical art, this crimson elixir pulses with life-giving power. Brewed by the greatest healers using phoenix tears and unicorn blood. Regain 10d4+20 hit points.",
+  "effect" : "Heals 10d4+20 HP (avg 45)",
+  "id" : "potion_of_supreme_healing",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Supreme Healing",
+  "potionType" : "Potion of Supreme Healing",
+  "rarity" : "Very Rare",
+  "textureName" : "Potion of Supreme Healing",
+  "value" : 1350,
+  "weight" : 0.5
+}

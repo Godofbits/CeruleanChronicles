@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Reinforced",
+  "description" : "Blue and silver scale armor that crackles with barely contained electrical energy. Forged during a thunderstorm by storm giants who worship Manwë, Lord of Winds, these legguards channel the power of lightning. Druids who command weather and sorcerers born during storms seek such armor, for it amplifies their connection to the tempest. When the wearer casts lightning spells, the scales glow with blue-white light and thunder rumbles from within the metal. These legguards have witnessed the fiercest storms, standing upon mountain peaks as lightning struck all around.",
+  "id" : "stormcaller_legguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to spell attack rolls with lightning\/thunder spells, Resistance to lightning",
+  "name" : "Stormcaller Legguards",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Stormcaller_Legguards",
+  "value" : 1050,
+  "weight" : 8
+}

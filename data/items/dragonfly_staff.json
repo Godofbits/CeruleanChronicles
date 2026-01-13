@@ -1,0 +1,11 @@
+{
+  "description" : "A delicate staff carved to resemble a dragonfly with gossamer wings. Despite its fragile appearance, the staff is surprisingly resilient. Fey-touched wizards and those who study insect life favor such whimsical designs.",
+  "id" : "dragonfly_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Dragonfly Staff",
+  "rarity" : "Common",
+  "textureName" : "Dragonfly Staff",
+  "value" : 32,
+  "weight" : 3
+}

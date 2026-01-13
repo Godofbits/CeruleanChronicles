@@ -1,0 +1,106 @@
+{
+    "id": "magmin",
+    "isActive": false,
+    "name": "Magmin",
+    "size": "small",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "chaoticNeutral",
+
+    "armorClass": 14,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 2,
+        "die": "d6",
+        "modifier": 2
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 7,
+        "dexterity": 15,
+        "constitution": 12,
+        "intelligence": 8,
+        "wisdom": 11,
+        "charisma": 10
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "bludgeoning", "condition": "nonmagical" },
+        { "type": "piercing", "condition": "nonmagical" },
+        { "type": "slashing", "condition": "nonmagical" }
+    ],
+    "immunities": ["fire"],
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Ignan"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/2",
+    "experiencePoints": 100,
+
+    "texture": "Magmim_01",
+
+    "habitat": {
+        "environments": ["planar", "mountain"],
+        "depth": "deep",
+        "description": "Magmins are small elemental beings of living magma from the Elemental Plane of Fire. They are fascinated by flames and driven to ignite everything they touch, making them particularly dangerous near flammable materials.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Death Burst",
+            "description": "When the magmin dies, it explodes in a burst of fire and magma. Each creature within 10 feet of it must make a DC 11 Dexterity saving throw, taking 7 (2d6) fire damage on a failed save, or half as much damage on a successful one.",
+            "effect": null
+        },
+        {
+            "name": "Ignited Illumination",
+            "description": "As a bonus action, the magmin can set itself ablaze or extinguish its flames. While ablaze, the magmin sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Touch",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d6) fire damage. If the target is a creature or a flammable object, it ignites.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

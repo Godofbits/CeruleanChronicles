@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A multi-faceted emerald that glimmers with reptilian menace. Said to be crafted from the crystallized eye of an ancient dragon, this ring radiates an aura of primal dominance. Those who meet your gaze see the shadow of dragon wings.",
+  "id" : "ring_of_the_dragons_eye",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Charisma, +2 Intimidation, Immunity to frightened",
+  "name" : "Ring of the Dragon's Eye",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_33",
+  "value" : 620,
+  "weight" : 0
+}

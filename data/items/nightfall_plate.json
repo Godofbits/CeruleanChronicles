@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Black plate that seems darker than normal darkness. The armor absorbs light around it, creating shadows even in bright daylight. Crafted by shadow-worshipers, it provides advantage on Stealth checks in dim light or darkness despite being heavy armor. The armor feels cold to the touch and draws heat from the surrounding air.",
+  "id" : "nightfall_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Nightfall Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Nightfall Plate",
+  "value" : 1500,
+  "weight" : 54
+}

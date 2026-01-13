@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Cloth wraps blessed by priests who battle restless spirits. They allow the wearer to touch and harm ghosts, wraiths, and other incorporeal undead. Exorcists wrap their hands with such cloth when confronting spectral hauntings.",
+  "id" : "spiritbound_wraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Spiritbound Wraps",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Spiritbound Wraps",
+  "value" : 250,
+  "weight" : 0.5
+}

@@ -1,0 +1,16 @@
+{
+  "acBonus" : 3,
+  "category" : "Plate",
+  "description" : "Black iron leg plates adorned with bones and skulls, worn by fallen paladins who have embraced undeath. These greaves were forged when a holy knight broke his sacred oaths and fell into darkness, his armor transforming to reflect his corrupted soul. The metal is cold as the grave and radiates an aura of death. Those who wear them feel no pain and need not fear the touch of undead, for they walk the line between life and death themselves. The Witch-king of Angmar wore such armor when he led the Nazgûl, and other death knights have followed in his terrible footsteps.",
+  "id" : "death_knight_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Constitution, Immunity to necrotic damage",
+  "name" : "Death Knight Legplates",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Death_Knight_Legplates",
+  "value" : 1200,
+  "weight" : 16
+}

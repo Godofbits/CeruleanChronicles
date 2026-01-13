@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gauntlets forged from meteorite metal that fell from the heavens. The metal glows faintly with starlight and seems to grant limitless endurance. Those who wear them feel no exhaustion in their hands, able to work or fight for days without tiring.",
+  "id" : "starforged_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Starforged Handguards",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Starforged Handguards",
+  "value" : 270,
+  "weight" : 0.5
+}

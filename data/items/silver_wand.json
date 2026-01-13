@@ -1,0 +1,11 @@
+{
+  "description" : "A simple silver wand, polished to a mirror shine. Silver is a good magical conductor and this basic wand serves apprentices and journeymen well. +0 spell bonus, 5 charges.",
+  "id" : "silver_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Silver Wand",
+  "rarity" : "Common",
+  "textureName" : "Silver Wand",
+  "value" : 50,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Practical steel gauntlets designed for infantry soldiers. Mass-produced yet well-crafted, they protected the hands of armies that conquered kingdoms. The steel bears the stamp of imperial armories.",
+  "id" : "steel_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Steel Handguards",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Steel Handguards",
+  "value" : 32,
+  "weight" : 0.5
+}

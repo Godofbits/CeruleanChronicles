@@ -1,0 +1,11 @@
+{
+  "description" : "A staff made from hardened mushroom stalks bound together. Fungi of unusual size grow in the deepest parts of ancient forests, and their flesh can be preserved to make unlikely tools. The staff smells of earth and decay.",
+  "id" : "fungal_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Fungal Staff",
+  "rarity" : "Common",
+  "textureName" : "Fungal Staff",
+  "value" : 26,
+  "weight" : 3
+}

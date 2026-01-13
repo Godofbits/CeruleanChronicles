@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A practical leather and steel helm worn by adventurers and dungeon delvers. The reinforced crown protects against falling debris, while the open face allows for clear vision in dark places. +1 AC.",
+  "id" : "explorer_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Explorer Helm",
+  "rarity" : "Common",
+  "textureName" : "Explorer Helm",
+  "value" : 40,
+  "weight" : 2.5
+}

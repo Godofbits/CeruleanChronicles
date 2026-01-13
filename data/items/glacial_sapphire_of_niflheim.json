@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A pale blue sapphire rimmed with eternal frost. Forged in the frozen realm of Niflheim, this ring channels the primordial cold that existed before creation. The stone never melts, even in dragon's fire.",
+  "id" : "glacial_sapphire_of_niflheim",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to cold, Cast Ice Storm 1\/day",
+  "name" : "Glacial Sapphire of Niflheim",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_44",
+  "value" : 680,
+  "weight" : 0
+}

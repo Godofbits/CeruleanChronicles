@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Classic bronze greaves worn by the hoplites of ancient Greece. These leg guards are designed to work in conjunction with the phalanx formation, where warriors fight shield-to-shield in disciplined ranks. The bronze has been blessed by priests of Ares, god of war, granting enhanced protection when the wearer fights alongside comrades. Spartans and other Greek warriors view such greaves as essential equipment, combining individual protection with collective strength.",
+  "id" : "hoplite_bronze_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC when in formation with allies",
+  "name" : "Hoplite Bronze Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Hoplite_Bronze_Greaves",
+  "value" : 260,
+  "weight" : 12
+}

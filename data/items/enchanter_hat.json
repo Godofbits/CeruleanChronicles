@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A stylish pointed hat worn by enchanters and artificers. The brim is lined with tiny runes that glow when magical items are nearby. Students at the College of Enchantment receive one upon completing their first permanent enchantment. +0 AC.",
+  "id" : "enchanter_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Enchanter Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Enchanter Hat",
+  "value" : 280,
+  "weight" : 0.40000000000000002
+}

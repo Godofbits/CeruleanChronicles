@@ -1,0 +1,11 @@
+{
+  "description" : "A staff containing intricate clockwork mechanisms that tick with perfect rhythm. The gears and springs are visible through crystal windows in the shaft. Gnomish inventors craft such staffs, merging magic with mechanical precision.",
+  "id" : "clockwork_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Clockwork Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Clockwork Staff",
+  "value" : 290,
+  "weight" : 3
+}

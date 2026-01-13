@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "White plate armor inlaid with actual ivory. Created for temple knights and holy warriors, the pure white symbolizes righteousness and purity of purpose. The ivory inlays are carved with prayers and protective verses. While some question the ethics of using ivory, the armor's creators insist only naturally shed mammoth tusks from the frozen north are used.",
+  "id" : "ivory_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Ivory Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Ivory Plate",
+  "value" : 1400,
+  "weight" : 54
+}

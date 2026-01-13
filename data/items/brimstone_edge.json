@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "fire",
+  "description" : "Volcanic glass and hellforged steel combine in this smoking blade. The sulfurous scent warns enemies of its approach. Popular among tieflings and those who traffic with the lower planes. Deals 1d8 fire damage.",
+  "id" : "brimstone_edge",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Brimstone Edge",
+  "rarity" : "Uncommon",
+  "textureName" : "Brimstone Edge",
+  "value" : 600,
+  "weight" : 3.5
+}

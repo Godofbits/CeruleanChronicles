@@ -1,0 +1,197 @@
+{
+    "id": "pit_fiend",
+    "isActive": false,
+    "name": "Pit Fiend",
+    "size": "large",
+    "type": "fiend",
+    "subtype": "devil",
+    "alignment": "lawfulEvil",
+
+    "armorClass": 19,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 24,
+        "die": "d10",
+        "modifier": 168
+    },
+    "speeds": {
+        "walk": 30,
+        "fly": 60
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 26,
+        "dexterity": 14,
+        "constitution": 24,
+        "intelligence": 22,
+        "wisdom": 18,
+        "charisma": 24
+    },
+
+    "savingThrows": ["dexterity", "constitution", "wisdom"],
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold" },
+        { "type": "bludgeoning", "condition": "nonmagical" },
+        { "type": "piercing", "condition": "nonmagical" },
+        { "type": "slashing", "condition": "nonmagical" }
+    ],
+    "immunities": ["fire", "poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "truesight", "range": 120 }
+    ],
+    "passivePerception": 14,
+    "languages": ["Infernal"],
+    "telepathyRange": 120,
+
+    "challengeRating": "20",
+    "experiencePoints": 25000,
+
+    "texture": "PitFiend_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "abyssal",
+        "description": "Pit fiends are the generals and overlords of the Nine Hells, commanding vast infernal armies in the eternal Blood War against demonkind. Only archdevils and the Lords of Hell themselves outrank these terrifying incarnations of tyranny.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Fear Aura",
+            "description": "Any creature hostile to the pit fiend that starts its turn within 20 feet of the pit fiend must make a DC 21 Wisdom saving throw, unless the pit fiend is incapacitated. On a failed save, the creature is frightened until the start of its next turn. If a creature's saving throw is successful, the creature is immune to the pit fiend's Fear Aura for the next 24 hours.",
+            "effect": null
+        },
+        {
+            "name": "Magic Resistance",
+            "description": "The pit fiend has advantage on saving throws against spells and other magical effects.",
+            "effect": null
+        },
+        {
+            "name": "Magic Weapons",
+            "description": "The pit fiend's weapon attacks are magical.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The pit fiend makes four attacks: one with its bite, one with its claw, one with its mace, and one with its tail.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +14 to hit, reach 5 ft., one target. Hit: 22 (4d6 + 8) piercing damage. The target must succeed on a DC 21 Constitution saving throw or become poisoned. While poisoned in this way, the target can't regain hit points, and it takes 21 (6d6) poison damage at the start of each of its turns.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 14,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d6",
+                        "modifier": 8,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 17 (2d8 + 8) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 14,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 8,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Mace",
+            "description": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 15 (2d6 + 8) bludgeoning damage plus 21 (6d6) fire damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 14,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 8,
+                        "type": "bludgeoning"
+                    },
+                    {
+                        "diceCount": 6,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tail",
+            "description": "Melee Weapon Attack: +14 to hit, reach 10 ft., one target. Hit: 24 (3d10 + 8) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 14,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d10",
+                        "modifier": 8,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll radiating powerful restorative magic. This advanced healing spell can cure nearly any affliction short of death itself—petrification, curses, ability damage, level drain, even mental derangement. The magic reaches deep into the target's being, restoring them to their natural state before corruption took hold. High priests and archdruids guard these scrolls carefully, using them only in the direst circumstances. The spell has saved heroes from fates worse than death, undoing curses that would have ruined their lives. Single use.",
+  "id" : "scroll_of_greater_restoration",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Greater Restoration",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Greater Restoration",
+  "value" : 300,
+  "weight" : 0.10000000000000001
+}

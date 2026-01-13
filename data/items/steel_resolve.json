@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A well-made military sword built for durability. The blade is simple but will not bend or break under combat stress. A soldier's trustworthy companion. Deals 1d8 slashing damage.",
+  "id" : "steel_resolve",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Steel Resolve",
+  "rarity" : "Common",
+  "textureName" : "Steel Resolve",
+  "value" : 35,
+  "weight" : 3.5
+}

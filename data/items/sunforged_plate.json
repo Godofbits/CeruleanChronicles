@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Golden plate that gleams like captured sunlight. Forged in temples dedicated to sun gods, this armor provides resistance to radiant damage. The plate was heated in furnaces fueled by elemental fire and quenched in holy water blessed at dawn. Clerics of sun deities wear such armor as they smite undead and banish darkness.",
+  "id" : "sunforged_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Sunforged Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Sunforged Plate",
+  "value" : 1200,
+  "weight" : 54
+}

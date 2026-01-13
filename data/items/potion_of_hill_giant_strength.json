@@ -1,0 +1,13 @@
+{
+  "description" : "Brewed with essence from the mighty hill giants who roam the northern mountains. Your Strength becomes 23 for 1 hour.",
+  "effect" : "Your Strength becomes 21 for 1 hour.",
+  "id" : "potion_of_hill_giant_strength",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Hill Giant Strength",
+  "potionType" : "Potion of Strength",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Hill Giant Strength",
+  "value" : 250,
+  "weight" : 0.5
+}

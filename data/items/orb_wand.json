@@ -1,0 +1,11 @@
+{
+  "description" : "A simple wooden wand with a white orb at the tip. A common focus sold in magic shops across the realms. The orb glows softly when magic flows through it. +0 spell bonus, 5 charges.",
+  "id" : "orb_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Orb Wand",
+  "rarity" : "Common",
+  "textureName" : "Orb Wand",
+  "value" : 35,
+  "weight" : 0.5
+}

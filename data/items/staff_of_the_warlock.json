@@ -1,0 +1,11 @@
+{
+  "description" : "A dark staff inscribed with pacts written in languages never meant for mortal eyes. It channels eldritch power from beings beyond reality—old ones, archfey, and fiends. The staff grants tremendous magical power but demands a price: each use brings the wielder closer to their patron's influence. Warlocks who serve powerful entities carry such staffs, marks of their dark bargains.",
+  "id" : "staff_of_the_warlock",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Warlock",
+  "rarity" : "Very Rare",
+  "textureName" : "Staff of the Warlock",
+  "value" : 7500,
+  "weight" : 3
+}

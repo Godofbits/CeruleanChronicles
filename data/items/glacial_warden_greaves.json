@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Silvery-blue metal greaves enchanted with ice magic. Created by the Lossoth, the snow-men of Forochel who dwell in the frozen wastes of the north. The metal was shaped from meteoric iron that fell in a glacier and tempered in meltwater from ancient ice. These greaves become harder and more protective in freezing temperatures, making them ideal for arctic warriors.",
+  "id" : "glacial_warden_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC in cold environments",
+  "name" : "Glacial Warden Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Glacial_Warden_Greaves",
+  "value" : 310,
+  "weight" : 14
+}

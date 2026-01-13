@@ -1,0 +1,142 @@
+{
+    "id": "dryad",
+    "isActive": false,
+    "name": "Dryad",
+    "size": "medium",
+    "type": "fey",
+    "subtype": null,
+    "alignment": "trueNeutral",
+
+    "armorClass": 11,
+    "armorType": "16 with barkskin",
+    "hitDice": {
+        "count": 5,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 10,
+        "dexterity": 12,
+        "constitution": 11,
+        "intelligence": 14,
+        "wisdom": 15,
+        "charisma": 18
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 4 },
+        { "skill": "stealth", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 14,
+    "languages": ["Elvish", "Sylvan"],
+    "telepathyRange": null,
+
+    "challengeRating": "1",
+    "experiencePoints": 200,
+
+    "texture": "mons_dryad_01",
+
+    "habitat": {
+        "environments": ["forest"],
+        "depth": "surface",
+        "description": "Dryads are shy fey spirits bound to ancient oak trees, emerging only to protect their woodland homes or charm intruders. They form deep bonds with the animals and plants of their groves, defending them with magic and guile.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Magic Resistance",
+            "description": "The dryad has advantage on saving throws against spells and other magical effects.",
+            "effect": {
+                "type": "magicResistance",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Speak with Beasts and Plants",
+            "description": "The dryad can communicate with beasts and plants as if they shared a language.",
+            "effect": {
+                "type": "speakWithBeastsAndPlants",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Tree Stride",
+            "description": "Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree.",
+            "effect": {
+                "type": "treeStride",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Club",
+            "description": "Melee Weapon Attack: +2 to hit (+6 with shillelagh), reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage, or 8 (1d8 + 4) bludgeoning damage with shillelagh.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Fey Charm",
+            "description": "The dryad targets one humanoid or beast that she can see within 30 feet of her. If the target can see the dryad, it must succeed on a DC 14 Wisdom saving throw or be magically charmed. The charmed creature regards the dryad as a trusted friend.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "type": "wisdom",
+                "dc": 14,
+                "onFail": "charmed",
+                "onSuccess": "none"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": {
+        "ability": "charisma",
+        "saveDC": 14,
+        "attackBonus": null,
+        "atWill": ["druidcraft"],
+        "perDay": {
+            "3": ["entangle", "goodberry"],
+            "1": ["barkskin", "pass without trace", "shillelagh"]
+        }
+    }
+}

@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Full-length chain mail extending to the knees. Thousands of interlocking rings provide excellent protection against slashing attacks. The weight is distributed across the body, though it remains exhausting to wear for long periods.",
+  "id" : "chainmail_hauberk",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Chainmail Hauberk",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Chainmail Hauberk",
+  "value" : 75,
+  "weight" : 40
+}

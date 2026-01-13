@@ -1,0 +1,11 @@
+{
+  "description" : "A light wand that seems to float in the hand, surrounded by gentle breezes. Blessed by sylphs of the west wind, it channels gentle air magic. The wielder can speak with the wind and always knows which way it blows. +1 spell bonus, 7 charges.",
+  "id" : "wand_of_zephyr",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Zephyr",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of Zephyr",
+  "value" : 480,
+  "weight" : 0.29999999999999999
+}

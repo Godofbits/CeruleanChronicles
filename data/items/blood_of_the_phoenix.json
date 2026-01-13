@@ -1,0 +1,13 @@
+{
+  "description" : "Harvested from the legendary phoenix during its rebirth cycle, this glowing red elixir contains the essence of resurrection. In Greek mythology, the phoenix rises from its ashes; so too shall you rise from near death. Regain 10d4+20 hit points. If reduced to 0 HP within the next hour, automatically stabilize and regain 1 HP.",
+  "effect" : "Heals 10d4+20 HP (avg 45)",
+  "id" : "blood_of_the_phoenix",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Blood of the Phoenix",
+  "potionType" : "Potion of Supreme Healing",
+  "rarity" : "Legendary",
+  "textureName" : "Blood of the Phoenix",
+  "value" : 2500,
+  "weight" : 0.5
+}

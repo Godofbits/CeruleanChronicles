@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots adorned with actual demon wings that grant the power of flight. The wings beat silently as you soar through the air, and they radiate an aura of supernatural dread. Created by binding demon lords and harvesting their wings, these boots are both powerful and morally questionable. Those who wear them find their dreams haunted by the Abyss.",
+  "id" : "demon_wing_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Fly 60 ft, +2 Dexterity, Immunity to fear, Fear aura 15 ft",
+  "name" : "Demon Wing Boots",
+  "rarity" : "Very Rare",
+  "textureName" : "Demon Wing Boots",
+  "value" : 5000,
+  "weight" : 1
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A helm crafted from the scales of a slain dragon, each scale harder than steel yet surprisingly light. The color varies based on the dragon's type, and each helm retains a fraction of the dragon's elemental resistance. Dragon hunters prize these above all other helms. +2 AC.",
+  "id" : "dragonscale_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dragonscale Helm",
+  "rarity" : "Very Rare",
+  "textureName" : "Dragonscale Helm",
+  "value" : 6500,
+  "weight" : 3.5
+}

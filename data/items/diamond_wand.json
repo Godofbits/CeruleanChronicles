@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand tipped with a flawless diamond that refracts light into rainbows. Diamonds are the purest magical conduits, amplifying spells to their maximum potential. This wand was crafted by the gem-cutters of the Dwarven High King's court. +2 spell bonus, 10 charges.",
+  "id" : "diamond_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Diamond Wand",
+  "rarity" : "Rare",
+  "textureName" : "Diamond Wand",
+  "value" : 2500,
+  "weight" : 1
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A small red scroll warm to the touch. This cantrip hurls a mote of fire at a target, one of the most straightforward combat spells available. The flame burns hot enough to ignite flammable objects and deals respectable damage for a cantrip. Evokers can cast this spell endlessly, making it their go-to attack when conserving more powerful magic. The simple elegance of turning magical energy directly into flame has made this cantrip a staple across cultures. Single use.",
+  "id" : "scroll_of_fire_bolt",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Fire Bolt",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Fire Bolt",
+  "value" : 25,
+  "weight" : 0.10000000000000001
+}

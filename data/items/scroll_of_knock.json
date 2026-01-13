@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll inscribed with the sound of clicking tumblers. This transmutation opens locked doors, chests, and shackles with a loud knock. The spell works on both mundane and magical locks, though it cannot open locks sealed by arcane lock unless the caster is more powerful. Originally developed by forgetful wizards who kept losing their keys, the spell was quickly adopted by thieves and adventurers. The loud knock it produces makes stealth impossible, but sometimes brute magical force is more reliable than lockpicks. Single use.",
+  "id" : "scroll_of_knock",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Knock",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Knock",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

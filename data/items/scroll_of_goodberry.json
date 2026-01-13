@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll decorated with berry illustrations. This spell infuses up to ten berries with nourishing magic, each one providing a full day's sustenance and minor healing. The magic concentrates nature's bounty, making survival in the wilderness far easier. Druids and rangers rely on goodberries when traveling through barren lands or sustaining injured companions. A single casting can feed an entire party for a day. The berries taste of sunshine and summer, no matter the season. Single use.",
+  "id" : "scroll_of_goodberry",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Goodberry",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Goodberry",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

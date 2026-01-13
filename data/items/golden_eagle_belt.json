@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "An impressive belt featuring a golden eagle buckle with spread wings. The eagle, king of birds, symbolizes leadership and dominion over others. Generals and commanders wear such belts, and soldiers instinctively recognize the authority they represent.",
+  "id" : "golden_eagle_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Leadership (Persuasion with followers)",
+  "name" : "Golden Eagle Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Golden Eagle Belt",
+  "value" : 295,
+  "weight" : 0.5
+}

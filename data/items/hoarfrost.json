@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "cold",
+  "description" : "Named for the delicate ice crystals that form on its blade, this sword carries a permanent chill. Breath mists in the air around it even in summer. Deals 1d8 cold damage.",
+  "id" : "hoarfrost",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Hoarfrost",
+  "rarity" : "Uncommon",
+  "textureName" : "Hoarfrost",
+  "value" : 480,
+  "weight" : 3
+}

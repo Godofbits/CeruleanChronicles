@@ -1,0 +1,11 @@
+{
+  "description" : "A staff of surpassing power, carried only by the greatest archmages. It amplifies all magical abilities to legendary heights and can cast any spell in existence. The staff is unique, passed down from one archmage to the next, each adding their mark to its surface. Runes from every magical tradition cover its length—elvish, dwarven, draconic, and tongues long forgotten. To wield this staff is to hold the accumulated knowledge of centuries of arcane study.",
+  "id" : "archmage_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Archmage Staff",
+  "rarity" : "Legendary",
+  "textureName" : "Archmage Staff",
+  "value" : 15000,
+  "weight" : 3
+}

@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "An ingenious weapon from the clockwork city, this blade features steam-powered pistons that add force to each swing. Requires periodic refilling with water, but the extra power is worth it. Deals 1d8 slashing damage.",
+  "id" : "steamwrights_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Steamwright's Blade",
+  "rarity" : "Uncommon",
+  "textureName" : "Steamwright's Blade",
+  "value" : 280,
+  "weight" : 4.5
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Reinforced",
+  "description" : "Heavy plate boots designed to complete a suit of full armor. The metal is thick enough to turn any blade and makes an effective weapon in close quarters. More than one knight has felled an opponent with a well-placed kick from such sabatons.",
+  "id" : "plate_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC, Kick attacks do +1 damage",
+  "name" : "Plate Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "Plate Sabatons",
+  "value" : 185,
+  "weight" : 1
+}

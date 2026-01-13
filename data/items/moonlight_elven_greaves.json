@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Reinforced",
+  "description" : "Silvery leg armor crafted by the elves of Lothlórien under the light of the full moon. The metal is mithril mixed with starlight captured in crystal, resulting in armor that weighs almost nothing yet provides excellent protection. These greaves do not hinder movement at all, allowing the wearer to move with the grace of a dancer while protected like a warrior. Elven warriors wear such armor when they must fight, combining their natural agility with the best protection elvish smiths can provide.",
+  "id" : "moonlight_elven_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Dexterity, No armor penalty to movement",
+  "name" : "Moonlight Elven Greaves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Moonlight_Elven_Greaves",
+  "value" : 1100,
+  "weight" : 5
+}

@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor covered in glowing Nordic runes. Each rune was carved by masters of the ancient craft, binding magic directly into the metal. The armor provides resistance to all damage from spells and advantage on saving throws against magic. Nordic runecasters spent years on each suit, and only seven sets are known to exist. The runes glow brighter as hostile magic approaches.",
+  "id" : "runeforged_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Runeforged Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Runeforged Plate",
+  "value" : 7000,
+  "weight" : 54
+}

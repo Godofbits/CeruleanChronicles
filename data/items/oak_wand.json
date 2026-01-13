@@ -1,0 +1,11 @@
+{
+  "description" : "A simple polished oak wand with metal bands. A reliable focus for novice spellcasters, oak is known for its stability and connection to nature magic. +0 spell bonus.",
+  "id" : "oak_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Oak Wand",
+  "rarity" : "Common",
+  "textureName" : "Oak Wand",
+  "value" : 15,
+  "weight" : 0.5
+}

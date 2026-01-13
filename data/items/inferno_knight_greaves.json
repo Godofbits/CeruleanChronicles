@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Orange and red metal greaves worn by knights who serve fire temples. Heat-resistant and built to withstand extreme temperatures. Warriors who fight fire-breathing creatures favor such protection.",
+  "id" : "inferno_knight_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Inferno Knight Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Inferno_Knight_Greaves",
+  "value" : 62,
+  "weight" : 13
+}

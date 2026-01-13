@@ -1,0 +1,13 @@
+{
+  "description" : "This ruby elixir fills your heart with courage and your veins with power. For 1 hour, gain 10 temporary HP and advantage on all saving throws against fear. Favored by champions before facing great evil.",
+  "effect" : "Your Strength becomes 21 for 1 hour.",
+  "id" : "potion_of_heroism",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Heroism",
+  "potionType" : "Potion of Strength",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Heroism",
+  "value" : 400,
+  "weight" : 0.5
+}

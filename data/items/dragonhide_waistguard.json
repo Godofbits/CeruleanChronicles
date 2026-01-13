@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A waistguard made from the thick hide of a dragon's underbelly. More flexible than dragonscale but equally resistant to harm, this leather provides exceptional protection. The color and properties depend on the dragon type: red for fire, white for cold, green for poison. Dragon slayers craft such items from their fallen foes, creating legendary equipment.",
+  "id" : "dragonhide_waistguard",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 AC, Resistance to one element",
+  "name" : "Dragonhide Waistguard",
+  "rarity" : "Rare",
+  "textureName" : "Dragonhide Waistguard",
+  "value" : 950,
+  "weight" : 0.5
+}

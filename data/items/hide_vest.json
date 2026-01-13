@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Cured animal hide stitched into a crude vest. Worn by trappers and wilderness scouts who favor practicality over comfort.",
+  "id" : "hide_vest",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Hide Vest",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Hide Vest",
+  "value" : 8,
+  "weight" : 8
+}

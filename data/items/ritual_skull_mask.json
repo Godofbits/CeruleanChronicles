@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A ceremonial mask carved from bone and decorated with mystical symbols. Used by shamans and witch doctors in sacred rituals, the mask allows the wearer to perceive spirits and commune with ancestors. Wearing it outside of ritual contexts is considered taboo by many cultures. +0 AC.",
+  "id" : "ritual_skull_mask",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Ritual Skull Mask",
+  "rarity" : "Rare",
+  "textureName" : "Ritual Skull Mask",
+  "value" : 1600,
+  "weight" : 1.5
+}

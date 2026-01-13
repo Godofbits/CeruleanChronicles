@@ -1,0 +1,11 @@
+{
+  "description" : "A staff adorned with white feathers that remain perpetually frosted. The feathers came from winter birds that nest in frozen peaks where summer never reaches. The staff is always cold to the touch and provides protection against ice and snow.",
+  "id" : "frostfeather_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Frostfeather Staff",
+  "rarity" : "Common",
+  "textureName" : "Frostfeather Staff",
+  "value" : 55,
+  "weight" : 3
+}

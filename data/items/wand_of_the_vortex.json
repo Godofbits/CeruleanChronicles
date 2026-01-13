@@ -1,0 +1,11 @@
+{
+  "description" : "A wand surrounded by constantly swirling winds that form a miniature tornado. Crafted by air elementalists who bound a wind spirit within, it commands the power of cyclones. The wielder's voice carries on the wind for miles. +2 spell bonus, 10 charges, force damage.",
+  "id" : "wand_of_the_vortex",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Vortex",
+  "rarity" : "Rare",
+  "textureName" : "Wand of the Vortex",
+  "value" : 3200,
+  "weight" : 1
+}

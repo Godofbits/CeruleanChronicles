@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A blood-red ruby that burns with inner fire, never growing cold. Forged in the heart of a volcano by dwarven runecrafters, this ring grants its wearer immunity to mundane flames and protection from magical fire.",
+  "id" : "ruby_of_eternal_flame",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to fire damage",
+  "name" : "Ruby of Eternal Flame",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_15",
+  "value" : 500,
+  "weight" : 0
+}

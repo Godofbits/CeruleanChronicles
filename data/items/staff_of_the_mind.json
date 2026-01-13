@@ -1,0 +1,11 @@
+{
+  "description" : "A crystal staff that resonates with mental energy. It amplifies psychic powers and allows reading of surface thoughts. Mind flayers and those who study psionic magic craft such staffs from crystalized thought-energy.",
+  "id" : "staff_of_the_mind",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Mind",
+  "rarity" : "Rare",
+  "textureName" : "Staff of the Mind",
+  "value" : 1450,
+  "weight" : 3
+}

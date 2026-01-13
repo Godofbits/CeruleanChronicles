@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A dark hat adorned with raven feathers, worn by those who commune with corvids. The hat is enchanted to attract ravens and crows, who see the wearer as a friend. Some ravenkeepers use their feathered spies to gather information across vast distances. +0 AC.",
+  "id" : "ravenkeeper_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Ravenkeeper Hat",
+  "rarity" : "Rare",
+  "textureName" : "Ravenkeeper Hat",
+  "value" : 1350,
+  "weight" : 0.5
+}

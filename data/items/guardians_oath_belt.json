@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A belt worn by sworn protectors and bodyguards. Those who wear it pledge to stand between their charge and any threat. The belt strengthens the wearer's defensive capabilities when they position themselves to shield others from harm.",
+  "id" : "guardians_oath_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC when adjacent to an ally",
+  "name" : "Guardian's Oath Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Guardian's Oath Belt",
+  "value" : 285,
+  "weight" : 0.5
+}

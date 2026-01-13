@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A practical steel helm worn by warriors of the northern lands. The simple design with nose guard has been used by Viking raiders for generations. The sturdy construction can withstand harsh weather and brutal combat. +1 AC.",
+  "id" : "nordic_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Nordic Helm",
+  "rarity" : "Common",
+  "textureName" : "Nordic Helm",
+  "value" : 35,
+  "weight" : 3.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A wand of swirling water and wind, containing a miniature eternal storm. Forged at the heart of a permanent hurricane by storm giants, it commands the fury of air and sea. The wielder can breathe underwater and walk on wind. +3 spell bonus, 15 charges, lightning\/water damage.",
+  "id" : "wand_of_the_maelstrom",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Maelstrom",
+  "rarity" : "Legendary",
+  "textureName" : "Wand of the Maelstrom",
+  "value" : 18000,
+  "weight" : 2
+}

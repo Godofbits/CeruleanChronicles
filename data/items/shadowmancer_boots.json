@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots crafted from shadows solidified through necromantic ritual. Those who practice shadow magic wear such boots to move unseen and command darkness itself. The boots seem to absorb light, making the wearer's lower half blend into surrounding shadows. Feared by those who know their significance.",
+  "id" : "shadowmancer_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Cast Darkness 1\/day, +2 Stealth, Darkvision 60 ft",
+  "name" : "Shadowmancer Boots",
+  "rarity" : "Rare",
+  "textureName" : "Shadowmancer Boots",
+  "value" : 700,
+  "weight" : 1
+}

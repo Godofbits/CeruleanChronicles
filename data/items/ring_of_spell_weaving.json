@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A sapphire etched with arcane runes that pulse with stored magic. Elven archmages craft such rings over decades, creating vessels that can hold spells like water in a cup, ready to be poured forth when needed most.",
+  "id" : "ring_of_spell_weaving",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Store up to 5 levels of spells, cast stored spells",
+  "name" : "Ring of Spell Weaving",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_45",
+  "value" : 2200,
+  "weight" : 0
+}

@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+2",
+  "damageType" : "radiant",
+  "description" : "A blade of pure divine light given form, gifted by a seraphim to a mortal hero who saved a celestial's life. It shines with holy radiance and strikes true against evil. Only the pure of heart can wield it. Deals 1d8+2 radiant damage.",
+  "id" : "seraphims_grace",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Seraphim's Grace",
+  "rarity" : "Legendary",
+  "textureName" : "Seraphim's Grace",
+  "value" : 8500,
+  "weight" : 2.5
+}

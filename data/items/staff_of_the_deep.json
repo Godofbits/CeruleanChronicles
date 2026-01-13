@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved from driftwood that spent centuries in abyssal depths. It allows the bearer to withstand the crushing pressure and breathe in the deepest trenches. Explorers of undersea ruins prize such staffs.",
+  "id" : "staff_of_the_deep",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Deep",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of the Deep",
+  "value" : 270,
+  "weight" : 3
+}

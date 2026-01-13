@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d8+1",
+  "damageType" : "slashing",
+  "description" : "Fashioned from the sharpened rib of a dracolich, this pale blade hungers for the living. Necromancers prize it for its ability to sever soul from body. The bone never chips or dulls. Deals 1d8+1 slashing damage.",
+  "id" : "bonereaver",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Bonereaver",
+  "rarity" : "Rare",
+  "textureName" : "Bonereaver",
+  "value" : 1100,
+  "weight" : 4
+}

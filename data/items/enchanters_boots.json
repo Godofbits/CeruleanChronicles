@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots woven with threads of pure magic, shimmering with arcane energy. Enchanters and wizards who specialize in the school of enchantment craft such boots to enhance their spellwork. Each step leaves a faint trail of magical glyphs that fade quickly into nothingness.",
+  "id" : "enchanters_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 spell save DC, +1 Intelligence",
+  "name" : "Enchanter's Boots",
+  "rarity" : "Rare",
+  "textureName" : "Enchanter's Boots",
+  "value" : 500,
+  "weight" : 1
+}

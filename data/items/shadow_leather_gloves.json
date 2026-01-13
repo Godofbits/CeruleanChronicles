@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gloves of midnight-black leather that seem to drink in light. Thieves and assassins wear such gloves when silence is essential. The leather makes no sound against stone or wood, and the dark color blends into shadows as if the gloves were woven from darkness itself.",
+  "id" : "shadow_leather_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Shadow Leather Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Shadow Leather Gloves",
+  "value" : 160,
+  "weight" : 0.5
+}

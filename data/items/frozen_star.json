@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d10+2",
+  "damageType" : "cold",
+  "description" : "Legend says this blade was forged from a falling star that landed in the Frozen Wastes. The metal is impossibly cold and impossibly sharp. Stars seem to glitter within its crystalline depths. Only three are known to exist. Deals 1d10+2 cold damage.",
+  "id" : "frozen_star",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Frozen Star",
+  "rarity" : "Legendary",
+  "textureName" : "Frozen Star",
+  "value" : 8000,
+  "weight" : 3.5
+}

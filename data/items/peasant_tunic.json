@@ -1,0 +1,14 @@
+{
+  "baseAC" : 10,
+  "category" : "Cloth",
+  "description" : "Rough homespun tunic in earth tones. Standard garb for farmers, laborers, and common folk. Durable enough for daily work but offers no protection in combat.",
+  "id" : "peasant_tunic",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Peasant Tunic",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Peasant Tunic",
+  "value" : 2,
+  "weight" : 3
+}

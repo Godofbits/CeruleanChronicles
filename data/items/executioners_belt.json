@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A grim belt worn by those who carry out death sentences. Heavy and reinforced, designed to support the weight of an executioner's tools. Such belts carry a dark reputation, and some say they enhance the wearer's ability to deliver decisive, fatal strikes.",
+  "id" : "executioners_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to critical hit chance",
+  "name" : "Executioner's Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Executioner's Belt",
+  "value" : 245,
+  "weight" : 0.5
+}

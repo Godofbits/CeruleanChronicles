@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots that burn with eternal flame yet never consume themselves. Forged from feathers of the phoenix, they grant the legendary bird's resilience and rebirth. When the wearer falls in battle, flames engulf them and they rise again, given one more chance at life. Greek heroes sought such boots in their quests for immortality.",
+  "id" : "phoenixfire_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire, +1 Constitution, Once per week revive at 1 HP if killed",
+  "name" : "Phoenixfire Boots",
+  "rarity" : "Rare",
+  "textureName" : "Phoenixfire Boots",
+  "value" : 1100,
+  "weight" : 1
+}

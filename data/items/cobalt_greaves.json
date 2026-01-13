@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Greaves decorated with deep blue cobalt inlays. The color is associated with scholarly pursuits and magical study. Battle-mages and warmages wear such greaves, combining protection with symbols of their arcane calling.",
+  "id" : "cobalt_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Intelligence",
+  "name" : "Cobalt Greaves",
+  "rarity" : "Uncommon",
+  "textureName" : "Cobalt Greaves",
+  "value" : 160,
+  "weight" : 1
+}

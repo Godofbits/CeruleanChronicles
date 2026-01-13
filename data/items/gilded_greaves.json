@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Greaves decorated with gold leaf and ornate engravings. More ceremonial than practical, they display wealth and status. Noble knights and commanders wear such greaves to inspire their troops and intimidate enemies.",
+  "id" : "gilded_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Charisma",
+  "name" : "Gilded Greaves",
+  "rarity" : "Uncommon",
+  "textureName" : "Gilded Greaves",
+  "value" : 195,
+  "weight" : 1
+}

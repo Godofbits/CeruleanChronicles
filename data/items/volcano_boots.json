@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots containing the captured fury of erupting volcanoes. Each step shakes the ground with barely contained power, and stomping releases gouts of flame. Clerics of forge gods and fire elementalists wear such boots, channeling volcanic wrath in battle. The boots rumble ominously, like distant thunder beneath the earth.",
+  "id" : "volcano_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire, Fire spells do +1d6 damage, Stomp creates fire (2d6 damage)",
+  "name" : "Volcano Boots",
+  "rarity" : "Rare",
+  "textureName" : "Volcano Boots",
+  "value" : 950,
+  "weight" : 1
+}

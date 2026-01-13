@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll that feels cold and hungry to the touch. This spell allows the caster to drain life force with a touch, healing their own wounds with stolen vitality. The magic mimics vampiric feeding, channeling the target's life energy directly to the caster. Necromancers developed this spell by studying true vampires, creating a temporary version of their most terrifying ability. The sensation of draining life is said to be intoxicating and addictive. Many a dark wizard has fallen to evil after tasting this power. Single use.",
+  "id" : "scroll_of_vampiric_touch",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Vampiric Touch",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Vampiric Touch",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

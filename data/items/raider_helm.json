@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A practical iron helm worn by bandits and raiders. The simple design is easy to maintain and replace, making it popular among those who live by the sword. Many bear dents and scratches from previous owners. +1 AC.",
+  "id" : "raider_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Raider Helm",
+  "rarity" : "Common",
+  "textureName" : "Raider Helm",
+  "value" : 28,
+  "weight" : 3
+}

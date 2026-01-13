@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Wraps lined with fur from winter wolves of the frozen north. They keep hands warm even in the most bitter blizzards and provide protection from ice magic. Explorers of arctic wastes consider such wraps essential equipment.",
+  "id" : "frostguard_handwraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Frostguard Handwraps",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Frostguard Handwraps",
+  "value" : 195,
+  "weight" : 0.5
+}

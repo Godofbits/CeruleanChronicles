@@ -1,0 +1,11 @@
+{
+  "description" : "A pale blue wand that's always cold to the touch and leaves frost on nearby surfaces. A reliable tool for cryomancers, ice crystals form along its length when casting. Popular in hot climates for obvious reasons. +1 spell bonus, 7 charges, cold damage.",
+  "id" : "wand_of_frost",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Frost",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of Frost",
+  "value" : 500,
+  "weight" : 1
+}

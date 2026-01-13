@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d10+1",
+  "damageType" : "piercing",
+  "description" : "Carved from the actual fang of the wyrm Scorathax the Terrible, this ivory blade retains traces of the dragon's power. It took a company of knights to slay the beast, and only one survived to claim this trophy. Deals 1d10+1 piercing damage.",
+  "id" : "dragon_tooth",
+  "isActive" : true,
+  "itemType" : "weapon",
+  "name" : "Dragon Tooth",
+  "rarity" : "Very Rare",
+  "textureName" : "Dragon Tooth",
+  "value" : 4000,
+  "weight" : 4
+}

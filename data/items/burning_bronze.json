@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+1",
+  "damageType" : "fire",
+  "description" : "An ancient bronze blade enchanted by desert sun-priests. The metal glows with inner heat and never cools. Once wielded by temple guardians of the Sun God. Deals 1d6+1 fire damage.",
+  "id" : "burning_bronze",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Burning Bronze",
+  "rarity" : "Uncommon",
+  "textureName" : "Burning Bronze",
+  "value" : 450,
+  "weight" : 3
+}

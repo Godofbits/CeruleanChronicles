@@ -1,0 +1,11 @@
+{
+  "description" : "A purple scroll inscribed with soft, lulling runes. This enchantment sends creatures into magical slumber, dropping them harmlessly to the ground. The spell was originally a mother's lullaby, transformed into arcane formula by the witch-grandmothers of old. While less effective against powerful foes, it can end conflicts with goblin raiders or guard dogs without bloodshed. Many adventurers have avoided unnecessary violence thanks to this gentle spell. Single use.",
+  "id" : "scroll_of_sleep",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Sleep",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Sleep",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

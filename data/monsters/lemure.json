@@ -1,0 +1,110 @@
+{
+    "id": "lemure",
+    "isActive": false,
+    "name": "Lemure",
+    "size": "medium",
+    "type": "fiend",
+    "subtype": "devil",
+    "alignment": "lawfulEvil",
+
+    "armorClass": 7,
+    "armorType": null,
+    "hitDice": {
+        "count": 3,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 15
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 10,
+        "dexterity": 5,
+        "constitution": 11,
+        "intelligence": 1,
+        "wisdom": 11,
+        "charisma": 3
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold", "condition": null }
+    ],
+    "immunities": ["fire", "poison"],
+    "conditionImmunities": ["charmed", "frightened", "poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Infernal (understands but can't speak)"],
+    "telepathyRange": null,
+
+    "challengeRating": "0",
+    "experiencePoints": 10,
+
+    "texture": "Lemure01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "abyssal",
+        "description": "Lemures are the lowest form of devil, mindless blobs of molten flesh that were once mortal souls condemned to the Nine Hells. They reform endlessly unless destroyed by holy means, serving as the base material from which greater devils are shaped.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Devil's Sight",
+            "description": "Magical darkness doesn't impede the lemure's darkvision.",
+            "effect": {
+                "type": "devilsSight",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Hellish Rejuvenation",
+            "description": "A lemure that dies in the Nine Hells comes back to life with all its hit points in 1d10 days unless it is killed by a good-aligned creature with a bless spell cast on that creature or its remains are sprinkled with holy water.",
+            "effect": {
+                "type": "hellishRejuvenation",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Fist",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 0,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

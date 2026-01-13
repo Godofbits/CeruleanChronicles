@@ -1,0 +1,16 @@
+{
+  "acBonus" : 4,
+  "category" : "Plate",
+  "description" : "Greaves forged from meteoric ice that fell from the void between stars, metal that has never known warmth. Crafted by frost giants in the uttermost north where winter never ends, these leg plates radiate intense cold. The ground freezes where the wearer walks, leaving a trail of frost. Those who fight near the wearer find their movements slowed by sudden ice, while the wearer remains unaffected by any cold. The Helm Hammerhand, King of Rohan, wore such greaves during the Long Winter, walking through blizzards that would have frozen lesser men solid.",
+  "id" : "frozen_tundra_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to cold, +3 Constitution, Frozen ground (difficult terrain for enemies)",
+  "name" : "Frozen Tundra Greaves",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Frozen_Tundra_Greaves",
+  "value" : 7200,
+  "weight" : 17
+}

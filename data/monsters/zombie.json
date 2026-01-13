@@ -1,0 +1,102 @@
+{
+    "id": "zombie",
+    "isActive": false,
+    "name": "Zombie",
+    "size": "medium",
+    "type": "undead",
+    "subtype": null,
+    "alignment": "neutralEvil",
+
+    "armorClass": 8,
+    "armorType": null,
+    "hitDice": {
+        "count": 3,
+        "die": "d8",
+        "modifier": 9
+    },
+    "speeds": {
+        "walk": 20
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 13,
+        "dexterity": 6,
+        "constitution": 16,
+        "intelligence": 3,
+        "wisdom": 6,
+        "charisma": 5
+    },
+
+    "savingThrows": ["wisdom"],
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 8,
+    "languages": ["understands the languages it knew in life but cannot speak"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "mons_zombie_01",
+
+    "habitat": {
+        "environments": ["dungeon", "ruins", "underground", "urban"],
+        "depth": "shallow",
+        "description": "Zombies shamble through graveyards, crypts, and any place touched by necromantic magic. They are commonly raised by evil spellcasters as tireless guardians or soldiers, mindlessly following their last command until destroyed.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Undead Fortitude",
+            "description": "If damage reduces the zombie to 0 hit points, it must make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the zombie drops to 1 hit point instead.",
+            "effect": {
+                "type": "undeadFortitude",
+                "parameters": {
+                    "baseDC": 5
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Slam",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 1,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

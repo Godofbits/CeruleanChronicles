@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A sash woven from shadow-silk and stained with the essence of death. Dreadlords, those who have mastered the darkest necromantic arts, wear such sashes as symbols of their terrible power. The sash enhances the wearer's ability to command undead and makes their death magic nearly irresistible. Those who don this sash feel the pull of the grave, hearing the whispers of the restless dead.",
+  "id" : "dreadlords_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Charisma, +1 spell save DC for necromancy, Command undead",
+  "name" : "Dreadlord's Sash",
+  "rarity" : "Very Rare",
+  "textureName" : "Dreadlord's Sash",
+  "value" : 7500,
+  "weight" : 0.5
+}

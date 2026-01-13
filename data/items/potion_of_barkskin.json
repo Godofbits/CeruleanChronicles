@@ -1,0 +1,13 @@
+{
+  "description" : "Your skin becomes as tough as tree bark. Your AC becomes 16 (if it's not already higher) for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_barkskin",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Barkskin",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Barkskin",
+  "value" : 175,
+  "weight" : 0.5
+}

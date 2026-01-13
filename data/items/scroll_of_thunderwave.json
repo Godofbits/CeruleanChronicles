@@ -1,0 +1,11 @@
+{
+  "description" : "A tightly rolled scroll that rumbles with barely contained thunder. This spell unleashes a wave of thunderous force that throws back enemies and shatters glass. Storm giants first taught this magic to mortal wizards as a gift, showing them how to channel the voice of thunder itself. The boom can be heard for miles, making stealth impossible but announcing the caster's power unmistakably. Single use.",
+  "id" : "scroll_of_thunderwave",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Thunderwave",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Thunderwave",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

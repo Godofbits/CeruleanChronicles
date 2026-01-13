@@ -1,0 +1,129 @@
+{
+    "id": "mummy",
+    "isActive": false,
+    "name": "Mummy",
+    "size": "medium",
+    "type": "undead",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 11,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 9,
+        "die": "d8",
+        "modifier": 18
+    },
+    "speeds": {
+        "walk": 20
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 16,
+        "dexterity": 8,
+        "constitution": 15,
+        "intelligence": 6,
+        "wisdom": 10,
+        "charisma": 12
+    },
+
+    "savingThrows": ["wisdom"],
+    "skills": null,
+
+    "vulnerabilities": ["fire"],
+    "resistances": [
+        { "type": "bludgeoning", "condition": "from nonmagical attacks" },
+        { "type": "piercing", "condition": "from nonmagical attacks" },
+        { "type": "slashing", "condition": "from nonmagical attacks" }
+    ],
+    "immunities": ["necrotic", "poison"],
+    "conditionImmunities": ["charmed", "exhaustion", "frightened", "paralyzed", "poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "3",
+    "experiencePoints": 700,
+
+    "texture": "mons_mummy_01",
+
+    "habitat": {
+        "environments": ["ruins", "dungeon", "desert"],
+        "depth": "deep",
+        "description": "Mummies are the preserved corpses of ancient nobles and priests, bound by dark rituals to guard their tombs for eternity. They rise to destroy any who disturb their rest, spreading a terrible curse with their rotting touch.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The mummy can use its Dreadful Glare and makes one attack with its rotting fist.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Rotting Fist",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) bludgeoning damage plus 10 (3d6) necrotic damage. If the target is a creature, it must succeed on a DC 12 Constitution saving throw or be cursed with mummy rot.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "bludgeoning"
+                    },
+                    {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "necrotic"
+                    }
+                ]
+            },
+            "save": {
+                "type": "constitution",
+                "dc": 12,
+                "onFail": "cursed",
+                "onSuccess": "none"
+            },
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Dreadful Glare",
+            "description": "The mummy targets one creature it can see within 60 feet of it. If the target can see the mummy, it must succeed on a DC 11 Wisdom saving throw against this magic or become frightened until the end of the mummy's next turn.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "type": "wisdom",
+                "dc": 11,
+                "onFail": "frightened",
+                "onSuccess": "none"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

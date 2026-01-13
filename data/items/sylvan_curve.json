@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d6",
+  "damageType" : "slashing",
+  "description" : "An elegantly curved blade grown from a living tree by wood elf druids. The wood is harder than steel yet light as a feather. Leaves seem to sprout from the handle in springtime. Deals 1d6 slashing damage.",
+  "id" : "sylvan_curve",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Sylvan Curve",
+  "rarity" : "Uncommon",
+  "textureName" : "Sylvan Curve",
+  "value" : 200,
+  "weight" : 2
+}

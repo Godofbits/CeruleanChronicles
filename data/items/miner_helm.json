@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A sturdy leather and metal helm worn by miners and tunnelers. The reinforced crown protects against falling rocks, and a bracket on the front holds a candle or small lantern for light in dark tunnels. +1 AC.",
+  "id" : "miner_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Miner Helm",
+  "rarity" : "Common",
+  "textureName" : "Miner Helm",
+  "value" : 25,
+  "weight" : 2.5
+}

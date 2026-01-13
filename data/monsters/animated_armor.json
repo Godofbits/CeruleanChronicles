@@ -1,0 +1,117 @@
+{
+    "id": "animated_armor",
+    "isActive": false,
+    "name": "Animated Armor",
+    "size": "medium",
+    "type": "construct",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 18,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 6,
+        "die": "d8",
+        "modifier": 6
+    },
+    "speeds": {
+        "walk": 25
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 14,
+        "dexterity": 11,
+        "constitution": 13,
+        "intelligence": 1,
+        "wisdom": 3,
+        "charisma": 1
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["poison", "psychic"],
+    "conditionImmunities": ["blinded", "charmed", "deafened", "exhaustion", "frightened", "paralyzed", "petrified", "poisoned"],
+
+    "senses": [
+        { "sense": "blindsight", "range": 60 }
+    ],
+    "passivePerception": 6,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1",
+    "experiencePoints": 200,
+
+    "texture": "AnimatedArmor_01",
+
+    "habitat": {
+        "environments": ["dungeon", "ruins", "urban"],
+        "depth": "shallow",
+        "description": "Animated armor stands sentinel in wizard towers and noble estates, springing to life when intruders approach. Created through transmutation magic, these constructs follow their last orders until destroyed or dispelled.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Antimagic Susceptibility",
+            "description": "The armor is incapacitated while in the area of an antimagic field. If targeted by dispel magic, the armor must succeed on a Constitution saving throw against the caster's spell save DC or fall unconscious for 1 minute.",
+            "effect": {
+                "type": "antimagicSusceptibility",
+                "parameters": null
+            }
+        },
+        {
+            "name": "False Appearance",
+            "description": "While the armor remains motionless, it is indistinguishable from a normal suit of armor.",
+            "effect": {
+                "type": "falseAppearance",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The armor makes two melee attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Slam",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

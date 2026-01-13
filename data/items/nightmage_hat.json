@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A dark wizard's hat decorated with stars and moons. Favored by mages who draw power from the night sky, the hat grants darkvision and enhances illusion magic. The stars seem to twinkle even in daylight. +0 AC.",
+  "id" : "nightmage_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Nightmage Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Nightmage Hat",
+  "value" : 380,
+  "weight" : 0.40000000000000002
+}

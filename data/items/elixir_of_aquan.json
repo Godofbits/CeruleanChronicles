@@ -1,0 +1,13 @@
+{
+  "description" : "This clear blue potion allows you to speak and understand Aquan, the language of water elementals and aquatic creatures, for 8 hours.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "elixir_of_aquan",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Aquan",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Elixir of Aquan",
+  "value" : 175,
+  "weight" : 0.5
+}

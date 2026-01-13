@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A fearsome samurai helm forged in the shape of an oni demon. The iron face mask is enchanted to inspire terror in enemies, and legend says it contains a fragment of an actual demon's spirit. Those who wear it too long begin to have nightmares of the demon realm. +2 AC.",
+  "id" : "oni_kabuto",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Oni Kabuto",
+  "rarity" : "Very Rare",
+  "textureName" : "Oni Kabuto",
+  "value" : 3800,
+  "weight" : 4
+}

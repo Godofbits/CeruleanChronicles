@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that crackles with barely contained flame. The wielder can hurl bolts of fire without limit, never exhausting the staff's power. Battle-mages favor such reliable implements of destruction.",
+  "id" : "staff_of_firebolt",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Firebolt",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Firebolt",
+  "value" : 1000,
+  "weight" : 3
+}

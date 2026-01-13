@@ -1,0 +1,11 @@
+{
+  "description" : "A twisted wooden wand with a deep blue sapphire at its tip. Sapphires enhance mental magic and psychic abilities. This gem was mined from the Mountains of the Mind, where psionics are strongest. +1 spell bonus, 7 charges.",
+  "id" : "sapphire_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sapphire Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Sapphire Wand",
+  "value" : 550,
+  "weight" : 1
+}

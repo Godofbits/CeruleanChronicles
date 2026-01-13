@@ -1,0 +1,236 @@
+{
+    "id": "black_dragon",
+    "isActive": true,
+    "name": "Black Dragon",
+    "sortName": "Dragon, Black",
+    "size": "huge",
+    "type": "dragon",
+    "subtype": null,
+    "alignment": "chaoticEvil",
+
+    "armorClass": 19,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 17,
+        "die": "d12",
+        "modifier": 85
+    },
+    "speeds": {
+        "walk": 40,
+        "fly": 80,
+        "swim": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 23,
+        "dexterity": 14,
+        "constitution": 21,
+        "intelligence": 14,
+        "wisdom": 13,
+        "charisma": 17
+    },
+
+    "savingThrows": ["dexterity", "constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "perception", "bonus": 11 },
+        { "skill": "stealth", "bonus": 7 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["acid"],
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 60 },
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 21,
+    "languages": ["Common", "Draconic"],
+    "telepathyRange": null,
+
+    "challengeRating": "14",
+    "experiencePoints": 11500,
+
+    "texture": "BlackDragon_01",
+
+    "habitat": {
+        "environments": ["swamp", "forest", "underground"],
+        "depth": "deep",
+        "description": "Black dragons make their lairs in the dismal depths of swamps and crumbling ruins. Their acid breath dissolves flesh and bone alike, and they take sadistic pleasure in watching their prey suffer. Masters of ambush, they lurk beneath murky waters before striking.",
+        "rarity": "very rare"
+    },
+
+    "traits": [
+        {
+            "name": "Amphibious",
+            "description": "The dragon can breathe air and water.",
+            "effect": null
+        },
+        {
+            "name": "Legendary Resistance",
+            "description": "If the dragon fails a saving throw, it can choose to succeed instead (3/day).",
+            "effect": {
+                "type": "legendaryResistance",
+                "parameters": {
+                    "uses": 3
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 4 (1d8) acid damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 11,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d10",
+                        "modifier": 6,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 0,
+                        "type": "acid"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +11 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 11,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 6,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tail",
+            "description": "Melee Weapon Attack: +11 to hit, reach 15 ft., one target. Hit: 15 (2d8 + 6) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 11,
+                "reach": 15,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 6,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Frightful Presence",
+            "description": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 16 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 16,
+                "type": "wisdom",
+                "onFail": "frightened",
+                "onSuccess": "none"
+            },
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Acid Breath",
+            "description": "The dragon exhales acid in a 60-foot line that is 5 feet wide. Each creature in that line must make a DC 18 Dexterity saving throw, taking 54 (12d8) acid damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 18,
+                "type": "dexterity",
+                "onFail": "full damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": {
+                "range": [5, 6]
+            },
+            "onHit": [
+                {
+                    "type": "damage",
+                    "saveDC": 18,
+                    "saveType": "dexterity",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 12,
+                        "dieType": "d8",
+                        "modifier": 0,
+                        "type": "acid"
+                    },
+                    "description": "60 ft line, DC 18 Dex save, 12d8 acid damage (half on success)"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": [
+        {
+            "name": "Detect",
+            "description": "The dragon makes a Wisdom (Perception) check.",
+            "cost": 1
+        },
+        {
+            "name": "Tail Attack",
+            "description": "The dragon makes a tail attack.",
+            "cost": 1
+        },
+        {
+            "name": "Wing Attack",
+            "description": "The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 19 Dexterity saving throw or take 13 (2d6 + 6) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.",
+            "cost": 2
+        }
+    ],
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

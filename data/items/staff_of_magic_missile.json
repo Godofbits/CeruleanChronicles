@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that fires unerring bolts of magical force. The missiles never miss their target and can be fired endlessly. Battle-mages prize such staffs for their reliability—when you absolutely must hit, magic missile delivers. The staff glows with arcane symbols when activated, each missile launching with a distinctive sound like a bowstring releasing.",
+  "id" : "staff_of_magic_missile",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Magic Missile",
+  "rarity" : "Very Rare",
+  "textureName" : "Staff of Magic Missile",
+  "value" : 5000,
+  "weight" : 3
+}

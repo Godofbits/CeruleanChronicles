@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that channels the power of ocean currents. It aids in swimming and allows limited control over the flow of water. Sea wizards use such staffs to navigate treacherous tides.",
+  "id" : "staff_of_currents",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Currents",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of Currents",
+  "value" : 280,
+  "weight" : 3
+}

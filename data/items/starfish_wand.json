@@ -1,0 +1,11 @@
+{
+  "description" : "A coral wand topped with a preserved magical starfish. Sea witches use these to channel the regenerative power of the ocean. The starfish occasionally wiggles its arms as if still alive. +1 spell bonus, 7 charges.",
+  "id" : "starfish_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Starfish Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Starfish Wand",
+  "value" : 380,
+  "weight" : 0.5
+}

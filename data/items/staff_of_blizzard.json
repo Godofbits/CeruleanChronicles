@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that summons terrible winter storms with a gesture. Snow swirls around it constantly, and frost creeps across any surface it touches. Northern wizards who command blizzards carry such staffs, bringing winter's wrath to their enemies.",
+  "id" : "staff_of_blizzard",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Blizzard",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Blizzard",
+  "value" : 1400,
+  "weight" : 3
+}

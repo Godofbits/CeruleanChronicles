@@ -1,0 +1,11 @@
+{
+  "description" : "A delicate scroll bearing a spell of beauty and utility. Dancing Lights conjures up to four floating orbs of light that can be moved at will, allowing the caster to illuminate areas from a distance or create mesmerizing displays. Will-o'-wisps inspired this spell, though the magical version lacks their malevolent intent. Performers use dancing lights for theatrical effects, while explorers send them into dark corridors ahead of the party. Single use.",
+  "id" : "scroll_of_dancing_lights",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Dancing Lights",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Dancing Lights",
+  "value" : 10,
+  "weight" : 0.10000000000000001
+}

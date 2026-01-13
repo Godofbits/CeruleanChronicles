@@ -1,0 +1,11 @@
+{
+  "description" : "A crystalline ice feather wand that sparkles with frost magic. Plucked from the wings of a winter phoenix, this feather never melts and radiates perpetual cold. Ice spells cast through it form with exquisite crystalline patterns. +1 spell bonus, 7 charges, cold damage.",
+  "id" : "frostfeather_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Frostfeather Wand",
+  "rarity" : "Rare",
+  "textureName" : "Frostfeather Wand",
+  "value" : 1200,
+  "weight" : 0.5
+}

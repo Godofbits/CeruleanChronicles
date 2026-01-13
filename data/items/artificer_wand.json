@@ -1,0 +1,11 @@
+{
+  "description" : "A metallic wand fitted with gears and a glowing blue gem, designed by gnomish artificers. The clockwork mechanisms amplify and focus magical energy with mechanical precision. Popular among technomancers who blend magic with engineering. +1 spell bonus, 10 charges.",
+  "id" : "artificer_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Artificer Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Artificer Wand",
+  "value" : 500,
+  "weight" : 1.5
+}

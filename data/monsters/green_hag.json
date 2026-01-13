@@ -1,0 +1,134 @@
+{
+    "id": "green_hag",
+    "isActive": false,
+    "name": "Green Hag",
+    "size": "medium",
+    "type": "fey",
+    "subtype": null,
+    "alignment": "neutralEvil",
+
+    "armorClass": 17,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 11,
+        "die": "d8",
+        "modifier": 33
+    },
+    "speeds": {
+        "walk": 30,
+        "swim": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 12,
+        "constitution": 16,
+        "intelligence": 13,
+        "wisdom": 14,
+        "charisma": 14
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "arcana", "bonus": 3 },
+        { "skill": "deception", "bonus": 4 },
+        { "skill": "perception", "bonus": 4 },
+        { "skill": "stealth", "bonus": 3 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 14,
+    "languages": ["Common", "Draconic", "Sylvan"],
+    "telepathyRange": null,
+
+    "challengeRating": "3",
+    "experiencePoints": 700,
+
+    "texture": "GreenHag_01",
+
+    "habitat": {
+        "environments": ["swamp", "forest"],
+        "depth": "surface",
+        "description": "Green hags dwell in dismal swamps and dark forests, corrupting the land around their lairs with their foul presence. They delight in twisting bargains and using illusions to lead travelers into deadly traps.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Amphibious",
+            "description": "The hag can breathe air and water.",
+            "effect": {
+                "type": "amphibious",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Mimicry",
+            "description": "The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.",
+            "effect": {
+                "type": "mimicry",
+                "parameters": {
+                    "dc": 14
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Illusory Appearance",
+            "description": "The hag covers herself and anything she is wearing or carrying with a magical illusion that makes her look like another creature of her general size and humanoid shape. The illusion ends if the hag takes a bonus action to end it or if she dies.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Invisible Passage",
+            "description": "The hag magically turns invisible until she attacks or casts a spell, or until her concentration ends. While invisible, she leaves no physical evidence of her passage.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Dark leather leggings designed for stealth. Thieves and assassins wear these when silence is essential. The leather is specially treated to make no sound.",
+  "id" : "rogue_shadow_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Rogue Shadow Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Rogue_Shadow_Leggings",
+  "value" : 22,
+  "weight" : 2.5
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Pure white robes that seem to glow with inner radiance, woven from the same celestial light that the Valar used to shape the Two Trees. These garments were gifts from the Maiar to the greatest clerics of the Third Age, marking them as chosen servants of the divine. The robes grant the ability to fly on wings of light and dramatically enhance all divine magic. Those who wear them appear angelic, radiating an aura of peace and holiness that comforts allies and terrifies evil creatures. The robes have witnessed miracles and walked in the presence of gods, carrying echoes of celestial glory.",
+  "id" : "celestial_angel_robes",
+  "isActive" : true,
+  "itemType" : "armor",
+  "magicEffect" : "+3 Wisdom, +2 spell save DC, Flight 60 feet",
+  "name" : "Celestial Angel Robes",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Celestial_Angel_Robes",
+  "value" : 8000,
+  "weight" : 0.5
+}

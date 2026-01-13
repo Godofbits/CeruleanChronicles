@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots crafted from materials gathered in untamed wilderness. They carry the scent of deep forest, and animals react less fearfully to those who wear them. Beastmasters and those who work with wild creatures favor such boots.",
+  "id" : "wildwood_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Animal Handling",
+  "name" : "Wildwood Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Wildwood Boots",
+  "value" : 165,
+  "weight" : 1
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A simple brown hood worn by monks and friars. The humble design reflects the wearer's vow of poverty, though some monasteries are known to weave protective prayers into the fabric. +0 AC.",
+  "id" : "monk_cowl",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Monk Cowl",
+  "rarity" : "Common",
+  "textureName" : "Monk Cowl",
+  "value" : 5,
+  "weight" : 0.20000000000000001
+}

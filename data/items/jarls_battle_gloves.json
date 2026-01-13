@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Iron gauntlets worn by Norse jarls when leading their warriors to battle. The metal is dark and intimidating, marked with runes of power. These gauntlets speak of authority earned through strength and victory in countless raids.",
+  "id" : "jarls_battle_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Jarl's Battle Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Jarl's Battle Gloves",
+  "value" : 220,
+  "weight" : 0.5
+}

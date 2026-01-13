@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A sophisticated close helm with a hinged visor, representing the pinnacle of medieval armorsmithing. The two-piece construction allows the wearer to open the helm for better visibility or close it for maximum protection. +2 AC.",
+  "id" : "knight_armet",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Knight Armet",
+  "rarity" : "Uncommon",
+  "textureName" : "Knight Armet",
+  "value" : 175,
+  "weight" : 4.5
+}

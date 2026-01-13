@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A purple amethyst that clouds the thoughts of would-be mind readers. Ancient Greek mystics believed amethyst prevented intoxication and mental manipulation. This ring keeps your thoughts your own.",
+  "id" : "amethyst_of_mind_shielding",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to telepathy, +2 Insight",
+  "name" : "Amethyst of Mind Shielding",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_51",
+  "value" : 520,
+  "weight" : 0
+}

@@ -1,0 +1,161 @@
+{
+    "id": "marilith",
+    "isActive": false,
+    "name": "Marilith",
+    "size": "large",
+    "type": "fiend",
+    "subtype": "demon",
+    "alignment": "chaoticEvil",
+
+    "armorClass": 18,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 18,
+        "die": "d10",
+        "modifier": 90
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 20,
+        "constitution": 20,
+        "intelligence": 18,
+        "wisdom": 16,
+        "charisma": 20
+    },
+
+    "savingThrows": ["strength", "constitution", "wisdom", "charisma"],
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold" },
+        { "type": "fire" },
+        { "type": "lightning" },
+        { "type": "bludgeoning", "condition": "nonmagical" },
+        { "type": "piercing", "condition": "nonmagical" },
+        { "type": "slashing", "condition": "nonmagical" }
+    ],
+    "immunities": ["poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "truesight", "range": 120 }
+    ],
+    "passivePerception": 13,
+    "languages": ["Abyssal"],
+    "telepathyRange": 120,
+
+    "challengeRating": "16",
+    "experiencePoints": 15000,
+
+    "texture": "Marilith_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "abyssal",
+        "description": "Mariliths are six-armed serpent demons who serve as generals in the Blood War, commanding legions of lesser fiends with ruthless tactical brilliance. Their mastery of blade and strategy makes them among the most feared of the Abyss's denizens.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Magic Resistance",
+            "description": "The marilith has advantage on saving throws against spells and other magical effects.",
+            "effect": null
+        },
+        {
+            "name": "Magic Weapons",
+            "description": "The marilith's weapon attacks are magical.",
+            "effect": null
+        },
+        {
+            "name": "Reactive",
+            "description": "The marilith can take one reaction on every turn in a combat.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The marilith makes seven attacks: six with its longswords and one with its tail.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Longsword",
+            "description": "Melee Weapon Attack: +9 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 9,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tail",
+            "description": "Melee Weapon Attack: +9 to hit, reach 10 ft., one creature. Hit: 15 (2d10 + 4) bludgeoning damage. If the target is Medium or smaller, it is grappled (escape DC 19). Until this grapple ends, the target is restrained, the marilith can automatically hit the target with its tail, and the marilith can't make tail attacks against other targets.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 9,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d10",
+                        "modifier": 4,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Teleport",
+            "description": "The marilith magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": [
+        {
+            "name": "Parry",
+            "trigger": "The marilith is hit by a melee attack",
+            "description": "The marilith adds 5 to its AC against one melee attack that would hit it. To do so, the marilith must see the attacker and be wielding a melee weapon."
+        }
+    ],
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

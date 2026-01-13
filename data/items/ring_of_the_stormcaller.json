@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A blue sapphire that crackles with electrical energy. Thor's priests wore such rings to prove their devotion, channeling the storm god's wrath against their enemies.",
+  "id" : "ring_of_the_stormcaller",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Cast Call Lightning 1\/day, Resistance to lightning",
+  "name" : "Ring of the Stormcaller",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_42",
+  "value" : 650,
+  "weight" : 0
+}

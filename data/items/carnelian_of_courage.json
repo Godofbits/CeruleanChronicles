@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A deep orange-red carnelian stone. Roman soldiers wore such rings into battle, believing they granted bravery and protection.",
+  "id" : "carnelian_of_courage",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to saves vs fear",
+  "name" : "Carnelian of Courage",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_17",
+  "value" : 85,
+  "weight" : 0
+}

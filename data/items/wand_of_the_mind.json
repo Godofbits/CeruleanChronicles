@@ -1,0 +1,11 @@
+{
+  "description" : "A purple crystal wand that hums with psionic energy. Created by mind flayer defectors who sought to use their powers for good, it enhances telepathy and mental magic. Thoughts become clearer, and mental defenses strengthen. +2 spell bonus, 10 charges.",
+  "id" : "wand_of_the_mind",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Mind",
+  "rarity" : "Rare",
+  "textureName" : "Wand of the Mind",
+  "value" : 3500,
+  "weight" : 0.5
+}

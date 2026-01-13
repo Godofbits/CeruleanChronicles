@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A gladiator's face-cage helm designed for arena combat. The iron grating protects while allowing the crowd to see the fighter's expressions. Veterans of the Blood Pits consider them lucky. +2 AC.",
+  "id" : "arena_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Arena Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Arena Helm",
+  "value" : 85,
+  "weight" : 4
+}

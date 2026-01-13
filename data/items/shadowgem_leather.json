@@ -1,0 +1,14 @@
+{
+  "baseAC" : 12,
+  "category" : "Light",
+  "description" : "Black leather studded with dark purple gems that seem to absorb light. Crafted by the dark elves of the Underdark, this armor grants its wearer advantage on Stealth checks in dim light or darkness. The shadowgems are said to be crystallized darkness from the Shadowfell itself.",
+  "id" : "shadowgem_leather",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Shadowgem Leather",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Shadowgem Leather",
+  "value" : 250,
+  "weight" : 9
+}

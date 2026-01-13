@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A tall ceremonial hat worn by oracles and prophets. The swirling patterns represent the threads of fate, and the wearer sometimes receives visions of future events. Many oracles go blind from the intensity of their visions, yet claim they now see more clearly than ever. +0 AC.",
+  "id" : "oracle_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Oracle Hat",
+  "rarity" : "Rare",
+  "textureName" : "Oracle Hat",
+  "value" : 2200,
+  "weight" : 0.40000000000000002
+}

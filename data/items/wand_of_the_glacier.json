@@ -1,0 +1,11 @@
+{
+  "description" : "A massive crystal wand carved from eternal ice that never melts. Cut from the heart of the World Glacier by frost giant shamans, it contains the cold of ten thousand winters. Ice forms wherever it points, and blizzards answer its call. +2 spell bonus, 10 charges, cold damage.",
+  "id" : "wand_of_the_glacier",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Glacier",
+  "rarity" : "Very Rare",
+  "textureName" : "Wand of the Glacier",
+  "value" : 5800,
+  "weight" : 1.5
+}

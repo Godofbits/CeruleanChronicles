@@ -1,0 +1,11 @@
+{
+  "description" : "A blue scroll covered in crystalline frost patterns. This spell creates a massive wall of solid ice that blocks passage and radiates intense cold. The ice is thick enough to stop projectiles and durable enough to withstand considerable punishment before shattering. Frost mages use these walls to divide battlefields, protect allies, or entomb enemies in frozen prisons. The wall can be shaped into a dome or a line, adapting to tactical needs. The ice persists far longer than mundane cold would allow. Single use.",
+  "id" : "scroll_of_wall_of_ice",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Wall of Ice",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Wall of Ice",
+  "value" : 400,
+  "weight" : 0.10000000000000001
+}

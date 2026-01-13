@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Thick leather gloves worn by those who work with hides and chemicals. The leather is treated to resist the harsh tanning solutions. Practical and durable, favored by craftsmen who need reliable hand protection.",
+  "id" : "tanner_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Tanner Gloves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Tanner Gloves",
+  "value" : 8,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots reinforced with wood from thorn trees. The thorns that would normally tear flesh seem to avoid these boots, allowing passage through the densest briars. Those who must traverse thorny hedgerows prize such boots highly.",
+  "id" : "thornwood_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immune to damage from natural thorns and brambles",
+  "name" : "Thornwood Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Thornwood Boots",
+  "value" : 180,
+  "weight" : 1
+}

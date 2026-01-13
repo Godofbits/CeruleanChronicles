@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Gray gloves blessed by Odin, the All-Father who sacrificed his eye for wisdom. They grant supernatural perception and insight into hidden truths. The wearer sees through illusions and deceptions, perceiving reality as it truly is. Odin's ravens, Thought and Memory, are embroidered on the palms in silver thread.",
+  "id" : "odins_wisdom_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Odin's Wisdom Gloves",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Odin's Wisdom Gloves",
+  "value" : 9000,
+  "weight" : 0.5
+}

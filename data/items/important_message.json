@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll marked with symbols indicating urgency. Important messages carry news that cannot wait—approaching threats, opportunities requiring immediate action, or personal emergencies. Couriers who deliver such scrolls often travel day and night, changing horses at posting stations to maintain speed. The contents might announce anything from an impending siege to a profitable business deal that expires within days. Time is of the essence.",
+  "id" : "important_message",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Important Message",
+  "rarity" : "Common",
+  "textureName" : "Important Message",
+  "value" : 5,
+  "weight" : 0.10000000000000001
+}

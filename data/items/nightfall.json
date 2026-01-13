@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "necrotic",
+  "description" : "When drawn, this black blade seems to drink in surrounding light. Assassins of the Shadow Guild carried these weapons, striking silently in the darkness they created. The Guild fell, but their blades remain. Deals 1d8+1 necrotic damage.",
+  "id" : "nightfall",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Nightfall",
+  "rarity" : "Rare",
+  "textureName" : "Nightfall",
+  "value" : 1500,
+  "weight" : 3
+}

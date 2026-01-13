@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that shifts and changes, never quite the same twice. It channels raw chaos magic—unpredictable, dangerous, and tremendously powerful. Each spell cast through it triggers wild magical surges. Sorcerers touched by chaos and those who embrace randomness wield such staffs, accepting the risks for the rewards. The staff might turn you into a potted plant or unleash a meteor swarm—you never know until you try.",
+  "id" : "staff_of_chaos",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Chaos",
+  "rarity" : "Very Rare",
+  "textureName" : "Staff of Chaos",
+  "value" : 6500,
+  "weight" : 3
+}

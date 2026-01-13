@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A steel helm coated in permanent frost, worn by the elite knights of the Winter Kingdom. The enchantment keeps the wearer cool in any climate and grants resistance to fire damage. Enemies struck in melee feel a biting chill seep into their bones. +2 AC.",
+  "id" : "frost_knight_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Frost Knight Helm",
+  "rarity" : "Rare",
+  "textureName" : "Frost Knight Helm",
+  "value" : 1800,
+  "weight" : 4.5
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A belt crafted from the scales of a leviathan, one of the primordial sea monsters that dwelt in the oceans before the world was fully formed. The scales are as large as shields and shimmer with the deep blue-green of the abyssal depths. This belt grants mastery over water, allowing the wearer to breathe, swim with supernatural speed, and dive to any depth without harm from pressure. Sailors tell tales of heroes who wore such belts to challenge the monsters of the deep in their own domain.",
+  "id" : "leviathan_scale_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 Constitution, Water breathing, Swim speed 60 feet, Immunity to pressure",
+  "name" : "Leviathan Scale Belt",
+  "rarity" : "Very Rare",
+  "textureName" : "Leviathan Scale Belt",
+  "value" : 7800,
+  "weight" : 0.5
+}

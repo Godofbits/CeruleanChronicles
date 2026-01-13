@@ -1,0 +1,13 @@
+{
+  "description" : "This bright green potion immediately cures poison and grants immunity to poison for 1 hour.",
+  "effect" : "Cures the poisoned condition immediately.",
+  "id" : "potion_of_antivenom",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Antivenom",
+  "potionType" : "Antidote",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Antivenom",
+  "value" : 95,
+  "weight" : 0.5
+}

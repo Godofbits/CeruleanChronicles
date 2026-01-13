@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A deep blue stone flecked with gold, like the night sky. Egyptian priests wore lapis lazuli to commune with the divine.",
+  "id" : "lapis_lazuli_of_the_heavens",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Religion checks",
+  "name" : "Lapis Lazuli of the Heavens",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_20",
+  "value" : 95,
+  "weight" : 0
+}

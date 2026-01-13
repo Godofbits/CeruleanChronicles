@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "cold",
+  "description" : "A blade of pure crystallized ice that never melts, harvested from the Frozen Throne of the Winter Queen. Those cut by it feel an unnatural chill that slows their movements. Deals 1d8 cold damage.",
+  "id" : "crystalfrost",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Crystalfrost",
+  "rarity" : "Rare",
+  "textureName" : "Crystalfrost",
+  "value" : 1100,
+  "weight" : 2.5
+}

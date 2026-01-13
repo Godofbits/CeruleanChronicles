@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt forged from shadowsteel, a rare metal that seems to absorb light rather than reflect it. The belt aids those who move unseen, drawing shadows around the wearer like a cloak. Assassins and spies seek out shadowsteel equipment, for it makes them nearly invisible when they stand in darkness.",
+  "id" : "shadowsteel_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Stealth, Advantage on hiding in shadows",
+  "name" : "Shadowsteel Belt",
+  "rarity" : "Rare",
+  "textureName" : "Shadowsteel Belt",
+  "value" : 750,
+  "weight" : 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A golden staff topped with a crystal that blooms like a flower made of solidified sunlight. It can unleash devastating beams of solar fire. Priests who serve the sun god at high noon carry such staffs, channeling daylight's full glory.",
+  "id" : "staff_of_sunbloom",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Sunbloom",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Sunbloom",
+  "value" : 1600,
+  "weight" : 3
+}

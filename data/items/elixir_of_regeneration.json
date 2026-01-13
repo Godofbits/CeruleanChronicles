@@ -1,0 +1,13 @@
+{
+  "description" : "Brewed from the essence of trolls and salamanders, this scarlet elixir grants regenerative properties. Regain 8d4+8 hit points immediately and heal 1 HP per minute for the next hour.",
+  "effect" : "Heals 8d4+8 HP (avg 28)",
+  "id" : "elixir_of_regeneration",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Regeneration",
+  "potionType" : "Potion of Superior Healing",
+  "rarity" : "Rare",
+  "textureName" : "Elixir of Regeneration",
+  "value" : 500,
+  "weight" : 0.5
+}

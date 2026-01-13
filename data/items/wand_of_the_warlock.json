@@ -1,0 +1,11 @@
+{
+  "description" : "A dark wand inscribed with eldritch runes that pulse with otherworldly power. Given to warlocks by their patrons, each one is unique to its binding contract. The runes whisper the patron's name when powerful spells are cast. +2 spell bonus, 10 charges, force damage.",
+  "id" : "wand_of_the_warlock",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Warlock",
+  "rarity" : "Rare",
+  "textureName" : "Wand of the Warlock",
+  "value" : 3800,
+  "weight" : 1
+}

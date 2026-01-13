@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A verdant emerald said to contain a leaf from the World Tree. Norse druids carved such stones from branches that fell from Yggdrasil's crown. The ring pulses with the life force of all growing things.",
+  "id" : "emerald_of_yggdrasil",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Speak with plants at will, +1 Nature",
+  "name" : "Emerald of Yggdrasil",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_31",
+  "value" : 550,
+  "weight" : 0
+}

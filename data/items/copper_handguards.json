@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Gloves protected by copper plates on the backs of the hands. The copper has developed a green patina from age and weather. Affordable protection for those who can't afford steel, yet reliable enough for frontier garrison duty.",
+  "id" : "copper_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Copper Handguards",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Copper Handguards",
+  "value" : 22,
+  "weight" : 0.5
+}

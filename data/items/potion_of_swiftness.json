@@ -1,0 +1,13 @@
+{
+  "description" : "Your movements become quick and graceful. Your walking speed increases by 20 feet for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_swiftness",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Swiftness",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Swiftness",
+  "value" : 200,
+  "weight" : 0.5
+}

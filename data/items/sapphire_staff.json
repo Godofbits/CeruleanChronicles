@@ -1,0 +1,11 @@
+{
+  "description" : "A staff crowned with a brilliant sapphire as blue as the deepest ocean. The gem sharpens the mind and stores magical energy. Wizards prize such staffs for both their beauty and utility.",
+  "id" : "sapphire_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sapphire Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Sapphire Staff",
+  "value" : 315,
+  "weight" : 3
+}

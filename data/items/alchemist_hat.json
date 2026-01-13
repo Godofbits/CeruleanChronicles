@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A well-worn wizard's hat adorned with vials and pouches. Created by the Brewmaster's Guild for their journeymen, it keeps essential ingredients within reach. The fabric is treated to resist acid and fire. +0 AC.",
+  "id" : "alchemist_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Alchemist Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Alchemist Hat",
+  "value" : 120,
+  "weight" : 0.5
+}

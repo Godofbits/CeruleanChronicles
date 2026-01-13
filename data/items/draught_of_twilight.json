@@ -1,0 +1,13 @@
+{
+  "description" : "This purple potion shifts between light and dark. For 1 hour, you exist partially in shadow: gain advantage on Stealth checks and resistance to necrotic and radiant damage.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "draught_of_twilight",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Draught of Twilight",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Draught of Twilight",
+  "value" : 475,
+  "weight" : 0.5
+}

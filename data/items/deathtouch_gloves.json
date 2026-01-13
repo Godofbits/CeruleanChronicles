@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Legendary",
+  "description" : "Black leather gloves that carry the touch of death itself. When the wearer strikes a vital blow, necrotic energy surges through the target. Assassins who serve death gods wear such gloves, their hands becoming instruments of mortality.",
+  "id" : "deathtouch_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Deathtouch Gloves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Deathtouch Gloves",
+  "value" : 1100,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Heavy gauntlets that resonate with the power of earth. They grant extra strength when lifting heavy objects. Miners and builders wear such gauntlets, drawing upon the enduring might of stone and soil.",
+  "id" : "earthen_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Earthen Gauntlets",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Earthen Gauntlets",
+  "value" : 225,
+  "weight" : 0.5
+}

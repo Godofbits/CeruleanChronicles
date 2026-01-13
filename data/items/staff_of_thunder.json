@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that booms with the sound of thunder when struck. The noise can shatter stone and deafen foes. Tempest clerics who serve gods of storms carry such staffs, their every word backed by thunder's authority.",
+  "id" : "staff_of_thunder",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Thunder",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Thunder",
+  "value" : 1350,
+  "weight" : 3
+}

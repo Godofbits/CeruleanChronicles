@@ -1,0 +1,13 @@
+{
+  "description" : "This green potion smells of the forest. For 8 hours, beasts regard you as a friend and will not attack unless provoked.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_animal_friendship",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Animal Friendship",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Common",
+  "textureName" : "Potion of Animal Friendship",
+  "value" : 100,
+  "weight" : 0.5
+}

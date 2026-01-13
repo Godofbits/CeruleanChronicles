@@ -1,0 +1,185 @@
+{
+    "id": "assassin",
+    "isActive": false,
+    "name": "Assassin",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "neutralEvil",
+
+    "armorClass": 15,
+    "armorType": "studded leather",
+    "hitDice": {
+        "count": 12,
+        "die": "d8",
+        "modifier": 24
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 11,
+        "dexterity": 16,
+        "constitution": 14,
+        "intelligence": 13,
+        "wisdom": 11,
+        "charisma": 10
+    },
+
+    "savingThrows": ["dexterity", "intelligence"],
+    "skills": [
+        { "skill": "acrobatics", "bonus": 6 },
+        { "skill": "deception", "bonus": 3 },
+        { "skill": "perception", "bonus": 3 },
+        { "skill": "stealth", "bonus": 9 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "poison", "condition": null }
+    ],
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": ["Thieves' cant", "Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "8",
+    "experiencePoints": 3900,
+
+    "texture": "mons_assassin_01",
+
+    "habitat": {
+        "environments": ["urban", "dungeon", "ruins"],
+        "depth": "surface",
+        "description": "Assassins operate in the shadows of civilization, accepting contracts from thieves' guilds, noble houses, and darker patrons. They strike without warning and vanish before their victims' bodies are found cold.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Assassinate",
+            "description": "During its first turn, the assassin has advantage on attack rolls against any creature that hasn't taken a turn. Any hit the assassin scores against a surprised creature is a critical hit.",
+            "effect": {
+                "type": "assassinate",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Evasion",
+            "description": "If the assassin is subjected to an effect that allows it to make a Dexterity saving throw to take only half damage, the assassin instead takes no damage if it succeeds on the saving throw, and only half damage if it fails.",
+            "effect": {
+                "type": "evasion",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Sneak Attack",
+            "description": "Once per turn, the assassin deals an extra 14 (4d6) damage when it hits a target with a weapon attack and has advantage on the attack roll, or when the target is within 5 feet of an ally of the assassin that isn't incapacitated and the assassin doesn't have disadvantage on the attack roll.",
+            "effect": {
+                "type": "sneakAttack",
+                "parameters": {
+                    "extraDamage": "4d6"
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The assassin makes two shortsword attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Shortsword",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "poison",
+                    "saveDC": 15,
+                    "saveType": "constitution",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 7,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    },
+                    "description": "DC 15 Constitution save or take 7d6 poison damage (half on success)"
+                }
+            ]
+        },
+        {
+            "name": "Light Crossbow",
+            "description": "Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 7 (1d8 + 3) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 24 (7d6) poison damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": null,
+                "rangeNormal": 80,
+                "rangeLong": 320,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "poison",
+                    "saveDC": 15,
+                    "saveType": "constitution",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 7,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    },
+                    "description": "DC 15 Constitution save or take 7d6 poison damage (half on success)"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Greaves constructed from the bones of ancient warriors, held together by necromantic magic. They provide exceptional protection and immunity to life-draining forces. Death knights and necromancer-lords wear such greaves, their legs armored in the remains of those who fell before them. The bones are eternally cold to the touch.",
+  "id" : "boneguard_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 AC, Immunity to necrotic damage, +2 Constitution",
+  "name" : "Boneguard Greaves",
+  "rarity" : "Rare",
+  "textureName" : "Boneguard Greaves",
+  "value" : 920,
+  "weight" : 1
+}

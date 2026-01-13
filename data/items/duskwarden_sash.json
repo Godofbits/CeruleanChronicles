@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A dark sash worn by those who guard during twilight hours. The muted colors help sentries blend into gathering shadows while maintaining their watch. Guards of the evening shift in many cities wear such sashes as part of their standard equipment.",
+  "id" : "duskwarden_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Duskwarden Sash",
+  "rarity" : "Common",
+  "textureName" : "Duskwarden Sash",
+  "value" : 16,
+  "weight" : 0.5
+}

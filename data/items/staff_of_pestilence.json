@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved from diseased wood, crawling with invisible plagues. It spreads sickness and decay wherever it points. Cultists of plague gods carry such staffs, believing disease is a form of divine judgment.",
+  "id" : "staff_of_pestilence",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Pestilence",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Pestilence",
+  "value" : 1400,
+  "weight" : 3
+}

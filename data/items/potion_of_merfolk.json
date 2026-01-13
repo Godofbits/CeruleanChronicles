@@ -1,0 +1,13 @@
+{
+  "description" : "This aquamarine potion transforms your legs into a fish tail for 4 hours. Gain a swimming speed of 60 ft. and breathe underwater.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_merfolk",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Merfolk",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Merfolk",
+  "value" : 400,
+  "weight" : 0.5
+}

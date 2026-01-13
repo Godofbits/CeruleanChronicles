@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Magical",
+  "description" : "A dark purple hat wreathed in arcane energy, worn only by those who have mastered all schools of magic. Created by the Arcane Council, each one is attuned to its wearer's magical signature. The swirling purple rings indicate active spell enhancement. +1 AC.",
+  "id" : "archmage_hat",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Archmage Hat",
+  "rarity" : "Very Rare",
+  "textureName" : "Archmage Hat",
+  "value" : 2500,
+  "weight" : 0.5
+}

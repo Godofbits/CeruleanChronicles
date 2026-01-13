@@ -1,0 +1,11 @@
+{
+  "description" : "A delicate wooden wand with a white butterfly perched at its tip. Gifted by pixies to mortals who have earned their favor, the butterfly is actually a fey spirit bound to the wand. It flutters when fey creatures are nearby. +1 spell bonus, 7 charges.",
+  "id" : "pixie_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Pixie Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Pixie Wand",
+  "value" : 400,
+  "weight" : 0.29999999999999999
+}

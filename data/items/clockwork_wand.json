@@ -1,0 +1,11 @@
+{
+  "description" : "A silver wand with a golden gear frame surrounding a blue gem. Created by the Clockwork Mages of Mechanus, this wand operates with perfect precision. The gears rotate when spells are cast, counting down charges with mechanical accuracy. +1 spell bonus, 12 charges.",
+  "id" : "clockwork_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Clockwork Wand",
+  "rarity" : "Rare",
+  "textureName" : "Clockwork Wand",
+  "value" : 1500,
+  "weight" : 1.5
+}

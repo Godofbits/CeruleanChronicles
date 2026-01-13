@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "slashing",
+  "description" : "A curved naval sword favored by pirates of the Shattered Isles. The brass guard is shaped like a sea serpent, and the blade is treated to resist salt corrosion. Many a merchant captain has met their end to this cutlass. Deals 1d6 slashing damage.",
+  "id" : "corsairs_cutlass",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Corsair's Cutlass",
+  "rarity" : "Uncommon",
+  "textureName" : "Corsair's Cutlass",
+  "value" : 150,
+  "weight" : 2.5
+}

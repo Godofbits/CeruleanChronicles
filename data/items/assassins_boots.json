@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots worn by those who deal in silent death. The soles make no sound even on gravel, and the dark leather blends into shadows. Assassins' guilds craft such boots for their most skilled members, and they're never sold openly.",
+  "id" : "assassins_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Stealth",
+  "name" : "Assassin's Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Assassin's Boots",
+  "value" : 200,
+  "weight" : 1
+}

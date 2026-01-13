@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A winged helm of silver and blue worn by knights who ride griffons and pegasi. The design reduces wind resistance during flight, and enchantments protect the wearer from the cold of high altitudes. The wings are not merely decorative - they help stabilize the rider in flight. +2 AC.",
+  "id" : "sky_knight_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Sky Knight Helm",
+  "rarity" : "Rare",
+  "textureName" : "Sky Knight Helm",
+  "value" : 2400,
+  "weight" : 3.5
+}

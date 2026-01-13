@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots decorated with preserved leaves and forest motifs. Those who guard the borders of ancient forests wear such boots, and they're said to warn the wearer of danger to the woods. The leaves rustle softly with each step.",
+  "id" : "leafwarden_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Survival in forests",
+  "name" : "Leafwarden Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Leafwarden Boots",
+  "value" : 170,
+  "weight" : 1
+}

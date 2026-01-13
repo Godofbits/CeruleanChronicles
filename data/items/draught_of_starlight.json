@@ -1,0 +1,13 @@
+{
+  "description" : "This shimmering liquid contains the essence of starlight. Drink it to gain truesight 120 ft. and see invisible creatures for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "draught_of_starlight",
+  "isActive" : true,
+  "itemType" : "potion",
+  "name" : "Draught of Starlight",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Draught of Starlight",
+  "value" : 425,
+  "weight" : 0.5
+}

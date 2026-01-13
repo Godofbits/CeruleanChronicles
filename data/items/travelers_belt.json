@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A simple brown leather belt with a brass buckle. Worn by wanderers, merchants, and common folk across the realm. Sturdy enough to last through many leagues of road, yet unremarkable enough to attract no undue attention.",
+  "id" : "travelers_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Traveler's Belt",
+  "rarity" : "Common",
+  "textureName" : "Traveler's Belt",
+  "value" : 5,
+  "weight" : 0.5
+}

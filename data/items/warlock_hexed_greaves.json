@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Dark purple metal greaves inscribed with hexes and curses in infernal script. These were forged by a warlock who made pacts with an archdevil, trading his eternal service for knowledge of forbidden metalworking. The greaves enhance all curse magic, making hexes harder to break and maledictions more potent. Those who wear them hear whispers in languages never meant for mortal ears, promises of power in exchange for darker and darker deeds. The Nine Hells have a claim on these greaves, and eventually, they will claim the soul of any who wear them too long.",
+  "id" : "warlock_hexed_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to spell save DC, +1 spell slot (2nd level)",
+  "name" : "Warlock Hexed Greaves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "textureName" : "Warlock_Hexed_Greaves",
+  "value" : 920,
+  "weight" : 13
+}

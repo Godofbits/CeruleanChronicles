@@ -1,0 +1,125 @@
+{
+    "id": "fire_giant",
+    "isActive": false,
+    "name": "Fire Giant",
+    "sortName": "Giant, Fire",
+    "size": "huge",
+    "type": "giant",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 18,
+    "armorType": "plate",
+    "hitDice": {
+        "count": 13,
+        "die": "d12",
+        "modifier": 78
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 25,
+        "dexterity": 9,
+        "constitution": 23,
+        "intelligence": 10,
+        "wisdom": 14,
+        "charisma": 13
+    },
+
+    "savingThrows": ["dexterity", "constitution", "charisma"],
+    "skills": [
+        { "skill": "athletics", "bonus": 11 },
+        { "skill": "perception", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["fire"],
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 16,
+    "languages": ["Giant"],
+    "telepathyRange": null,
+
+    "challengeRating": "9",
+    "experiencePoints": 5000,
+
+    "texture": "FireGiant_01",
+
+    "habitat": {
+        "environments": ["mountain", "underground", "planar"],
+        "depth": "deep",
+        "description": "Fire giants dwell in volcanic regions and mountains rich with ore, building fortress-foundries where they smith weapons of legendary quality. Their hierarchical society prizes craftsmanship above all—a fire giant's rank is determined by the quality of their metalwork. Some establish domains near portals to the Elemental Plane of Fire.",
+        "rarity": "rare"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The giant makes two greatsword attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Greatsword",
+            "description": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 28 (6d6 + 7) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 11,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 6,
+                        "dieType": "d6",
+                        "modifier": 7,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Rock",
+            "description": "Ranged Weapon Attack: +11 to hit, range 60/240 ft., one target. Hit: 29 (4d10 + 7) bludgeoning damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 11,
+                "reach": null,
+                "rangeNormal": 60,
+                "rangeLong": 240,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d10",
+                        "modifier": 7,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

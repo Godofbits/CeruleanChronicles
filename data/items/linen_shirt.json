@@ -1,0 +1,14 @@
+{
+  "baseAC" : 10,
+  "category" : "Cloth",
+  "description" : "Simple cloth shirt of undyed linen. Common everyday wear throughout civilized lands. Provides no armor but allows complete freedom of movement.",
+  "id" : "linen_shirt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Linen Shirt",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Linen Shirt",
+  "value" : 2,
+  "weight" : 2
+}

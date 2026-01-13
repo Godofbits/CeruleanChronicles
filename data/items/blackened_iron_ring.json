@@ -1,0 +1,12 @@
+{
+  "category" : "Plain",
+  "description" : "A crude ring of blackened iron. Forged by common smiths for those who cannot afford better.",
+  "id" : "blackened_iron_ring",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Blackened Iron Ring",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_2",
+  "value" : 2,
+  "weight" : 0
+}

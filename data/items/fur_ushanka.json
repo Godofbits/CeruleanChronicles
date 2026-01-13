@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A traditional fur hat with ear flaps, worn by travelers in cold northern lands. The thick bear fur keeps the wearer warm in the harshest winters. +0 AC.",
+  "id" : "fur_ushanka",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Fur Ushanka",
+  "rarity" : "Common",
+  "textureName" : "Fur Ushanka",
+  "value" : 15,
+  "weight" : 0.5
+}

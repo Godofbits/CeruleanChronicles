@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Rough cloth mittens without individual fingers. Cheap and disposable, they're worn by dock workers and field hands. They offer little in the way of protection but shield against splinters and rope burn.",
+  "id" : "basic_mitts",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Basic Mitts",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Basic Mitts",
+  "value" : 3,
+  "weight" : 0.5
+}

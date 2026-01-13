@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor forged in the Shadowfell itself. The metal was mined from shadow-mountains and shaped by dark smiths who exist between life and death. The armor grants resistance to necrotic and cold damage, advantage on Stealth checks in dim light or darkness, and allows the wearer to step through shadows as misty step once per short rest. However, the armor slowly drains color from the wearer's appearance—after months of use, they appear almost monochrome.",
+  "id" : "shadowforged_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Shadowforged Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Shadowforged Plate",
+  "value" : 8500,
+  "weight" : 52
+}

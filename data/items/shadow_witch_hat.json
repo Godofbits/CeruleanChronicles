@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A dark purple hat that trails wisps of shadow. Created by witches who have made pacts with shadow entities, the hat enhances illusion and darkness magic. The wearer can merge with shadows for brief moments, becoming nearly invisible. +0 AC.",
+  "id" : "shadow_witch_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Shadow Witch Hat",
+  "rarity" : "Rare",
+  "textureName" : "Shadow Witch Hat",
+  "value" : 1700,
+  "weight" : 0.40000000000000002
+}

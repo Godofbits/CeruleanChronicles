@@ -1,0 +1,11 @@
+{
+  "description" : "A staff decorated with totems and charms that attract spirits. It allows communion with the dead and reveals the presence of ghosts. Shamans who walk between the living and dead worlds carry such staffs.",
+  "id" : "staff_of_spirits",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Spirits",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Spirits",
+  "value" : 1150,
+  "weight" : 3
+}

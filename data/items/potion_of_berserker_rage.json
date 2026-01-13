@@ -1,0 +1,13 @@
+{
+  "description" : "Blood-red and boiling, this draught is infused with the fury of the ancient berserkers of the North. When consumed, you enter a battle rage for 1 minute: gain +2 to attack rolls and damage, but attackers have advantage against you. The Vikings drank such brews before battle, becoming fearless warriors who felt no pain.",
+  "effect" : "Your Strength becomes 21 for 1 hour.",
+  "id" : "potion_of_berserker_rage",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Berserker Rage",
+  "potionType" : "Potion of Strength",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Berserker Rage",
+  "value" : 450,
+  "weight" : 0.5
+}

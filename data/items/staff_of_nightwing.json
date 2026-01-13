@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved from midnight-black wood, topped with bat wings that seem almost alive. When activated, great dark wings sprout from the wielder's back, granting flight. The staff also allows command over darkness and shadow. Vampire lords and those who serve the night carry such staffs, becoming avatars of darkness. The wings are cold and leathery, like those of a great bat.",
+  "id" : "staff_of_nightwing",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Nightwing",
+  "rarity" : "Very Rare",
+  "textureName" : "Staff of Nightwing",
+  "value" : 7000,
+  "weight" : 3
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A cylindrical steel helm that covers the entire head. While it provides excellent protection, the limited visibility makes it best suited for mounted combat where the rider can rely on their horse's senses. +2 AC.",
+  "id" : "great_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Great Helm",
+  "rarity" : "Common",
+  "textureName" : "Great Helm",
+  "value" : 30,
+  "weight" : 5.5
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A belt bearing the image of a lion wrought in gold. The lion's fierce expression and bared fangs speak of strength and ferocity. Warlords and those who rule through strength favor such belts, using them to reinforce their dominant presence.",
+  "id" : "gilded_lion_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Intimidation",
+  "name" : "Gilded Lion Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Gilded Lion Belt",
+  "value" : 270,
+  "weight" : 0.5
+}

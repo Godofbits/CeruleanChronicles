@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll whose ink seems to shift and blur. This spell wraps the caster in an illusion that makes their outline indistinct and hard to focus upon. Attacks strike where the caster appears to be, but that place is always slightly off from their true location. Developed by doppelganger assassins and later stolen by wizards, the spell has saved countless lives by turning killing blows into glancing strikes. Single use.",
+  "id" : "scroll_of_blur",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Blur",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Blur",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

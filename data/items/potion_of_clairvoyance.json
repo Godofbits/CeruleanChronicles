@@ -1,0 +1,13 @@
+{
+  "description" : "This clear blue potion allows you to see distant locations as if you were there. Functions as the Clairvoyance spell for 10 minutes.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_clairvoyance",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Clairvoyance",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Clairvoyance",
+  "value" : 350,
+  "weight" : 0.5
+}

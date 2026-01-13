@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a preserved starfish whose regenerative properties persist even in death. The staff grants the bearer a fraction of the starfish's legendary ability to regrow lost parts. Sea clerics who worship life and renewal favor such staffs.",
+  "id" : "starfish_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Starfish Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Starfish Staff",
+  "value" : 290,
+  "weight" : 3
+}

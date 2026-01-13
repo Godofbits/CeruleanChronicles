@@ -1,0 +1,121 @@
+{
+    "id": "phase_spider",
+    "isActive": false,
+    "name": "Phase Spider",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 13,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 5,
+        "die": "d10",
+        "modifier": 5
+    },
+    "speeds": {
+        "walk": 30,
+        "climb": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 15,
+        "dexterity": 15,
+        "constitution": 12,
+        "intelligence": 6,
+        "wisdom": 10,
+        "charisma": 6
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "stealth", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "3",
+    "experiencePoints": 700,
+
+    "texture": "PhaseSpider_01",
+
+    "habitat": {
+        "environments": ["underground", "dungeon", "planar"],
+        "depth": "deep",
+        "description": "Phase spiders shift between the Material and Ethereal Planes, appearing suddenly to inject their deadly venom before vanishing. They nest in places where the barrier between planes is thin, their young hatching in the Ethereal Plane.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Ethereal Jaunt",
+            "description": "As a bonus action, the spider can magically shift from the Material Plane to the Ethereal Plane, or vice versa.",
+            "effect": null
+        },
+        {
+            "name": "Spider Climb",
+            "description": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "effect": null
+        },
+        {
+            "name": "Web Walker",
+            "description": "The spider ignores movement restrictions caused by webbing.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 7 (1d10 + 2) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 18 (4d8) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d10",
+                        "modifier": 2,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 4,
+                        "dieType": "d8",
+                        "modifier": 0,
+                        "type": "poison"
+                    }
+                ]
+            },
+            "save": {
+                "dc": 11,
+                "type": "constitution",
+                "onFail": "full poison damage",
+                "onSuccess": "half poison damage"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

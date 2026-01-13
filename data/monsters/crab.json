@@ -1,0 +1,113 @@
+{
+    "id": "crab",
+    "isActive": false,
+    "name": "Crab",
+    "size": "medium",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 15,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 3,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30,
+        "swim": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 13,
+        "dexterity": 15,
+        "constitution": 11,
+        "intelligence": 1,
+        "wisdom": 9,
+        "charisma": 3
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "stealth", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 30 }
+    ],
+    "passivePerception": 9,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/8",
+    "experiencePoints": 25,
+
+    "texture": "Crab_01",
+
+    "habitat": {
+        "environments": ["coastal", "aquatic"],
+        "depth": "surface",
+        "description": "Giant crabs scuttle along beaches and tidal pools, their powerful claws capable of crushing bone and shell alike. They are territorial creatures that will attack anything that enters their hunting grounds.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Amphibious",
+            "description": "The crab can breathe air and water.",
+            "effect": {
+                "type": "amphibious",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 4 (1d6 + 1) bludgeoning damage, and the target is grappled (escape DC 11). The crab has two claws, each of which can grapple only one target.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 1,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "grapple",
+                    "saveDC": 11,
+                    "saveType": "strength",
+                    "condition": "grappled",
+                    "duration": null,
+                    "damage": null,
+                    "description": "Target is grappled (escape DC 11)"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A blackened steel helm with glowing eye slits, worn by undead warriors bound to serve beyond death. Fallen paladins who broke their oaths are cursed to wear these helms for eternity. The metal is ice-cold to the touch and never warms. Grants resistance to necrotic damage. +2 AC.",
+  "id" : "death_knight_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Death Knight Helm",
+  "rarity" : "Very Rare",
+  "textureName" : "Death Knight Helm",
+  "value" : 5500,
+  "weight" : 5
+}

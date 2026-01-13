@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Flowing robes of pale blue and white that seem woven from winter's first breath. These were created by the legendary Ice Wizard of Forochel, who spent his entire life studying cold magic until he became one with winter itself. When he ascended to become a spirit of ice, he left these robes behind for the next great ice mage to discover. The fabric exists partially in the elemental plane of ice, granting the wearer mastery over winter magic. Blizzards answer the wearer's call, glaciers shift at their command, and ice bends to their will as easily as water. These robes have witnessed the freezing of entire lakes with a word and the creation of palaces from solid ice. Only the greatest ice mages can wear them without being consumed by eternal winter, and those who do find themselves caring less and less for the warm concerns of mortal life.",
+  "id" : "frostweave_mage_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+4 Intelligence, +3 spell save DC, +3 spell slots (all levels), Immunity to cold, Ice storm 3\/day",
+  "name" : "Frostweave Mage Robes",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : false,
+  "textureName" : "Frostweave_Mage_Robes",
+  "value" : 30000,
+  "weight" : 1
+}

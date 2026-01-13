@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Practical canvas trousers dyed in golden ochre. Worn by treasure hunters, explorers, and those who seek fortune in forgotten places. The pockets are reinforced to carry the weight of discovered gold.",
+  "id" : "golden_adventurer_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Golden Adventurer Pants",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Golden_Adventurer_Pants",
+  "value" : 12,
+  "weight" : 2
+}

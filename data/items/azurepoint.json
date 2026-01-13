@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "piercing",
+  "description" : "The blade gleams with captured sapphire light, crafted by the sea-elves of the Cerulean Depths. Legend says it was quenched in the tears of a water elemental, granting it power over the tides. Deals 1d8+1 piercing damage.",
+  "id" : "azurepoint",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Azurepoint",
+  "rarity" : "Rare",
+  "textureName" : "Azurepoint",
+  "value" : 1200,
+  "weight" : 2
+}

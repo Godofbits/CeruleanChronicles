@@ -1,0 +1,16 @@
+{
+  "acBonus" : 3,
+  "category" : "Plate",
+  "description" : "Heavy bronze and iron greaves worn by the elite legions of ancient Rome. These leg guards have marched from Britannia to Judea, forming the backbone of an empire that spanned the known world. Each pair bears the marks of its legion—the Tenth, the Twelfth, the Fourteenth—marking the wearer as part of something greater than themselves. The metal has been blessed by augurs and quenched in the blood of Rome's enemies. When legionnaires fight in formation, their greaves seem to link together, creating an impenetrable wall of bronze and iron.",
+  "id" : "legionnaire_battle_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC when fighting alongside allies",
+  "name" : "Legionnaire Battle Greaves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 13,
+  "textureName" : "Legionnaire_Battle_Greaves",
+  "value" : 780,
+  "weight" : 15
+}

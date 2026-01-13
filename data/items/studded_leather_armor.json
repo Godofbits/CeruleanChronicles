@@ -1,0 +1,14 @@
+{
+  "baseAC" : 12,
+  "category" : "Light",
+  "description" : "Leather armor reinforced with metal studs. The studs help deflect slashing attacks while maintaining the flexibility of leather. Popular among mercenaries and adventurers.",
+  "id" : "studded_leather_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Studded Leather Armor",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Studded Leather Armor",
+  "value" : 45,
+  "weight" : 13
+}

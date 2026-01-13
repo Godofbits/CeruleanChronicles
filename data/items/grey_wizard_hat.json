@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A weathered grey hat worn by wandering wizards who travel between realms. The neutral color symbolizes balance between light and dark magic. Many legendary mages have worn grey before choosing their path. +0 AC.",
+  "id" : "grey_wizard_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Grey Wizard Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Grey Wizard Hat",
+  "value" : 200,
+  "weight" : 0.40000000000000002
+}

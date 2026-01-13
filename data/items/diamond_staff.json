@@ -1,0 +1,11 @@
+{
+  "description" : "A magnificent staff topped with a flawless diamond that refracts light into rainbows. The diamond's purity helps deflect hostile magic. Only the wealthiest wizards can afford such opulent implements.",
+  "id" : "diamond_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Diamond Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Diamond Staff",
+  "value" : 400,
+  "weight" : 3
+}

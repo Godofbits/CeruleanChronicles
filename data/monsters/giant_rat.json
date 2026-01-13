@@ -1,0 +1,108 @@
+{
+    "id": "giant_rat",
+    "name": "Rat",
+    "size": "small",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 2,
+        "die": "d6",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 7,
+        "dexterity": 15,
+        "constitution": 11,
+        "intelligence": 2,
+        "wisdom": 10,
+        "charisma": 4
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/8",
+    "experiencePoints": 25,
+
+    "texture": "mons_giant_rat",
+
+    "habitat": {
+        "environments": ["urban", "dungeon", "underground", "ruins"],
+        "depth": "shallow",
+        "description": "Giant rats infest sewers, cellars, and dungeon corridors, their glowing eyes reflecting torchlight in the darkness. They spread disease wherever they nest and will attack in swarms when cornered or hungry.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Smell",
+            "description": "The rat has advantage on Wisdom (Perception) checks that rely on smell.",
+            "effect": {
+                "type": "keenSmell",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Pack Tactics",
+            "description": "The rat has advantage on an attack roll against a creature if at least one of the rat's allies is within 5 ft. of the creature and the ally isn't incapacitated.",
+            "effect": {
+                "type": "packTactics",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null,
+    "isActive": true
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "An ornate golden sceptre set with precious gems, symbol of magical authority among royalty. This sceptre was crafted for the Sorcerer-Kings of the First Dynasty, combining regal splendor with formidable arcane power. Each gem represents mastery over a different school of magic. +2 spell bonus, 12 charges.",
+  "id" : "royal_sceptre",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Royal Sceptre",
+  "rarity" : "Very Rare",
+  "textureName" : "Royal Sceptre",
+  "value" : 8000,
+  "weight" : 2.5
+}

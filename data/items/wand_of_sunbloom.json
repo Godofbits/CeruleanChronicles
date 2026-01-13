@@ -1,0 +1,11 @@
+{
+  "description" : "A living wand crowned with a golden flower that blooms eternally. Grown in the sacred gardens of the sun goddess, it channels both solar energy and nature magic. Plants grow rapidly in its presence, and it can create food from sunlight. +2 spell bonus, 10 charges, radiant damage.",
+  "id" : "wand_of_sunbloom",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Sunbloom",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Sunbloom",
+  "value" : 2800,
+  "weight" : 0.5
+}

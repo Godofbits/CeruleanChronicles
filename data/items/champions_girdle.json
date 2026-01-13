@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A prestigious belt awarded to victors of grand tournaments. Emblazoned with symbols of triumph and excellence, it marks the wearer as one who has proven themselves in honorable combat. Kings and nobles sponsor such tournaments, and the champions who emerge wear these girdles with pride.",
+  "id" : "champions_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to all ability checks during contests",
+  "name" : "Champion's Girdle",
+  "rarity" : "Uncommon",
+  "textureName" : "Champion's Girdle",
+  "value" : 225,
+  "weight" : 0.5
+}

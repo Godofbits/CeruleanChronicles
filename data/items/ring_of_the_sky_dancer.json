@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "An amethyst that seems weightless, as if it might float away. Worn by daring acrobats and thieves who scale impossible heights, this ring ensures its bearer will always land safely, descending like a feather on the wind.",
+  "id" : "ring_of_the_sky_dancer",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Fall slowly (as Feather Fall), no fall damage",
+  "name" : "Ring of the Sky Dancer",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_56",
+  "value" : 1400,
+  "weight" : 0
+}

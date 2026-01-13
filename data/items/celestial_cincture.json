@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A cincture blessed by celestial powers, granting the wearer enhanced spiritual awareness. The belt helps its wearer perceive the presence of evil, allowing them to identify threats to righteousness. Paladins on holy quests often seek such cinctures to aid them in their divine mission.",
+  "id" : "celestial_cincture",
+  "isActive" : true,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Wisdom, Detect evil 1\/day",
+  "name" : "Celestial Cincture",
+  "rarity" : "Rare",
+  "textureName" : "Celestial Cincture",
+  "value" : 925,
+  "weight" : 0.5
+}

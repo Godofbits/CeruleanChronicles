@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that shines with holy light, banishing darkness wherever it goes. The radiance burns undead and fiends, driving them back like dawn dispersing nightmares. Clerics of sun gods carry such staffs as weapons against the forces of darkness.",
+  "id" : "staff_of_radiance",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Radiance",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Radiance",
+  "value" : 1550,
+  "weight" : 3
+}

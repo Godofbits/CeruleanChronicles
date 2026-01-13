@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Gauntlets constructed from the bones of ancient warriors, held together by necromantic magic. Each strike drains life force from the target. Death knights and necromancer-lords wear such gauntlets, their hands armored in the remains of those who fell before them.",
+  "id" : "skeletal_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Skeletal Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Skeletal Gauntlets",
+  "value" : 950,
+  "weight" : 0.5
+}

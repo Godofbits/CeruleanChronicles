@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Gauntlets that burn with holy sunlight, forged by priests who serve the sun god. They combine fire immunity with radiant power that sears undead and fiends. The metal glows like captured sunshine, banishing darkness around the wearer. Paladins seeking to purge evil from shadowed places prize such gauntlets above gold.",
+  "id" : "sunfire_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Sunfire Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Sunfire Gauntlets",
+  "value" : 1200,
+  "weight" : 0.5
+}

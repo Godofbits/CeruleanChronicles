@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A magnificent silver helm blessed by the church, worn by holy warriors who have taken sacred vows. The helm glows faintly in the presence of evil, and fiends cannot bear to look upon it directly. Only those of pure heart can wear it without discomfort. +2 AC.",
+  "id" : "paladin_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Paladin Helm",
+  "rarity" : "Rare",
+  "textureName" : "Paladin Helm",
+  "value" : 2000,
+  "weight" : 4.5
+}

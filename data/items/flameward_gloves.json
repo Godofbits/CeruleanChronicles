@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Leather gloves treated with alchemical compounds that resist flame. Smiths and pyromancers wear such gloves when working with intense heat. The leather remains cool to the touch even when grasping red-hot metal.",
+  "id" : "flameward_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Flameward Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Flameward Gloves",
+  "value" : 190,
+  "weight" : 0.5
+}

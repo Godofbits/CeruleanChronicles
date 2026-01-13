@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Gauntlets crafted in the style of Asgard, home of the Norse gods. The metalwork is intricate, depicting scenes from legendary battles. Warriors who wear such gauntlets are blessed with a fraction of the Aesir's might, their every action in combat enhanced by divine favor.",
+  "id" : "asgardian_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Asgardian Handguards",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Asgardian Handguards",
+  "value" : 260,
+  "weight" : 0.5
+}

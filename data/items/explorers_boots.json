@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Well-crafted boots favored by those who seek ancient ruins and lost civilizations. The design balances protection with flexibility, essential for climbing crumbling walls and navigating treacherous passages. Many archaeological discoveries were made by those wearing such boots.",
+  "id" : "explorers_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Explorer's Boots",
+  "rarity" : "Common",
+  "textureName" : "Explorer's Boots",
+  "value" : 16,
+  "weight" : 1
+}

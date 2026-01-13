@@ -1,0 +1,11 @@
+{
+  "description" : "A tiny scroll containing the most versatile cantrip in existence. Prestidigitation performs minor magical tricks—cleaning clothes, flavoring food, creating small illusions, warming or chilling objects. The spell has a thousand uses limited only by imagination. Traveling wizards use it to maintain their dignity, warming their tea and cleaning mud from their robes. It is often the first spell taught to apprentices, demonstrating that magic need not always be dramatic to be useful. Single use.",
+  "id" : "scroll_of_prestidigitation",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Prestidigitation",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Prestidigitation",
+  "value" : 10,
+  "weight" : 0.10000000000000001
+}

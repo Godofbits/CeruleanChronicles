@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+2",
+  "damageType" : "fire",
+  "description" : "Forged from a feather freely given by a phoenix, this blade burns with regenerating fire. Its wielder is said to rise from defeat as the phoenix rises from ashes. Only appears when the world faces great peril. Deals 1d8+2 fire damage.",
+  "id" : "phoenix_talon",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Phoenix Talon",
+  "rarity" : "Legendary",
+  "textureName" : "Phoenix Talon",
+  "value" : 7500,
+  "weight" : 2.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a carved dragon's head whose jaws can open and close. The dragon's expression is fierce and the staff radiates barely contained power. Those who have slain dragons sometimes craft such staffs to display their victory.",
+  "id" : "dragonhead_staff",
+  "isActive" : true,
+  "itemType" : "wand",
+  "name" : "Dragonhead Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Dragonhead Staff",
+  "value" : 310,
+  "weight" : 3
+}

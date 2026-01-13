@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+1",
+  "damageType" : "fire",
+  "description" : "A slender, flickering blade that dances like flame. Forged with the essence of fire salamanders, it writhes and twists when swung. The heat is enough to cauterize wounds it creates. Deals 1d6+1 fire damage.",
+  "id" : "salamanders_tongue",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Salamander's Tongue",
+  "rarity" : "Uncommon",
+  "textureName" : "Salamander's Tongue",
+  "value" : 580,
+  "weight" : 2
+}

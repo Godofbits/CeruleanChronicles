@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A practical wizard's hat designed for life on the road. The wide brim provides shade, and hidden pockets inside hold small spell components. Many wandering wizards start their careers with one of these humble hats. +0 AC.",
+  "id" : "traveling_mage_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Traveling Mage Hat",
+  "rarity" : "Common",
+  "textureName" : "Traveling Mage Hat",
+  "value" : 65,
+  "weight" : 0.40000000000000002
+}

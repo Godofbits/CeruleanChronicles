@@ -1,0 +1,123 @@
+{
+    "id": "gnoll",
+    "isActive": false,
+    "name": "Gnoll",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "gnoll",
+    "alignment": "chaoticEvil",
+
+    "armorClass": 15,
+    "armorType": "hide armor, shield",
+    "hitDice": {
+        "count": 5,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 14,
+        "dexterity": 12,
+        "constitution": 11,
+        "intelligence": 6,
+        "wisdom": 10,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Gnoll"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/2",
+    "experiencePoints": 100,
+
+    "texture": "Gnoll_01",
+
+    "habitat": {
+        "environments": ["grassland", "forest", "ruins"],
+        "depth": "surface",
+        "description": "Gnolls are hyena-headed humanoids spawned from the demon lord Yeenoghu's rampage across the Material Plane. They roam in savage warbands, leaving destruction in their wake as they satisfy their endless hunger for carnage.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Rampage",
+            "description": "When the gnoll reduces a creature to 0 hit points with a melee attack on its turn, the gnoll can take a bonus action to move up to half its speed and make a bite attack.",
+            "effect": {
+                "type": "rampage",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Spear",
+            "description": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d6 + 2) piercing damage, or 6 (1d8 + 2) piercing damage if used with two hands to make a melee attack.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": 20,
+                "rangeLong": 60,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

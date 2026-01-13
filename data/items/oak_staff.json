@@ -1,0 +1,11 @@
+{
+  "description" : "A sturdy staff hewn from ancient oak. The wood is dense and heavy, reliable as the tree from which it came. Druids favor oak for its connection to strength and endurance, and such staffs often serve for decades without splintering.",
+  "id" : "oak_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Oak Staff",
+  "rarity" : "Common",
+  "textureName" : "Oak Staff",
+  "value" : 20,
+  "weight" : 3
+}

@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+2",
+  "damageType" : "force",
+  "description" : "A mage's blade designed to channel arcane energy. Runes along the blade can absorb hostile spells and redirect them. Created by the Arcane Academy for their battle-mages. The metal resonates with magical frequencies. Deals 1d6+2 force damage.",
+  "id" : "spellbinder",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Spellbinder",
+  "rarity" : "Very Rare",
+  "textureName" : "Spellbinder",
+  "value" : 3500,
+  "weight" : 2
+}

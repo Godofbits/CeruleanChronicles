@@ -1,0 +1,140 @@
+{
+    "id": "pseudodragon",
+    "isActive": false,
+    "name": "Pseudodragon",
+    "size": "tiny",
+    "type": "dragon",
+    "subtype": null,
+    "alignment": "neutralGood",
+
+    "armorClass": 13,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 2,
+        "die": "d4",
+        "modifier": 2
+    },
+    "speeds": {
+        "walk": 15,
+        "fly": 60
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 6,
+        "dexterity": 15,
+        "constitution": 13,
+        "intelligence": 10,
+        "wisdom": 12,
+        "charisma": 10
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 3 },
+        { "skill": "stealth", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 10 },
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 13,
+    "languages": ["Common", "Draconic"],
+    "telepathyRange": 100,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "PseudoDragon_01",
+
+    "habitat": {
+        "environments": ["forest", "urban"],
+        "depth": "surface",
+        "description": "Pseudodragons are playful, catlike dragons that form telepathic bonds with those they deem worthy. They often make their lairs in the eaves of wizard towers or ancient forest trees, seeking companions who offer interesting conversation and tasty treats.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Senses",
+            "description": "The pseudodragon has advantage on Wisdom (Perception) checks that rely on sight, hearing, or smell.",
+            "effect": null
+        },
+        {
+            "name": "Magic Resistance",
+            "description": "The pseudodragon has advantage on saving throws against spells and other magical effects.",
+            "effect": null
+        },
+        {
+            "name": "Limited Telepathy",
+            "description": "The pseudodragon can magically communicate simple ideas, emotions, and images telepathically with any creature within 100 feet of it that can understand a language.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Sting",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or become poisoned for 1 hour. If the saving throw fails by 5 or more, the target falls unconscious for the same duration.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": {
+                "dc": 11,
+                "type": "constitution",
+                "onFail": "poisoned for 1 hour",
+                "onSuccess": "no effect"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

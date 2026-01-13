@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A belt set with deep red bloodstones flecked with dark spots like drops of blood. These stones are believed to strengthen the blood and fortify the body's vitality. Healers sometimes prescribe wearing bloodstone for those recovering from serious wounds.",
+  "id" : "bloodstone_waistguard",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 HP per level",
+  "name" : "Bloodstone Waistguard",
+  "rarity" : "Uncommon",
+  "textureName" : "Bloodstone Waistguard",
+  "value" : 325,
+  "weight" : 0.5
+}

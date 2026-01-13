@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A tattered green hat worn by witches who dwell in marshes and swamps. The hat is perpetually damp and smells of moss and decay. The wearer gains the ability to breathe underwater and can communicate with amphibians and swamp creatures. +0 AC.",
+  "id" : "swamp_witch_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Swamp Witch Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Swamp Witch Hat",
+  "value" : 550,
+  "weight" : 0.5
+}

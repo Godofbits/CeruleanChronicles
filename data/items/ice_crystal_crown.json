@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A crown formed from magically frozen water that refracts light into rainbow patterns. Created by cryomancers who have mastered the art of permanent ice shaping, each crown is unique. The wearer can see through illusions as clearly as seeing through ice. +0 AC.",
+  "id" : "ice_crystal_crown",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Ice Crystal Crown",
+  "rarity" : "Very Rare",
+  "textureName" : "Ice Crystal Crown",
+  "value" : 5500,
+  "weight" : 0.80000000000000004
+}

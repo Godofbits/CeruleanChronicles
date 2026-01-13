@@ -1,0 +1,11 @@
+{
+  "description" : "A dark blue wand encrusted with deep-sea shells and barnacles. Crafted in the abyssal trenches where ancient sea creatures dwell, it channels the crushing pressure and cold darkness of the ocean depths. Sea creatures recognize its wielder as kin. +2 spell bonus, 10 charges, cold\/water damage.",
+  "id" : "wand_of_the_deep",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Deep",
+  "rarity" : "Rare",
+  "textureName" : "Wand of the Deep",
+  "value" : 3200,
+  "weight" : 1.5
+}

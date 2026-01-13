@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots of midnight-black leather that seem to drink in light. The enchantment woven into them makes the wearer's footsteps vanish into darkness itself. Shadow dancers and those who serve the goddess of night prize such boots.",
+  "id" : "shadow_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on Stealth in dim light or darkness",
+  "name" : "Shadow Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Shadow Boots",
+  "value" : 225,
+  "weight" : 1
+}

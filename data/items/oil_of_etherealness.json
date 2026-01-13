@@ -1,0 +1,13 @@
+{
+  "description" : "This oily black substance allows you to step into the Ethereal Plane for 1 hour. You can move through solid objects and are invisible to creatures on the Material Plane.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "oil_of_etherealness",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Oil of Etherealness",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Very Rare",
+  "textureName" : "Oil of Etherealness",
+  "value" : 1500,
+  "weight" : 0.5
+}

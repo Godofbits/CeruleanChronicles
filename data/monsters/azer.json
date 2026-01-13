@@ -1,0 +1,129 @@
+{
+    "id": "azer",
+    "isActive": false,
+    "name": "Azer",
+    "size": "medium",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "lawfulNeutral",
+
+    "armorClass": 17,
+    "armorType": "natural armor, shield",
+    "hitDice": {
+        "count": 6,
+        "die": "d8",
+        "modifier": 12
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 17,
+        "dexterity": 12,
+        "constitution": 15,
+        "intelligence": 12,
+        "wisdom": 13,
+        "charisma": 10
+    },
+
+    "savingThrows": ["constitution"],
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["fire", "poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [],
+    "passivePerception": 11,
+    "languages": ["Ignan"],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "mons_azer_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "deep",
+        "description": "Azers hail from the Elemental Plane of Fire, where they toil as masterful smiths and craftsmen in their bronze citadels. When encountered on the Material Plane, they are often bound servants or willing traders of their legendary metalwork.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Heated Body",
+            "description": "A creature that touches the azer or hits it with a melee attack while within 5 feet of it takes 5 (1d10) fire damage.",
+            "effect": {
+                "type": "heatedBody",
+                "parameters": {
+                    "damage": "1d10",
+                    "damageType": "fire"
+                }
+            }
+        },
+        {
+            "name": "Heated Weapons",
+            "description": "When the azer hits with a metal melee weapon, it deals an extra 3 (1d6) fire damage (included in the attack).",
+            "effect": {
+                "type": "heatedWeapons",
+                "parameters": {
+                    "extraDamage": "1d6",
+                    "damageType": "fire"
+                }
+            }
+        },
+        {
+            "name": "Illumination",
+            "description": "The azer sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
+            "effect": {
+                "type": "illumination",
+                "parameters": {
+                    "brightLight": 10,
+                    "dimLight": 10
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Warhammer",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage, or 8 (1d10 + 3) bludgeoning damage if used with two hands to make a melee attack, plus 3 (1d6) fire damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "bludgeoning"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

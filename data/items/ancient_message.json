@@ -1,0 +1,11 @@
+{
+  "description" : "A weathered scroll with faded brown parchment, bearing writing in an archaic script. The message speaks of distant lands and forgotten times, though much of it has become illegible with age. Such scrolls are often found in ruins or old libraries, fragments of history waiting to be deciphered by scholars. The paper crumbles slightly at the edges, a reminder that even words cannot escape the passage of time.",
+  "id" : "ancient_message",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Ancient Message",
+  "rarity" : "Common",
+  "textureName" : "Ancient Message",
+  "value" : 5,
+  "weight" : 0.10000000000000001
+}

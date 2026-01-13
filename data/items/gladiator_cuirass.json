@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Molded bronze or steel cuirass designed for arena combat. The armor is crafted for appearance as much as protection, with dramatic curves and decorative elements. Gladiators who survive long enough to earn their freedom often keep their cuirass as a reminder of their trials.",
+  "id" : "gladiator_cuirass",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Gladiator Cuirass",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Gladiator Cuirass",
+  "value" : 200,
+  "weight" : 22
+}

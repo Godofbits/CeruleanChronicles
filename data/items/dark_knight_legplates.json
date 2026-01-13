@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Black iron leg plates worn by knights who have abandoned the light. The metal seems to drink in shadows, and the air around it feels cold. These greaves were forged by a blacksmith who had forsaken his gods, tempering the metal in cursed waters. Dark knights and fallen paladins seek such armor, for it resonates with their corrupted souls and enhances their fearsome presence.",
+  "id" : "dark_knight_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Intimidation",
+  "name" : "Dark Knight Legplates",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Dark_Knight_Legplates",
+  "value" : 280,
+  "weight" : 15
+}

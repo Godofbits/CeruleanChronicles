@@ -1,0 +1,12 @@
+{
+  "category" : "Plain",
+  "description" : "A weathered copper ring, darkened by age and wear. Common among laborers and peasants.",
+  "id" : "tarnished_copper_band",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Tarnished Copper Band",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_1",
+  "value" : 1,
+  "weight" : 0
+}

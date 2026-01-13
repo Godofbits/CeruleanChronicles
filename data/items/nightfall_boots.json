@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Dark boots that help their wearer navigate and hide in darkness. The leather is dyed with nocturnal herbs and enchanted under the new moon. Those who walk the night—whether as protectors or predators—seek such boots.",
+  "id" : "nightfall_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Stealth, Darkvision 30 ft",
+  "name" : "Nightfall Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Nightfall Boots",
+  "value" : 210,
+  "weight" : 1
+}

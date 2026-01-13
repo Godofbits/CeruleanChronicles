@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A horned Viking helm with fur trim, worn by berserkers of the Northern Clans. The horns are purely ceremonial but strike fear into enemies. Wearers claim it helps channel battle rage. +1 AC.",
+  "id" : "berserker_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Berserker Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Berserker Helm",
+  "value" : 120,
+  "weight" : 3
+}

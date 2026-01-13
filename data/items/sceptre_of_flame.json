@@ -1,0 +1,11 @@
+{
+  "description" : "A bronze sceptre wreathed in eternal flames that never burn the wielder. Forged in the heart of an active volcano by salamander smiths, this sceptre channels the raw fury of elemental fire. The flames intensify when fire spells are cast through it. +2 spell bonus, 10 charges, fire damage.",
+  "id" : "sceptre_of_flame",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sceptre of Flame",
+  "rarity" : "Rare",
+  "textureName" : "Sceptre of Flame",
+  "value" : 3500,
+  "weight" : 2
+}

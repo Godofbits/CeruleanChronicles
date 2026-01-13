@@ -1,0 +1,134 @@
+{
+    "id": "hell_hound",
+    "isActive": false,
+    "name": "Hell Hound",
+    "size": "medium",
+    "type": "fiend",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 15,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 7,
+        "die": "d8",
+        "modifier": 14
+    },
+    "speeds": {
+        "walk": 50
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 17,
+        "dexterity": 12,
+        "constitution": 14,
+        "intelligence": 6,
+        "wisdom": 13,
+        "charisma": 6
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["fire"],
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 15,
+    "languages": ["Infernal"],
+    "telepathyRange": null,
+
+    "challengeRating": "3",
+    "experiencePoints": 700,
+
+    "texture": "HellHound_01",
+
+    "habitat": {
+        "environments": ["planar", "dungeon", "underground"],
+        "depth": "deep",
+        "description": "Hell hounds are fire-breathing canines from the Lower Planes, often kept as guard beasts by fire giants, devils, and other evil creatures. Their howls can be heard echoing through infernal fortresses and volcanic lairs.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Hearing and Smell",
+            "description": "The hound has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+            "effect": {
+                "type": "keenSenses",
+                "parameters": {
+                    "senses": ["hearing", "smell"]
+                }
+            }
+        },
+        {
+            "name": "Pack Tactics",
+            "description": "The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "effect": {
+                "type": "packTactics",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 7 (2d6) fire damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Fire Breath",
+            "description": "The hound exhales fire in a 15-foot cone. Each creature in that area must make a DC 12 Dexterity saving throw, taking 21 (6d6) fire damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "breath",
+            "attack": null,
+            "save": {
+                "dc": 12,
+                "type": "dexterity",
+                "onFail": "full damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": {
+                "range": [5, 6]
+            },
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

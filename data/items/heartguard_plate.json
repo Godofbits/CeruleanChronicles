@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Plate armor with reinforced chest piece shaped like a heart. This armor provides additional protection to vital organs, designed after too many knights fell to precise thrusts through gaps in standard plate. The extra reinforcement makes it slightly heavier but significantly safer against skilled opponents.",
+  "id" : "heartguard_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Heartguard Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Heartguard Plate",
+  "value" : 950,
+  "weight" : 54
+}

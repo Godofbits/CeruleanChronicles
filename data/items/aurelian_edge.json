@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "Commissioned by Emperor Aurelius III for his personal guard, this golden-hilted blade represents the pinnacle of imperial craftsmanship. The Aurelian smiths who forged it took their techniques to the grave. Deals 1d8 slashing damage.",
+  "id" : "aurelian_edge",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Aurelian Edge",
+  "rarity" : "Rare",
+  "textureName" : "Aurelian Edge",
+  "value" : 800,
+  "weight" : 3
+}

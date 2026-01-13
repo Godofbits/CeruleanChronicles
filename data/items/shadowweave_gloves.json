@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gloves woven from shadows solidified through necromantic ritual. They blend perfectly into darkness, making the wearer's hands nearly invisible. Assassins of the Shadow Thieves pay fortunes for such gloves.",
+  "id" : "shadowweave_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Shadowweave Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Shadowweave Gloves",
+  "value" : 255,
+  "weight" : 0.5
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Simple brown trousers blessed by every temple along the great pilgrimage route from Rivendell to the Grey Havens. Pilgrims who complete the journey are granted these pants as a mark of their spiritual journey. The blessings of numerous faiths combine to create powerful enchantments—the wearer never tires from walking and can traverse any natural terrain with ease. Mountain paths, swamps, forests, and deserts all become as easy as a paved road. These pants have walked more leagues than most warriors have marched, carrying pilgrims to enlightenment.",
+  "id" : "pilgrim_traveling_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+10 feet movement speed, Ignore difficult terrain from natural sources",
+  "name" : "Pilgrim Traveling Pants",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Pilgrim_Traveling_Pants",
+  "value" : 680,
+  "weight" : 1.5
+}

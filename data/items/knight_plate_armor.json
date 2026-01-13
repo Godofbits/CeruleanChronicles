@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Full plate armor befitting a knight. Polished steel with articulated joints allows surprising mobility despite the weight. Knights of noble houses wear such armor into battle, their lineage and honor protected by finest steel. Each suit is custom-fitted to its owner, making it uncomfortable for others to wear.",
+  "id" : "knight_plate_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Knight Plate Armor",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Knight Plate Armor",
+  "value" : 500,
+  "weight" : 55
+}

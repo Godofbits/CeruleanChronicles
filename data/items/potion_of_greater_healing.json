@@ -1,0 +1,13 @@
+{
+  "description" : "A more potent healing draught brewed with rare medicinal flowers. The liquid shimmers with vitality. Regain 4d4+4 hit points.",
+  "effect" : "Heals 4d4+4 HP (avg 14)",
+  "id" : "potion_of_greater_healing",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Greater Healing",
+  "potionType" : "Potion of Greater Healing",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Greater Healing",
+  "value" : 150,
+  "weight" : 0.5
+}

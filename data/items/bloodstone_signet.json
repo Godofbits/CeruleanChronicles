@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A dark red stone flecked with darker spots. Ancient warriors believed bloodstone enhanced physical strength and endurance.",
+  "id" : "bloodstone_signet",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Athletics",
+  "name" : "Bloodstone Signet",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_18",
+  "value" : 75,
+  "weight" : 0
+}

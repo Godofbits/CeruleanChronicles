@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand with a naturally spiraling grain pattern. Harvested from trees grown in areas of strong natural magic, the spiral channels energy in a pleasant, flowing manner. A favorite of novice druids. +0 spell bonus, 5 charges.",
+  "id" : "spiralwood_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Spiralwood Wand",
+  "rarity" : "Common",
+  "textureName" : "Spiralwood Wand",
+  "value" : 25,
+  "weight" : 0.5
+}

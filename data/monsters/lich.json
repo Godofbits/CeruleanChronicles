@@ -1,0 +1,141 @@
+{
+    "id": "lich",
+    "isActive": true,
+    "name": "Lich",
+    "size": "medium",
+    "type": "undead",
+    "subtype": null,
+    "alignment": "neutralEvil",
+
+    "armorClass": 17,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 18,
+        "die": "d8",
+        "modifier": 54
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 11,
+        "dexterity": 16,
+        "constitution": 16,
+        "intelligence": 20,
+        "wisdom": 14,
+        "charisma": 16
+    },
+
+    "savingThrows": ["constitution", "intelligence", "wisdom"],
+    "skills": [
+        { "skill": "arcana", "bonus": 18 },
+        { "skill": "history", "bonus": 12 },
+        { "skill": "insight", "bonus": 9 },
+        { "skill": "perception", "bonus": 9 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold", "condition": null },
+        { "type": "lightning", "condition": null },
+        { "type": "necrotic", "condition": null }
+    ],
+    "immunities": ["poison"],
+    "conditionImmunities": ["charmed", "exhaustion", "frightened", "paralyzed", "poisoned"],
+
+    "senses": [
+        { "sense": "truesight", "range": 120 }
+    ],
+    "passivePerception": 19,
+    "languages": ["Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "21",
+    "experiencePoints": 33000,
+
+    "texture": "Lich_01",
+
+    "habitat": {
+        "environments": ["dungeon", "underdark", "ruins"],
+        "depth": "deep",
+        "description": "Liches establish lairs in fortified crypts, abandoned dwarf caverns, or pocket dimensions—anywhere isolated enough to pursue their arcane research undisturbed. Their domains, called 'dooms,' feature twisting labyrinths guarded by undead servants and constructs, with hidden chambers protecting their phylacteries.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Legendary Resistance (3/Day)",
+            "description": "If the lich fails a saving throw, it can choose to succeed instead.",
+            "effect": null
+        },
+        {
+            "name": "Rejuvenation",
+            "description": "If it has a phylactery, a destroyed lich gains a new body in 1d10 days, regaining all its hit points and becoming active again.",
+            "effect": null
+        },
+        {
+            "name": "Turn Resistance",
+            "description": "The lich has advantage on saving throws against any effect that turns undead.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Paralyzing Touch",
+            "description": "Melee Spell Attack: +12 to hit, reach 5 ft., one creature. Hit: 10 (3d6) cold damage. The target must succeed on a DC 18 Constitution saving throw or be paralyzed for 1 minute.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 12,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "cold"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": {
+        "actionsPerRound": 3,
+        "description": "The lich can take 3 legendary actions.",
+        "actions": [
+            {
+                "name": "Cantrip",
+                "cost": 1,
+                "description": "The lich casts a cantrip."
+            },
+            {
+                "name": "Paralyzing Touch",
+                "cost": 2,
+                "description": "The lich uses its Paralyzing Touch."
+            },
+            {
+                "name": "Frightening Gaze",
+                "cost": 2,
+                "description": "The lich fixes its gaze on one creature it can see within 10 feet. DC 18 Wisdom save or frightened for 1 minute."
+            },
+            {
+                "name": "Disrupt Life",
+                "cost": 3,
+                "description": "Each non-undead creature within 20 feet must make a DC 18 Constitution save, taking 21 (6d6) necrotic damage on a failed save."
+            }
+        ]
+    },
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

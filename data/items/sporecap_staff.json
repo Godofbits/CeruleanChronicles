@@ -1,0 +1,11 @@
+{
+  "description" : "A staff capped with a mature puffball mushroom. When struck against the ground, it releases a cloud of spores that causes violent sneezing in all who breathe them. The spores are harmless but extremely annoying, useful for creating distractions.",
+  "id" : "sporecap_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sporecap Staff",
+  "rarity" : "Common",
+  "textureName" : "Sporecap Staff",
+  "value" : 44,
+  "weight" : 3
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A thorned wand crowned with an ever-blooming red rose. Blessed by fey of the Summer Court, it enhances both charm magic and nature spells. The rose's fragrance can calm hostile creatures or enchant the unwary. +1 spell bonus, 7 charges.",
+  "id" : "wand_of_the_rose",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Rose",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of the Rose",
+  "value" : 420,
+  "weight" : 0.5
+}

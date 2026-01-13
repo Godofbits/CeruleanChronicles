@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor forged in the heart of an active volcano. Dwarven smiths descended into the earth's deepest reaches to craft this armor, where temperatures rival the Elemental Plane of Fire itself. The red-hot metal was shaped by fire giants and quenched in primal magma. The resulting plate provides immunity to fire damage and radiates heat that damages nearby enemies. Veins of molten metal pulse through the armor like fiery veins.",
+  "id" : "magmaforged_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Magmaforged Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Magmaforged Plate",
+  "value" : 6000,
+  "weight" : 58
+}

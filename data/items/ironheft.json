@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A heavy, solid blade designed for powerful chopping strokes. The extra weight tires the wielder quickly but delivers devastating blows. Deals 1d8 slashing damage.",
+  "id" : "ironheft",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Ironheft",
+  "rarity" : "Common",
+  "textureName" : "Ironheft",
+  "value" : 22,
+  "weight" : 4
+}

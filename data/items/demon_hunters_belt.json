@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt blessed by clerics and etched with holy symbols designed to harm fiendish creatures. Those who dedicate their lives to hunting demons and devils wear such belts, drawing strength from their sacred purpose. The belt's holy power strikes terror into the hearts of fiends and strengthens the wearer's resolve against their terrifying presence.",
+  "id" : "demon_hunters_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1d6 damage vs fiends, Advantage on saves vs fear from demons",
+  "name" : "Demon Hunter's Belt",
+  "rarity" : "Rare",
+  "textureName" : "Demon Hunter's Belt",
+  "value" : 950,
+  "weight" : 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A red scroll that smells faintly of smoke. This spell sends a cone of flames shooting from the caster's outstretched hands, engulfing everything in a fifteen-foot arc. It is often the first offensive spell learned by young evokers, teaching them to channel destructive energy while maintaining control. The flames are intense but brief, perfect for clearing swarms of weak enemies or setting fires. Many goblins have learned to fear the sight of a wizard raising both hands. Single use.",
+  "id" : "scroll_of_burning_hands",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Burning Hands",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Burning Hands",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

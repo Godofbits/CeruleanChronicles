@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Wraps made from the fur of Fenrir, the monstrous wolf of Norse mythology who will devour Odin at Ragnarok. They transform the wearer's hands into bestial claws capable of rending flesh and armor. The wraps cannot be removed in combat, and some say they slowly turn the wearer more wolf-like with each battle.",
+  "id" : "fenrirs_paw_wraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Fenrir's Paw Wraps",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Fenrir's Paw Wraps",
+  "value" : 1200,
+  "weight" : 0.5
+}

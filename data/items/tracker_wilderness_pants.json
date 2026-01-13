@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Practical brown leather pants designed for tracking game through wild lands. Hunters and bounty hunters favor such durable legwear. Built to withstand thorns and rough terrain.",
+  "id" : "tracker_wilderness_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Tracker Wilderness Pants",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Tracker_Wilderness_Pants",
+  "value" : 17,
+  "weight" : 3
+}

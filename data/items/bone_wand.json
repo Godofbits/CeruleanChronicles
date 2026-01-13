@@ -1,0 +1,11 @@
+{
+  "description" : "A simple wand carved from humanoid bone, topped with a small skull. Used by apprentice necromancers to practice their dark arts. +0 spell bonus, 5 charges.",
+  "id" : "bone_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Bone Wand",
+  "rarity" : "Common",
+  "textureName" : "Bone Wand",
+  "value" : 50,
+  "weight" : 0.5
+}

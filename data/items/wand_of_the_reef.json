@@ -1,0 +1,11 @@
+{
+  "description" : "A coral wand in vibrant colors, teeming with tiny polyps that still live. Grown in the sacred coral reefs and blessed by sea druids, it channels the collective life force of reef ecosystems. Sea life is drawn to investigate its wielder. +1 spell bonus, 7 charges.",
+  "id" : "wand_of_the_reef",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Reef",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of the Reef",
+  "value" : 480,
+  "weight" : 1
+}

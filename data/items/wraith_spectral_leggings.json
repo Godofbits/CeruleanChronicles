@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Grey, translucent pants that shimmer like mist. Created by necromancers who study the nature of undeath, these leggings provide protection against life-draining magic. The fabric exists partially in the ethereal plane, making physical attacks less effective while guarding against the touch of the undead. Those who wear them often feel cold, as if standing in a chill wind from beyond the grave.",
+  "id" : "wraith_spectral_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to saves vs necrotic damage",
+  "name" : "Wraith Spectral Leggings",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Wraith_Spectral_Leggings",
+  "value" : 250,
+  "weight" : 0.5
+}

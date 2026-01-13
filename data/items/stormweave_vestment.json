@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Magical",
+  "description" : "Blue and grey robes that crackle with static electricity. Woven by storm sorcerers who channel the fury of thunderstorms, these vestments provide resistance to lightning damage. The fabric shifts and billows even in still air, as if caught by invisible winds. During storms, the robes glow with St. Elmo's fire, and the wearer's hair stands on end with accumulated charge.",
+  "id" : "stormweave_vestment",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Stormweave Vestment",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Stormweave Vestment",
+  "value" : 450,
+  "weight" : 4
+}

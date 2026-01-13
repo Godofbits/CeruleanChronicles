@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Plate armor designed to resemble a golden ribcage. Created by a mad artificer obsessed with mortality, this armor protects the living by mimicking death. Despite its unsettling appearance, the protection is exceptional. Some wearers report feeling their own heartbeat amplified by the armor, a constant reminder of their mortality and the precious nature of each beat.",
+  "id" : "gilded_ribcage",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Gilded Ribcage",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Gilded Ribcage",
+  "value" : 2800,
+  "weight" : 50
+}

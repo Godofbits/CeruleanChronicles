@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Soft-soled boots that make barely a whisper on stone floors. Thieves and cutpurses wear such boots when slipping through shadows and climbing walls. The leather is specially treated to remain supple and silent even in cold and damp.",
+  "id" : "rogues_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Stealth",
+  "name" : "Rogue's Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Rogue's Boots",
+  "value" : 175,
+  "weight" : 1
+}

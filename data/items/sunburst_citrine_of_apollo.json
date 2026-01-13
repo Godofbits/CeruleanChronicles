@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A golden citrine that blazes like a miniature sun. Apollo's priests wore such rings to banish darkness and undeath, their radiance a testament to the sun god's eternal light.",
+  "id" : "sunburst_citrine_of_apollo",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Cast Daylight 1\/day, Immunity to blindness",
+  "name" : "Sunburst Citrine of Apollo",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_27",
+  "value" : 540,
+  "weight" : 0
+}

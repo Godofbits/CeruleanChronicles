@@ -1,0 +1,11 @@
+{
+  "description" : "An open scroll inscribed with glowing purple runes that pulse with raw magical force. This spell, one of the first developed by the ancient Netherese archmages, fires unerring bolts of pure arcana that never miss their mark. The runes were perfected over centuries to create the most reliable combat cantrip known to wizardkind. Single use.",
+  "id" : "scroll_of_arcane_missile",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Arcane Missile",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Arcane Missile",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

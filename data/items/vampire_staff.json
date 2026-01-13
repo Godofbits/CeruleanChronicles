@@ -1,0 +1,11 @@
+{
+  "description" : "A dark staff that drains life energy from those it strikes, feeding that vitality to its wielder. The wood is black as night and cold as death. Necromancers who study vampirism craft such staffs, channeling undead hunger.",
+  "id" : "vampire_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Vampire Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Vampire Staff",
+  "value" : 280,
+  "weight" : 3
+}

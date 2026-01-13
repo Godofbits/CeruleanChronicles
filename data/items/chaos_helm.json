@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A demonic helm of blackened steel and crimson spikes, forged in the blood pits of the Chaos Wastes. Those who wear it hear whispers from the dark gods, granting terrible power at the cost of one's sanity. The metal seems to pulse with malevolent life. +2 AC.",
+  "id" : "chaos_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Chaos Helm",
+  "rarity" : "Very Rare",
+  "textureName" : "Chaos Helm",
+  "value" : 4500,
+  "weight" : 5
+}

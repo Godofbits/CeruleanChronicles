@@ -1,0 +1,157 @@
+{
+    "id": "water_elemental",
+    "isActive": false,
+    "name": "Water Elemental",
+    "sortName": "Elemental, Water",
+    "size": "large",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "trueNeutral",
+
+    "armorClass": 14,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 12,
+        "die": "d10",
+        "modifier": 48
+    },
+    "speeds": {
+        "walk": 30,
+        "swim": 90
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 14,
+        "constitution": 18,
+        "intelligence": 5,
+        "wisdom": 10,
+        "charisma": 8
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "acid", "condition": null },
+        { "type": "bludgeoning", "condition": "from nonmagical attacks" },
+        { "type": "piercing", "condition": "from nonmagical attacks" },
+        { "type": "slashing", "condition": "from nonmagical attacks" }
+    ],
+    "immunities": ["poison"],
+    "conditionImmunities": ["exhaustion", "grappled", "paralyzed", "petrified", "poisoned", "prone", "restrained", "unconscious"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Aquan"],
+    "telepathyRange": null,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "mons_water_elemental_01",
+
+    "habitat": {
+        "environments": ["planar", "aquatic", "coastal"],
+        "depth": "deep",
+        "description": "Water elementals are animated torrents from the Elemental Plane of Water, capable of drowning foes in their crushing embrace. When summoned near oceans or rivers, they draw strength from the surrounding waters.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Water Form",
+            "description": "The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.",
+            "effect": {
+                "type": "waterForm",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Freeze",
+            "description": "If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.",
+            "effect": {
+                "type": "freeze",
+                "parameters": {
+                    "speedReduction": 20
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The elemental makes two slam attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Slam",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Whelm",
+            "description": "Each creature in the elemental's space must make a DC 15 Strength saving throw. On a failure, a target takes 13 (2d8 + 4) bludgeoning damage. If it is Large or smaller, it is also grappled (escape DC 14). Until this grapple ends, the target is restrained and unable to breathe unless it can breathe water. If the saving throw is successful, the target is pushed out of the elemental's space.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 15,
+                "type": "strength",
+                "onFail": "damage and grappled/restrained",
+                "onSuccess": "pushed out"
+            },
+            "recharge": {
+                "range": [4, 6]
+            },
+            "onHit": [
+                {
+                    "type": "grapple",
+                    "saveDC": 15,
+                    "saveType": "strength",
+                    "condition": "grappled",
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "bludgeoning"
+                    },
+                    "description": "DC 15 Str save, 2d8+4 bludgeoning, grappled and restrained on fail"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

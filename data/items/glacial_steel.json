@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "cold",
+  "description" : "Steel tempered in the frozen rivers of the North. The cold-working process makes the metal exceptionally hard. A thin layer of frost forms on the blade in warm weather. Deals 1d8 cold damage.",
+  "id" : "glacial_steel",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Glacial Steel",
+  "rarity" : "Uncommon",
+  "textureName" : "Glacial Steel",
+  "value" : 320,
+  "weight" : 3
+}

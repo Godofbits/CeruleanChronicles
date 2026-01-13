@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Heavy bronze and iron greaves crafted in dwarven forges. Built to last centuries, these greaves protect the legs of warriors who fight in the deep halls. The metal rings with each step, announcing the wearer's approach.",
+  "id" : "dwarven_plate_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dwarven Plate Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Dwarven_Plate_Greaves",
+  "value" : 45,
+  "weight" : 12
+}

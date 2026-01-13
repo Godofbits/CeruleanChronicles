@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A sapphire carved in the shape of crashing waves. Greek sailors prayed to Poseidon for such gifts, allowing them to survive shipwrecks and explore sunken ruins beneath the wine-dark sea.",
+  "id" : "ring_of_poseidons_favor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Water breathing, Swim speed 40 ft, Speak with aquatic beasts",
+  "name" : "Ring of Poseidon's Favor",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_43",
+  "value" : 700,
+  "weight" : 0
+}

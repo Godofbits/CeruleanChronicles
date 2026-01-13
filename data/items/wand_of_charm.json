@@ -1,0 +1,11 @@
+{
+  "description" : "A pink wand with heart-shaped decorations that sparkles with enchantment magic. Created by fey enchanters, it specializes in spells of persuasion, suggestion, and emotional manipulation. The hearts glow when the wielder is being charming. +1 spell bonus, 7 charges.",
+  "id" : "wand_of_charm",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Charm",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of Charm",
+  "value" : 600,
+  "weight" : 0.5
+}

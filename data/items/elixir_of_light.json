@@ -1,0 +1,13 @@
+{
+  "description" : "This glowing golden elixir fills you with radiant energy. Your body sheds bright light in a 30-foot radius for 1 hour, and you gain resistance to necrotic damage.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "elixir_of_light",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Light",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Elixir of Light",
+  "value" : 200,
+  "weight" : 0.5
+}

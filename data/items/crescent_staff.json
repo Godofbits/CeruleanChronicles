@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a crescent moon that glows softly in darkness. The moon's light is gentle but reveals what hides in shadow. Moon priests and those who walk by night favor such staffs.",
+  "id" : "crescent_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Crescent Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Crescent Staff",
+  "value" : 225,
+  "weight" : 3
+}

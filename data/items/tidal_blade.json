@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "cold",
+  "description" : "A blade that flows like water, blessed by sea gods. Ocean currents seem to guide its strikes. The weapon is more powerful during high tide and under a full moon. Sailors believe it brings luck at sea. Deals 1d8+1 cold damage.",
+  "id" : "tidal_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Tidal Blade",
+  "rarity" : "Rare",
+  "textureName" : "Tidal Blade",
+  "value" : 1350,
+  "weight" : 3
+}

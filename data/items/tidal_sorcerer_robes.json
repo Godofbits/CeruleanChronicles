@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Deep blue robes that ripple like water even when still. Created by sea elves who dwell in underwater palaces, these garments enhance the wearer's connection to elemental water. The fabric is woven from seaweed harvested during the highest tides and blessed by tritons. Sorcerers who command the oceans wear such robes, channeling the power of storms and tsunamis through the enchanted cloth.",
+  "id" : "tidal_sorcerer_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to spell attack rolls with water spells",
+  "name" : "Tidal Sorcerer Robes",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Tidal_Sorcerer_Robes",
+  "value" : 260,
+  "weight" : 1.5
+}

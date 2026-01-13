@@ -1,0 +1,12 @@
+{
+  "category" : "Reinforced",
+  "description" : "Bronze greaves worn by officers of the ancient legions. Shaped to fit the leg perfectly, they provide excellent protection while allowing freedom of movement. The bronze has developed a noble patina over years of service.",
+  "id" : "centurion_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Centurion Greaves",
+  "rarity" : "Common",
+  "textureName" : "Centurion Greaves",
+  "value" : 30,
+  "weight" : 1
+}

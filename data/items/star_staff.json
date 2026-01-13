@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that seems to contain captured starlight, twinkling within the wood. It helps in navigation and astronomical calculations. Wizards who study the heavens and their influence on magic favor such staffs.",
+  "id" : "star_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Star Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Star Staff",
+  "value" : 260,
+  "weight" : 3
+}

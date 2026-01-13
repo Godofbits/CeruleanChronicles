@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A fiery ruby that pulses with life force. Greek legends tell of the phoenix that dies in flames only to be reborn from its ashes. This ring grants a fraction of that immortal creature's resilience.",
+  "id" : "phoenix_ruby_of_rebirth",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Once per week, if reduced to 0 HP, return to 1 HP instead",
+  "name" : "Phoenix Ruby of Rebirth",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_16",
+  "value" : 850,
+  "weight" : 0
+}

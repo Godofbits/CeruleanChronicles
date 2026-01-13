@@ -1,0 +1,11 @@
+{
+  "description" : "A delicate wooden wand adorned with iridescent dragonfly wings. Crafted by fey artisans in the Feywild, the wings still shimmer with residual glamour magic. The wand is particularly effective for illusion and enchantment spells. +1 spell bonus, 7 charges.",
+  "id" : "dragonfly_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Dragonfly Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Dragonfly Wand",
+  "value" : 380,
+  "weight" : 0.5
+}

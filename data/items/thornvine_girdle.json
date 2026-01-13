@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A dark leather belt adorned with living vines and thorns that never wither. Crafted by druids of the Old Faith in sacred groves where the barrier between the mortal world and the Feywild grows thin. The vines coil protectively around the wearer, whispering secrets of the forest in rustling leaves. Elven woodwalkers prize such girdles, for they mark one who has earned the trust of the ancient woods.",
+  "id" : "thornvine_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Nature checks, Speak with plants 1\/day",
+  "name" : "Thornvine Girdle",
+  "rarity" : "Uncommon",
+  "textureName" : "Thornvine Girdle",
+  "value" : 150,
+  "weight" : 0.5
+}

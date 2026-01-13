@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Black and white striped trousers marking the wearer as a convict. Common issue in dungeons and prison mines. Some adventurers wear these as a badge of their checkered past.",
+  "id" : "prisoner_striped_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Prisoner Striped Pants",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Prisoner_Striped_Pants",
+  "value" : 2,
+  "weight" : 1
+}

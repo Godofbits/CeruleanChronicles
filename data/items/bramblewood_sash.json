@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A leather belt decorated with patterns resembling thorny brambles. Worn by foresters and hunters who work in dense undergrowth. The design serves as both decoration and reminder of the wild places from which it came.",
+  "id" : "bramblewood_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bramblewood Sash",
+  "rarity" : "Common",
+  "textureName" : "Bramblewood Sash",
+  "value" : 13,
+  "weight" : 0.5
+}

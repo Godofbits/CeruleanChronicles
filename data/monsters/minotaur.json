@@ -1,0 +1,148 @@
+{
+    "id": "minotaur",
+    "isActive": false,
+    "name": "Minotaur",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "chaoticEvil",
+
+    "armorClass": 14,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 9,
+        "die": "d10",
+        "modifier": 27
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 11,
+        "constitution": 16,
+        "intelligence": 6,
+        "wisdom": 16,
+        "charisma": 9
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 7 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 17,
+    "languages": ["Abyssal"],
+    "telepathyRange": null,
+
+    "challengeRating": "3",
+    "experiencePoints": 700,
+
+    "texture": "mons_minotaur_01",
+
+    "habitat": {
+        "environments": ["dungeon", "underground", "ruins"],
+        "depth": "deep",
+        "description": "Minotaurs dwell in labyrinthine dungeons and twisted underground complexes, their perfect sense of direction making them masters of mazelike domains. Cursed by the gods for ancient hubris, they hunger eternally for humanoid flesh.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Charge",
+            "description": "If the minotaur moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.",
+            "effect": {
+                "type": "charge",
+                "parameters": {
+                    "minDistance": 10,
+                    "extraDamage": "2d8",
+                    "damageType": "piercing",
+                    "saveDC": 14,
+                    "saveType": "strength",
+                    "pushDistance": 10
+                }
+            }
+        },
+        {
+            "name": "Labyrinthine Recall",
+            "description": "The minotaur can perfectly recall any path it has traveled.",
+            "effect": {
+                "type": "labyrinthineRecall",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Reckless",
+            "description": "At the start of its turn, the minotaur can gain advantage on all melee weapon attack rolls it makes during that turn, but attack rolls against it have advantage until the start of its next turn.",
+            "effect": {
+                "type": "reckless",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Greataxe",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 17 (2d12 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d12",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Gore",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

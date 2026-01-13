@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "piercing",
+  "description" : "Standard-issue shortsword of the Imperial Legions. Designed for close-quarters combat behind a shield wall. Thousands were forged; this one has survived. Deals 1d6 piercing damage.",
+  "id" : "legionnaires_gladius",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Legionnaire's Gladius",
+  "rarity" : "Common",
+  "textureName" : "Legionnaire's Gladius",
+  "value" : 18,
+  "weight" : 2
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Serviceable boots worn by sellswords and soldiers of fortune. Not fancy enough to draw thieves but sturdy enough to march in and fight in. Mercenaries know that good boots matter more than good pay when the roads are long.",
+  "id" : "mercenary_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mercenary Boots",
+  "rarity" : "Common",
+  "textureName" : "Mercenary Boots",
+  "value" : 15,
+  "weight" : 1
+}

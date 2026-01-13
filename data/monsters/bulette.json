@@ -1,0 +1,121 @@
+{
+    "id": "bulette",
+    "isActive": false,
+    "name": "Bulette",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 17,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 9,
+        "die": "d10",
+        "modifier": 45
+    },
+    "speeds": {
+        "walk": 40,
+        "burrow": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 19,
+        "dexterity": 11,
+        "constitution": 21,
+        "intelligence": 2,
+        "wisdom": 10,
+        "charisma": 5
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 },
+        { "sense": "tremorsense", "range": 60 }
+    ],
+    "passivePerception": 16,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "mons_bulette_01",
+
+    "habitat": {
+        "environments": ["grassland", "mountain", "underground"],
+        "depth": "shallow",
+        "description": "Known as 'land sharks,' bulettes burrow beneath the earth and explode from the ground to attack unsuspecting prey. Their armored hides and massive jaws make them apex predators of the wilderness, feared by both farmers and adventurers alike.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Standing Leap",
+            "description": "The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.",
+            "effect": {
+                "type": "standingLeap",
+                "parameters": {
+                    "longJump": 30,
+                    "highJump": 15
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 30 (4d12 + 4) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d12",
+                        "modifier": 4,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Deadly Leap",
+            "description": "If the bulette jumps at least 15 feet as part of its movement, it can then use this action to land on its feet in a space that contains one or more other creatures. Each of those creatures must succeed on a DC 16 Strength or Dexterity saving throw or be knocked prone and take 14 (3d6 + 4) bludgeoning damage plus 14 (3d6 + 4) slashing damage. On a successful save, the creature takes only half the damage, isn't knocked prone, and is pushed 5 feet out of the bulette's space.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "type": "strength",
+                "dc": 16,
+                "onFail": "full",
+                "onSuccess": "half"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

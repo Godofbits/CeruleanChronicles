@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A family blade passed down through generations, its silver inlay marks it as effective against lycanthropes and other creatures vulnerable to silver. The names of its previous owners are etched on the blade. Deals 1d8 slashing damage.",
+  "id" : "silvered_heirloom",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Silvered Heirloom",
+  "rarity" : "Uncommon",
+  "textureName" : "Silvered Heirloom",
+  "value" : 300,
+  "weight" : 3
+}

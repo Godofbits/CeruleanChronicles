@@ -1,0 +1,119 @@
+{
+    "id": "wolf",
+    "isActive": false,
+    "name": "Wolf",
+    "size": "medium",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 13,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 2,
+        "die": "d8",
+        "modifier": 2
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 12,
+        "dexterity": 15,
+        "constitution": 12,
+        "intelligence": 3,
+        "wisdom": 12,
+        "charisma": 6
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 3 },
+        { "skill": "stealth", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "mons_wolf_01",
+
+    "habitat": {
+        "environments": ["forest", "grassland", "mountain", "arctic"],
+        "depth": "surface",
+        "description": "Wolves roam in packs through temperate and cold wilderness regions, hunting deer, elk, and other large prey. Their mournful howls echo through the night as they communicate across vast territories.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Hearing and Smell",
+            "description": "The wolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.",
+            "effect": {
+                "type": "keenSenses",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Pack Tactics",
+            "description": "The wolf has advantage on attack rolls against a creature if at least one of the wolf's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "effect": {
+                "type": "packTactics",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 7 (2d4 + 2) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "knockdown",
+                    "saveDC": 11,
+                    "saveType": "strength",
+                    "condition": "prone",
+                    "duration": null,
+                    "damage": null,
+                    "description": "Target must succeed on DC 11 Strength save or be knocked prone"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

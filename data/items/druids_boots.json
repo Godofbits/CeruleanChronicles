@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots worn by those who serve the Old Faith and protect the balance of nature. Made from materials willingly given by the forest—shed bark, fallen leaves, and leather from naturally deceased animals. They enhance the wearer's connection to the natural world.",
+  "id" : "druids_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Wisdom, +1 Nature",
+  "name" : "Druid's Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Druid's Boots",
+  "value" : 215,
+  "weight" : 1
+}

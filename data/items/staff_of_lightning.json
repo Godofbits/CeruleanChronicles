@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that crackles with perpetual electricity, arcing between the wielder's fingers and the air around them. The staff was forged during a thunderstorm and tempered with lightning itself. Storm sorcerers who command the wrath of the sky wield such staffs, becoming conduits for heaven's fury.",
+  "id" : "staff_of_lightning",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Lightning",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Lightning",
+  "value" : 1500,
+  "weight" : 3
+}

@@ -1,0 +1,149 @@
+{
+    "id": "otyugh",
+    "isActive": false,
+    "name": "Otyugh",
+    "size": "large",
+    "type": "aberration",
+    "subtype": null,
+    "alignment": "trueNeutral",
+
+    "armorClass": 14,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 12,
+        "die": "d10",
+        "modifier": 48
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 16,
+        "dexterity": 11,
+        "constitution": 19,
+        "intelligence": 6,
+        "wisdom": 13,
+        "charisma": 6
+    },
+
+    "savingThrows": ["constitution"],
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 11,
+    "languages": ["Otyugh"],
+    "telepathyRange": null,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "Otyugh_01",
+
+    "habitat": {
+        "environments": ["dungeon", "underground", "urban"],
+        "depth": "deep",
+        "description": "Otyughs dwell in sewers, refuse heaps, and dungeon middens, feeding on garbage and carrion with their long tentacles. Some settlements tolerate their presence as waste disposal, though the creatures will happily eat fresh meat when available.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Limited Telepathy",
+            "description": "The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The otyugh makes three attacks: one with its bite and two with its tentacles.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 12 (2d8 + 3) piercing damage. If the target is a creature, it must succeed on a DC 15 Constitution saving throw against disease or become poisoned until the disease is cured.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tentacle",
+            "description": "Melee Weapon Attack: +6 to hit, reach 10 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage plus 4 (1d8) piercing damage. If the target is Medium or smaller, it is grappled (escape DC 13) and restrained until the grapple ends.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "bludgeoning"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 0,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tentacle Slam",
+            "description": "The otyugh slams creatures grappled by it into each other or a solid surface. Each creature must succeed on a DC 14 Constitution saving throw or take 10 (2d6 + 3) bludgeoning damage and be stunned until the end of the otyugh's next turn. On a successful save, the target takes half the bludgeoning damage and isn't stunned.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 14,
+                "type": "constitution",
+                "onFail": "full damage and stunned",
+                "onSuccess": "half damage"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

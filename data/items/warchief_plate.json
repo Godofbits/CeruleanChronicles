@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Massive plate armor adorned with trophies of conquest. Warchiefs of barbarian tribes who adopt civilized armor modify it with bones, furs, and captured weapons. Despite its fearsome appearance, the armor is expertly crafted. The trophies intimidate enemies—those who face the warchief see the fate of those who challenged them before.",
+  "id" : "warchief_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Warchief Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Warchief Plate",
+  "value" : 2200,
+  "weight" : 60
+}

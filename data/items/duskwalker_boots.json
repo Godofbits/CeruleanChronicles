@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots favored by those who move during the twilight hours between day and night. Guards of the evening watch and those who hunt at dusk wear such boots. The leather holds the colors of sunset—purples and deep blues.",
+  "id" : "duskwalker_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Perception in twilight",
+  "name" : "Duskwalker Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Duskwalker Boots",
+  "value" : 160,
+  "weight" : 1
+}

@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Roman-style segmented plate worn by centurions. The lorica segmentata design uses overlapping metal strips, providing excellent protection with good flexibility. Centurions who wore such armor conquered half the known world through discipline and superior equipment. The transverse crest holder marks the wearer as an officer.",
+  "id" : "centurion_lorica",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Centurion Lorica",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Centurion Lorica",
+  "value" : 650,
+  "weight" : 50
+}

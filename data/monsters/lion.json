@@ -1,0 +1,136 @@
+{
+    "id": "lion",
+    "isActive": false,
+    "name": "Lion",
+    "size": "large",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 4,
+        "die": "d10",
+        "modifier": 4
+    },
+    "speeds": {
+        "walk": 50
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 17,
+        "dexterity": 15,
+        "constitution": 13,
+        "intelligence": 3,
+        "wisdom": 12,
+        "charisma": 8
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 3 },
+        { "skill": "stealth", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1",
+    "experiencePoints": 200,
+
+    "texture": "Lion_01",
+
+    "habitat": {
+        "environments": ["grassland", "desert"],
+        "depth": "surface",
+        "description": "Lions rule the savannas and arid plains as apex predators, hunting in coordinated prides led by dominant males. Their thunderous roars can be heard for miles, warning rivals and prey alike of their presence.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Smell",
+            "description": "The lion has advantage on Wisdom (Perception) checks that rely on smell.",
+            "effect": null
+        },
+        {
+            "name": "Pack Tactics",
+            "description": "The lion has advantage on an attack roll against a creature if at least one of the lion's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "effect": null
+        },
+        {
+            "name": "Pounce",
+            "description": "If the lion moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 13 Strength saving throw or be knocked prone.",
+            "effect": null
+        },
+        {
+            "name": "Running Leap",
+            "description": "With a 10-foot running start, the lion can long jump up to 25 feet.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Blood-red gauntlets blessed by Ares, Greek god of war. They grant savage strength and fearless battle-fury. Warriors who dedicate themselves to Ares receive such gauntlets, becoming avatars of war's brutal glory. The metal is perpetually warm, as if fresh from the forge of conflict.",
+  "id" : "ares_war_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ares' War Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Ares' War Gauntlets",
+  "value" : 1250,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A curved scimitar from the southern deserts, balanced for swift, sweeping cuts. The blade's distinctive pattern comes from folded steel techniques known only to the Sandsea nomads. Deals 1d8 slashing damage.",
+  "id" : "desert_wind",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Desert Wind",
+  "rarity" : "Uncommon",
+  "textureName" : "Desert Wind",
+  "value" : 280,
+  "weight" : 2
+}

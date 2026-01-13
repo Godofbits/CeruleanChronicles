@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A steel helm crowned with razor-sharp crystal formations that grew from enchanted minerals. Dwarven artificers of the Crystal Caverns discovered that certain magical crystals bond with metal when properly treated. The spikes can store and release arcane energy. +2 AC.",
+  "id" : "crystalspike_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Crystalspike Helm",
+  "rarity" : "Rare",
+  "textureName" : "Crystalspike Helm",
+  "value" : 1200,
+  "weight" : 4
+}

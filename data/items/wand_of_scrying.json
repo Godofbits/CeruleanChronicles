@@ -1,0 +1,11 @@
+{
+  "description" : "A crystal wand with an eye-shaped gem that enhances divination magic. Master seers of the Oracle Guild crafted these to peer across vast distances. The eye sometimes shows visions of the future unbidden. +2 spell bonus, 10 charges.",
+  "id" : "wand_of_scrying",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Scrying",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Scrying",
+  "value" : 3000,
+  "weight" : 0.5
+}

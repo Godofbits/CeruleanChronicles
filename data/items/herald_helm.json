@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A ceremonial helm worn by royal heralds and messengers. The polished surface and decorative crest identify the wearer as speaking with the authority of nobility. Attacking a herald is considered a grave offense in civilized lands. +1 AC.",
+  "id" : "herald_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Herald Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Herald Helm",
+  "value" : 120,
+  "weight" : 3
+}

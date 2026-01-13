@@ -1,0 +1,11 @@
+{
+  "description" : "A silver sceptre crowned with a crescent moon that glows with lunar radiance. Sacred artifact of the moon goddess, this sceptre was forged from moonsilver during a total lunar eclipse. Its power waxes and wanes with the moon's phases, reaching full strength under the full moon. +2 spell bonus, 10 charges, radiant damage.",
+  "id" : "sceptre_of_the_moon",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sceptre of the Moon",
+  "rarity" : "Very Rare",
+  "textureName" : "Sceptre of the Moon",
+  "value" : 6000,
+  "weight" : 2
+}

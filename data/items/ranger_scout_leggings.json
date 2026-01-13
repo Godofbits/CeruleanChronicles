@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Practical brown leather leggings designed for long wilderness treks. Scouts and pathfinders wear these while exploring unmapped territories. Silent and comfortable for days of travel.",
+  "id" : "ranger_scout_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ranger Scout Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Ranger_Scout_Leggings",
+  "value" : 20,
+  "weight" : 3.5
+}

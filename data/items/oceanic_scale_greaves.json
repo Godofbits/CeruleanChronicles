@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Blue scale armor designed for naval warriors. The scales are treated to resist saltwater corrosion. Marines and coastal defenders wear such practical protection.",
+  "id" : "oceanic_scale_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Oceanic Scale Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Oceanic_Scale_Greaves",
+  "value" : 45,
+  "weight" : 8
+}

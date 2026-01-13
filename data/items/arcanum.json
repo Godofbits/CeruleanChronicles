@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+2",
+  "damageType" : "force",
+  "description" : "Forged in the Celestial Spire by the Archmage Valdris during the Age of Wonder, this blade hums with pure magical energy. The crystalline edge never dulls, and its wielder can sense magical auras within 30 feet. Deals 1d8+2 force damage.",
+  "id" : "arcanum",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Arcanum",
+  "rarity" : "Very Rare",
+  "textureName" : "Arcanum",
+  "value" : 2500,
+  "weight" : 2.5
+}

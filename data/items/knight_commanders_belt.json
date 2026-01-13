@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "An distinguished belt worn by commanders of knightly orders. Emblazoned with the symbols of their order, it marks them as leaders of holy warriors. The belt radiates an aura of protection, strengthening the resolve of all who fight alongside its wearer.",
+  "id" : "knight_commanders_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Allies within 30 feet gain +1 to saves",
+  "name" : "Knight Commander's Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Knight Commander's Belt",
+  "value" : 310,
+  "weight" : 0.5
+}

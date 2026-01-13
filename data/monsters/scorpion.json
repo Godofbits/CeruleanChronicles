@@ -1,0 +1,96 @@
+{
+    "id": "scorpion",
+    "isActive": false,
+    "name": "Scorpion",
+    "size": "tiny",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 11,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 1,
+        "die": "d4",
+        "modifier": -1
+    },
+    "speeds": {
+        "walk": 10
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 2,
+        "dexterity": 11,
+        "constitution": 8,
+        "intelligence": 1,
+        "wisdom": 8,
+        "charisma": 2
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 10 }
+    ],
+    "passivePerception": 9,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "0",
+    "experiencePoints": 10,
+
+    "texture": "Scorpion_01",
+
+    "habitat": {
+        "environments": ["desert", "underground"],
+        "depth": "surface",
+        "description": "Giant scorpions burrow beneath desert sands and rocky outcroppings, emerging at night to hunt. Their venomous stings can paralyze prey much larger than themselves, making them feared by desert travelers.",
+        "rarity": "common"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Sting",
+            "description": "Melee Weapon Attack: +2 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must make a DC 9 Constitution saving throw, taking 4 (1d8) poison damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 2,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 0,
+                        "dieType": "d4",
+                        "modifier": 1,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": {
+                "dc": 9,
+                "type": "constitution",
+                "onFail": "4 (1d8) poison damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

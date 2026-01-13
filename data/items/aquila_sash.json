@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A sash bearing the symbol of the eagle, sacred bird of the sky god. Legionaries of the ancient empire wore such sashes, and the aquila standard led them into battle. The eagle's keen sight is said to bless the wearer with enhanced awareness of their surroundings.",
+  "id" : "aquila_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Perception checks",
+  "name" : "Aquila Sash",
+  "rarity" : "Uncommon",
+  "textureName" : "Aquila Sash",
+  "value" : 185,
+  "weight" : 0.5
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Leather",
+  "description" : "Black leather pants that seem to be woven from living shadow. Created by the greatest assassin who ever lived—whose name has been forgotten, as befits one who walked unseen. These pants allow the wearer to become one with darkness, turning completely invisible when standing in shadow. More remarkably, the wearer can step into one shadow and emerge from another up to 60 feet away, moving through the shadowrealm itself. Assassins whisper tales of these legendary pants, which have been worn during some of history's most infamous murders, though none can prove it—for those who wore them were never seen.",
+  "id" : "shadow_stalker_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 to Stealth, +3 to Dexterity, Invisibility in shadows, Teleport through shadows 3\/day",
+  "name" : "Shadow Stalker Pants",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Shadow_Stalker_Pants",
+  "value" : 6200,
+  "weight" : 2
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 3,
+  "category" : "Legendary",
+  "description" : "White gloves adorned with actual angel wings at the wrists. They grant the power of flight and immunity to death magic. Created by celestial beings in the upper planes, they mark the wearer as chosen by divine powers. The wings are warm to the touch and glow with soft radiance, and merely wearing them fills one with sense of righteousness and purpose.",
+  "id" : "angelwing_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Angelwing Gloves",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Angelwing Gloves",
+  "value" : 5000,
+  "weight" : 0.5
+}

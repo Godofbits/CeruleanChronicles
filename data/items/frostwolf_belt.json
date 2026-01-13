@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A belt crafted from the hide of winter wolves that roam the frozen north. The fur provides exceptional warmth while the leather remains supple even in extreme cold. Northern barbarians hunt these wolves in sacred rites, and only the worthy may wear their pelts.",
+  "id" : "frostwolf_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Survival checks in arctic environments",
+  "name" : "Frostwolf Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Frostwolf Belt",
+  "value" : 205,
+  "weight" : 0.5
+}

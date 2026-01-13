@@ -1,0 +1,13 @@
+{
+  "description" : "This shimmering pink potion makes your movements blur. For 1 minute, your speed doubles, you gain +2 to AC, have advantage on Dexterity saving throws, and gain an additional action each turn.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_speed",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Speed",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Speed",
+  "value" : 400,
+  "weight" : 0.5
+}

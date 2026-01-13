@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Simple cloth gloves worn by peasants and laborers. They provide minimal protection but keep hands warm during cold seasons. Every adventurer begins their journey with such humble handwear.",
+  "id" : "common_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Common Gloves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Common Gloves",
+  "value" : 5,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A simple brown wizard's hat decorated with stars. Every aspiring mage receives one upon entering the academy. +0 AC.",
+  "id" : "apprentice_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Apprentice Hat",
+  "rarity" : "Common",
+  "textureName" : "Apprentice Hat",
+  "value" : 15,
+  "weight" : 0.29999999999999999
+}

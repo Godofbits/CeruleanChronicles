@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Greaves blessed by nereids, the beautiful sea nymphs of Greek legend. They shimmer like sun on water and grant mastery over the ocean's children. Those who wear them move through water with supernatural grace and can command the loyalty of aquatic beasts. Sailors who saved drowning nereids received such greaves as rewards.",
+  "id" : "nereids_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Water breathing, Swim speed 50 ft, +2 Charisma, Charm aquatic creatures",
+  "name" : "Nereid's Greaves",
+  "rarity" : "Rare",
+  "textureName" : "Nereid's Greaves",
+  "value" : 880,
+  "weight" : 1
+}

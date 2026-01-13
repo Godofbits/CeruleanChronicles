@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a bright yellow sunflower that always turns to face the sun. Even on cloudy days or underground, the flower knows where the sun lies. Simple but useful magic for those who might lose their way.",
+  "id" : "sunflower_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sunflower Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Sunflower Staff",
+  "value" : 215,
+  "weight" : 3
+}

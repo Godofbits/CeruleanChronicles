@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Fitted leather armor designed for freedom of movement. Favored by acrobats, thieves, and duelists who rely on agility over heavy protection.",
+  "id" : "leather_bodice",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Leather Bodice",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Leather Bodice",
+  "value" : 10,
+  "weight" : 7
+}

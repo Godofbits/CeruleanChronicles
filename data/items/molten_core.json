@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d10+1",
+  "damageType" : "fire",
+  "description" : "The heart of this massive blade contains actual magma, held in place by powerful wards. Created by fire giants for their king, it was lost when their fortress sank into the volcano that birthed it. Deals 1d10+1 fire damage.",
+  "id" : "molten_core",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Molten Core",
+  "rarity" : "Very Rare",
+  "textureName" : "Molten Core",
+  "value" : 3200,
+  "weight" : 5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Gauntlets blessed by Poseidon, lord of the seas. They grant mastery over water and enhanced strength when submerged. Champions of the sea god wear such gauntlets when defending his domain against those who would defile the oceans. The metal is inscribed with prayers in ancient Greek and never corrodes in salt water.",
+  "id" : "poseidons_depths_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Poseidon's Depths Grip",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Poseidon's Depths Grip",
+  "value" : 980,
+  "weight" : 0.5
+}

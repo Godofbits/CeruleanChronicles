@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Chain mail deliberately blackened to prevent reflection. The dark treatment serves both practical and intimidating purposes—reducing visibility at night while projecting an air of menace. Favored by dark knights and those who serve grim masters.",
+  "id" : "blackened_chain_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Blackened Chain Mail",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Blackened Chain Mail",
+  "value" : 120,
+  "weight" : 38
+}

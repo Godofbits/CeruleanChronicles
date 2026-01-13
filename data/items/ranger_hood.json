@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A green-grey hood worn by rangers and woodsmen. The mottled coloring helps the wearer blend into forest environments, and the fabric sheds water naturally. Many rangers add feathers or leaves for additional camouflage. +0 AC.",
+  "id" : "ranger_hood",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Ranger Hood",
+  "rarity" : "Uncommon",
+  "textureName" : "Ranger Hood",
+  "value" : 85,
+  "weight" : 0.29999999999999999
+}

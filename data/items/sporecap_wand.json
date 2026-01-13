@@ -1,0 +1,11 @@
+{
+  "description" : "A pale wand topped with colorful mushroom caps that release spores when magic flows through it. Grown by myconid circles in the Underdark, it channels poison and disease magic. The mushrooms glow faintly in darkness. +1 spell bonus, 7 charges, poison damage.",
+  "id" : "sporecap_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sporecap Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Sporecap Wand",
+  "value" : 400,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Heavy gauntlets carved with protective runes in the old dwarven manner. Each rune provides specific protection—against fire, poison, evil, and magic. Master runecrafters spend years on a single pair of such gauntlets. The runes glow faintly when their protection activates, warding off harm with ancient dwarven magic.",
+  "id" : "runecarved_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Runecarved Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Runecarved Gauntlets",
+  "value" : 950,
+  "weight" : 0.5
+}

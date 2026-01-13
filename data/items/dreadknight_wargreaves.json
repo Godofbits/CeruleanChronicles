@@ -1,0 +1,16 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Massive black iron greaves adorned with spikes and skull motifs. These were worn by the dreadknights of Angmar, warriors who served the Witch-king in ancient wars. The metal has been steeped in dark magic, making the wearer immune to terror even as they inspire it in others. The greaves are heavy with the weight of countless battles, and those who don them often dream of ancient conflicts fought beneath blood-red skies.",
+  "id" : "dreadknight_wargreaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on saves vs fear",
+  "name" : "Dreadknight Wargreaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 13,
+  "textureName" : "Dreadknight_Wargreaves",
+  "value" : 340,
+  "weight" : 16
+}

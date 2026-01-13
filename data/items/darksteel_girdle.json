@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A belt reinforced with plates of darksteel, a rare alloy that is nearly black and harder than common steel. Mined in the deepest places of the world, darksteel is prized for its exceptional strength and resistance to damage. Warriors who can afford it never settle for lesser protection.",
+  "id" : "darksteel_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC",
+  "name" : "Darksteel Girdle",
+  "rarity" : "Uncommon",
+  "textureName" : "Darksteel Girdle",
+  "value" : 315,
+  "weight" : 0.5
+}

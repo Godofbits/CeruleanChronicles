@@ -1,0 +1,12 @@
+{
+  "category" : "Studded",
+  "description" : "A belt decorated with intricate bronzework along its length. Craftsmen of the Bronze Age created such pieces, combining function with artistry. The geometric patterns pressed into the bronze plates are characteristic of ancient smiths who worked before the coming of iron.",
+  "id" : "bronzework_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bronzework Girdle",
+  "rarity" : "Common",
+  "textureName" : "Bronzework Girdle",
+  "value" : 22,
+  "weight" : 0.5
+}

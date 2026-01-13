@@ -1,0 +1,11 @@
+{
+  "description" : "A grotesque wand made from an articulated spine, topped with a glowing vertebra. Created by a mad necromancer from the remains of a giant, each vertebra clicks eerily when spells are cast. The spine sometimes twitches of its own accord. +2 spell bonus, 10 charges, necrotic damage.",
+  "id" : "spinal_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Spinal Wand",
+  "rarity" : "Rare",
+  "textureName" : "Spinal Wand",
+  "value" : 2200,
+  "weight" : 1.5
+}

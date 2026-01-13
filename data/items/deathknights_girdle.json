@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A girdle of blackened metal adorned with skulls and bones, worn by fallen paladins who have embraced undeath. The belt pulses with necrotic energy and radiates an aura of supernatural dread. Created when a holy warrior breaks their sacred oaths and falls into darkness, transforming into a death knight. The girdle grants them terrible power and resilience, making them nearly impossible to destroy while spreading fear wherever they walk.",
+  "id" : "deathknights_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Strength, +2 Constitution, Immunity to necrotic damage, Fear aura",
+  "name" : "Deathknight's Girdle",
+  "rarity" : "Very Rare",
+  "textureName" : "Deathknight's Girdle",
+  "value" : 8500,
+  "weight" : 0.5
+}

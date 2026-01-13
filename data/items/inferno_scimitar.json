@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+1",
+  "damageType" : "fire",
+  "description" : "A curved blade wreathed in flames, favored by efreeti warriors. The fire can be extinguished at will, making it practical for everyday carry. Desert travelers prize its warmth on cold nights. Deals 1d6+1 fire damage.",
+  "id" : "inferno_scimitar",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Inferno Scimitar",
+  "rarity" : "Uncommon",
+  "textureName" : "Inferno Scimitar",
+  "value" : 600,
+  "weight" : 2.5
+}

@@ -1,0 +1,134 @@
+{
+    "id": "spider",
+    "isActive": false,
+    "name": "Spider",
+    "size": "tiny",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 1,
+        "die": "d4",
+        "modifier": -1
+    },
+    "speeds": {
+        "walk": 20,
+        "climb": 20
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 2,
+        "dexterity": 14,
+        "constitution": 8,
+        "intelligence": 1,
+        "wisdom": 10,
+        "charisma": 2
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "stealth", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 30 }
+    ],
+    "passivePerception": 10,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "0",
+    "experiencePoints": 10,
+
+    "texture": "mons_spider_01",
+
+    "habitat": {
+        "environments": ["forest", "underground", "dungeon", "swamp"],
+        "depth": "shallow",
+        "description": "Giant spiders spin their webs in dark corners of the world, from forest canopies to cave ceilings. They are patient hunters, waiting motionless for hours until prey stumbles into their sticky traps.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Spider Climb",
+            "description": "The spider can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "effect": {
+                "type": "spiderClimb",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Web Sense",
+            "description": "While in contact with a web, the spider knows the exact location of any other creature in contact with the same web.",
+            "effect": {
+                "type": "webSense",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Web Walker",
+            "description": "The spider ignores movement restrictions caused by webbing.",
+            "effect": {
+                "type": "webWalker",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 1 piercing damage, and the target must succeed on a DC 9 Constitution saving throw or take 2 (1d4) poison damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 0,
+                        "dieType": "d4",
+                        "modifier": 1,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "poison",
+                    "saveDC": 9,
+                    "saveType": "constitution",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 0,
+                        "type": "poison"
+                    },
+                    "description": "Target must make DC 9 Constitution save or take 1d4 poison damage"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

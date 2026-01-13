@@ -1,0 +1,11 @@
+{
+  "description" : "A grotesque staff constructed from vertebrae strung together like beads. The spine retains its flexibility, making the staff unnervingly alive in appearance. Dark wizards craft such staffs from the remains of their enemies as both tool and trophy.",
+  "id" : "spinal_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Spinal Staff",
+  "rarity" : "Common",
+  "textureName" : "Spinal Staff",
+  "value" : 42,
+  "weight" : 3
+}

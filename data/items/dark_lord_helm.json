@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A terrifying black helm with a crown of twisted iron, worn by the most feared warlords in history. Forged by a fallen angel, it grants its wearer an aura of dread that causes lesser beings to flee. The eye slits glow with baleful red light. Those who don this helm risk losing themselves to its corrupting influence. +2 AC.",
+  "id" : "dark_lord_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dark Lord Helm",
+  "rarity" : "Legendary",
+  "textureName" : "Dark Lord Helm",
+  "value" : 12000,
+  "weight" : 5.5
+}

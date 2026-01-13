@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Reinforced",
+  "description" : "Black scale armor that seems to merge with shadows. Crafted from the hide of shadow dragons that dwell in the darkest corners of the world, these legguards grant supernatural stealth. The scales absorb light rather than reflect it, making the wearer nearly invisible in darkness. Assassins who can afford such exotic armor prize it highly, for it allows them to become one with the shadows they haunt.",
+  "id" : "shadow_dragon_legguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to Stealth in dim light or darkness",
+  "name" : "Shadow Dragon Legguards",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Shadow_Dragon_Legguards",
+  "value" : 290,
+  "weight" : 8
+}

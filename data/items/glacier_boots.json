@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots forged from ice that never melts, bound with magic to remain solid and warm to the touch. They grant complete immunity to natural cold and make the wearer comfortable in the frozen north. Dwellers in ice palaces wear such boots as everyday footwear.",
+  "id" : "glacier_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to cold weather effects, +1 Constitution",
+  "name" : "Glacier Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Glacier Boots",
+  "value" : 200,
+  "weight" : 1
+}

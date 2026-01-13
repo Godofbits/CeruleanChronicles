@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Exquisite gloves bearing the hallmarks of Noldorin craftsmanship. Every stitch is perfect, every seam flawless. The High Elves who forged the Silmarils created such gloves for their master smiths. They enhance the wearer's skill in all forms of craftsmanship, their magic preserving the ancient knowledge of the Noldor.",
+  "id" : "noldor_craftwork_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Noldor Craftwork Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Noldor Craftwork Gloves",
+  "value" : 200,
+  "weight" : 0.5
+}

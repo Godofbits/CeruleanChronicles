@@ -1,0 +1,107 @@
+{
+    "id": "centipede",
+    "isActive": false,
+    "name": "Centipede",
+    "size": "small",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 13,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 1,
+        "die": "d6",
+        "modifier": 1
+    },
+    "speeds": {
+        "walk": 30,
+        "climb": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 5,
+        "dexterity": 14,
+        "constitution": 12,
+        "intelligence": 1,
+        "wisdom": 7,
+        "charisma": 3
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 30 }
+    ],
+    "passivePerception": 8,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "Centipede_01",
+
+    "habitat": {
+        "environments": ["underground", "forest", "dungeon"],
+        "depth": "shallow",
+        "description": "Giant centipedes scuttle through dark tunnels and forest underbrush, their many legs carrying them with surprising speed. Their venomous bite can paralyze prey much larger than themselves.",
+        "rarity": "common"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage, and the target must succeed on a DC 11 Constitution saving throw or take 10 (3d6) poison damage. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "poison",
+                    "saveDC": 11,
+                    "saveType": "constitution",
+                    "condition": "poisoned",
+                    "duration": "1 hour",
+                    "damage": {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    },
+                    "description": "Target must succeed on DC 11 Constitution save or take 3d6 poison damage"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

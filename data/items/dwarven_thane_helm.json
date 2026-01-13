@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A sturdy steel helm with bronze accents, worn by dwarven thanes who command warriors in battle. The reinforced crown can withstand tremendous impacts, and the cheek guards bear clan insignias. A symbol of earned authority among the dwarven people. +2 AC.",
+  "id" : "dwarven_thane_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dwarven Thane Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Dwarven Thane Helm",
+  "value" : 450,
+  "weight" : 4.5
+}

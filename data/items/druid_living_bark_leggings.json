@@ -1,0 +1,15 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Leg armor crafted from living bark that continues to grow even after being shaped. Druids of the Old Forest created these using ancient techniques that coax ironbark trees to shape themselves into armor. The bark maintains a connection to its parent tree, allowing the wearer to sense the forest around them. Green leaves occasionally sprout from the armor during spring, marking the wearer as one blessed by nature itself.",
+  "id" : "druid_living_bark_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Nature checks, Speak with plants 1\/day",
+  "name" : "Druid Living Bark Leggings",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Druid_Living_Bark_Leggings",
+  "value" : 280,
+  "weight" : 5
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots named for Surtr, the fire giant who will burn the world at Ragnarok. They grant mastery over elemental extremes and devastating offensive power. Norse warriors who served fire giant jarls wore such boots into battle. The flames and frost that would destroy others are mere playthings to those who wear these boots.",
+  "id" : "boots_of_surtr",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire and cold, +2 Strength, Flaming weapon 1\/day",
+  "name" : "Boots of Surtr",
+  "rarity" : "Rare",
+  "textureName" : "Boots of Surtr",
+  "value" : 1150,
+  "weight" : 1
+}

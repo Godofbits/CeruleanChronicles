@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that combines magic with mechanical genius, its shaft filled with gears, crystals, and arcane machinery. It grants the power to create and enhance magical items, bending the very laws of enchantment. Gnomish artificers crafted the first such staff, merging their love of invention with arcane power. The staff hums with barely contained energy, its mechanisms constantly adjusting and recalibrating. Those who master it can forge artifacts rivaling the works of the gods themselves.",
+  "id" : "artificer_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Artificer Staff",
+  "rarity" : "Legendary",
+  "textureName" : "Artificer Staff",
+  "value" : 18000,
+  "weight" : 3
+}

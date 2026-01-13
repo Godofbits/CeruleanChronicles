@@ -1,0 +1,136 @@
+{
+    "id": "bugbear",
+    "isActive": false,
+    "name": "Bugbear",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "goblinoid",
+    "alignment": "chaoticEvil",
+
+    "armorClass": 16,
+    "armorType": "hide armor, shield",
+    "hitDice": {
+        "count": 5,
+        "die": "d8",
+        "modifier": 5
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 15,
+        "dexterity": 14,
+        "constitution": 13,
+        "intelligence": 8,
+        "wisdom": 11,
+        "charisma": 9
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "stealth", "bonus": 6 },
+        { "skill": "survival", "bonus": 2 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Common", "Goblin"],
+    "telepathyRange": null,
+
+    "challengeRating": "1",
+    "experiencePoints": 200,
+
+    "texture": "mons_bugbear_01",
+
+    "habitat": {
+        "environments": ["forest", "underground", "dungeon", "ruins"],
+        "depth": "shallow",
+        "description": "Bugbears are the stealthy ambush predators of goblinoid society, preferring to lurk in dark forests and cave networks. They often serve as elite warriors for hobgoblin warlords or lead small goblin raiding parties.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Brute",
+            "description": "A melee weapon deals one extra die of its damage when the bugbear hits with it (included in the attack).",
+            "effect": {
+                "type": "brute",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Surprise Attack",
+            "description": "If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.",
+            "effect": {
+                "type": "surpriseAttack",
+                "parameters": {
+                    "extraDamage": "2d6"
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Morningstar",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 11 (2d8 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Javelin",
+            "description": "Melee or Ranged Weapon Attack: +4 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 9 (2d6 + 2) piercing damage in melee or 5 (1d6 + 2) piercing damage at range.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": 30,
+                "rangeLong": 120,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

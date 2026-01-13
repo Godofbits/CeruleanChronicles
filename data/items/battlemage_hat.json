@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A wizard's hat with flame patterns at the base. War mages of the Imperial Legion wear these into battle, the enchantments protecting against fire and enhancing offensive spells. +0 AC.",
+  "id" : "battlemage_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Battlemage Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Battlemage Hat",
+  "value" : 280,
+  "weight" : 0.5
+}

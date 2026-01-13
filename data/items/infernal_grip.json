@@ -1,0 +1,14 @@
+{
+  "acBonus" : 3,
+  "category" : "Legendary",
+  "description" : "Gauntlets forged in the Nine Hells from infernal iron and bound with contracts written in blood. They grant authority over lesser devils and immunity to hellfire. Warlocks who make pacts with archdevils sometimes receive such gauntlets as symbols of their dark allegiance. The metal burns with unholy heat but does not harm the wearer—instead, it marks them as servants of Hell.",
+  "id" : "infernal_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Infernal Grip",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Infernal Grip",
+  "value" : 9500,
+  "weight" : 0.5
+}

@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Black plate decorated with bone motifs and skull imagery. Death knights and necromancer guards wear such armor, announcing their allegiance through its grim appearance. The armor provides advantage on saves against being frightened and resistance to necrotic damage. Some say the skulls decorating it once belonged to the wearer's enemies.",
+  "id" : "boneguard_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Boneguard Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Boneguard Plate",
+  "value" : 1300,
+  "weight" : 52
+}

@@ -1,0 +1,15 @@
+{
+  "baseAC" : 13,
+  "category" : "Medium",
+  "description" : "Lamellar armor made from hardened leather plates instead of metal. Lighter than steel lamellar but still offering solid protection. Popular among horse archers who need mobility.",
+  "id" : "leather_lamellar",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Leather Lamellar",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Leather Lamellar",
+  "value" : 45,
+  "weight" : 25
+}

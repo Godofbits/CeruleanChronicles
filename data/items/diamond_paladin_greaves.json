@@ -1,0 +1,16 @@
+{
+  "acBonus" : 3,
+  "category" : "Plate",
+  "description" : "Brilliant white metal greaves inlaid with diamonds that shine like captured stars. These were forged in the holiest forges of Minas Tirith and blessed by the highest clergy of the Valar. Paladins who have proven themselves in service to the light may be granted such armor, which provides exceptional protection against both physical and magical harm. The diamonds focus divine energy, allowing the paladin to channel radiant light that burns undead and fiends. To wear these greaves is to be marked as a champion of good, a beacon of hope in dark times.",
+  "id" : "diamond_paladin_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to all saves, Radiant damage resistance",
+  "name" : "Diamond Paladin Greaves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Diamond_Paladin_Greaves",
+  "value" : 1400,
+  "weight" : 14
+}

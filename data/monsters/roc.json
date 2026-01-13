@@ -1,0 +1,130 @@
+{
+    "id": "roc",
+    "isActive": false,
+    "name": "Roc",
+    "size": "gargantuan",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 15,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 16,
+        "die": "d20",
+        "modifier": 80
+    },
+    "speeds": {
+        "walk": 20,
+        "fly": 120
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 28,
+        "dexterity": 10,
+        "constitution": 20,
+        "intelligence": 3,
+        "wisdom": 10,
+        "charisma": 9
+    },
+
+    "savingThrows": ["dexterity", "constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "perception", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 14,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "11",
+    "experiencePoints": 7200,
+
+    "texture": "Roc_01",
+
+    "habitat": {
+        "environments": ["mountain", "coastal"],
+        "depth": "surface",
+        "description": "Rocs are legendary birds of prey so enormous they can snatch elephants in their talons. They nest atop the highest mountain peaks, and the shadow of their wings passing overhead is enough to send entire villages fleeing in terror.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Sight",
+            "description": "The roc has advantage on Wisdom (Perception) checks that rely on sight.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The roc makes two attacks: one with its beak and one with its talons.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Beak",
+            "description": "Melee Weapon Attack: +13 to hit, reach 10 ft., one target. Hit: 27 (4d8 + 9) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 13,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d8",
+                        "modifier": 9,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Talons",
+            "description": "Melee Weapon Attack: +13 to hit, reach 5 ft., one target. Hit: 23 (4d6 + 9) slashing damage, and the target is grappled (escape DC 19). Until this grapple ends, the target is restrained, and the roc can't use its talons on another target.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 13,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d6",
+                        "modifier": 9,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

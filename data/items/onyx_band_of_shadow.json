@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A black onyx ring that seems to drink in light. Thieves and assassins covet such darkness-touched stones.",
+  "id" : "onyx_band_of_shadow",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Stealth",
+  "name" : "Onyx Band of Shadow",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_13",
+  "value" : 80,
+  "weight" : 0
+}

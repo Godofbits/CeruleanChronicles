@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots treated with sea magic and blessed by ocean spirits. They make swimming easier and more natural. Sailors and those who work on the water wear such boots, knowing they might save their life in a shipwreck.",
+  "id" : "seafoam_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+10 ft swim speed",
+  "name" : "Seafoam Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Seafoam Boots",
+  "value" : 180,
+  "weight" : 1
+}

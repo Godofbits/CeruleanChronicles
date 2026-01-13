@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Heavy plate worn by the elite heavy infantry of imperial legions. The design emphasizes protection over mobility, perfect for forming an unbreakable shield wall. Legion plate has won countless battles through sheer endurance—legionaries can hold the line long after lighter troops have fled.",
+  "id" : "legion_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Legion Plate",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Legion Plate",
+  "value" : 550,
+  "weight" : 56
+}

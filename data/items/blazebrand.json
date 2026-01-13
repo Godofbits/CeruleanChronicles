@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "fire",
+  "description" : "The blade flickers with eternal flame, bound by fire elementalists of the Ember Conclave. It was meant as a gift to the Sultan of Brass, but the courier never arrived. The desert claimed them both. Deals 1d8+1 fire damage.",
+  "id" : "blazebrand",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Blazebrand",
+  "rarity" : "Rare",
+  "textureName" : "Blazebrand",
+  "value" : 1500,
+  "weight" : 3
+}

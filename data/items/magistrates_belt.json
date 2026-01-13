@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A formal belt worn by judges and legal officials. The dignified design conveys authority and impartiality. Magistrates wear such belts when rendering judgment, and they are said to help the wearer discern truth from lies.",
+  "id" : "magistrates_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Insight",
+  "name" : "Magistrate's Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Magistrate's Belt",
+  "value" : 255,
+  "weight" : 0.5
+}

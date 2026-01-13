@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "slashing",
+  "description" : "A magnificent blade with a ruby-encrusted guard that pulses with protective magic. Commissioned by a paranoid king, it was designed to protect as much as to attack. The rubies glow when danger approaches. Deals 1d8+1 slashing damage.",
+  "id" : "rubyguard",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Rubyguard",
+  "rarity" : "Rare",
+  "textureName" : "Rubyguard",
+  "value" : 1600,
+  "weight" : 3
+}

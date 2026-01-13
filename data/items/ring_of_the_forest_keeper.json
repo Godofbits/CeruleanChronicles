@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "An emerald carved with leaves and vines that seem to move in the light. Elven rangers receive such rings when they swear to protect the ancient forests from desecration.",
+  "id" : "ring_of_the_forest_keeper",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Pass without trace 1\/day, +1 Survival",
+  "name" : "Ring of the Forest Keeper",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_35",
+  "value" : 530,
+  "weight" : 0
+}

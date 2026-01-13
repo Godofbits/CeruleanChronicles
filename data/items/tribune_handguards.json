@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Well-crafted gauntlets worn by Roman military tribunes. The bronze is finely worked and bears decorative elements befitting an officer's rank. Practical protection combined with symbols of authority.",
+  "id" : "tribune_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Tribune Handguards",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Tribune Handguards",
+  "value" : 33,
+  "weight" : 0.5
+}

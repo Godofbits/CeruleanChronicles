@@ -14,12 +14,16 @@
         body {
             background: #000000;
             min-height: 100vh;
-            display: flex;
-            align-items: center;
-            justify-content: center;
             font-family: Copperplate, 'Copperplate Gothic', Georgia, serif;
             color: #8b7355;
-            position: relative;
+            padding-bottom: 150px;
+            overflow-x: hidden;
+        }
+
+        @media (max-width: 768px) {
+            body {
+                padding-bottom: 75px;
+            }
         }
 
         /* Stone texture overlay */
@@ -41,6 +45,7 @@
             z-index: 2;
             padding: 3rem 2rem;
             max-width: 900px;
+            margin: 0 auto;
             position: relative;
         }
 
@@ -93,36 +98,27 @@
 
         .nav-tab {
             padding: 0.8rem 2rem;
-            background: linear-gradient(180deg, #2a2a2a 0%, #1a1a1a 100%);
-            border: 2px solid #4a4a4a;
-            color: #8b7355;
+            background: transparent;
+            border: none;
+            border-bottom: 3px solid transparent;
+            color: #6b6b6b;
             text-decoration: none;
             font-size: 1rem;
             letter-spacing: 0.15rem;
             text-transform: uppercase;
             transition: all 0.3s ease;
             position: relative;
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+            cursor: pointer;
         }
 
         .nav-tab:hover {
-            background: linear-gradient(180deg, #3a3a3a 0%, #2a2a2a 100%);
-            border-color: #6b7355;
             color: #a89968;
-            transform: translateY(-2px);
-            box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7);
+            border-bottom-color: #4a4a4a;
         }
 
-        .nav-tab::before {
-            content: "⚔";
-            position: absolute;
-            left: 0.5rem;
-            opacity: 0;
-            transition: opacity 0.3s ease;
-        }
-
-        .nav-tab:hover::before {
-            opacity: 1;
+        .nav-tab.active {
+            color: #a89968;
+            border-bottom-color: #8b7355;
         }
 
         @media (max-width: 768px) {
@@ -164,21 +160,805 @@
                 font-size: 0.85rem;
             }
         }
+
+        /* Tab content area */
+        .tab-content {
+            display: none;
+            width: 100%;
+            max-width: 1600px;
+            margin: 0 auto;
+            padding: 2rem 1rem;
+            position: relative;
+            z-index: 2;
+        }
+
+        .tab-content.active {
+            display: block;
+        }
+
+        .content-header {
+            text-align: center;
+            margin-bottom: 2rem;
+        }
+
+        .foes-title {
+            font-size: 2rem;
+            color: #8b7355;
+            margin-bottom: 1rem;
+            letter-spacing: 0.15rem;
+            text-align: center;
+        }
+
+        /* Monster grid */
+        .monster-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+            gap: 1.5rem;
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        .monster-card {
+            background: rgba(20, 20, 20, 0.8);
+            border: 2px solid rgba(139, 115, 85, 0.3);
+            border-radius: 8px;
+            padding: 1rem;
+            cursor: pointer;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .monster-card:hover {
+            transform: translateY(-4px);
+            border-color: rgba(139, 115, 85, 0.6);
+            box-shadow: 0 8px 16px rgba(0, 0, 0, 0.8);
+        }
+
+        /* Subtle watermark on unlocked content */
+        .monster-card:not(.locked)::before {
+            content: "PREVIEW";
+            position: absolute;
+            top: 40%;
+            left: 50%;
+            transform: translate(-50%, -50%) rotate(-25deg);
+            font-size: 1.8rem;
+            font-weight: bold;
+            color: rgba(139, 115, 85, 0.08);
+            pointer-events: none;
+            z-index: 3;
+            letter-spacing: 0.3rem;
+            text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3);
+        }
+
+        .monster-card img {
+            width: 100%;
+            height: 200px;
+            object-fit: contain;
+            margin-bottom: 0.75rem;
+            transition: filter 0.3s ease;
+            user-select: none;
+            -webkit-user-drag: none;
+            pointer-events: none;
+        }
+
+        /* Locked content styling */
+        .monster-card.locked img {
+            filter: blur(12px) brightness(0.4);
+        }
+
+        .monster-card.locked .monster-name,
+        .monster-card.locked .monster-type,
+        .monster-card.locked .monster-stats {
+            filter: blur(4px);
+            user-select: none;
+        }
+
+        .monster-card.locked::after {
+            content: "?";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            font-size: 6rem;
+            color: rgba(139, 115, 85, 0.3);
+            pointer-events: none;
+            z-index: 5;
+            font-weight: bold;
+        }
+
+        .locked-overlay {
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            background: linear-gradient(to top, rgba(0, 0, 0, 0.95), transparent);
+            padding: 1rem;
+            text-align: center;
+            pointer-events: none;
+        }
+
+        .locked-overlay-text {
+            font-size: 0.7rem;
+            color: #8b7355;
+            letter-spacing: 0.05rem;
+            text-transform: uppercase;
+        }
+
+        .monster-index {
+            position: absolute;
+            top: 0.5rem;
+            left: 0.5rem;
+            background: rgba(0, 0, 0, 0.7);
+            padding: 0.25rem 0.5rem;
+            border-radius: 4px;
+            font-size: 0.7rem;
+            color: #6b89b8;
+        }
+
+        .monster-badge {
+            position: absolute;
+            top: 0.5rem;
+            right: 0.5rem;
+            font-size: 1.2rem;
+            text-shadow: 0 0 4px rgba(0, 0, 0, 0.8);
+        }
+
+        .monster-name {
+            font-size: 1.1rem;
+            color: #a89968;
+            margin-bottom: 0.5rem;
+            font-weight: bold;
+        }
+
+        .monster-type {
+            font-size: 0.85rem;
+            color: #8b7355;
+            margin-bottom: 0.5rem;
+        }
+
+        .monster-stats {
+            font-size: 0.75rem;
+            color: #6b89b8;
+            font-family: Menlo, monospace;
+        }
+
+        /* Modal */
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            z-index: 2000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+        }
+
+        .modal-backdrop {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: rgba(0, 0, 0, 0.85);
+        }
+
+        .modal-card {
+            position: relative;
+            background: rgb(26, 26, 38);
+            border: 3px solid rgba(139, 115, 85, 0.5);
+            border-radius: 16px;
+            max-width: 700px;
+            max-height: 85vh;
+            overflow-y: auto;
+            padding: 2rem;
+            z-index: 2001;
+            margin: 1rem;
+        }
+
+        .modal-card img {
+            width: 100%;
+            max-width: 256px;
+            height: auto;
+            margin: 0 auto 1rem auto;
+            display: block;
+        }
+
+        .modal-title {
+            font-size: 2rem;
+            color: #a89968;
+            text-align: center;
+            margin-bottom: 0.5rem;
+        }
+
+        .modal-type {
+            font-size: 1rem;
+            color: #8b7355;
+            text-align: center;
+            margin-bottom: 1rem;
+        }
+
+        .modal-stats-line {
+            font-size: 0.9rem;
+            color: #6b89b8;
+            text-align: center;
+            margin-bottom: 1rem;
+            font-family: Menlo, monospace;
+        }
+
+        .abilities {
+            display: grid;
+            grid-template-columns: repeat(6, 1fr);
+            gap: 0.5rem;
+            margin: 1rem 0;
+            text-align: center;
+        }
+
+        .ability {
+            background: rgba(0, 0, 0, 0.4);
+            padding: 0.5rem;
+            border-radius: 4px;
+            font-size: 0.8rem;
+            color: #8b7355;
+        }
+
+        .ability-name {
+            display: block;
+            font-weight: bold;
+            color: #6b89b8;
+            margin-bottom: 0.25rem;
+        }
+
+        .divider {
+            height: 2px;
+            background: linear-gradient(90deg, transparent 0%, #4a4a4a 50%, transparent 100%);
+            margin: 1.5rem 0;
+        }
+
+        .section-title {
+            font-size: 1.2rem;
+            color: #a89968;
+            margin: 1rem 0 0.5rem 0;
+        }
+
+        .trait, .action {
+            margin-bottom: 1rem;
+        }
+
+        .trait-name, .action-name {
+            font-weight: bold;
+            color: #8b7355;
+            margin-bottom: 0.25rem;
+        }
+
+        .trait-desc, .action-desc {
+            color: #6b89b8;
+            font-size: 0.9rem;
+            line-height: 1.5;
+        }
+
+        .close-modal-btn {
+            display: block;
+            margin: 1.5rem auto 0 auto;
+            padding: 0.8rem 2rem;
+            background: linear-gradient(180deg, #4a2a2a 0%, #2a1a1a 100%);
+            border: 2px solid #6a4a4a;
+            color: #8b7355;
+            font-family: Copperplate, 'Copperplate Gothic', Georgia, serif;
+            font-size: 0.9rem;
+            letter-spacing: 0.1rem;
+            text-transform: uppercase;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .close-modal-btn:hover {
+            background: linear-gradient(180deg, #5a3a3a 0%, #3a2a2a 100%);
+            border-color: #8a6a6a;
+        }
+
+        .loading {
+            text-align: center;
+            color: #6b89b8;
+            font-size: 1.2rem;
+            padding: 3rem;
+        }
+
+        @media (max-width: 768px) {
+            .foes-title {
+                font-size: 1.8rem;
+            }
+            .monster-grid {
+                grid-template-columns: 1fr;
+            }
+            .modal-card {
+                padding: 1.5rem;
+            }
+            .abilities {
+                grid-template-columns: repeat(3, 1fr);
+            }
+        }
+
+        /* Panoramic scrolling banner */
+        .panoramic-banner {
+            position: fixed;
+            bottom: 0;
+            left: 0;
+            width: 100%;
+            height: 150px;
+            overflow: hidden;
+            z-index: 1000;
+            pointer-events: none;
+        }
+
+        /* Gradient fade above banner */
+        .panoramic-banner::before {
+            content: "";
+            position: absolute;
+            top: -50px;
+            left: 0;
+            width: 100%;
+            height: 50px;
+            background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.8));
+            z-index: 1001;
+            pointer-events: none;
+        }
+
+        .panoramic-scroll {
+            display: flex;
+            height: 100%;
+            animation: scroll-panoramic 60s linear infinite;
+        }
+
+        .panoramic-scroll img {
+            height: 150px;
+            width: auto;
+            display: block;
+            flex-shrink: 0;
+        }
+
+        @keyframes scroll-panoramic {
+            0% {
+                transform: translateX(0);
+            }
+            100% {
+                transform: translateX(-1499px);
+            }
+        }
+
+        @media (max-width: 768px) {
+            .panoramic-banner {
+                height: 75px;
+            }
+            .panoramic-banner::before {
+                top: -30px;
+                height: 30px;
+            }
+            .panoramic-scroll img {
+                height: 75px;
+            }
+        }
     </style>
 </head>
 <body>
-    <div class="container">
+    <!-- Landing page - always visible -->
+    <div class="container" id="landing">
         <div class="coming-soon">... coming soon ...</div>
+        <div class="coming-soon" style="font-size: 0.85rem; margin-top: 0.5rem; color: #a89968;">Planned release Friday, March 13th '26</div>
         <div class="border-top"></div>
         <img src="logo.png" alt="Cerulean Chronicles - Into the Abyss" class="logo">
         <div class="border-bottom"></div>
         <div class="tagline">A dark dungeon crawler for the bold and the brave</div>
 
         <nav class="nav">
-            <a href="#foes" class="nav-tab">Foes</a>
-            <a href="#spoils" class="nav-tab">Spoils of War</a>
+            <a href="#foes" class="nav-tab active" id="foes-nav" onclick="showTab('foes'); return false;">Foes</a>
+            <a href="#spoils" class="nav-tab" id="spoils-nav" onclick="showTab('spoils'); return false;">Spoils of War</a>
             <a href="#quests" class="nav-tab">Quests</a>
         </nav>
     </div>
+
+    <!-- Foes tab content -->
+    <div class="tab-content active" id="foes-tab">
+        <div class="content-header">
+            <h1 class="foes-title">Monstuary</h1>
+        </div>
+        <div id="monster-container">
+            <div class="loading">Loading monsters...</div>
+        </div>
+    </div>
+
+    <!-- Spoils of War tab content -->
+    <div class="tab-content" id="spoils-tab">
+        <div class="content-header">
+            <h1 class="foes-title">Spoils of War</h1>
+        </div>
+        <div id="item-container">
+            <div class="loading">Loading items...</div>
+        </div>
+    </div>
+
+    <!-- Modal for monster details -->
+    <div class="modal" id="monster-modal">
+        <div class="modal-backdrop" onclick="closeModal()"></div>
+        <div class="modal-card" id="modal-content">
+            <!-- Monster details will be injected here -->
+        </div>
+    </div>
+
+    <!-- Panoramic scrolling banner -->
+    <div class="panoramic-banner">
+        <div class="panoramic-scroll">
+            <img src="images/pano_banner.jpg" alt="">
+            <img src="images/pano_banner.jpg" alt="">
+            <img src="images/pano_banner.jpg" alt="">
+            <img src="images/pano_banner.jpg" alt="">
+            <img src="images/pano_banner.jpg" alt="">
+        </div>
+    </div>
+
+    <script>
+        let allMonsters = [];
+        let allItems = [];
+
+        // Load monsters on page load
+        window.addEventListener('DOMContentLoaded', () => {
+            loadMonsters();
+        });
+
+        // Show tab content
+        function showTab(tabId) {
+            // Remove active class from all nav tabs
+            document.querySelectorAll('.nav-tab').forEach(tab => {
+                tab.classList.remove('active');
+            });
+
+            // Hide all tab content
+            document.querySelectorAll('.tab-content').forEach(tab => {
+                tab.classList.remove('active');
+            });
+
+            // Show selected tab
+            if (tabId === 'foes') {
+                document.getElementById('foes-nav').classList.add('active');
+                document.getElementById('foes-tab').classList.add('active');
+                if (allMonsters.length === 0) {
+                    loadMonsters();
+                }
+            } else if (tabId === 'spoils') {
+                document.getElementById('spoils-nav').classList.add('active');
+                document.getElementById('spoils-tab').classList.add('active');
+                if (allItems.length === 0) {
+                    loadItems();
+                }
+            }
+        }
+
+        // Load monsters
+        async function loadMonsters() {
+            try {
+                const response = await fetch('data/monsters/index.json');
+                const monsterIds = await response.json();
+
+                const monsterPromises = monsterIds.map(id =>
+                    fetch(`data/monsters/${id}.json`).then(r => r.json())
+                );
+
+                allMonsters = await Promise.all(monsterPromises);
+                renderMonsters();
+            } catch (error) {
+                console.error('Error loading monsters:', error);
+                document.getElementById('monster-container').innerHTML =
+                    '<div class="loading">Error loading monsters. Please refresh.</div>';
+            }
+        }
+
+        // Render monsters
+        function renderMonsters() {
+            const container = document.getElementById('monster-container');
+            const grid = document.createElement('div');
+            grid.className = 'monster-grid';
+
+            // Sort: active monsters first, then locked
+            const sortedMonsters = [...allMonsters].sort((a, b) => {
+                if (a.isActive && !b.isActive) return -1;
+                if (!a.isActive && b.isActive) return 1;
+                return 0;
+            });
+
+            sortedMonsters.forEach((monster, index) => {
+                const card = createMonsterCard(monster, index + 1);
+                grid.appendChild(card);
+            });
+
+            container.innerHTML = '';
+            container.appendChild(grid);
+
+            // Update title with count (unlocked vs total)
+            const unlockedCount = allMonsters.filter(m => m.isActive).length;
+            document.querySelector('#foes-tab .foes-title').textContent = `Monstuary (${unlockedCount} unlocked • ${allMonsters.length} total)`;
+        }
+
+        // Create monster card
+        function createMonsterCard(monster, index) {
+            const card = document.createElement('div');
+            card.className = 'monster-card';
+
+            const imageName = monster.texture || monster.id;
+            const badge = monster.isActive ? '🔥' : '🔒';
+            const isLocked = !monster.isActive;
+
+            // Add locked class if not active
+            if (isLocked) {
+                card.classList.add('locked');
+                card.onclick = () => showLockedMessage();
+            } else {
+                card.onclick = () => showMonsterDetail(monster);
+            }
+
+            card.innerHTML = `
+                <div class="monster-index">#${index}</div>
+                <div class="monster-badge">${badge}</div>
+                <img src="images/monsters/${imageName}.png" alt="${monster.name}" onerror="this.src='images/monsters/mons_001.png'">
+                <div class="monster-name">${monster.name}</div>
+                <div class="monster-type">${monster.size} ${monster.type}</div>
+                <div class="monster-stats">AC ${monster.armorClass} • HP ${monster.maxHP} • CR ${monster.challengeRating}</div>
+                ${isLocked ? '<div class="locked-overlay"><div class="locked-overlay-text">Download to Unlock</div></div>' : ''}
+            `;
+
+            return card;
+        }
+
+        // Show monster detail modal
+        function showMonsterDetail(monster) {
+            const modal = document.getElementById('monster-modal');
+            const content = document.getElementById('modal-content');
+            const imageName = monster.texture || monster.id;
+
+            let html = `
+                <img src="images/monsters/${imageName}.png" alt="${monster.name}" onerror="this.src='images/monsters/mons_001.png'">
+                <h2 class="modal-title">${monster.name}</h2>
+                <div class="modal-type">${monster.size} ${monster.type}</div>
+                <div class="modal-stats-line">AC ${monster.armorClass} • HP ${monster.maxHP} • CR ${monster.challengeRating} • XP ${monster.experiencePoints}</div>
+
+                <div class="abilities">
+                    <div class="ability"><span class="ability-name">STR</span>${monster.abilities.strength}</div>
+                    <div class="ability"><span class="ability-name">DEX</span>${monster.abilities.dexterity}</div>
+                    <div class="ability"><span class="ability-name">CON</span>${monster.abilities.constitution}</div>
+                    <div class="ability"><span class="ability-name">INT</span>${monster.abilities.intelligence}</div>
+                    <div class="ability"><span class="ability-name">WIS</span>${monster.abilities.wisdom}</div>
+                    <div class="ability"><span class="ability-name">CHA</span>${monster.abilities.charisma}</div>
+                </div>
+
+                <div class="divider"></div>
+            `;
+
+            if (monster.speeds && monster.speeds.length > 0) {
+                html += `<div><strong>Speed:</strong> ${monster.speeds.map(s => s.type + ' ' + s.value + 'ft').join(', ')}</div>`;
+            }
+
+            if (monster.traits && monster.traits.length > 0) {
+                html += `<h3 class="section-title">Traits</h3>`;
+                monster.traits.forEach(trait => {
+                    html += `
+                        <div class="trait">
+                            <div class="trait-name">${trait.name}</div>
+                            <div class="trait-desc">${trait.description}</div>
+                        </div>
+                    `;
+                });
+            }
+
+            if (monster.actions && monster.actions.length > 0) {
+                html += `<div class="divider"></div><h3 class="section-title">Actions</h3>`;
+                monster.actions.forEach(action => {
+                    html += `
+                        <div class="action">
+                            <div class="action-name">${action.name}</div>
+                            <div class="action-desc">${action.description}</div>
+                        </div>
+                    `;
+                });
+            }
+
+            if (monster.habitat) {
+                html += `<div class="divider"></div><h3 class="section-title">Habitat</h3>`;
+                html += `<div class="trait-desc">${monster.habitat.description || 'Unknown habitat'}</div>`;
+            }
+
+            html += `<button class="close-modal-btn" onclick="closeModal()">Close</button>`;
+
+            content.innerHTML = html;
+            modal.classList.add('active');
+        }
+
+        // Load items
+        async function loadItems() {
+            try {
+                const response = await fetch('data/items/index.json');
+                const itemIds = await response.json();
+
+                const itemPromises = itemIds.map(id =>
+                    fetch(`data/items/${id}.json`).then(r => r.json())
+                );
+
+                allItems = await Promise.all(itemPromises);
+                renderItems();
+            } catch (error) {
+                console.error('Error loading items:', error);
+                document.getElementById('item-container').innerHTML =
+                    '<div class="loading">Error loading items. Please refresh.</div>';
+            }
+        }
+
+        // Render items
+        function renderItems() {
+            const container = document.getElementById('item-container');
+            const grid = document.createElement('div');
+            grid.className = 'monster-grid';
+
+            // Sort: active items first, then locked
+            const sortedItems = [...allItems].sort((a, b) => {
+                if (a.isActive && !b.isActive) return -1;
+                if (!a.isActive && b.isActive) return 1;
+                return 0;
+            });
+
+            sortedItems.forEach((item, index) => {
+                const card = createItemCard(item, index + 1);
+                grid.appendChild(card);
+            });
+
+            container.innerHTML = '';
+            container.appendChild(grid);
+
+            // Update title with count (unlocked vs total)
+            const unlockedCount = allItems.filter(i => i.isActive).length;
+            document.querySelector('#spoils-tab .foes-title').textContent = `Spoils of War (${unlockedCount} unlocked • ${allItems.length} total)`;
+        }
+
+        // Create item card
+        function createItemCard(item, index) {
+            const card = document.createElement('div');
+            card.className = 'monster-card';
+
+            const imageName = item.textureName || item.id;
+            const rarity = item.rarity || 'Common';
+            const type = item.itemType || 'misc';
+            const badge = item.isActive ? '🔥' : '🔒';
+            const isLocked = !item.isActive;
+
+            // Add locked class if not active
+            if (isLocked) {
+                card.classList.add('locked');
+                card.onclick = () => showLockedMessage();
+            } else {
+                card.onclick = () => showItemDetail(item);
+            }
+
+            // Build stats line based on item type
+            let stats = `${item.value} gp • ${item.weight} lb`;
+            if (item.damage) {
+                stats = `${item.damage} ${item.damageType} • ` + stats;
+            } else if (item.armorBonus) {
+                stats = `+${item.armorBonus} AC • ` + stats;
+            } else if (item.acBonus) {
+                stats = `+${item.acBonus} AC • ` + stats;
+            } else if (item.baseAC) {
+                stats = `AC ${item.baseAC} • ` + stats;
+            }
+
+            card.innerHTML = `
+                <div class="monster-index">#${index}</div>
+                <div class="monster-badge">${badge}</div>
+                <img src="images/items/${imageName}.png" alt="${item.name}" onerror="this.style.display='none'">
+                <div class="monster-name">${item.name}</div>
+                <div class="monster-type">${rarity} ${type}</div>
+                <div class="monster-stats">${stats}</div>
+                ${isLocked ? '<div class="locked-overlay"><div class="locked-overlay-text">Download to Unlock</div></div>' : ''}
+            `;
+
+            return card;
+        }
+
+        // Show item detail modal
+        function showItemDetail(item) {
+            const modal = document.getElementById('monster-modal');
+            const content = document.getElementById('modal-content');
+            const imageName = item.textureName || item.id;
+
+            let html = `
+                <img src="images/items/${imageName}.png" alt="${item.name}" onerror="this.style.display='none'">
+                <h2 class="modal-title">${item.name}</h2>
+                <div class="modal-type">${item.rarity} ${item.itemType}</div>
+                <div class="modal-stats-line">Value: ${item.value} gp • Weight: ${item.weight} lb</div>
+
+                <div class="divider"></div>
+            `;
+
+            if (item.damage) {
+                html += `<div class="trait"><div class="trait-name">Damage</div><div class="trait-desc">${item.damage} ${item.damageType}</div></div>`;
+            }
+
+            if (item.armorBonus) {
+                html += `<div class="trait"><div class="trait-name">Armor Class</div><div class="trait-desc">+${item.armorBonus}</div></div>`;
+            }
+
+            if (item.baseAC) {
+                html += `<div class="trait"><div class="trait-name">Armor Class</div><div class="trait-desc">AC ${item.baseAC}${item.maxDexBonus !== undefined ? ` (max Dex +${item.maxDexBonus})` : ''}</div></div>`;
+            }
+
+            if (item.category) {
+                html += `<div class="trait"><div class="trait-name">Category</div><div class="trait-desc">${item.category}</div></div>`;
+            }
+
+            if (item.magicEffect) {
+                html += `<div class="trait"><div class="trait-name">Magic Effect</div><div class="trait-desc">${item.magicEffect}</div></div>`;
+            }
+
+            if (item.description) {
+                html += `<div class="divider"></div>`;
+                html += `<div class="trait-desc">${item.description}</div>`;
+            }
+
+            html += `<button class="close-modal-btn" onclick="closeModal()">Close</button>`;
+
+            content.innerHTML = html;
+            modal.classList.add('active');
+        }
+
+        // Show locked content message
+        function showLockedMessage() {
+            const modal = document.getElementById('monster-modal');
+            const content = document.getElementById('modal-content');
+
+            content.innerHTML = `
+                <div style="text-align: center; padding: 2rem;">
+                    <div style="font-size: 4rem; margin-bottom: 1rem;">🔒</div>
+                    <h2 class="modal-title">Content Locked</h2>
+                    <div class="trait-desc" style="margin: 2rem 0; font-size: 1.1rem;">
+                        This content is available exclusively in the iOS app.<br><br>
+                        Download <strong>Cerulean Chronicles - Into the Abyss</strong> to unlock all ${allMonsters.length} monsters and ${allItems.length} items!
+                    </div>
+                    <button class="close-modal-btn" onclick="closeModal()" style="margin-top: 1rem;">Close</button>
+                </div>
+            `;
+
+            modal.classList.add('active');
+        }
+
+        // Close modal
+        function closeModal() {
+            document.getElementById('monster-modal').classList.remove('active');
+        }
+
+        // Close modal on Escape key
+        document.addEventListener('keydown', (e) => {
+            if (e.key === 'Escape') {
+                closeModal();
+            }
+        });
+
+        // Disable right-click on images (prevent casual saving)
+        document.addEventListener('contextmenu', (e) => {
+            if (e.target.tagName === 'IMG') {
+                e.preventDefault();
+                return false;
+            }
+        });
+
+        // Disable dragging images
+        document.addEventListener('dragstart', (e) => {
+            if (e.target.tagName === 'IMG') {
+                e.preventDefault();
+                return false;
+            }
+        });
+    </script>
 </body>
 </html>

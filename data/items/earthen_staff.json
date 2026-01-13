@@ -1,0 +1,11 @@
+{
+  "description" : "A staff formed from petrified wood, as hard as stone yet lighter than it appears. The grain still shows through the mineral surface, a testament to the tree that once was. Earth mages favor such staffs for their connection to the enduring power of stone.",
+  "id" : "earthen_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Earthen Staff",
+  "rarity" : "Common",
+  "textureName" : "Earthen Staff",
+  "value" : 25,
+  "weight" : 3
+}

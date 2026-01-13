@@ -1,0 +1,11 @@
+{
+  "description" : "A dark staff that burns with red flames the color of fresh blood. The fire consumes life force as well as flesh. Warlocks who serve fiendish patrons sometimes receive such staffs as gifts—or curses.",
+  "id" : "staff_of_bloodfire",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Bloodfire",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Bloodfire",
+  "value" : 1300,
+  "weight" : 3
+}

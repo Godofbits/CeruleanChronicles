@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Blood-stained gauntlets that channel pure berserker rage. When activated, they fill the wearer with unstoppable fury and tremendous strength. Norse berserkers who never fell in battle wore such gauntlets, their hands becoming instruments of savage destruction. The rage is so consuming that some who wear them lose themselves to battle-lust forever.",
+  "id" : "berserkers_fury_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Berserker's Fury Grip",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Berserker's Fury Grip",
+  "value" : 8500,
+  "weight" : 0.5
+}

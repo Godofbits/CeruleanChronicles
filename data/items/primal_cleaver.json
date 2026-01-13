@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d10",
+  "damageType" : "slashing",
+  "description" : "A massive blade of crude but effective design, favored by barbarian tribes. The raw, unfinished steel and bone handle speak to its primitive origins, but its killing power is undeniable. Deals 1d10 slashing damage.",
+  "id" : "primal_cleaver",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Primal Cleaver",
+  "rarity" : "Uncommon",
+  "textureName" : "Primal Cleaver",
+  "value" : 150,
+  "weight" : 5.5
+}

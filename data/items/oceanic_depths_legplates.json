@@ -1,0 +1,15 @@
+{
+  "acBonus" : 4,
+  "category" : "Plate",
+  "description" : "Deep blue metal greaves salvaged from the sunken city of Númenor, which lies beneath countless fathoms of sea. When the island kingdom was destroyed for its hubris, much of its treasure sank to the ocean floor. These greaves were recovered by sea elves who dive to impossible depths. The metal has adapted to the crushing pressure of the abyss, granting the wearer the ability to breathe water and swim with supernatural speed. Those who wear them can descend to the ocean floor, walking through trenches where light has never reached, exploring ruins that have been dark for millennia.",
+  "id" : "oceanic_depths_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Water breathing, Swim speed 60 feet, Immunity to pressure, +2 Constitution",
+  "name" : "Oceanic Depths Legplates",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "textureName" : "Oceanic_Depths_Legplates",
+  "value" : 6800,
+  "weight" : 15
+}

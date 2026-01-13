@@ -1,0 +1,79 @@
+{
+    "id": "shrieker",
+    "isActive": false,
+    "name": "Shrieker",
+    "size": "medium",
+    "type": "plant",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 5,
+    "armorType": null,
+    "hitDice": {
+        "count": 3,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 0
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 1,
+        "dexterity": 1,
+        "constitution": 10,
+        "intelligence": 1,
+        "wisdom": 3,
+        "charisma": 1
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": ["blinded", "deafened", "frightened"],
+
+    "senses": [
+        { "sense": "blindsight", "range": 30 }
+    ],
+    "passivePerception": 6,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "0",
+    "experiencePoints": 10,
+
+    "texture": "Shrieker_01",
+
+    "habitat": {
+        "environments": ["underground", "dungeon", "underdark"],
+        "depth": "deep",
+        "description": "Shriekers are fungal growths that emit piercing screams when disturbed, alerting nearby creatures to intruders. They often grow near violet fungi and other dangerous dungeon denizens, forming a deadly symbiotic relationship.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "False Appearance",
+            "description": "While the shrieker remains motionless, it is indistinguishable from an ordinary fungus.",
+            "effect": null
+        }
+    ],
+
+    "actions": [],
+
+    "bonusActions": null,
+    "reactions": [
+        {
+            "name": "Shriek",
+            "trigger": "Bright light or a creature is within 30 feet of the shrieker",
+            "description": "The shrieker emits a shriek audible within 300 feet of it. The shrieker continues to shriek until the disturbance moves out of range and for 1d4 of the shrieker's turns afterward."
+        }
+    ],
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

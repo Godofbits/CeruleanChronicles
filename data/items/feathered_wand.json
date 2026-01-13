@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand decorated with teal feathers from a giant eagle. Given to druids who have befriended the great birds of the sky, it channels wind and flight magic. The feathers rustle even when there is no breeze. +1 spell bonus, 7 charges.",
+  "id" : "feathered_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Feathered Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Feathered Wand",
+  "value" : 350,
+  "weight" : 0.5
+}

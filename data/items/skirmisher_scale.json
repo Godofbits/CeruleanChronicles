@@ -1,0 +1,15 @@
+{
+  "baseAC" : 13,
+  "category" : "Medium",
+  "description" : "Lighter scale mail designed for mobile troops. Uses smaller scales and lighter backing to reduce weight while maintaining protection. Skirmishers and light cavalry favor this balance of defense and mobility.",
+  "id" : "skirmisher_scale",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Skirmisher Scale",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Skirmisher Scale",
+  "value" : 45,
+  "weight" : 35
+}

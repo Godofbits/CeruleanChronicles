@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a heavy iron crescent that serves as both magical focus and deadly weapon. Battle-mages who must fight and cast in equal measure favor such practical implements.",
+  "id" : "iron_crescent_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Iron Crescent Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Iron Crescent Staff",
+  "value" : 265,
+  "weight" : 3
+}

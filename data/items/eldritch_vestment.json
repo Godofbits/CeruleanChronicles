@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Magical",
+  "description" : "Robes covered in alien runes that hurt to look at directly. Warlocks who bargain with otherworldly patrons receive such vestments as gifts—or perhaps as brands of ownership. The runes shift and writhe when observed, and whispers can be heard from the fabric when the wearer sleeps. Despite their unsettling nature, the robes provide magical protection and enhance eldritch invocations.",
+  "id" : "eldritch_vestment",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Eldritch Vestment",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Eldritch Vestment",
+  "value" : 400,
+  "weight" : 5
+}

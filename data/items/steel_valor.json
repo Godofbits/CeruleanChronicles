@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A knight's blade etched with oaths of courage and honor. Those who carry it feel compelled to acts of bravery. The weapon of heroes, or those who aspire to become them. Deals 1d8 slashing damage.",
+  "id" : "steel_valor",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Steel Valor",
+  "rarity" : "Uncommon",
+  "textureName" : "Steel Valor",
+  "value" : 180,
+  "weight" : 3
+}

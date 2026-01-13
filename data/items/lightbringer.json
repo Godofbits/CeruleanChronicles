@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+2",
+  "damageType" : "radiant",
+  "description" : "A holy blade that glows with divine radiance, forged by celestial smiths in the Upper Planes. It was sent to the mortal realm to combat a great darkness. Undead creatures flee from its light. Deals 1d8+2 radiant damage.",
+  "id" : "lightbringer",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Lightbringer",
+  "rarity" : "Very Rare",
+  "textureName" : "Lightbringer",
+  "value" : 4500,
+  "weight" : 3
+}

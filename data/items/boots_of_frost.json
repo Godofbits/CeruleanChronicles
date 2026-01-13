@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots lined with white fur from winter wolves. They keep the feet warm even in the harshest blizzards and provide protection from cold-based magic. Explorers of arctic wastes consider such boots essential equipment.",
+  "id" : "boots_of_frost",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to cold, +1 Constitution in cold climates",
+  "name" : "Boots of Frost",
+  "rarity" : "Uncommon",
+  "textureName" : "Boots of Frost",
+  "value" : 190,
+  "weight" : 1
+}

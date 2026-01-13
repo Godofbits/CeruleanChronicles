@@ -1,0 +1,11 @@
+{
+  "description" : "A pale bone wand with a blue orb gripped by a skeletal claw. The claw was taken from a creature of the Shadowfell and still retains some of its predatory instincts. The orb glows brighter when undead are nearby. +1 spell bonus, 7 charges.",
+  "id" : "claw_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Claw Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Claw Wand",
+  "value" : 400,
+  "weight" : 1
+}

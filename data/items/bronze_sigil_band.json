@@ -1,0 +1,12 @@
+{
+  "category" : "Plain",
+  "description" : "A dark bronze ring bearing a faded sigil. Once marked its wearer's guild affiliation.",
+  "id" : "bronze_sigil_band",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bronze Sigil Band",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_3",
+  "value" : 3,
+  "weight" : 0
+}

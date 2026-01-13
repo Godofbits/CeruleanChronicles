@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Black sabatons that radiate an aura of absolute terror. Forged by death knights in the fortress of bones, they make even the bravest warriors hesitate. The mere sound of their approach—a terrible clanking like chains dragging across tombstones—causes panic. Those who wear them become avatars of dread, their very presence breaking enemy morale.",
+  "id" : "dread_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 AC, +2 Intimidation, Fear aura 30 ft, +2 Strength",
+  "name" : "Dread Sabatons",
+  "rarity" : "Very Rare",
+  "textureName" : "Dread Sabatons",
+  "value" : 6500,
+  "weight" : 1
+}

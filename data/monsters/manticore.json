@@ -1,0 +1,158 @@
+{
+    "id": "manticore",
+    "isActive": true,
+    "name": "Manticore",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 14,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 8,
+        "die": "d10",
+        "modifier": 24
+    },
+    "speeds": {
+        "walk": 30,
+        "fly": 50
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 17,
+        "dexterity": 16,
+        "constitution": 17,
+        "intelligence": 7,
+        "wisdom": 12,
+        "charisma": 8
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 11,
+    "languages": ["Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "3",
+    "experiencePoints": 700,
+
+    "texture": "Manticore_01",
+
+    "habitat": {
+        "environments": ["mountain", "grassland", "desert"],
+        "depth": "surface",
+        "description": "Manticores claim rocky cliffs and arid badlands as their hunting grounds, using their wings to strike from above and pelt prey with their venomous tail spikes. They are cruel predators who toy with their victims before delivering the killing blow.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Tail Spike Regrowth",
+            "description": "The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.",
+            "effect": {
+                "type": "tailSpikeRegrowth",
+                "parameters": {
+                    "maxSpikes": 24
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tail Spike",
+            "description": "Ranged Weapon Attack: +5 to hit, range 100/200 ft., one target. Hit: 7 (1d8 + 3) piercing damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": null,
+                "rangeNormal": 100,
+                "rangeLong": 200,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

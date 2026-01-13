@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll marked with a skull and ominous runes that seem to writhe. Reading this scroll invokes a curse upon the reader or a designated target. The exact nature of the curse varies—some bring bad luck, others cause physical ailments or mental anguish. These scrolls are created by necromancers and dark priests as traps for the unwary or weapons against specific enemies. Breaking such a curse often requires powerful magic or completing a specific task. Wise adventurers avoid reading mysterious black scrolls.",
+  "id" : "cursed_scroll",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Cursed Scroll",
+  "rarity" : "Uncommon",
+  "textureName" : "Cursed Scroll",
+  "value" : 100,
+  "weight" : 0.10000000000000001
+}

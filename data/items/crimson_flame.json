@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "fire",
+  "description" : "Red steel forged in dragon fire, this blade burns with an inner crimson glow. It was created by the fire cult of Ignis to honor their draconic patron. The heat it radiates can ignite dry tinder. Deals 1d8+1 fire damage.",
+  "id" : "crimson_flame",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Crimson Flame",
+  "rarity" : "Rare",
+  "textureName" : "Crimson Flame",
+  "value" : 1400,
+  "weight" : 3
+}

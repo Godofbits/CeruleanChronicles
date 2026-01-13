@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "An emerald that shimmers with liberating energy. No chains can bind you, no spell can still your limbs. Germanic tribes forged such rings to ensure their warriors would never be enslaved, even in death.",
+  "id" : "ring_of_unfettered_will",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to paralysis and restraint, move normally through difficult terrain",
+  "name" : "Ring of Unfettered Will",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_38",
+  "value" : 1600,
+  "weight" : 0
+}

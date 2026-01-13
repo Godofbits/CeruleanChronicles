@@ -1,0 +1,13 @@
+{
+  "description" : "Named for the Greek god of love, this pink potion with a heart-shaped shimmer causes the drinker to become charmed by the first creature they see for 1 hour. Handle with care - Eros's arrows were known to cause both passionate love and bitter strife.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "philter_of_eros",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Philter of Eros",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Philter of Eros",
+  "value" : 150,
+  "weight" : 0.5
+}

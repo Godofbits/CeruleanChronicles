@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots crafted from genuine dragon scales, each one harder than the finest steel. The scales retain the dragon's resistance to flame and radiate an aura of primal power. Only dragonslayers or those who bargained with wyrms can obtain such boots. The scales shimmer with inner fire, remembering the furnace-breath of their former owner.",
+  "id" : "dragonscale_boots",
+  "isActive" : true,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to fire, +1 AC, +1 Intimidation",
+  "name" : "Dragonscale Boots",
+  "rarity" : "Rare",
+  "textureName" : "Dragonscale Boots",
+  "value" : 850,
+  "weight" : 1
+}

@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A reliable military blade forged from high-quality steel. Nothing fancy, but it gets the job done. Deals 1d8 slashing damage.",
+  "id" : "cold_steel",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Cold Steel",
+  "rarity" : "Common",
+  "textureName" : "Cold Steel",
+  "value" : 25,
+  "weight" : 3
+}

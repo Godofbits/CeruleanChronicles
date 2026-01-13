@@ -1,0 +1,11 @@
+{
+  "description" : "A crimson scroll radiating heat, inscribed with runes that glow like embers. Fireball is perhaps the most iconic destructive spell in existence, conjuring a bead of flame that explodes in a massive inferno. The spell was perfected by fire elementalists studying volcanic eruptions, capturing that catastrophic power in arcane formula. A single fireball can end a battle or destroy a building. Evokers dream of casting their first fireball, for it represents a pinnacle of destructive magic. Single use.",
+  "id" : "scroll_of_fireball",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Fireball",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Fireball",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

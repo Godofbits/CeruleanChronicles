@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Black and red plate that pulses with abyssal energy. Forged in the Abyss itself by demon smiths, this armor was taken from a fallen balor by legendary demon hunters. It grants resistance to fire and poison damage, immunity to being poisoned, and advantage on saves against being charmed. However, fiends can sense the armor from great distances, and its demonic origin attracts attention from both sides of the Blood War.",
+  "id" : "abyssal_guardian_plate",
+  "isActive" : true,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Abyssal Guardian Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Abyssal Guardian Plate",
+  "value" : 9000,
+  "weight" : 58
+}

@@ -1,0 +1,157 @@
+{
+    "id": "mimic",
+    "isActive": true,
+    "name": "Mimic",
+    "size": "medium",
+    "type": "monstrosity",
+    "subtype": "shapechanger",
+    "alignment": "trueNeutral",
+
+    "armorClass": 12,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 9,
+        "die": "d8",
+        "modifier": 18
+    },
+    "speeds": {
+        "walk": 15
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 17,
+        "dexterity": 12,
+        "constitution": 15,
+        "intelligence": 5,
+        "wisdom": 13,
+        "charisma": 8
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "stealth", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["acid"],
+    "conditionImmunities": ["prone"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 11,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "Mimmic_01",
+
+    "habitat": {
+        "environments": ["dungeon", "underground", "ruins"],
+        "depth": "shallow",
+        "description": "Mimics lurk in dungeons and abandoned places, disguising themselves as treasure chests, doors, or furniture. Believed to be wizard-created guardians, they establish vast territories and can survive weeks on a single humanoid meal. One infamous mimic posed as a market statue in Waterdeep for two years.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Shapechanger",
+            "description": "The mimic can use its action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+            "effect": {
+                "type": "shapechanger",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Adhesive",
+            "description": "The mimic adheres to anything that touches it. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 13). Ability checks made to escape this grapple have disadvantage.",
+            "effect": {
+                "type": "adhesive",
+                "parameters": {
+                    "escapeDC": 13
+                }
+            }
+        },
+        {
+            "name": "False Appearance",
+            "description": "While the mimic remains motionless, it is indistinguishable from an ordinary object.",
+            "effect": {
+                "type": "falseAppearance",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Grappler",
+            "description": "The mimic has advantage on attack rolls against any creature grappled by it.",
+            "effect": {
+                "type": "grappler",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Pseudopod",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) bludgeoning damage. If the mimic is in object form, the target is subjected to its Adhesive trait.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 7 (1d8 + 3) piercing damage plus 4 (1d8) acid damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 3,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 0,
+                        "type": "acid"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

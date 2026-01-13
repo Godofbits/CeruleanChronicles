@@ -1,0 +1,13 @@
+{
+  "description" : "A deadly toxin. A creature takes 5d6 poison damage and is poisoned for 1 hour on a failed CON save (DC 14).",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "toxin",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Toxin",
+  "potionType" : "Poison",
+  "rarity" : "Uncommon",
+  "textureName" : "Toxin",
+  "value" : 175,
+  "weight" : 0.5
+}

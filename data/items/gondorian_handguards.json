@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Steel gauntlets bearing the White Tree of Gondor. Soldiers of the Tower Guard wear such handguards when defending Minas Tirith. The metal is blessed by priests of the Valar, providing protection against the forces of darkness that issue from Mordor.",
+  "id" : "gondorian_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Gondorian Handguards",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Gondorian Handguards",
+  "value" : 215,
+  "weight" : 0.5
+}

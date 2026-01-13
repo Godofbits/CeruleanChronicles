@@ -1,0 +1,13 @@
+{
+  "description" : "This verdant green potion smells of fresh earth and spring rain. Plants and animals regard you as a friend for 8 hours. Regain 2d4+2 hit points.",
+  "effect" : "Heals 2d4+2 HP (avg 7)",
+  "id" : "natures_blessing",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Nature's Blessing",
+  "potionType" : "Potion of Healing",
+  "rarity" : "Uncommon",
+  "textureName" : "Nature's Blessing",
+  "value" : 175,
+  "weight" : 0.5
+}

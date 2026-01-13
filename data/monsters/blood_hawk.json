@@ -1,0 +1,111 @@
+{
+    "id": "blood_hawk",
+    "isActive": false,
+    "name": "Blood Hawk",
+    "size": "small",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 2,
+        "die": "d6",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 10,
+        "fly": 60
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 6,
+        "dexterity": 14,
+        "constitution": 10,
+        "intelligence": 3,
+        "wisdom": 14,
+        "charisma": 5
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 14,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/8",
+    "experiencePoints": 25,
+
+    "texture": "BloodHawk_01",
+
+    "habitat": {
+        "environments": ["mountain", "grassland", "coastal"],
+        "depth": "surface",
+        "description": "Blood hawks are aggressive raptors that attack in coordinated flocks, driven by an unnatural bloodlust. They harry wounded prey relentlessly, and a flock can strip a horse to the bone in minutes.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Sight",
+            "description": "The hawk has advantage on Wisdom (Perception) checks that rely on sight.",
+            "effect": {
+                "type": "keenSenses",
+                "parameters": {
+                    "senses": ["sight"]
+                }
+            }
+        },
+        {
+            "name": "Pack Tactics",
+            "description": "The hawk has advantage on an attack roll against a creature if at least one of the hawk's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "effect": {
+                "type": "packTactics",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Beak",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

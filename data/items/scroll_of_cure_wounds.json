@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll that smells of fresh grass and spring rain. This foundational healing spell channels positive energy to mend injuries, knitting flesh and easing pain. The magic was gifted to mortals by nature spirits who took pity on fragile humanoid bodies. Clerics, druids, and rangers all learn this spell, for the ability to heal separates civilization from barbarism. A skilled healer with cure wounds can keep an entire party alive through the most desperate battles. Single use.",
+  "id" : "scroll_of_cure_wounds",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Cure Wounds",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Cure Wounds",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

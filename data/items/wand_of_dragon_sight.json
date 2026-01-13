@@ -1,0 +1,11 @@
+{
+  "description" : "A scaled wand with a dragon's eye set in the tip that occasionally blinks. Harvested from an ancient dragon's remains with the creature's consent, the eye retains magical sight. It grants the wielder darkvision and the ability to see through illusions. +2 spell bonus, 10 charges.",
+  "id" : "wand_of_dragon_sight",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Dragon Sight",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Dragon Sight",
+  "value" : 3500,
+  "weight" : 1.5
+}

@@ -1,0 +1,13 @@
+{
+  "description" : "This sky-blue potion tastes of salt and seaweed. Breathe underwater for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_water_breathing",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Water Breathing",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Water Breathing",
+  "value" : 150,
+  "weight" : 0.5
+}

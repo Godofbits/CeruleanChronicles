@@ -1,0 +1,11 @@
+{
+  "description" : "A golden sceptre radiating warm light, crowned with a sun-shaped ornament. The high priests of the sun god crafted this from gold blessed by solar fire. It blazes brightest at high noon and can banish darkness and undead with equal ease. +2 spell bonus, 10 charges, radiant damage.",
+  "id" : "sceptre_of_the_sun",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sceptre of the Sun",
+  "rarity" : "Very Rare",
+  "textureName" : "Sceptre of the Sun",
+  "value" : 6500,
+  "weight" : 2
+}

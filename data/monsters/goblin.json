@@ -1,0 +1,125 @@
+{
+    "id": "goblin",
+    "isActive": false,
+    "name": "Goblin",
+    "size": "small",
+    "type": "humanoid",
+    "subtype": "goblinoid",
+    "alignment": "neutralEvil",
+
+    "armorClass": 15,
+    "armorType": "leather armor, shield",
+    "hitDice": {
+        "count": 2,
+        "die": "d6",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 8,
+        "dexterity": 14,
+        "constitution": 10,
+        "intelligence": 10,
+        "wisdom": 8,
+        "charisma": 8
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "stealth", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 9,
+    "languages": ["Common", "Goblin"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "mons_goblin_01",
+
+    "habitat": {
+        "environments": ["underground", "forest", "grassland", "ruins"],
+        "depth": "shallow",
+        "description": "Goblins infest temperate plains and shallow caverns throughout the world, establishing overcrowded tribal lairs riddled with crude traps. They settle near civilization to raid villages and waylay travelers, preferring darkness but adapting to surface life when necessary.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Nimble Escape",
+            "description": "The goblin can take the Disengage or Hide action as a bonus action on each of its turns.",
+            "effect": {
+                "type": "nimbleEscape",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Scimitar",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Shortbow",
+            "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": null,
+                "rangeNormal": 80,
+                "rangeLong": 320,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

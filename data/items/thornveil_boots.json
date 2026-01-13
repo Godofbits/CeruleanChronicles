@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots decorated with a pattern of interwoven thorns. The enchantment provides protection against creatures of the natural world. Druids who must deal with aggressive beasts sometimes wear such boots for protection.",
+  "id" : "thornveil_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC vs melee attacks from natural creatures",
+  "name" : "Thornveil Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Thornveil Boots",
+  "value" : 195,
+  "weight" : 1
+}

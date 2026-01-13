@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "necrotic",
+  "description" : "A translucent blade that seems more spirit than steel. It was forged by binding a wraith to a blade of silver. The trapped spirit hungers for life force and whispers to its wielder in the dead of night. Deals 1d8+1 necrotic damage.",
+  "id" : "wraithblade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Wraithblade",
+  "rarity" : "Rare",
+  "textureName" : "Wraithblade",
+  "value" : 1700,
+  "weight" : 2
+}

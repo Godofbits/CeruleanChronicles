@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "cold",
+  "description" : "Those cut by this pale blue blade feel an icy numbness spread from the wound. Crafted by frost mages of the Howling Peaks, it was designed to disable rather than kill. The numb feeling lingers for hours. Deals 1d8 cold damage.",
+  "id" : "frostbite",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Frostbite",
+  "rarity" : "Rare",
+  "textureName" : "Frostbite",
+  "value" : 950,
+  "weight" : 3
+}

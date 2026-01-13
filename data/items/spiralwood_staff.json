@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved with spiral patterns that draw the eye inward. The spirals are hypnotic to behold and some claim they represent the turning of the seasons or the cycle of magic itself. Mystics meditate upon such patterns seeking deeper truths.",
+  "id" : "spiralwood_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Spiralwood Staff",
+  "rarity" : "Common",
+  "textureName" : "Spiralwood Staff",
+  "value" : 33,
+  "weight" : 3
+}

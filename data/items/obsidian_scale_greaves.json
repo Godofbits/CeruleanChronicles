@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Reinforced",
+  "description" : "Leg armor crafted from volcanic glass scales, black as midnight and sharp as dragon fangs. Forged in the caldera of Mount Doom by fire giant smiths, the obsidian was shaped while still molten from the earth's heart. The scales retain the heat of their volcanic birth, providing protection against flame. Warriors who venture into volcanic lands or face fire-breathing foes seek out such armor, for obsidian turns aside both blade and blaze.",
+  "id" : "obsidian_scale_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to fire (5 damage reduction)",
+  "name" : "Obsidian Scale Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Obsidian_Scale_Greaves",
+  "value" : 300,
+  "weight" : 9
+}

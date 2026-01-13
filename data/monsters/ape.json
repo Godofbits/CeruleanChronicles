@@ -1,0 +1,125 @@
+{
+    "id": "ape",
+    "isActive": false,
+    "name": "Ape",
+    "size": "medium",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 3,
+        "die": "d8",
+        "modifier": 6
+    },
+    "speeds": {
+        "walk": 30,
+        "climb": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 16,
+        "dexterity": 14,
+        "constitution": 14,
+        "intelligence": 6,
+        "wisdom": 12,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "athletics", "bonus": 5 },
+        { "skill": "perception", "bonus": 3 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/2",
+    "experiencePoints": 100,
+
+    "texture": "mons_ape_01",
+
+    "habitat": {
+        "environments": ["forest"],
+        "depth": "surface",
+        "description": "Giant apes inhabit dense tropical and subtropical forests, living in family groups led by a dominant silverback. Despite their fearsome strength, they are generally peaceful unless their territory or family is threatened.",
+        "rarity": "uncommon"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The ape makes two fist attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Fist",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Rock",
+            "description": "Ranged Weapon Attack: +5 to hit, range 25/50 ft., one target. Hit: 6 (1d6 + 3) bludgeoning damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": null,
+                "rangeNormal": 25,
+                "rangeLong": 50,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

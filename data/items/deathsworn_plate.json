@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor worn by those who have sworn pacts with death itself. The armor is forged from blackened steel and bones of ancient warriors, blessed in rituals where blood was spilled on altars of death gods. It grants resistance to necrotic damage and allows the wearer to stabilize automatically when making death saving throws. The price is steep—the wearer's soul is marked, and death gods take special interest in their fate.",
+  "id" : "deathsworn_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Deathsworn Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Deathsworn Plate",
+  "value" : 3500,
+  "weight" : 56
+}

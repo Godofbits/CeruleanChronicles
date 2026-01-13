@@ -1,0 +1,13 @@
+{
+  "description" : "Your mind becomes completely shielded for 24 hours. You're immune to psychic damage, divination spells, and any effect that would read your thoughts or emotions.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_mind_blank",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Mind Blank",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Very Rare",
+  "textureName" : "Potion of Mind Blank",
+  "value" : 800,
+  "weight" : 0.5
+}

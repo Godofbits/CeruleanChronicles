@@ -1,0 +1,11 @@
+{
+  "description" : "A living wooden wand that sprouts new leaves each season. Cut from a sacred oak in an ancient druid grove, it maintains a connection to the forest's heart. Animals are calm around its wielder, and plants seem to lean toward it. +2 spell bonus, 10 charges.",
+  "id" : "wand_of_the_grove",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Grove",
+  "rarity" : "Rare",
+  "textureName" : "Wand of the Grove",
+  "value" : 2800,
+  "weight" : 0.5
+}

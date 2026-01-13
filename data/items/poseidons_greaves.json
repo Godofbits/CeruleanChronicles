@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Greaves blessed by Poseidon himself, earth-shaker and lord of seas. They grant dominion over water in all its forms—still pools, raging rivers, and storm-tossed oceans. Champions of the sea god wear such greaves when they must assert his authority over the depths. The bronze is inscribed with prayers in ancient Greek.",
+  "id" : "poseidons_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Water breathing, Control water 1\/day, Earthquake (water only) 1\/day, +2 Constitution",
+  "name" : "Poseidon's Greaves",
+  "rarity" : "Rare",
+  "textureName" : "Poseidon's Greaves",
+  "value" : 1200,
+  "weight" : 1
+}

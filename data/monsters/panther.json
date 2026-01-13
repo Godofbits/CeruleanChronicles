@@ -1,0 +1,127 @@
+{
+    "id": "panther",
+    "isActive": false,
+    "name": "Panther",
+    "size": "medium",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 3,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 50,
+        "climb": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 14,
+        "dexterity": 15,
+        "constitution": 10,
+        "intelligence": 3,
+        "wisdom": 14,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 4 },
+        { "skill": "stealth", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 14,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "Panther_01",
+
+    "habitat": {
+        "environments": ["forest", "grassland"],
+        "depth": "surface",
+        "description": "Panthers stalk through dense jungles and shadowy forests, their sleek black coats rendering them nearly invisible in the darkness. They are ambush predators par excellence, dropping silently from trees onto unsuspecting prey.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Smell",
+            "description": "The panther has advantage on Wisdom (Perception) checks that rely on smell.",
+            "effect": null
+        },
+        {
+            "name": "Pounce",
+            "description": "If the panther moves at least 20 feet straight toward a creature and then hits it with a claw attack on the same turn, that target must succeed on a DC 12 Strength saving throw or be knocked prone. If the target is prone, the panther can make one bite attack against it as a bonus action.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

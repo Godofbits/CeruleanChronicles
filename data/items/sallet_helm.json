@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A graceful helm with a sweeping tail that protects the neck. Popular among both infantry and cavalry for its excellent protection and visibility. The design allows blows to slide off rather than catching. +1 AC.",
+  "id" : "sallet_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Sallet Helm",
+  "rarity" : "Common",
+  "textureName" : "Sallet Helm",
+  "value" : 32,
+  "weight" : 3
+}

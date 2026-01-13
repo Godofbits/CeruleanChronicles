@@ -1,0 +1,135 @@
+{
+    "id": "hippogriff",
+    "isActive": false,
+    "name": "Hippogriff",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 11,
+    "armorType": null,
+    "hitDice": {
+        "count": 3,
+        "die": "d10",
+        "modifier": 3
+    },
+    "speeds": {
+        "walk": 40,
+        "fly": 60
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 17,
+        "dexterity": 13,
+        "constitution": 13,
+        "intelligence": 2,
+        "wisdom": 12,
+        "charisma": 8
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 15,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1",
+    "experiencePoints": 200,
+
+    "texture": "Hippogriff_01",
+
+    "habitat": {
+        "environments": ["mountain", "grassland", "forest"],
+        "depth": "surface",
+        "description": "Hippogriffs nest in high places where they can survey their territory and spot prey from miles away. Though wild hippogriffs are dangerous, they can be trained as loyal mounts when raised from hatchlings.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Sight",
+            "description": "The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.",
+            "effect": {
+                "type": "keenSenses",
+                "parameters": {
+                    "senses": ["sight"]
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The hippogriff makes two attacks: one with its beak and one with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Beak",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 8 (1d10 + 3) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d10",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

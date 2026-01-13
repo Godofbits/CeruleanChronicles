@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt made entirely of mithril, etched with delicate patterns of leaves and stars. The entire piece weighs almost nothing yet provides significant protection. Created by the greatest elven craftsmen in their hidden forges beneath ancient trees, such belts are gifts reserved for heroes who have served the elven realms.",
+  "id" : "etched_mithril_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 AC, No armor penalty",
+  "name" : "Etched Mithril Belt",
+  "rarity" : "Rare",
+  "textureName" : "Etched Mithril Belt",
+  "value" : 890,
+  "weight" : 0.5
+}

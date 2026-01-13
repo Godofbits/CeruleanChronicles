@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that burns with such intense heat that the air shimmers around it. The staff can create walls of flame and rain fire upon enemies. Pyromancers seeking ultimate destructive power craft such staffs in volcanic forges.",
+  "id" : "staff_of_inferno",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Inferno",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Inferno",
+  "value" : 1800,
+  "weight" : 3
+}

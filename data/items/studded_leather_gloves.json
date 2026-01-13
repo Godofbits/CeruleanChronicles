@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Leather gloves reinforced with small metal studs across the knuckles. Popular among brawlers and street fighters who need protection for both defense and offense. The studs can deliver a nasty punch while guarding against blade cuts.",
+  "id" : "studded_leather_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Studded Leather Gloves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Studded Leather Gloves",
+  "value" : 18,
+  "weight" : 0.5
+}

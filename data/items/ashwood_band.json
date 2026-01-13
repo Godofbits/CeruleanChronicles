@@ -1,0 +1,12 @@
+{
+  "category" : "Plain",
+  "description" : "A simple ring carved from ashwood. Humble and unadorned, worn by druids and rangers.",
+  "id" : "ashwood_band",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ashwood Band",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_5",
+  "value" : 2,
+  "weight" : 0
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved from the mast of a ship that was dragged into a legendary whirlpool. It contains the churning fury of the maelstrom and can create deadly vortexes in water. Sea wizards who study destructive tidal forces wield such staffs.",
+  "id" : "staff_of_the_maelstrom",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Maelstrom",
+  "rarity" : "Rare",
+  "textureName" : "Staff of the Maelstrom",
+  "value" : 1400,
+  "weight" : 3
+}

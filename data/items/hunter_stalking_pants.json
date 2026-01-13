@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Brown leather pants enchanted to muffle the wearer's footsteps on natural terrain. Master hunters commissioned these from elven leatherworkers, combining expert craftsmanship with subtle magic. The leather seems to absorb sound, allowing the wearer to stalk even the most alert prey. Rangers of the Misty Mountains wear such pants when hunting wargs and other dangerous beasts.",
+  "id" : "hunter_stalking_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to Stealth checks in wilderness",
+  "name" : "Hunter Stalking Pants",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Hunter_Stalking_Pants",
+  "value" : 180,
+  "weight" : 3
+}

@@ -1,0 +1,109 @@
+{
+    "id": "bat",
+    "isActive": false,
+    "name": "Bat",
+    "size": "tiny",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 1,
+        "die": "d4",
+        "modifier": -1
+    },
+    "speeds": {
+        "walk": 5,
+        "fly": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 2,
+        "dexterity": 15,
+        "constitution": 8,
+        "intelligence": 2,
+        "wisdom": 12,
+        "charisma": 4
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 60 }
+    ],
+    "passivePerception": 11,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "0",
+    "experiencePoints": 10,
+
+    "texture": "mons_bat_01",
+
+    "habitat": {
+        "environments": ["underground", "forest", "dungeon", "ruins"],
+        "depth": "shallow",
+        "description": "Bats roost in caves, hollow trees, and abandoned structures, emerging at dusk to hunt insects. In dungeons, their presence often signals the proximity of larger cave systems or natural caverns.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Echolocation",
+            "description": "The bat can't use its blindsight while deafened.",
+            "effect": {
+                "type": "echolocation",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Keen Hearing",
+            "description": "The bat has advantage on Wisdom (Perception) checks that rely on hearing.",
+            "effect": {
+                "type": "keenHearing",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +0 to hit, reach 5 ft., one creature. Hit: 1 piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 0,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 0,
+                        "dieType": "d4",
+                        "modifier": 1,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

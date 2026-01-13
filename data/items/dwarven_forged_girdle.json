@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A belt forged in the deep halls of the dwarven kingdoms. Crafted with the legendary skill of dwarven smiths, every rivet and buckle is perfectly placed. The metal is specially treated to never rust or tarnish, and the leather is from cave-dwelling beasts known for their toughness.",
+  "id" : "dwarven_forged_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Constitution",
+  "name" : "Dwarven Forged Girdle",
+  "rarity" : "Uncommon",
+  "textureName" : "Dwarven Forged Girdle",
+  "value" : 305,
+  "weight" : 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A sinister black scroll bearing skulls and death runes. This scroll contains knowledge of necromantic practices—rituals for creating undead, communing with the dead, or harnessing necrotic energy. Unlike spell scrolls, this functions as reference material for those studying the dark arts. Necromancer guilds pass such scrolls among their members, each adding their own discoveries. The knowledge contained is forbidden in most lands, and possession can lead to execution. Yet for those who seek power over death, such scrolls are priceless.",
+  "id" : "necromantic_scroll",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Necromantic Scroll",
+  "rarity" : "Uncommon",
+  "textureName" : "Necromantic Scroll",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

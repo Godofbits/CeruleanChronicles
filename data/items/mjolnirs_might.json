@@ -1,0 +1,13 @@
+{
+  "description" : "Named for Thor's legendary hammer, this crackling blue elixir grants the power of thunder and lightning. For 1 minute, your Strength becomes 25, you can fly at 60 ft. speed, and your weapon attacks deal an additional 2d6 lightning damage. In Norse legend, only those worthy could wield Mjolnir's power.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "mjolnirs_might",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Mjolnir's Might",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Legendary",
+  "textureName" : "Mjolnir's Might",
+  "value" : 2000,
+  "weight" : 0.5
+}

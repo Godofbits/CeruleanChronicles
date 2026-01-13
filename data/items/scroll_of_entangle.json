@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll wrapped with vine patterns. This spell causes plants to spring up and grab at creatures, restraining them with tendrils, vines, and roots. The magic commands the natural world itself, turning peaceful vegetation into grasping obstacles. Druids use this spell to protect sacred groves from intruders, while tactical casters employ it to control enemy movement. The plants grow with supernatural speed, covering an area in seconds. Those caught cannot easily escape the embrace of nature. Single use.",
+  "id" : "scroll_of_entangle",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Entangle",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Entangle",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

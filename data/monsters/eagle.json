@@ -1,0 +1,103 @@
+{
+    "id": "eagle",
+    "isActive": false,
+    "name": "Eagle",
+    "size": "small",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 1,
+        "die": "d6",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 10,
+        "fly": 60
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 6,
+        "dexterity": 15,
+        "constitution": 10,
+        "intelligence": 2,
+        "wisdom": 14,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 14,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "0",
+    "experiencePoints": 10,
+
+    "texture": "Eagle_01",
+
+    "habitat": {
+        "environments": ["mountain", "grassland", "coastal"],
+        "depth": "surface",
+        "description": "Giant eagles soar over mountain peaks and vast prairies, their keen eyes spotting prey from incredible distances. Some intelligent giant eagles form alliances with good-aligned creatures, serving as mounts or messengers.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Sight",
+            "description": "The eagle has advantage on Wisdom (Perception) checks that rely on sight.",
+            "effect": {
+                "type": "keenSenses",
+                "parameters": {
+                    "senses": ["sight"]
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Talons",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

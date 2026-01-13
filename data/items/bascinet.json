@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A pointed steel helm with a hinged visor. Popular among knights for its balance of protection and visibility. The distinctive snout allows for better breathing. +2 AC.",
+  "id" : "bascinet",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bascinet",
+  "rarity" : "Common",
+  "textureName" : "Bascinet",
+  "value" : 35,
+  "weight" : 4
+}

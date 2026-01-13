@@ -1,0 +1,11 @@
+{
+  "description" : "A silver wand crowned with a brilliant red ruby. Rubies naturally attune to fire magic, and this gem was cut from a stone found in a dragon's hoard. Fire spells cast through it burn with exceptional intensity. +1 spell bonus, 7 charges, fire damage.",
+  "id" : "rubytipped_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Ruby-Tipped Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Ruby-Tipped Wand",
+  "value" : 600,
+  "weight" : 1
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Enchanted boots that allow the wearer to walk upon water as if it were solid ground. The magic is limited but invaluable for crossing rivers, escaping pursuit, or performing miracles. Priests of sea gods sometimes receive such boots as divine gifts.",
+  "id" : "tidewalkers_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Water walking 10 minutes\/day",
+  "name" : "Tidewalker's Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Tidewalker's Boots",
+  "value" : 250,
+  "weight" : 1
+}

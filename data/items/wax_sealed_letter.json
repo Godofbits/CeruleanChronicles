@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled letter secured with a prominent wax seal. The seal serves both as security and authentication, bearing the sender's signet ring imprint. Forgery is difficult but not impossible, requiring skill to duplicate the seal's intricate design. Important correspondence always bears such seals, from military orders to diplomatic communications. The color and quality of the wax itself can indicate the message's urgency or importance.",
+  "id" : "wax_sealed_letter",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Wax Sealed Letter",
+  "rarity" : "Common",
+  "textureName" : "Wax Sealed Letter",
+  "value" : 5,
+  "weight" : 0.10000000000000001
+}

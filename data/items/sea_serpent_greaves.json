@@ -1,0 +1,15 @@
+{
+  "acBonus" : 3,
+  "category" : "Reinforced",
+  "description" : "Scale armor harvested from the great sea serpent that guarded the waters between Middle-earth and Valinor. The creature was ancient beyond measure, having witnessed the shaping of the world. When it finally died, its body washed ashore on the Lonely Isle. Elven craftsmen spent a decade fashioning these greaves from its scales. The armor grants dominion over all sea creatures, allowing the wearer to command even the mightiest krakens and leviathans. Those who wear them are marked as lords of the deep ocean.",
+  "id" : "sea_serpent_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to all ability scores, Speak with sea creatures, Command sea serpents",
+  "name" : "Sea Serpent Greaves",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Sea_Serpent_Greaves",
+  "value" : 7500,
+  "weight" : 10
+}

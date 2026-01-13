@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A belt made from treated leather and reinforced with wood from the ironbark tree, as hard as metal but lighter. Favored by druids and woodsmen who prefer natural materials. The ironbark provides surprising strength while remaining comfortable for long woodland treks.",
+  "id" : "ironbark_cincture",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ironbark Cincture",
+  "rarity" : "Common",
+  "textureName" : "Ironbark Cincture",
+  "value" : 16,
+  "weight" : 0.5
+}

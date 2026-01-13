@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Armor crafted from crystallized void-stuff, material from the space between planes. The dark purple crystals are harder than adamantine yet lighter than steel. The armor grants resistance to force and psychic damage, advantage on saves against spells, and allows the wearer to become incorporeal for 1 minute once per day. Reality bends strangely around the armor, and spellcasters nearby report feeling disconnected from the Weave.",
+  "id" : "voidcrystal_harness",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Voidcrystal Harness",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Voidcrystal Harness",
+  "value" : 13000,
+  "weight" : 48
+}

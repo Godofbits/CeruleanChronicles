@@ -1,0 +1,15 @@
+{
+  "acBonus" : 1,
+  "category" : "Leather",
+  "description" : "Black leather leggings enchanted with shadow magic to make the wearer nearly invisible in darkness. Master thieves of the Guild of Shadows in Minas Tirith commissioned these from elven leatherworkers, combining their stealth expertise with elven enchantment. The leather absorbs sound completely, making footsteps silent even on creaking floorboards. These leggings have been worn during some of history's greatest heists—the theft of the Arkenstone, the liberation of Gandalf from Orthanc, the infiltration of Barad-dûr itself.",
+  "id" : "midnight_rogue_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 to Stealth, +1 to Dexterity",
+  "name" : "Midnight Rogue Leggings",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Midnight_Rogue_Leggings",
+  "value" : 750,
+  "weight" : 2.5
+}

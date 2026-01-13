@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "Standard-issue military sword carried by infantry soldiers. Simple, sturdy, and effective. Deals 1d8 slashing damage.",
+  "id" : "footmans_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Footman's Blade",
+  "rarity" : "Common",
+  "textureName" : "Footman's Blade",
+  "value" : 20,
+  "weight" : 3
+}

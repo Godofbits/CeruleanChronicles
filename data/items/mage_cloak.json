@@ -1,0 +1,14 @@
+{
+  "baseAC" : 10,
+  "category" : "Magical",
+  "description" : "Flowing cloak worn over robes by traveling mages. The fabric is treated with cantrips to repel water and resist minor burns. Practical protection against the elements and magical accidents.",
+  "id" : "mage_cloak",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mage Cloak",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Mage Cloak",
+  "value" : 20,
+  "weight" : 3
+}

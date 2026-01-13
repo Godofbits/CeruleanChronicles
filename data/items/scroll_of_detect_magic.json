@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll inscribed with silvery runes that shimmer when magic is nearby. This fundamental divination was first scribed by the elvish sage Corellon's Hand, who sought to perceive the invisible threads of the Weave itself. The spell reveals magical auras in a rainbow of colors, each hue corresponding to a different school of magic. Every wizard's tower and treasure vault has been mapped using this ancient incantation. Single use.",
+  "id" : "scroll_of_detect_magic",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Detect Magic",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Detect Magic",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

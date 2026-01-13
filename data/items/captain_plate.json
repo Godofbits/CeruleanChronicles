@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Plate armor with officer's insignia and enhanced craftsmanship. Captains lead from the front, and their armor must inspire confidence in their troops. Slightly more ornate than common plate, displaying rank without sacrificing protection.",
+  "id" : "captain_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Captain Plate",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Captain Plate",
+  "value" : 450,
+  "weight" : 54
+}

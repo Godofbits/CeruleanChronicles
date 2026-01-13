@@ -1,0 +1,16 @@
+{
+  "acBonus" : 5,
+  "category" : "Plate",
+  "description" : "Golden metal greaves worn by the ancient Pharaohs of Harad who ruled the great deserts of the South. These leg plates were forged by djinn commanded by King Solomon and blessed by sun gods in temples that have since been swallowed by sand. The wearer becomes immune to heat and can summon sandstorms at will, commanding the desert itself. These greaves have walked through the Empty Quarter where no rain has fallen in millennia, and stood atop the highest dunes watching empires rise and fall. Only one who has proven themselves master of the desert may wear them, for the sands themselves will reject any lesser being.",
+  "id" : "desert_guardian_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 to all ability scores, Immunity to heat and exhaustion, Sandstorm control",
+  "name" : "Desert Guardian Greaves",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Desert_Guardian_Greaves",
+  "value" : 18000,
+  "weight" : 18
+}

@@ -1,0 +1,118 @@
+{
+    "id": "dust_mephit",
+    "isActive": false,
+    "name": "Dust Mephit",
+    "sortName": "Mephit, Dust",
+    "size": "small",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "neutralEvil",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 5,
+        "die": "d6",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30,
+        "fly": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 5,
+        "dexterity": 14,
+        "constitution": 10,
+        "intelligence": 9,
+        "wisdom": 11,
+        "charisma": 10
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 2 },
+        { "skill": "stealth", "bonus": 4 }
+    ],
+
+    "vulnerabilities": ["fire"],
+    "resistances": null,
+    "immunities": ["poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 12,
+    "languages": ["Auran", "Terran"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/2",
+    "experiencePoints": 100,
+
+    "texture": "DustMephit_01",
+
+    "habitat": {
+        "environments": ["planar", "desert", "ruins"],
+        "depth": "shallow",
+        "description": "Dust mephits are born where the Elemental Planes of Air and Earth meet, manifesting as swirling clouds of grit and ash. They are petty and spiteful, delighting in blinding creatures and ruining delicate objects.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Death Burst",
+            "description": "When the mephit dies, it explodes in a burst of dust. Each creature within 5 feet of it must then succeed on a DC 10 Constitution saving throw or be blinded for 1 minute.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Blinding Breath",
+            "description": "The mephit exhales a 15-foot cone of blinding dust. Each creature in that area must succeed on a DC 10 Dexterity saving throw or be blinded for 1 minute.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 10,
+                "type": "dexterity",
+                "onFail": "blinded",
+                "onSuccess": "none"
+            },
+            "recharge": {
+                "range": [6]
+            },
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,135 @@
+{
+    "id": "griffon",
+    "isActive": false,
+    "name": "Griffon",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 7,
+        "die": "d10",
+        "modifier": 21
+    },
+    "speeds": {
+        "walk": 30,
+        "fly": 80
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 15,
+        "constitution": 16,
+        "intelligence": 2,
+        "wisdom": 13,
+        "charisma": 8
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 15,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "mons_griffon_01",
+
+    "habitat": {
+        "environments": ["mountain", "grassland", "coastal"],
+        "depth": "surface",
+        "description": "Griffons nest on high mountain peaks and coastal cliffs, fiercely territorial over their hunting grounds. They have a particular taste for horse flesh, making them both prized mounts for those who can tame them and deadly threats to cavalry.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Sight",
+            "description": "The griffon has advantage on Wisdom (Perception) checks that rely on sight.",
+            "effect": {
+                "type": "keenSight",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The griffon makes two attacks: one with its beak and one with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Beak",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

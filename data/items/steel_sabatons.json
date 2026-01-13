@@ -1,0 +1,13 @@
+{
+  "category" : "Reinforced",
+  "description" : "Articulated steel boots that protect the entire foot and lower leg. The plates are carefully jointed to allow natural movement while turning aside sword strikes and arrows. Standard equipment for knights in full harness.",
+  "id" : "steel_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC",
+  "name" : "Steel Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "Steel Sabatons",
+  "value" : 175,
+  "weight" : 1
+}

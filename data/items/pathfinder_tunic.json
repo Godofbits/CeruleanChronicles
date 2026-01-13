@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Leather tunic with multiple pockets and straps for carrying supplies. Designed for long journeys into unmapped territories.",
+  "id" : "pathfinder_tunic",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Pathfinder Tunic",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Pathfinder Tunic",
+  "value" : 12,
+  "weight" : 7
+}

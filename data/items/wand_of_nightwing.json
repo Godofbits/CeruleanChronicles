@@ -1,0 +1,11 @@
+{
+  "description" : "A black wand decorated with raven feathers that seems to absorb light. Crafted by the shadow druids during the longest night, it channels darkness and shadow magic. The feathers rustle when hostile creatures approach from behind. +2 spell bonus, 10 charges, necrotic damage.",
+  "id" : "wand_of_nightwing",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Nightwing",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Nightwing",
+  "value" : 2800,
+  "weight" : 0.5
+}

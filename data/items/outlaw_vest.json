@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Rugged leather vest worn by bandits and outlaws. Functional and unremarkable—perfect for those who wish to avoid unwanted attention.",
+  "id" : "outlaw_vest",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Outlaw Vest",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Outlaw Vest",
+  "value" : 15,
+  "weight" : 8
+}

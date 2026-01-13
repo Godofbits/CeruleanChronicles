@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Simple brown leather boots worn smooth by countless miles of road. Every adventurer begins their journey with such humble footwear, whether walking the King's Road or trekking through mountain passes. The leather bears the dust of many kingdoms.",
+  "id" : "travelers_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Traveler's Boots",
+  "rarity" : "Common",
+  "textureName" : "Traveler's Boots",
+  "value" : 5,
+  "weight" : 1
+}

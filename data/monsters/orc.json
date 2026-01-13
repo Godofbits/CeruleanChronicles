@@ -1,0 +1,125 @@
+{
+    "id": "orc",
+    "isActive": false,
+    "name": "Orc",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "orc",
+    "alignment": "chaoticEvil",
+
+    "armorClass": 13,
+    "armorType": "hide armor",
+    "hitDice": {
+        "count": 2,
+        "die": "d8",
+        "modifier": 6
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 16,
+        "dexterity": 12,
+        "constitution": 16,
+        "intelligence": 7,
+        "wisdom": 11,
+        "charisma": 10
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "intimidation", "bonus": 2 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Common", "Orc"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/2",
+    "experiencePoints": 100,
+
+    "texture": "mons_orc_01",
+
+    "habitat": {
+        "environments": ["mountain", "forest", "underground", "ruins"],
+        "depth": "shallow",
+        "description": "Orc tribes claim mountain caves and forest strongholds as their own, raiding nearby settlements with brutal efficiency. Driven by their god Gruumsh's call to conquest, they wage endless war against elves and other civilized peoples.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Aggressive",
+            "description": "As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.",
+            "effect": {
+                "type": "aggressive",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Greataxe",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 9 (1d12 + 3) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d12",
+                        "modifier": 3,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Javelin",
+            "description": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 6 (1d6 + 3) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": 30,
+                "rangeLong": 120,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

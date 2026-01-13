@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll covered in mesmerizing swirling patterns that seem to move on their own. This spell creates a twisting pattern of colors that entrances those who gaze upon it, leaving them swaying mindlessly. The technique was first used by yuan-ti priests to pacify sacrificial victims, but wizards quickly realized its tactical value. A well-placed hypnotic pattern can end a battle without a single death. Single use.",
+  "id" : "scroll_of_hypnotic_pattern",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Hypnotic Pattern",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Hypnotic Pattern",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

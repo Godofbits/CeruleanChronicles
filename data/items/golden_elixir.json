@@ -1,0 +1,13 @@
+{
+  "description" : "This legendary golden elixir is said to be brewed by the gods themselves. In Greek myth, the gods drank ambrosia and nectar to maintain their immortality. Regain all hit points, cure all diseases and poisons, remove all curses, and gain immunity to poison and disease for 24 hours.",
+  "effect" : "Heals 2d4+2 HP (avg 7)",
+  "id" : "golden_elixir",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Golden Elixir",
+  "potionType" : "Potion of Healing",
+  "rarity" : "Legendary",
+  "textureName" : "Golden Elixir",
+  "value" : 5000,
+  "weight" : 0.5
+}

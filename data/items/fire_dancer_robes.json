@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Crimson and orange robes that seem to flicker like flames in motion. Woven by the efreeti lords of the City of Brass, these garments are impervious to magical fire. Fire dancers—mystics who worship the elemental flame—wear such robes when performing their ecstatic rituals, walking through infernos without harm. The fabric was created from phoenix down harvested during the bird's rebirth, making it eternally fireproof. Pyromancers who don these robes can stand within their own firestorms, channeling devastating flame while remaining untouched.",
+  "id" : "fire_dancer_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire damage from spells",
+  "name" : "Fire Dancer Robes",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Fire_Dancer_Robes",
+  "value" : 850,
+  "weight" : 1.5
+}

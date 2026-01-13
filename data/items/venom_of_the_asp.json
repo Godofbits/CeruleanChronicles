@@ -1,0 +1,13 @@
+{
+  "description" : "Extracted from the deadly asp, the serpent that killed Cleopatra. This dark green venom deals 8d8 poison damage and can kill within minutes on a failed CON save (DC 17). On success, take half damage.",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "venom_of_the_asp",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Venom of the Asp",
+  "potionType" : "Poison",
+  "rarity" : "Rare",
+  "textureName" : "Venom of the Asp",
+  "value" : 350,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Strips of cloth wrapped around the hands for protection. Monks and pugilists wear such wraps to cushion their strikes. Simple yet effective for those who fight with fists rather than steel.",
+  "id" : "padded_handwraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Padded Handwraps",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Padded Handwraps",
+  "value" : 7,
+  "weight" : 0.5
+}

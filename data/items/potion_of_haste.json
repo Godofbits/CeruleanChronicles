@@ -1,0 +1,13 @@
+{
+  "description" : "A sparkling pink elixir that accelerates your every movement. Functions as the Haste spell for 1 minute. Warning: upon wearing off, you suffer 1 level of exhaustion.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_haste",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Haste",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Haste",
+  "value" : 350,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A deep red garnet ring that warms the blood. Roman legionnaires wore similar rings to ward off disease and injury.",
+  "id" : "garnet_of_fortitude",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Constitution saves",
+  "name" : "Garnet of Fortitude",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_8",
+  "value" : 85,
+  "weight" : 0
+}

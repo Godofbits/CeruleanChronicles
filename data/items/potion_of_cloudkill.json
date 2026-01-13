@@ -1,0 +1,13 @@
+{
+  "description" : "When this purple-black vial is broken, it creates a 20-foot radius cloud of poisonous gas. Creatures in the area take 5d8 poison damage each turn (CON save DC 15 for half). The cloud lasts for 10 minutes.",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "potion_of_cloudkill",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Cloudkill",
+  "potionType" : "Poison",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Cloudkill",
+  "value" : 550,
+  "weight" : 0.5
+}

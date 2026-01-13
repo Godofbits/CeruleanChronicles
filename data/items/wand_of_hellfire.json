@@ -1,0 +1,11 @@
+{
+  "description" : "A black iron wand that burns with sickly green flames from the depths of the Nine Hells. Forged in Avernus and quenched in the River Styx, its hellfire burns both body and soul. Devils whisper temptations to those who wield it. +2 spell bonus, 10 charges, fire\/necrotic damage.",
+  "id" : "wand_of_hellfire",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Hellfire",
+  "rarity" : "Very Rare",
+  "textureName" : "Wand of Hellfire",
+  "value" : 7000,
+  "weight" : 1.5
+}

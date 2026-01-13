@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A swirling green malachite stone. Alchemists claim malachite can detect and neutralize toxins, warning its wearer of danger.",
+  "id" : "malachite_band_of_warding",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on saves vs poison",
+  "name" : "Malachite Band of Warding",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_30",
+  "value" : 110,
+  "weight" : 0
+}

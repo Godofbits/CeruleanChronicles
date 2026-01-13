@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Boots worn by cavalry scouts who ride ahead of armies to survey terrain. Designed to be comfortable in the stirrup yet functional on foot, they serve those who must dismount quickly. Outriders of the king's army receive such boots as standard issue.",
+  "id" : "outrider_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Outrider Boots",
+  "rarity" : "Common",
+  "textureName" : "Outrider Boots",
+  "value" : 14,
+  "weight" : 1
+}

@@ -1,0 +1,15 @@
+{
+  "baseAC" : 13,
+  "category" : "Medium",
+  "description" : "Overlapping copper scales sewn onto leather backing. Copper is softer than steel but easier to work, making this affordable armor for town guards and merchant caravans.",
+  "id" : "copper_scale_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Copper Scale Mail",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Copper Scale Mail",
+  "value" : 35,
+  "weight" : 42
+}

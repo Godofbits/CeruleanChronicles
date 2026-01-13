@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A leather baldric decorated with the teeth and claws of every mighty beast the original owner slew. Legend tells of a barbarian warrior who never fell in battle, whose rage was so terrible that even dragons fled before him. Upon his death, his battle-fury was bound into his baldric, allowing future warriors to channel his legendary wrath. When the wearer activates the baldric's power, they enter a berserk state of primal fury, becoming an unstoppable force of destruction. The rage is so consuming that some who wear it never wish to take it off, slowly losing themselves to the eternal battle-lust. The baldric has left a trail of legendary warriors and terrible tragedies across the centuries.",
+  "id" : "baldric_of_the_berserker",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 Strength, +3 Constitution, Rage 3\/day (as 20th level barbarian), Immunity to fear and charm while raging",
+  "name" : "Baldric of the Berserker",
+  "rarity" : "Legendary",
+  "textureName" : "Baldric of the Berserker",
+  "value" : 25000,
+  "weight" : 0.5
+}

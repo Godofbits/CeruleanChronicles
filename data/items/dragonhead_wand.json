@@ -1,0 +1,11 @@
+{
+  "description" : "A carved wooden wand depicting a snarling dragon's head. The carving was made from a branch of the World Tree that a dragon had slept upon for a century. The wood absorbed draconic essence and now channels elemental breath weapon energy. +2 spell bonus, 10 charges.",
+  "id" : "dragonhead_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Dragonhead Wand",
+  "rarity" : "Very Rare",
+  "textureName" : "Dragonhead Wand",
+  "value" : 5000,
+  "weight" : 1.5
+}

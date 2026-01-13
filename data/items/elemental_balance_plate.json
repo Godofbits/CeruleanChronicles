@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor displaying all four elements in perfect harmony. Quadrants of the armor represent fire, water, earth, and air—each section forged by elemental masters. The armor grants resistance to fire, cold, lightning, and acid damage. Once per day, the wearer can invoke one element, casting either fireball, cone of cold, lightning bolt, or wall of stone. The armor requires balance—if the wearer favors one element too strongly, the others grow weaker.",
+  "id" : "elemental_balance_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Elemental Balance Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Elemental Balance Plate",
+  "value" : 11000,
+  "weight" : 54
+}

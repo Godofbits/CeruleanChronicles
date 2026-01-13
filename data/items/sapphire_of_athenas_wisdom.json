@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A deep blue sapphire blessed by the goddess of wisdom herself. Greek philosophers claimed such gems contained fragments of divine knowledge. The stone seems to hold infinite depths, like staring into a clear night sky.",
+  "id" : "sapphire_of_athenas_wisdom",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Wisdom, +1 spell save DC (Wisdom)",
+  "name" : "Sapphire of Athena's Wisdom",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_41",
+  "value" : 600,
+  "weight" : 0
+}

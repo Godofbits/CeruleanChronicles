@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots forged in the heart of volcanic calderas by fire giant smiths. They allow the wearer to walk upon molten lava without harm, treating it as solid ground. Dwarven expeditions into the deep places of the earth seek such boots to explore the magma rivers beneath the mountains.",
+  "id" : "magma_striders",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire, Walk on lava, +2 Constitution",
+  "name" : "Magma Striders",
+  "rarity" : "Rare",
+  "textureName" : "Magma Striders",
+  "value" : 1000,
+  "weight" : 1
+}

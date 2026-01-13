@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Golden gloves blessed by Hermes, Greek god of speed and thieves. They grant divine swiftness to all the wearer's actions. The gloves seem to move before the wearer even thinks to act, guided by Hermes' own supernatural quickness. Those who wear them can snatch arrows from the air and strike faster than the eye can follow.",
+  "id" : "hermes_swift_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Hermes' Swift Gloves",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Hermes' Swift Gloves",
+  "value" : 7000,
+  "weight" : 0.5
+}

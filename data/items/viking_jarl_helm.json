@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A ornate golden helm worn by the jarls of the Viking clans. The intricate decorations tell the saga of the wearer's lineage, and the gold plating is both beautiful and functional. A jarl's helm is passed from father to son and carries the weight of ancestral glory. +2 AC.",
+  "id" : "viking_jarl_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Viking Jarl Helm",
+  "rarity" : "Rare",
+  "textureName" : "Viking Jarl Helm",
+  "value" : 1600,
+  "weight" : 4.5
+}

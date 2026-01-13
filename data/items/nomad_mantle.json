@@ -1,0 +1,14 @@
+{
+  "baseAC" : 10,
+  "category" : "Cloth",
+  "description" : "Layered cloth garment worn by desert wanderers. Designed to protect against sun and sand while remaining breathable. The flowing fabric keeps the body cool in scorching heat while providing modest protection from blades.",
+  "id" : "nomad_mantle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Nomad Mantle",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Nomad Mantle",
+  "value" : 12,
+  "weight" : 4
+}

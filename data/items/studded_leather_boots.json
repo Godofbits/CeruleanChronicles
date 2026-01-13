@@ -1,0 +1,12 @@
+{
+  "category" : "Reinforced",
+  "description" : "Leather boots reinforced with small metal studs for extra protection. Popular among city guards and caravan defenders who need boots tough enough for a fight. The studs provide grip on slippery surfaces and can deliver a painful kick.",
+  "id" : "studded_leather_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Studded Leather Boots",
+  "rarity" : "Common",
+  "textureName" : "Studded Leather Boots",
+  "value" : 18,
+  "weight" : 1
+}

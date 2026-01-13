@@ -1,0 +1,13 @@
+{
+  "description" : "Distilled from the sap of Yggdrasil, the World Tree of Norse mythology that connects all nine realms. This emerald elixir grants profound connection to nature. Regain 10d4+20 hit points, speak with plants and animals, and gain the benefits of the Tree Stride spell for 24 hours.",
+  "effect" : "Heals 2d4+2 HP (avg 7)",
+  "id" : "elixir_of_yggdrasil",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Yggdrasil",
+  "potionType" : "Potion of Healing",
+  "rarity" : "Legendary",
+  "textureName" : "Elixir of Yggdrasil",
+  "value" : 3000,
+  "weight" : 0.5
+}

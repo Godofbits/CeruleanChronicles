@@ -1,0 +1,174 @@
+{
+    "id": "lindworm",
+    "isActive": false,
+    "name": "Lindworm",
+    "sortName": null,
+    "size": "large",
+    "type": "dragon",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 15,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 11,
+        "die": "d10",
+        "modifier": 33
+    },
+    "speeds": {
+        "walk": 40,
+        "swim": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 19,
+        "dexterity": 14,
+        "constitution": 17,
+        "intelligence": 5,
+        "wisdom": 12,
+        "charisma": 8
+    },
+
+    "savingThrows": ["dexterity", "constitution"],
+    "skills": [
+        { "skill": "perception", "bonus": 4 },
+        { "skill": "stealth", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 14,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "6",
+    "experiencePoints": 2300,
+
+    "texture": "LindWorm_01",
+
+    "habitat": {
+        "environments": ["forest", "swamp", "mountain"],
+        "depth": "surface",
+        "description": "Lindworms are primitive wingless dragons that slither through ancient forests and mountain passes. Norse legends speak of them guarding burial mounds and hoarding treasures of fallen kings. Unlike their winged cousins, lindworms are patient ambush predators, lying in wait beneath leaf litter or murky water before striking with venomous fangs.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Keen Smell",
+            "description": "The lindworm has advantage on Wisdom (Perception) checks that rely on smell.",
+            "effect": {
+                "type": "keenSense",
+                "parameters": {
+                    "sense": "smell"
+                }
+            }
+        },
+        {
+            "name": "Serpentine Body",
+            "description": "The lindworm can move through a space as narrow as 1 foot wide without squeezing.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The lindworm makes two attacks: one with its bite and one with its constrict.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) piercing damage plus 10 (3d6) poison damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d10",
+                        "modifier": 4,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Constrict",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one Medium or smaller creature. Hit: 13 (2d8 + 4) bludgeoning damage, and the target is grappled (escape DC 15). Until this grapple ends, the creature is restrained, and the lindworm can't constrict another target.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "grapple",
+                    "saveDC": 15,
+                    "saveType": "strength",
+                    "condition": "restrained",
+                    "description": "Target is grappled and restrained"
+                }
+            ]
+        },
+        {
+            "name": "Poison Breath",
+            "description": "The lindworm exhales poisonous gas in a 30-foot cone. Each creature in that area must make a DC 14 Constitution saving throw, taking 28 (8d6) poison damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "type": "constitution",
+                "dc": 14,
+                "onFail": "28 (8d6) poison damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": {
+                "range": [5, 6]
+            },
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

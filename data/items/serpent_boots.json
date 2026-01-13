@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots designed in the image of coiled serpents, granting the flexibility and poison resistance of snakes. The leather seems to move like living scales, and those who wear them develop serpentine grace. Yuan-ti sorcerers craft such boots, imbuing them with the essence of their snake gods.",
+  "id" : "serpent_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Dexterity, Immunity to poison, Advantage on escape checks",
+  "name" : "Serpent Boots",
+  "rarity" : "Rare",
+  "textureName" : "Serpent Boots",
+  "value" : 820,
+  "weight" : 1
+}

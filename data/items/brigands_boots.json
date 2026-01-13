@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Scuffed boots worn by outlaws and bandits who haunt lonely roads. Often acquired through less-than-legal means, they show signs of hard use and hasty repair. Despite their unsavory origins, they serve their purpose well.",
+  "id" : "brigands_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Brigand's Boots",
+  "rarity" : "Common",
+  "textureName" : "Brigand's Boots",
+  "value" : 8,
+  "weight" : 1
+}

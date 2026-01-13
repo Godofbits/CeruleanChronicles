@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A heavy cutlass carried by the most feared pirates of the Crimson Fleet. The blade is weighted for powerful swings on a rolling deck. Many merchant captains have met their end to one of these. Deals 1d8 slashing damage.",
+  "id" : "sea_reaver",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Sea Reaver",
+  "rarity" : "Uncommon",
+  "textureName" : "Sea Reaver",
+  "value" : 180,
+  "weight" : 3.5
+}

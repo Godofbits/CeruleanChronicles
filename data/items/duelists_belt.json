@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A sleek leather belt designed for agility and style rather than heavy armor. Worn by fencers, swashbucklers, and duelists who rely on speed and precision. The thin profile allows freedom of movement while providing secure attachment points for rapier and main-gauche.",
+  "id" : "duelists_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Duelist's Belt",
+  "rarity" : "Common",
+  "textureName" : "Duelist's Belt",
+  "value" : 17,
+  "weight" : 0.5
+}

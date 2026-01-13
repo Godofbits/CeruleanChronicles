@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Greaves forged in the Nine Hells from infernal bronze and bound with contracts written in blood. They grant authority over lesser devils and immunity to hellfire. Warlocks who bargain with archdevils sometimes receive such greaves as part of their pact. The metal burns with unholy heat but does not harm the wearer.",
+  "id" : "infernal_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire, +2 Charisma, Command devils (DC 15 Charisma save)",
+  "name" : "Infernal Greaves",
+  "rarity" : "Rare",
+  "textureName" : "Infernal Greaves",
+  "value" : 1050,
+  "weight" : 1
+}

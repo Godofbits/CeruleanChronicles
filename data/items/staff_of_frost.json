@@ -1,0 +1,11 @@
+{
+  "description" : "A staff of purest ice that never melts, even in the heart of a forge. Frost spreads from it in delicate patterns, and the air grows cold in its presence. Frost giants' shamans craft such staffs in glacial caves where warmth has never intruded. The staff grants mastery over ice and winter, turning the wielder into a living blizzard.",
+  "id" : "staff_of_frost",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Frost",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Frost",
+  "value" : 1200,
+  "weight" : 3
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A red scroll inscribed with infernal runes that seem to writhe with malice. This reaction spell wreathes an attacker in hellfire the instant they strike, punishing their aggression with flames from the lower planes. The magic was originally the domain of warlocks who made pacts with fiends, but other casters have learned to invoke hellfire without selling their souls. The flames carry a touch of damnation, burning with unnatural heat. Many foes have hesitated before attacking a second time. Single use.",
+  "id" : "scroll_of_hellish_rebuke",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Hellish Rebuke",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Hellish Rebuke",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

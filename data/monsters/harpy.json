@@ -1,0 +1,136 @@
+{
+    "id": "harpy",
+    "isActive": false,
+    "name": "Harpy",
+    "size": "medium",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "chaoticEvil",
+
+    "armorClass": 11,
+    "armorType": null,
+    "hitDice": {
+        "count": 7,
+        "die": "d8",
+        "modifier": 7
+    },
+    "speeds": {
+        "walk": 20,
+        "fly": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 12,
+        "dexterity": 13,
+        "constitution": 12,
+        "intelligence": 7,
+        "wisdom": 10,
+        "charisma": 13
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 10,
+    "languages": ["Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "1",
+    "experiencePoints": 200,
+
+    "texture": "mons_harpy_01",
+
+    "habitat": {
+        "environments": ["mountain", "coastal", "ruins"],
+        "depth": "surface",
+        "description": "Harpies roost on cliff faces and ruined towers, using their enchanting songs to lure travelers to their doom. The ground beneath their nests is littered with the bones of those who succumbed to their deadly melodies.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The harpy makes two attacks: one with its claws and one with its club.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 6 (2d4 + 1) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d4",
+                        "modifier": 1,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Club",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 1,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Luring Song",
+            "description": "The harpy sings a magical melody. Every humanoid and giant within 300 feet of the harpy that can hear the song must succeed on a DC 11 Wisdom saving throw or be charmed until the song ends. While charmed, the target is incapacitated and must move toward the harpy by the most direct route.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "type": "wisdom",
+                "dc": 11,
+                "onFail": "charmed",
+                "onSuccess": "none"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

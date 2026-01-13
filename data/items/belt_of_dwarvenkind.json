@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "One of the legendary artifacts of the dwarven people, forged in the First Age when Durin awakened beneath Mount Gundabad. The belt is covered in intricate dwarven runes telling the history of the Seven Fathers and their great halls. When worn by a dwarf, it enhances their natural hardiness to legendary proportions. When worn by other races, it grants them dwarven resilience and even causes them to grow a magnificent beard, regardless of gender. The belt has been lost and rediscovered countless times, each recovery celebrated in dwarven song.",
+  "id" : "belt_of_dwarvenkind",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Constitution, Advantage on saves vs poison, Resistance to poison damage, Darkvision 60 feet, Grow dwarven beard",
+  "name" : "Belt of Dwarvenkind",
+  "rarity" : "Legendary",
+  "textureName" : "Belt of Dwarvenkind",
+  "value" : 15000,
+  "weight" : 0.5
+}

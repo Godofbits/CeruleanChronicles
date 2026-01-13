@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Full plate with attached flowing cape. The cape serves both ceremonial and practical purposes—identifying officers on chaotic battlefields while protecting the armor from rain. Knights and nobles favor this dramatic style, as the billowing cape adds to their imposing presence.",
+  "id" : "caped_full_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Caped Full Plate",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Caped Full Plate",
+  "value" : 750,
+  "weight" : 56
+}

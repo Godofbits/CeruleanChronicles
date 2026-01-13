@@ -1,0 +1,114 @@
+{
+    "id": "skeleton",
+    "isActive": false,
+    "name": "Skeleton",
+    "size": "medium",
+    "type": "undead",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 13,
+    "armorType": "armor scraps",
+    "hitDice": {
+        "count": 2,
+        "die": "d8",
+        "modifier": 4
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 10,
+        "dexterity": 14,
+        "constitution": 15,
+        "intelligence": 6,
+        "wisdom": 8,
+        "charisma": 5
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": ["bludgeoning"],
+    "resistances": null,
+    "immunities": ["poison"],
+    "conditionImmunities": ["exhaustion", "poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 9,
+    "languages": ["understands all languages it knew in life but cannot speak"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "mons_skeleton_01",
+
+    "habitat": {
+        "environments": ["dungeon", "ruins", "underground"],
+        "depth": "shallow",
+        "description": "Skeletons are found wherever dark magic animates the dead—crypts, haunted battlefields, necromancer lairs, and cursed ruins. Mindless servants bound to their creator's will, they guard tombs for eternity or patrol dungeons in endless silent vigil.",
+        "rarity": "common"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Shortsword",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Shortbow",
+            "description": "Ranged Weapon Attack: +4 to hit, range 80/320 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": null,
+                "rangeNormal": 80,
+                "rangeLong": 320,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

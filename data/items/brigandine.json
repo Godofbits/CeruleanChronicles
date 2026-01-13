@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Canvas or leather garment lined with small steel plates riveted inside. Combines the flexibility of cloth with the protection of metal. Originally worn by brigands and mercenaries, hence the name.",
+  "id" : "brigandine",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Brigandine",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Brigandine",
+  "value" : 60,
+  "weight" : 25
+}

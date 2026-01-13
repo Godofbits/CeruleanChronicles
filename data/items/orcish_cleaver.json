@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d10",
+  "damageType" : "slashing",
+  "description" : "A brutal, heavy blade designed by orc weaponsmiths for maximum carnage. The crude but effective design emphasizes raw cutting power over finesse. Many bear notches counting their kills. Deals 1d10 slashing damage.",
+  "id" : "orcish_cleaver",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Orcish Cleaver",
+  "rarity" : "Uncommon",
+  "textureName" : "Orcish Cleaver",
+  "value" : 120,
+  "weight" : 6
+}

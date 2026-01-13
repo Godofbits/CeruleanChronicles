@@ -1,0 +1,13 @@
+{
+  "description" : "Named for the Norse goddess of death who rules over Helheim, the realm of the dishonored dead. This black potion with skull patterns grants dominion over the undead. For 1 hour, you can command undead as if you created them, and they treat you as their master. Hel, daughter of Loki, was said to have a body half-living and half-corpse.",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "essence_of_hel",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Essence of Hel",
+  "potionType" : "Poison",
+  "rarity" : "Legendary",
+  "textureName" : "Essence of Hel",
+  "value" : 2500,
+  "weight" : 0.5
+}

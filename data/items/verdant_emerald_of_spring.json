@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "An emerald that seems to hold the essence of new growth. Worshippers of Freya and other fertility goddesses wear such rings to bring life and healing to the land.",
+  "id" : "verdant_emerald_of_spring",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Cast Goodberry 3\/day, +1 Medicine",
+  "name" : "Verdant Emerald of Spring",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_36",
+  "value" : 490,
+  "weight" : 0
+}

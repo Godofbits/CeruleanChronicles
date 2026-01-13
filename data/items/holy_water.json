@@ -1,0 +1,13 @@
+{
+  "description" : "Water blessed by a cleric. When splashed on a creature, undead and fiends take 2d6 radiant damage.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "holy_water",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Holy Water",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Common",
+  "textureName" : "Holy Water",
+  "value" : 25,
+  "weight" : 0.5
+}

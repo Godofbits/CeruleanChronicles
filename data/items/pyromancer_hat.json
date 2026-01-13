@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A flame-red hat that constantly smolders at the edges without burning. Created by fire mages who have mastered elemental flame, the hat is warm to the touch and grants immunity to natural fire. Fire spells cast while wearing it burn hotter and brighter. +0 AC.",
+  "id" : "pyromancer_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Pyromancer Hat",
+  "rarity" : "Rare",
+  "textureName" : "Pyromancer Hat",
+  "value" : 1750,
+  "weight" : 0.40000000000000002
+}

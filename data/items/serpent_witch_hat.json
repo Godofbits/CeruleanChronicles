@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A green witch hat decorated with coiled serpent motifs. Favored by practitioners of poison magic and those who commune with snakes, the hat grants immunity to natural venoms and allows the wearer to speak with serpents. Some say the embroidered snakes occasionally move. +0 AC.",
+  "id" : "serpent_witch_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Serpent Witch Hat",
+  "rarity" : "Rare",
+  "textureName" : "Serpent Witch Hat",
+  "value" : 1850,
+  "weight" : 0.5
+}

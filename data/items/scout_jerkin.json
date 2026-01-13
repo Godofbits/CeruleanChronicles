@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Light leather tunic designed for scouts and explorers. Earth-tone colors help the wearer blend into wilderness surroundings.",
+  "id" : "scout_jerkin",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Scout Jerkin",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Scout Jerkin",
+  "value" : 10,
+  "weight" : 6
+}

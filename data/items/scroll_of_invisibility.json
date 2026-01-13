@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll whose ink seems to fade in and out of view. This classic illusion renders a creature completely invisible until they attack or cast a spell. The technique was perfected by elven scouts who needed to move unseen through enemy territory. Unlike crude magical concealment, true invisibility bends light around the subject, making them undetectable to normal sight. Rogues and spies consider this spell invaluable, for the unseen assassin is the most dangerous. Single use.",
+  "id" : "scroll_of_invisibility",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Invisibility",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

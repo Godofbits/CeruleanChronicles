@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll bearing images of various creatures. This spell grants the ability to communicate with beasts, though it does not make them more friendly or intelligent. Animals retain their natural perspectives—a cat might discuss hunting mice, while a horse complains about its rider's weight. Druids and rangers use this spell to gather information from animals who witnessed events or to negotiate passage through territory guarded by beasts. The spell reminds us that humans are not the only voices worth hearing. Single use.",
+  "id" : "scroll_of_speak_with_animals",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Speak with Animals",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Speak with Animals",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

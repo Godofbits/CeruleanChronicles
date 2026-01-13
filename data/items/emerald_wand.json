@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand with a green emerald gripped in a claw setting. Emeralds resonate with nature magic, and this gem was grown inside a treant over centuries. The wand enhances plant-based and healing spells. +1 spell bonus, 7 charges.",
+  "id" : "emerald_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Emerald Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Emerald Wand",
+  "value" : 600,
+  "weight" : 1
+}

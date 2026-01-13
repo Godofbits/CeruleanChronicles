@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gloves inscribed with arcane symbols that enhance spellcasting. The fingertips glow faintly when magic is channeled through them. Wizards who specialize in the school of enchantment craft such gloves to focus their magical will.",
+  "id" : "enchanters_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Enchanter's Grip",
+  "rarity" : "Uncommon",
+  "spellBonus" : "+1 to spell attack rolls",
+  "stealthDisadvantage" : false,
+  "textureName" : "Enchanter's Grip",
+  "value" : 285,
+  "weight" : 0.5
+}

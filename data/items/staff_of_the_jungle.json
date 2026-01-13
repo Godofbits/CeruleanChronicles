@@ -1,0 +1,11 @@
+{
+  "description" : "A staff of dense tropical wood wrapped in vines that never die. It protects the bearer from the countless plagues and parasites that make jungles deadly. Explorers of the deep jungle prize such staffs above gold.",
+  "id" : "staff_of_the_jungle",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Jungle",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of the Jungle",
+  "value" : 245,
+  "weight" : 3
+}

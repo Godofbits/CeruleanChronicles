@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Practical gloves worn by those who hunt for survival rather than sport. The leather is thick enough to protect from animal bites and thorns. Many winters were survived by hands protected by such gloves while setting traps in frozen forests.",
+  "id" : "hunters_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Hunter's Gloves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Hunter's Gloves",
+  "value" : 11,
+  "weight" : 0.5
+}

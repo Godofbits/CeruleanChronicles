@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Armor crafted from the bones of a destroyed lich. Each bone has been treated with necromantic rituals and bound with dark steel. The armor grants immunity to poison and disease, resistance to necrotic damage, and allows the wearer to cast speak with dead once per day. However, the armor carries a curse—the wearer must consume the life force of a sentient being once per month or suffer exhaustion. The lich's phylactery was never found.",
+  "id" : "lich_ribcage",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Lich Ribcage",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Lich Ribcage",
+  "value" : 10000,
+  "weight" : 48
+}

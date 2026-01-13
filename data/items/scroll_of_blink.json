@@ -1,0 +1,11 @@
+{
+  "description" : "A purple scroll that phases in and out of sight. This spell causes the caster to randomly flicker between the Material Plane and the Ethereal Plane, making them difficult to hit and allowing them to pass through solid objects momentarily. The magic was discovered by accident when a wizard's teleportation spell misfired, leaving him caught between worlds. Rogues and escape artists prize this spell highly. Single use.",
+  "id" : "scroll_of_blink",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Blink",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Blink",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

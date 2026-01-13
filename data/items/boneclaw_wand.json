@@ -1,0 +1,11 @@
+{
+  "description" : "A bone wand ending in a skeletal claw that seems to grasp at the air. Crafted from the remains of a boneclaw demon, this wand hungers for the life force of the living. The claw occasionally twitches of its own accord, reaching toward nearby creatures. +1 spell bonus, 7 charges.",
+  "id" : "boneclaw_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Boneclaw Wand",
+  "rarity" : "Rare",
+  "textureName" : "Boneclaw Wand",
+  "value" : 1200,
+  "weight" : 1
+}

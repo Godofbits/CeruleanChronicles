@@ -1,0 +1,11 @@
+{
+  "description" : "A carved wooden wand depicting a coiling sea serpent, its scales inlaid with mother-of-pearl. Crafted by the sea elves from driftwood blessed by a leviathan, it channels the power of ocean currents. Water magic flows through it with serpentine grace. +2 spell bonus, 10 charges, water damage.",
+  "id" : "sea_serpent_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sea Serpent Wand",
+  "rarity" : "Rare",
+  "textureName" : "Sea Serpent Wand",
+  "value" : 2800,
+  "weight" : 1.5
+}

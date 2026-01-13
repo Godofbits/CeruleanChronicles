@@ -1,0 +1,11 @@
+{
+  "description" : "A living staff that blooms with flowers in spring and bears fruit in autumn. It was cut from a sacred grove where the barrier between the mortal world and the Feywild grows thin. The staff allows communion with all plant life.",
+  "id" : "staff_of_the_grove",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Grove",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of the Grove",
+  "value" : 275,
+  "weight" : 3
+}

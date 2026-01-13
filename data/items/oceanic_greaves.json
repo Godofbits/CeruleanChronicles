@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Greaves blessed by Poseidon and other sea gods. They grant affinity with ocean creatures and enhance swimming ability. Merfolk and tritons craft such greaves for land-dwellers who have earned their trust.",
+  "id" : "oceanic_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+15 ft swim speed, Speak with aquatic beasts",
+  "name" : "Oceanic Greaves",
+  "rarity" : "Uncommon",
+  "textureName" : "Oceanic Greaves",
+  "value" : 210,
+  "weight" : 1
+}

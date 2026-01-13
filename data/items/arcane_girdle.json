@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A girdle woven with threads of pure magical energy, shimmering with all the colors of spellcraft. Created by the Council of Archmages during the height of the magical empire, this girdle significantly enhances the wearer's arcane abilities. The belt contains reserves of magical power and sharpens the mind, allowing for more powerful and more frequent spellcasting.",
+  "id" : "arcane_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Intelligence, +2 spell slots (3rd level), +2 spell save DC",
+  "name" : "Arcane Girdle",
+  "rarity" : "Very Rare",
+  "textureName" : "Arcane Girdle",
+  "value" : 6500,
+  "weight" : 0.5
+}

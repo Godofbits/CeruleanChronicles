@@ -1,0 +1,11 @@
+{
+  "description" : "A purple scroll inscribed with diagrams of folded space. This lesser teleportation opens a brief portal through the fabric of reality, allowing instantaneous travel across shorter distances. Unlike true teleportation, Dimension Door sidesteps the dangers of long-distance travel, making it the preferred escape spell of thieves and assassins. The spell was invented by a halfling illusionist trying to reach a high shelf. Single use.",
+  "id" : "scroll_of_dimension_door",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Dimension Door",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Dimension Door",
+  "value" : 200,
+  "weight" : 0.10000000000000001
+}

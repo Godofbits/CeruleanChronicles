@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "An amethyst that creates an impenetrable barrier around your consciousness. Even gods cannot pierce the veil this ring weaves around your mind. Your thoughts, memories, and soul remain yours alone.",
+  "id" : "ring_of_mental_fortress",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immune to psychic damage, magic cannot read thoughts or detect lies",
+  "name" : "Ring of Mental Fortress",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_54",
+  "value" : 1900,
+  "weight" : 0
+}

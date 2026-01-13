@@ -1,0 +1,11 @@
+{
+  "description" : "A staff of eternal ice that never melts, sharp as a spear and cold as winter's heart. Frost patterns spread across its surface. Ice mages who specialize in cold magic craft such staffs from glaciers that have never known warmth.",
+  "id" : "icicle_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Icicle Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Icicle Staff",
+  "value" : 285,
+  "weight" : 3
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt adorned with crystalline spikes of eternal ice that never melt. Frost patterns spread across its surface, and the air around it is perpetually cold. Forged in the heart of glaciers by frost giant shamans, it grants complete immunity to cold and punishes those foolish enough to strike its wearer in melee.",
+  "id" : "frostspike_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to cold damage, Frost aura (1d4 cold damage to attackers)",
+  "name" : "Frostspike Girdle",
+  "rarity" : "Rare",
+  "textureName" : "Frostspike Girdle",
+  "value" : 980,
+  "weight" : 0.5
+}

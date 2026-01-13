@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "An ornate belt decorated with bronze medallions commemorating victories in athletic competitions. Worn by champions of the ancient games, where warriors competed in wrestling, javelin, and chariot racing. Each medallion represents a contest won, a trial overcome.",
+  "id" : "bronze_champions_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Athletics",
+  "name" : "Bronze Champion's Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Bronze Champion's Belt",
+  "value" : 200,
+  "weight" : 0.5
+}

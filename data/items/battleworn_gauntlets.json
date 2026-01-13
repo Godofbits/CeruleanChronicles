@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Scarred gauntlets bearing the marks of countless battles. The metal is dented and the leather worn, yet they remain serviceable. Veterans know that such gauntlets, though battered, have already proven their worth in combat.",
+  "id" : "battleworn_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Battle-worn Gauntlets",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Battle-worn Gauntlets",
+  "value" : 19,
+  "weight" : 0.5
+}

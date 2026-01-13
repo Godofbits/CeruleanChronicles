@@ -1,0 +1,11 @@
+{
+  "description" : "A blue wand carved from driftwood blessed by the sea god. It pulses with the rhythm of the tides, growing stronger near the ocean. Water obeys its commands, rising and falling like the sea itself. +2 spell bonus, 10 charges, water damage.",
+  "id" : "wand_of_tides",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Tides",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Tides",
+  "value" : 2800,
+  "weight" : 1
+}

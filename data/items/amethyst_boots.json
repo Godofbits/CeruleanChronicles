@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots set with large amethysts that glow with inner light. The gemstones protect the mind from magical influence and enhance mental clarity. Priests and mystics wear such boots when they must resist temptation or mental assault. The amethysts were mined from sacred mountains where the barrier between worlds grows thin.",
+  "id" : "amethyst_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Wisdom, Immunity to charm, Advantage on saves vs enchantment",
+  "name" : "Amethyst Boots",
+  "rarity" : "Rare",
+  "textureName" : "Amethyst Boots",
+  "value" : 780,
+  "weight" : 1
+}

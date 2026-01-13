@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Fingerless leather gloves favored by woodsmen and scouts. The open fingertips allow for dexterity while the palms protect against bowstrings and rough bark. Rangers of the North mark such gloves with small notches denoting years of service.",
+  "id" : "ranger_grips",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ranger Grips",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Ranger Grips",
+  "value" : 12,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Gauntlets blessed by Zeus, king of the Olympian gods. They grant the power to hurl lightning bolts like the father of gods himself. Heroes who earn Zeus's favor receive such gauntlets, marking them as champions of divine order. The metal crackles with barely restrained power, and thunder rumbles faintly when the wearer clenches their fists.",
+  "id" : "zeus_lightning_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Zeus' Lightning Grip",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Zeus' Lightning Grip",
+  "value" : 1300,
+  "weight" : 0.5
+}

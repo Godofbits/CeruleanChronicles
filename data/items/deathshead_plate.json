@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Dark plate emblazoned with skull designs. Warriors who serve death gods or embrace mortality as a philosophy wear such armor. The skulls serve as reminders that all enemies—and the wearer themselves—will eventually fall. This acceptance of death grants courage, providing advantage on saving throws against being frightened.",
+  "id" : "deathshead_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Deathshead Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Deathshead Plate",
+  "value" : 1400,
+  "weight" : 54
+}

@@ -1,0 +1,13 @@
+{
+  "description" : "Named for the Norse god of the sea, this deep blue elixir grants mastery over water. Breathe underwater, swim at double speed, and communicate with aquatic creatures for 4 hours. Aegir was known to host the gods in his underwater hall with ale brewed from the ocean itself.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "aegirs_draught",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Aegir's Draught",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Aegir's Draught",
+  "value" : 350,
+  "weight" : 0.5
+}

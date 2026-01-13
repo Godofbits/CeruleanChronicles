@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A purple amethyst ring of immense power. In Greek legend, the shepherd Gyges found such a ring in a cave beneath a bronze horse, granting him the power to become invisible and overthrow a king. Great power comes with great temptation.",
+  "id" : "ring_of_gyges",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Cast Invisibility (self only) at will",
+  "name" : "Ring of Gyges",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_53",
+  "value" : 2000,
+  "weight" : 0
+}

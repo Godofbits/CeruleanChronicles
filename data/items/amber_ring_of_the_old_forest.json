@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "Set with golden amber containing ancient tree sap, this ring holds a fragment of the old woods' wisdom. Druids prize such treasures.",
+  "id" : "amber_ring_of_the_old_forest",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Speak with animals 1\/day",
+  "name" : "Amber Ring of the Old Forest",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_7",
+  "value" : 100,
+  "weight" : 0
+}

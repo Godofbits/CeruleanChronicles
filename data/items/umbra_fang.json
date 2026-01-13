@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "necrotic",
+  "description" : "A blade forged from solidified shadow, stolen from the realm of eternal darkness. Light bends around it unnaturally. Those wounded by it see their shadows twitch and move independently. Deals 1d8+1 necrotic damage.",
+  "id" : "umbra_fang",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Umbra Fang",
+  "rarity" : "Rare",
+  "textureName" : "Umbra Fang",
+  "value" : 1600,
+  "weight" : 2.5
+}

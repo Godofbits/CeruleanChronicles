@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gloves woven from threads of pure magic, shimmering with rainbow iridescence. Created by master enchanters, they make the wearer's spells harder to resist. The fabric feels like captured starlight, cool and tingling against the skin.",
+  "id" : "spellwoven_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Spellwoven Gloves",
+  "rarity" : "Uncommon",
+  "spellBonus" : "+1 spell save DC",
+  "stealthDisadvantage" : false,
+  "textureName" : "Spellwoven Gloves",
+  "value" : 295,
+  "weight" : 0.5
+}

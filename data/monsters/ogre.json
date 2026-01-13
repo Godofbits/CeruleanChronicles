@@ -1,0 +1,114 @@
+{
+    "id": "ogre",
+    "isActive": false,
+    "name": "Ogre",
+    "size": "large",
+    "type": "giant",
+    "subtype": null,
+    "alignment": "chaoticEvil",
+
+    "armorClass": 11,
+    "armorType": "hide armor",
+    "hitDice": {
+        "count": 7,
+        "die": "d10",
+        "modifier": 21
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 19,
+        "dexterity": 8,
+        "constitution": 16,
+        "intelligence": 5,
+        "wisdom": 7,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 8,
+    "languages": ["Common", "Giant"],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "Ogre_01",
+
+    "habitat": {
+        "environments": ["mountain", "forest", "swamp", "ruins"],
+        "depth": "surface",
+        "description": "Ogres are dim-witted giants driven by hunger and greed, living in caves, ruined towers, or anywhere they can find shelter. They often serve more intelligent creatures as mercenaries or bodyguards in exchange for food.",
+        "rarity": "common"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Greatclub",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Javelin",
+            "description": "Melee or Ranged Weapon Attack: +6 to hit, reach 5 ft. or range 30/120 ft., one target. Hit: 11 (2d6 + 4) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": 30,
+                "rangeLong": 120,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 4,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

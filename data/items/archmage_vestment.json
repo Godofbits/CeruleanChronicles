@@ -1,0 +1,14 @@
+{
+  "baseAC" : 12,
+  "category" : "Magical",
+  "description" : "Magnificent robes bearing the symbols of arcane mastery. Only those who have achieved the rank of archmage may wear such vestments—to don them without earning the title invites the wrath of wizard councils. The robes are woven with permanent protective enchantments, granting AC 12 despite being cloth. They also increase spell save DC by +1 and grant advantage on concentration checks. Each set is unique, reflecting the accomplishments of its master.",
+  "id" : "archmage_vestment",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Archmage Vestment",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : false,
+  "textureName" : "Archmage Vestment",
+  "value" : 2000,
+  "weight" : 5
+}

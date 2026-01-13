@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A brass and steel helm fitted with articulated goggles and measuring instruments. Gnomish engineers developed these for working with dangerous machinery, featuring telescoping lenses and built-in ear protection. Some models include clockwork components that aid in calculations. +1 AC.",
+  "id" : "mechanist_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mechanist Helm",
+  "rarity" : "Rare",
+  "textureName" : "Mechanist Helm",
+  "value" : 950,
+  "weight" : 3.5
+}

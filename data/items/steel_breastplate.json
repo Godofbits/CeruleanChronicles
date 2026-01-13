@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Fitted steel chest plate that protects the torso while leaving limbs free. The breastplate represents efficient armor design—maximum protection for vital organs with minimal weight. Cavalry and officers prefer this practical armor.",
+  "id" : "steel_breastplate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Steel Breastplate",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Steel Breastplate",
+  "value" : 400,
+  "weight" : 20
+}

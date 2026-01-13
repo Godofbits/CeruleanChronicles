@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "One of the Three Rings of the Elven-kings, forged by Celebrimbor in the Second Age. Narya is the Ring of Fire, kindled with a red stone that burns with inner light. Gandalf the Grey bore this ring through the long wars against Sauron, using its power to kindle courage in the hearts of the free peoples. The ring does not grant dominion, but rather strengthens the spirit and wards against despair. To wear Narya is to carry a flame that darkness cannot extinguish.",
+  "id" : "narya_the_ring_of_fire",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immune to fire, Inspire hope in allies (+2 to saves vs fear in 30 ft), Cast Wall of Fire 1\/day",
+  "name" : "Narya, the Ring of Fire",
+  "rarity" : "Legendary",
+  "textureName" : "Rings V2_58",
+  "value" : 12000,
+  "weight" : 0
+}

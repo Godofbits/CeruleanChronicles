@@ -1,0 +1,13 @@
+{
+  "description" : "Crackling with barely contained energy, this electric blue potion grants lightning powers for 10 minutes. Your melee attacks deal an additional 1d6 lightning damage, and you can cast Lightning Bolt once.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "lightning_in_a_bottle",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Lightning in a Bottle",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Lightning in a Bottle",
+  "value" : 450,
+  "weight" : 0.5
+}

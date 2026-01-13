@@ -1,0 +1,11 @@
+{
+  "description" : "A staff decorated with feathers from various birds, each one marking a journey or achievement. The feathers rustle in wind and magic alike. Shamans of bird-totem tribes craft such staffs, believing each feather carries the spirit of its donor.",
+  "id" : "feathered_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Feathered Staff",
+  "rarity" : "Common",
+  "textureName" : "Feathered Staff",
+  "value" : 28,
+  "weight" : 3
+}

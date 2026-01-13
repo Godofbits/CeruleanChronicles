@@ -1,0 +1,13 @@
+{
+  "description" : "This ethereal blue potion shimmers with dream-like quality. Enter a trance for 8 hours: gain the benefits of a long rest, receive prophetic visions, and your spirit can travel to the Plane of Dreams.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "elixir_of_dreams",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Dreams",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Elixir of Dreams",
+  "value" : 425,
+  "weight" : 0.5
+}

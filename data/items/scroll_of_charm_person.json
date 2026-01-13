@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll with pink-tinged runes. This subtle enchantment makes the target regard the caster as a trusted friend, though it does not create absolute control. The spell was perfected by bards and enchanters who understood that willing cooperation is more valuable than magical domination. Diplomats and spies find this spell invaluable, though using it carries ethical weight—is a friendship false if started by magic but maintained by genuine care? Single use.",
+  "id" : "scroll_of_charm_person",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Charm Person",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Charm Person",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

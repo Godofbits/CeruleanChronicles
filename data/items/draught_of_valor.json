@@ -1,0 +1,13 @@
+{
+  "description" : "A crimson potion that burns going down, filling you with battlefield courage. Gain immunity to being frightened for 1 hour and +1 to attack rolls.",
+  "effect" : "Your Strength becomes 21 for 1 hour.",
+  "id" : "draught_of_valor",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Draught of Valor",
+  "potionType" : "Potion of Strength",
+  "rarity" : "Uncommon",
+  "textureName" : "Draught of Valor",
+  "value" : 225,
+  "weight" : 0.5
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Reinforced",
+  "description" : "Purple and black scale armor harvested from twilight drakes, creatures that dwell in the boundary between day and night. The scales shimmer with iridescent colors in changing light, and grant the wearer enhanced vision in darkness. Twilight hunters and those who patrol during the hours between dusk and dawn prize such armor, for it allows them to see clearly when others are blind.",
+  "id" : "twilight_drake_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Darkvision 30 feet",
+  "name" : "Twilight Drake Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Twilight_Drake_Greaves",
+  "value" : 270,
+  "weight" : 8.5
+}

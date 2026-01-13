@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Skeletal gauntlets worn by liches, the most powerful of undead spellcasters. Each touch drains life energy, healing the wearer while killing the victim. These gauntlets are crafted in the terrible ritual that transforms a living wizard into a lich, forever binding them to unlife.",
+  "id" : "lichs_grasp",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Lich's Grasp",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Lich's Grasp",
+  "value" : 1400,
+  "weight" : 0.5
+}

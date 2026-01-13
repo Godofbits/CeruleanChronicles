@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Deep blue robes worn by clerics who serve water deities and gods of the sky. High priests of Ulmo, Lord of Waters, wear such vestments when conducting ceremonies on the shores of the great seas. The fabric was woven from sea-silk harvested by merfolk and blessed in sacred grottos where fresh water meets salt. These robes enhance the wearer's spiritual power and connection to the divine, making their prayers more potent and their healing more effective.",
+  "id" : "azure_cleric_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Wisdom, +1 spell slot (2nd level)",
+  "name" : "Azure Cleric Robes",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Azure_Cleric_Robes",
+  "value" : 880,
+  "weight" : 1.5
+}

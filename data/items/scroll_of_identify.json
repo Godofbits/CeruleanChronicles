@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll covered in intricate purple runes that seem to rearrange themselves as you read. Developed by the great loremaster Mordenkainen, this divination pierces the mysteries of enchanted items, revealing their true nature and command words. The spell draws knowledge directly from the Weave's memory, accessing the magical imprint left by the item's creator. Antique dealers and adventurers prize these scrolls highly. Single use.",
+  "id" : "scroll_of_identify",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Identify",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Identify",
+  "value" : 100,
+  "weight" : 0.10000000000000001
+}

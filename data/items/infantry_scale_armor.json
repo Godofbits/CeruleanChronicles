@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Standard-issue scale mail for professional foot soldiers. Mass-produced but reliable, it represents the backbone of most armies. Countless battles have been won by disciplined infantry in such armor.",
+  "id" : "infantry_scale_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Infantry Scale Armor",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Infantry Scale Armor",
+  "value" : 55,
+  "weight" : 45
+}

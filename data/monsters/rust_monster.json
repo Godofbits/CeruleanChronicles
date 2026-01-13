@@ -1,0 +1,116 @@
+{
+    "id": "rust_monster",
+    "isActive": true,
+    "name": "Rust Monster",
+    "size": "medium",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 14,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 5,
+        "die": "d8",
+        "modifier": 5
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 13,
+        "dexterity": 12,
+        "constitution": 13,
+        "intelligence": 2,
+        "wisdom": 13,
+        "charisma": 6
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 11,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/2",
+    "experiencePoints": 100,
+
+    "texture": "RustMonster_01",
+
+    "habitat": {
+        "environments": ["underground", "underdark", "dungeon"],
+        "depth": "deep",
+        "description": "Rust monsters dwell in subterranean locations where metal is abundant—abandoned mines, deep dungeons, and the Underdark. Nocturnal hunters, they can smell ferrous metal from ninety feet away and relentlessly pursue armored prey. Some sages believe mature specimens travel to the plane of Acheron to metamorphose into rust dragons.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Iron Scent",
+            "description": "The rust monster can pinpoint, by scent, the location of ferrous metal within 30 feet of it.",
+            "effect": null
+        },
+        {
+            "name": "Rust Metal",
+            "description": "Any nonmagical weapon made of metal that hits the rust monster corrodes. After dealing damage, the weapon takes a permanent and cumulative −1 penalty to damage rolls. If its penalty drops to −5, the weapon is destroyed. Nonmagical ammunition made of metal that hits the rust monster is destroyed after dealing damage.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 5 (1d8 + 1) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 1,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Antennae",
+            "description": "The rust monster corrodes a nonmagical ferrous metal object it can see within 5 feet of it. If the object isn't being worn or carried, the touch destroys a 1-foot cube of it. If the object is being worn or carried by a creature, the creature can make a DC 11 Dexterity saving throw to avoid the rust monster's touch. If the object touched is either metal armor or a metal shield being worn or carried, it takes a permanent and cumulative −1 penalty to the AC it offers. Armor reduced to an AC of 10 or a shield that drops to a +0 bonus is destroyed. If the object touched is a held metal weapon, it rusts as described in the Rust Metal trait.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "type": "dexterity",
+                "dc": 11,
+                "onFail": "metal corrodes",
+                "onSuccess": "avoids touch"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

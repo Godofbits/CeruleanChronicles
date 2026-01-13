@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Durable tan canvas trousers built for rough travel. Explorers and cartographers wear these while mapping unknown lands. Reinforced stitching ensures they last through many expeditions.",
+  "id" : "explorer_canvas_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Explorer Canvas Pants",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Explorer_Canvas_Pants",
+  "value" : 10,
+  "weight" : 2
+}

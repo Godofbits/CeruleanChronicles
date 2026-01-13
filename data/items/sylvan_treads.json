@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots blessed by forest spirits and dryads. They allow the wearer to communicate with the trees and plants of the woodland. Made from bark and leather that grew together on sacred trees, they're gifts from the forest itself.",
+  "id" : "sylvan_treads",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Speak with plants 1\/day, +1 Nature",
+  "name" : "Sylvan Treads",
+  "rarity" : "Uncommon",
+  "textureName" : "Sylvan Treads",
+  "value" : 205,
+  "weight" : 1
+}

@@ -1,0 +1,13 @@
+{
+  "description" : "This swirling potion contains entire galaxies within. For 1 hour, you comprehend the nature of reality: gain truesight 120 ft., immunity to psychic damage, and you cannot be surprised or charmed.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "draught_of_the_cosmos",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Draught of the Cosmos",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Legendary",
+  "textureName" : "Draught of the Cosmos",
+  "value" : 2500,
+  "weight" : 0.5
+}

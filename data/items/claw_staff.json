@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with the claw of some great beast—dragon, griffin, or dire bear. The claw still retains its sharpness and serves as both ornament and weapon. Beast masters and those who revere predators favor such staffs.",
+  "id" : "claw_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Claw Staff",
+  "rarity" : "Common",
+  "textureName" : "Claw Staff",
+  "value" : 30,
+  "weight" : 3
+}

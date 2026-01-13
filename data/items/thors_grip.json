@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Heavy iron gauntlets blessed by Thor, god of thunder. They increase the wearer's strength and grip, essential for wielding the mightiest weapons. Norse warriors sought such gauntlets to wield war hammers that would shatter shields and helms alike.",
+  "id" : "thors_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Thor's Grip",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Thor's Grip",
+  "value" : 255,
+  "weight" : 0.5
+}

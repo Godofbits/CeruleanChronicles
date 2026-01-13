@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Masterwork plate armor worn by field commanders. Decorated with rank insignia and battle honors, this armor marks the wearer as a leader. The quality of craftsmanship is exceptional, offering maximum protection while allowing freedom of movement needed to survey battlefields and issue commands.",
+  "id" : "commander_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Commander Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Commander Plate",
+  "value" : 800,
+  "weight" : 55
+}

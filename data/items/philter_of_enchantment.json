@@ -1,0 +1,13 @@
+{
+  "description" : "This iridescent purple potion enhances your magical charm. For 1 hour, your enchantment spells have +2 to their save DC, and creatures have disadvantage on saves against your charm effects.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "philter_of_enchantment",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Philter of Enchantment",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Philter of Enchantment",
+  "value" : 425,
+  "weight" : 0.5
+}

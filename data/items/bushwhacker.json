@@ -1,0 +1,14 @@
+{
+  "category" : "Simple",
+  "damage" : "1d6",
+  "damageType" : "slashing",
+  "description" : "A broad-bladed machete designed for clearing brush and basic defense. Rangers and scouts favor its practical design. Deals 1d6 slashing damage.",
+  "id" : "bushwhacker",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Bushwhacker",
+  "rarity" : "Common",
+  "textureName" : "Bushwhacker",
+  "value" : 12,
+  "weight" : 2
+}

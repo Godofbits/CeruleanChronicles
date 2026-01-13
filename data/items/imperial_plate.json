@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Magnificent plate worn by emperors and their champions. Gold filigree depicts the history of the empire, each battle and conquest recorded in precious metal. The armor is as much symbol as protection—to wear imperial plate is to embody the empire itself. Such armor is never truly owned, only worn by those worthy of bearing the empire's legacy.",
+  "id" : "imperial_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Imperial Plate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Imperial Plate",
+  "value" : 5000,
+  "weight" : 58
+}

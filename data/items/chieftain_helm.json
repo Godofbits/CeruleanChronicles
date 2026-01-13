@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "An ornate Viking helm adorned with gold and intricate knotwork, worn only by clan chieftains. Each helm is passed down through generations, carrying the spirit of fallen leaders. The fur lining comes from the first wolf the chieftain slays. +1 AC.",
+  "id" : "chieftain_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Chieftain Helm",
+  "rarity" : "Rare",
+  "textureName" : "Chieftain Helm",
+  "value" : 650,
+  "weight" : 3.5
+}

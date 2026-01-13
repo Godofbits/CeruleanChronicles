@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Elegant boots favored by fencers and swashbucklers. The supple leather allows for quick footwork and precise movement essential in formal duels. Many a duel has been won not by the strongest arm but by the fastest feet.",
+  "id" : "duelists_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Dexterity",
+  "name" : "Duelist's Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Duelist's Boots",
+  "value" : 150,
+  "weight" : 1
+}

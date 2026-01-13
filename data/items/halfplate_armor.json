@@ -1,0 +1,15 @@
+{
+  "baseAC" : 15,
+  "category" : "Medium",
+  "description" : "Shaped metal plates covering vital areas, combined with chain mail. Offers nearly the protection of full plate while allowing greater mobility. Knights and officers favor half-plate as the optimal balance between defense and movement.",
+  "id" : "halfplate_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Half-Plate Armor",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Half-Plate Armor",
+  "value" : 750,
+  "weight" : 40
+}

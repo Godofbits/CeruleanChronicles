@@ -1,0 +1,11 @@
+{
+  "description" : "A magnificent purple sceptre with ornate golden filigree, wielded only by the most powerful archmages. This sceptre was crafted by the Arcane Conclave using metals from a fallen star and gems from the Elemental Plane of Magic. Only seven exist, each bonded to a seat on the High Council. +3 spell bonus, 20 charges.",
+  "id" : "archmage_sceptre",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Archmage Sceptre",
+  "rarity" : "Legendary",
+  "textureName" : "Archmage Sceptre",
+  "value" : 25000,
+  "weight" : 2.5
+}

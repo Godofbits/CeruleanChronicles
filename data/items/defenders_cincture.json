@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A sturdy belt designed for those who stand in defense of others. Worn by castle guards, city watchmen, and any who take their protective duty seriously. The leather is thick enough to turn a weak blade thrust, providing an extra layer of defense.",
+  "id" : "defenders_cincture",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Defender's Cincture",
+  "rarity" : "Common",
+  "textureName" : "Defender's Cincture",
+  "value" : 19,
+  "weight" : 0.5
+}

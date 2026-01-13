@@ -1,0 +1,127 @@
+{
+    "id": "rakshasa",
+    "isActive": false,
+    "name": "Rakshasa",
+    "sortName": null,
+    "size": "medium",
+    "type": "fiend",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 16,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 13,
+        "die": "d8",
+        "modifier": 39
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 14,
+        "dexterity": 17,
+        "constitution": 18,
+        "intelligence": 13,
+        "wisdom": 16,
+        "charisma": 20
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "deception", "bonus": 10 },
+        { "skill": "insight", "bonus": 8 }
+    ],
+
+    "vulnerabilities": ["piercing from magic weapons wielded by good creatures"],
+    "resistances": null,
+    "immunities": ["bludgeoning", "piercing", "slashing"],
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 13,
+    "languages": ["Common", "Infernal"],
+    "telepathyRange": null,
+
+    "challengeRating": "13",
+    "experiencePoints": 10000,
+
+    "texture": "Rakshasa_01",
+
+    "habitat": {
+        "environments": ["urban", "planar"],
+        "depth": "surface",
+        "description": "Rakshasas are fiends born from the Nine Hells who crave mortal luxuries and political power. They infiltrate noble houses and merchant guilds, using their shapeshifting abilities to manipulate societies from within. A rakshasa may spend decades building influence before revealing its true nature. When slain on the Material Plane, they reform in the Nine Hells and often return seeking revenge.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Limited Magic Immunity",
+            "description": "The rakshasa can't be affected or detected by spells of 6th level or lower unless it wishes to be. It has advantage on saving throws against all other spells and magical effects.",
+            "effect": {
+                "type": "limitedMagicImmunity",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The rakshasa makes two claw attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) slashing damage, and the target is cursed if it is a creature. The magical curse takes effect whenever the target takes a short or long rest, filling the target's thoughts with horrible images and dreams. The cursed target gains no benefit from finishing a short or long rest. The curse lasts until it is lifted by a remove curse spell or similar magic.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "curse",
+                    "description": "Target gains no benefit from short or long rests until curse is removed"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": {
+        "ability": "charisma",
+        "saveDC": 18,
+        "attackBonus": 10,
+        "atWill": ["detect thoughts", "disguise self", "mage hand", "minor illusion"],
+        "perDay": {
+            "3": ["charm person", "detect magic", "invisibility", "major image", "suggestion"],
+            "1": ["dominate person", "fly", "plane shift", "true seeing"]
+        }
+    }
+}

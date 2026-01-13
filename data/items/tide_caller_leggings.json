@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Blue leather leggings worn by those who command water. Sea clerics and druids of the coast wear such garments. Water-resistant and flexible.",
+  "id" : "tide_caller_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Tide Caller Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Tide_Caller_Leggings",
+  "value" : 24,
+  "weight" : 3
+}

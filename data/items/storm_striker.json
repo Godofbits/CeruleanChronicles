@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "lightning",
+  "description" : "Lightning arcs along this blade when swung with force. Forged during a thunderstorm by a smith who was struck by lightning and survived. The electrical charge builds with each strike. Deals 1d8+1 lightning damage.",
+  "id" : "storm_striker",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Storm Striker",
+  "rarity" : "Rare",
+  "textureName" : "Storm Striker",
+  "value" : 1550,
+  "weight" : 3
+}

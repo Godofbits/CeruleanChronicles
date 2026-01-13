@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A fine leather belt with an elegant golden clasp wrought in intricate scrollwork. The gold catches the eye and speaks of wealth and status. Merchants wear such belts to inspire confidence in trade negotiations, while nobles use them to reinforce their aristocratic bearing.",
+  "id" : "golden_clasp_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+5 to Persuasion checks",
+  "name" : "Golden Clasp Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Golden Clasp Belt",
+  "value" : 190,
+  "weight" : 0.5
+}

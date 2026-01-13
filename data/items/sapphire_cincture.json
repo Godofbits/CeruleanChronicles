@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt adorned with sapphires as blue as the deepest ocean. The gems are said to clarify thought and enhance mental acuity. Archmages value such cinctures highly, for the sapphires not only sharpen the mind but also serve as reservoirs of magical energy, allowing the wearer to cast additional spells.",
+  "id" : "sapphire_cincture",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Intelligence, +1 spell slot (1st level)",
+  "name" : "Sapphire Cincture",
+  "rarity" : "Rare",
+  "textureName" : "Sapphire Cincture",
+  "value" : 920,
+  "weight" : 0.5
+}

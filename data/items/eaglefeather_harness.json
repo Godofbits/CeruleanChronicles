@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Leather armor adorned with eagle feathers and tribal markings. Worn by the sky-watchers of the plains tribes, who believe the feathers grant the eagle's keen sight and speed. The armor is blessed in ceremonies beneath the open sky, invoking the spirits of great raptors.",
+  "id" : "eaglefeather_harness",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Eaglefeather Harness",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Eaglefeather Harness",
+  "value" : 85,
+  "weight" : 6
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Ornate",
+  "description" : "A wide leather belt decorated with tribal symbols and markings denoting leadership. Worn by clan chiefs and war leaders of barbarian tribes. While not inherently magical, such belts carry the authority of tradition and the respect of warriors.",
+  "id" : "chieftains_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Chieftain's Belt",
+  "rarity" : "Common",
+  "textureName" : "Chieftain's Belt",
+  "value" : 24,
+  "weight" : 0.5
+}

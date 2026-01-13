@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that spins constantly, creating miniature whirlwinds around itself. It can summon devastating tornados that tear apart everything in their path. Storm druids who command the wild winds carry such dangerous implements.",
+  "id" : "staff_of_the_vortex",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Vortex",
+  "rarity" : "Rare",
+  "textureName" : "Staff of the Vortex",
+  "value" : 1450,
+  "weight" : 3
+}

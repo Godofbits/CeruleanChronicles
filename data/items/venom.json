@@ -1,0 +1,13 @@
+{
+  "description" : "A more potent poison. A creature takes 4d8 poison damage on a failed CON save (DC 15) or half on success.",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "venom",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Venom",
+  "potionType" : "Poison",
+  "rarity" : "Uncommon",
+  "textureName" : "Venom",
+  "value" : 150,
+  "weight" : 0.5
+}

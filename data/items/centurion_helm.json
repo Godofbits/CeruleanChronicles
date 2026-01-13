@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A bronze helm with a distinctive transverse crest, marking its wearer as a Roman centurion. The red horsehair plume allows soldiers to identify their commander in the chaos of battle. Veterans of the Legions consider them sacred. +2 AC.",
+  "id" : "centurion_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Centurion Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Centurion Helm",
+  "value" : 150,
+  "weight" : 4.5
+}

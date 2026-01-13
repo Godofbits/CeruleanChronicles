@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "radiant",
+  "description" : "A blade blessed under a meteor shower, imbued with celestial energy. Points of light dance across its surface like distant stars. Followers of the Star God consider these weapons sacred. Deals 1d8+1 radiant damage.",
+  "id" : "startouch",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Startouch",
+  "rarity" : "Rare",
+  "textureName" : "Startouch",
+  "value" : 1500,
+  "weight" : 2.5
+}

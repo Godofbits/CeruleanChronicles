@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Specially treated boots for those who traverse burning sands and rocky wastes. The soles are thick enough to protect from scorching ground, while the leather breathes to prevent overheating. Caravaneers swear by such boots on long desert crossings.",
+  "id" : "desert_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Desert Boots",
+  "rarity" : "Common",
+  "textureName" : "Desert Boots",
+  "value" : 11,
+  "weight" : 1
+}

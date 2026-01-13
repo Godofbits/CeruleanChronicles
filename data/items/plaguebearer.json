@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "poison",
+  "description" : "A diseased blade that seeps with pestilent fluids. Created by a mad plague doctor during the Great Death, it spreads sickness with every wound. Even handling it without protection is dangerous. Deals 1d8 poison damage.",
+  "id" : "plaguebearer",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Plaguebearer",
+  "rarity" : "Rare",
+  "textureName" : "Plaguebearer",
+  "value" : 1300,
+  "weight" : 3
+}

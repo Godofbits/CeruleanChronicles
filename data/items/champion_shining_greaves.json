@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Polished metal greaves that shine brilliantly in sunlight. Tournament champions wear such armor for display. More decorative than practical, but effective nonetheless.",
+  "id" : "champion_shining_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Champion Shining Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Champion_Shining_Greaves",
+  "value" : 65,
+  "weight" : 13
+}

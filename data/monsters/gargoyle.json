@@ -1,0 +1,137 @@
+{
+    "id": "gargoyle",
+    "isActive": false,
+    "name": "Gargoyle",
+    "size": "medium",
+    "type": "elemental",
+    "subtype": null,
+    "alignment": "chaoticEvil",
+
+    "armorClass": 15,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 7,
+        "die": "d8",
+        "modifier": 21
+    },
+    "speeds": {
+        "walk": 30,
+        "fly": 60
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 15,
+        "dexterity": 11,
+        "constitution": 16,
+        "intelligence": 6,
+        "wisdom": 11,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "bludgeoning", "condition": "from nonmagical attacks not made with adamantine weapons" },
+        { "type": "piercing", "condition": "from nonmagical attacks not made with adamantine weapons" },
+        { "type": "slashing", "condition": "from nonmagical attacks not made with adamantine weapons" }
+    ],
+    "immunities": ["poison"],
+    "conditionImmunities": ["exhaustion", "petrified", "poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": ["Terran"],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "mons_gargoyle_01",
+
+    "habitat": {
+        "environments": ["ruins", "urban", "dungeon", "mountain"],
+        "depth": "surface",
+        "description": "Gargoyles perch motionless atop gothic spires, castle battlements, and ancient temple ruins, indistinguishable from ordinary stone decoration. They delight in terrorizing humanoids and serve as guardians for evil creatures who appreciate their sadistic nature.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "False Appearance",
+            "description": "While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.",
+            "effect": {
+                "type": "falseAppearance",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The gargoyle makes two attacks: one with its bite and one with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

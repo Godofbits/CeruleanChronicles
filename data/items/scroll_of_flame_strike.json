@@ -1,0 +1,11 @@
+{
+  "description" : "A red scroll bearing golden divine symbols that radiate warmth. This spell calls down a pillar of divine flame from the heavens, combining radiant holy fire with elemental heat. It is the signature spell of war priests dedicated to sun gods and fire deities. The flames burn with righteous fury, searing the wicked while leaving the faithful untouched. Priests invoke flame strike to smite undead hordes and cleanse corrupted lands. The spell is both judgment and purification made manifest. Single use.",
+  "id" : "scroll_of_flame_strike",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Flame Strike",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Flame Strike",
+  "value" : 300,
+  "weight" : 0.10000000000000001
+}

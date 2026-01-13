@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Elegant gloves blessed by the gods of Olympus. They grant both physical grace and divine presence. Greek heroes wore such gloves when competing in sacred games and when undertaking quests for the immortals.",
+  "id" : "olympian_grace_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Olympian Grace Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Olympian Grace Gloves",
+  "value" : 245,
+  "weight" : 0.5
+}

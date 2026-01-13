@@ -1,0 +1,11 @@
+{
+  "description" : "A green scroll inscribed with restorative incantations. This spell speaks a word of power that heals from a distance, allowing the caster to revive fallen allies without leaving their position. The magic channels divine or natural energy through spoken syllables that carry supernatural weight. Battlefield clerics favor this spell, as it lets them continue fighting while keeping wounded soldiers in the fight. A single word at the right moment can turn defeat into victory. Single use.",
+  "id" : "scroll_of_healing_word",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Healing Word",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Healing Word",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

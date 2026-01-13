@@ -1,0 +1,11 @@
+{
+  "description" : "A purple scroll whose words seem reasonable no matter how outlandish. This spell plants a course of action in the target's mind, making it seem like their own idea. The suggestion must be worded carefully and sound reasonable, but a skilled caster can achieve remarkable results. The technique originated with fey courtiers who used subtle magic to manipulate mortal nobles. The best suggestions are those the target would have considered anyway, nudged into certainty by magic. Single use.",
+  "id" : "scroll_of_suggestion",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Suggestion",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Suggestion",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A simple wooden staff given to novice wizards at the start of their training. Carved from ash wood and polished smooth through years of use. Though it carries no inherent magic, countless apprentices have taken their first steps toward arcane mastery with such a staff in hand.",
+  "id" : "apprentice_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Apprentice Staff",
+  "rarity" : "Common",
+  "textureName" : "Apprentice Staff",
+  "value" : 15,
+  "weight" : 3
+}

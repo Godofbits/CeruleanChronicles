@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gloves woven with threads of crystallized frost that never melt. Each touch delivers a shock of bitter cold. Warriors from the frozen wastes wear such gloves, their fists striking with the fury of winter storms.",
+  "id" : "frostweave_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Frostweave Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Frostweave Gloves",
+  "value" : 210,
+  "weight" : 0.5
+}

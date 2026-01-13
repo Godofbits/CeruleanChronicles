@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Cloth wraps inscribed with flowing arcane runes. Wizards wear such wraps to enhance their mental acuity and magical focus. The runes shift and change with the wearer's thoughts, responding to intellectual activity.",
+  "id" : "arcane_handwraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Arcane Handwraps",
+  "rarity" : "Uncommon",
+  "spellBonus" : "+1 Intelligence",
+  "stealthDisadvantage" : false,
+  "textureName" : "Arcane Handwraps",
+  "value" : 235,
+  "weight" : 0.5
+}

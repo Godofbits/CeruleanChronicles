@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Blue-grey metal greaves worn by coastal defenders. Built to resist salt corrosion and provide protection during storms. The metal is specially treated to never rust.",
+  "id" : "stormguard_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Stormguard Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Stormguard_Greaves",
+  "value" : 55,
+  "weight" : 12
+}

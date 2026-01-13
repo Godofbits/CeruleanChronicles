@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A flawless diamond that refracts light into protective barriers. Elven high mages enchant such gems with abjuration magic, creating shields that turn aside both blade and spell.",
+  "id" : "diamond_of_warding",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC, +1 to all saving throws",
+  "name" : "Diamond of Warding",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_26",
+  "value" : 700,
+  "weight" : 0
+}

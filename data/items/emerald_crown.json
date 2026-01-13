@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A delicate golden circlet set with flawless emeralds that pulse with nature's power. Crafted by the elves of the Verdant Court, it attunes the wearer to the natural world. Plants bend toward the wearer, and animals become docile in their presence. +0 AC.",
+  "id" : "emerald_crown",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Emerald Crown",
+  "rarity" : "Very Rare",
+  "textureName" : "Emerald Crown",
+  "value" : 7500,
+  "weight" : 1.5
+}

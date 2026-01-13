@@ -1,0 +1,16 @@
+{
+  "baseAC" : 16,
+  "category" : "Heavy",
+  "description" : "Sturdy plate worn by garrison troops manning castles and fortifications. Designed for long-term wear during watch duties, with slightly more padding for comfort during extended periods.",
+  "id" : "garrison_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Garrison Plate",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 13,
+  "textureName" : "Garrison Plate",
+  "value" : 220,
+  "weight" : 52
+}

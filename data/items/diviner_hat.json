@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A tall purple hat decorated with mystical eyes and star patterns. Worn by seers and fortune-tellers, the embedded crystals enhance one's ability to perceive hidden truths. Some claim the hat whispers warnings of danger. +0 AC.",
+  "id" : "diviner_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Diviner Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Diviner Hat",
+  "value" : 320,
+  "weight" : 0.40000000000000002
+}

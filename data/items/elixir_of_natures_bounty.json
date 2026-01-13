@@ -1,0 +1,13 @@
+{
+  "description" : "This rich green elixir tastes of wild berries and honey. Regain 2d4+2 hit points and gain +1 to Constitution for 8 hours.",
+  "effect" : "Heals 2d4+2 HP (avg 7)",
+  "id" : "elixir_of_natures_bounty",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Nature's Bounty",
+  "potionType" : "Potion of Healing",
+  "rarity" : "Uncommon",
+  "textureName" : "Elixir of Nature's Bounty",
+  "value" : 155,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots imbued with the essence of wild places. They grant understanding of animal speech and deeper insight into natural phenomena. Rangers and druids seek such boots to strengthen their bond with the wilderness they protect.",
+  "id" : "boots_of_nature",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Nature, Speak with animals 1\/day",
+  "name" : "Boots of Nature",
+  "rarity" : "Uncommon",
+  "textureName" : "Boots of Nature",
+  "value" : 230,
+  "weight" : 1
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Sabatons enameled in brilliant azure blue. The color evokes clear skies and calm waters, said to bring clarity of thought. Paladins and clerics sometimes wear such sabatons, their holy purpose reflected in the serene blue.",
+  "id" : "azure_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Wisdom",
+  "name" : "Azure Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "Azure Sabatons",
+  "value" : 170,
+  "weight" : 1
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A functional samurai helm designed for battlefield use rather than ceremony. The iron construction is practical and sturdy, with a simple crest. These helms have seen countless battles and bear the scars to prove it. +2 AC.",
+  "id" : "war_kabuto",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "War Kabuto",
+  "rarity" : "Uncommon",
+  "textureName" : "War Kabuto",
+  "value" : 380,
+  "weight" : 4
+}

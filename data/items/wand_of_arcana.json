@@ -1,0 +1,11 @@
+{
+  "description" : "A purple crystal wand that hums with raw magical energy. Crafted by the Arcane Academy as a reward for their most promising graduates, it amplifies any school of magic equally. The crystal matrix within stores spells like a magical battery. +2 spell bonus, 12 charges.",
+  "id" : "wand_of_arcana",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Arcana",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Arcana",
+  "value" : 2800,
+  "weight" : 1
+}

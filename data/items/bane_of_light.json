@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d10",
+  "damageType" : "necrotic",
+  "description" : "Forged in the Shadowfell by a fallen paladin who cursed the gods, this black blade devours light itself. Those struck feel their life force drain away. Paladins and clerics who wield it risk corruption. Deals 1d10 necrotic damage.",
+  "id" : "bane_of_light",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Bane of Light",
+  "rarity" : "Very Rare",
+  "textureName" : "Bane of Light",
+  "value" : 3500,
+  "weight" : 4
+}

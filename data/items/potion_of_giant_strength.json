@@ -1,0 +1,13 @@
+{
+  "description" : "Distilled from the blood of cloud giants, this deep crimson elixir grants legendary might. Your Strength becomes 27 for 1 hour, allowing you to perform feats of incredible power.",
+  "effect" : "Your Strength becomes 21 for 1 hour.",
+  "id" : "potion_of_giant_strength",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Giant Strength",
+  "potionType" : "Potion of Strength",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Giant Strength",
+  "value" : 500,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A battered wide-brimmed hat worn by travelers and wanderers. The sweat-stained leather and faded color speak of countless miles traveled. Simple but practical, it keeps sun and rain off the wearer's face. +0 AC.",
+  "id" : "wanderer_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Wanderer Hat",
+  "rarity" : "Common",
+  "textureName" : "Wanderer Hat",
+  "value" : 8,
+  "weight" : 0.29999999999999999
+}

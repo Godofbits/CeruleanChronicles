@@ -1,0 +1,13 @@
+{
+  "description" : "This deep purple potion allows you to dominate the mind of one humanoid you can see within 60 feet for 1 hour, as per the Dominate Person spell.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_domination",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Domination",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Very Rare",
+  "textureName" : "Potion of Domination",
+  "value" : 1000,
+  "weight" : 0.5
+}

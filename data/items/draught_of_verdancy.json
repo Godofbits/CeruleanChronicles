@@ -1,0 +1,13 @@
+{
+  "description" : "This vibrant green potion tastes of fresh leaves. Regain 2d4+2 hit points and remove one disease or poison.",
+  "effect" : "Heals 2d4+2 HP (avg 7)",
+  "id" : "draught_of_verdancy",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Draught of Verdancy",
+  "potionType" : "Potion of Healing",
+  "rarity" : "Uncommon",
+  "textureName" : "Draught of Verdancy",
+  "value" : 160,
+  "weight" : 0.5
+}

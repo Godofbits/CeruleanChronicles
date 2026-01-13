@@ -1,0 +1,14 @@
+{
+  "baseAC" : 12,
+  "category" : "Light",
+  "description" : "Black leather armor designed for silent kills. Multiple hidden sheaths and pockets allow concealment of weapons and poisons. The leather is treated with alchemical compounds that dampen sound, granting +2 to Stealth checks. Favored by members of assassin guilds and shadow orders.",
+  "id" : "assassin_harness",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Assassin Harness",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Assassin Harness",
+  "value" : 200,
+  "weight" : 8
+}

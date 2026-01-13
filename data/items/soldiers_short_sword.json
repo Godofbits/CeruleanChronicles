@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "piercing",
+  "description" : "A practical military sidearm designed for close-quarters combat. Nothing fancy, but reliable and easy to maintain. Deals 1d6 piercing damage.",
+  "id" : "soldiers_short_sword",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Soldier's Short Sword",
+  "rarity" : "Common",
+  "textureName" : "Soldier's Short Sword",
+  "value" : 15,
+  "weight" : 2
+}

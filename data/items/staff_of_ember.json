@@ -1,0 +1,11 @@
+{
+  "description" : "A staff of charred wood that smolders with internal heat, never quite catching flame but always warm. Embers glow along its length like fireflies. Pyromancers who walk between ash and flame carry such staffs.",
+  "id" : "staff_of_ember",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Ember",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Ember",
+  "value" : 950,
+  "weight" : 3
+}

@@ -1,0 +1,15 @@
+{
+  "baseAC" : 13,
+  "category" : "Medium",
+  "description" : "Leather armor adorned with carved antlers and stag imagery. Crafted by shamans who revere the great stag as a symbol of strength and nobility. The armor is blessed in rituals beneath the forest canopy, and those who wear it are said to gain the stag's grace and endurance. The antler decorations are from stags who shed them naturally, offered as gifts to the spirits.",
+  "id" : "stag_totem_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Stag Totem Armor",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Stag Totem Armor",
+  "value" : 400,
+  "weight" : 20
+}

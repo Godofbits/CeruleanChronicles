@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A golden-brown stone with chatoyant bands. Desert nomads wear these to find water and safe passage through hostile lands.",
+  "id" : "tigers_eye_of_the_wanderer",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Survival",
+  "name" : "Tiger's Eye of the Wanderer",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_19",
+  "value" : 80,
+  "weight" : 0
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A radiant sapphire that shields its wearer with invisible barriers. Forged by the gods themselves and given to mortal champions, this ring turns aside both physical and magical threats with equal ease.",
+  "id" : "ring_of_aegis",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 AC, +2 to all saving throws",
+  "name" : "Ring of Aegis",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_49",
+  "value" : 2100,
+  "weight" : 0
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A wide belt worn by champions of the arena. Reinforced with metal studs and bearing scars from near-fatal blows, such girdles are trophies of survival in the blood-soaked sands. Each scratch and dent tells of a fight won, an opponent defeated, a crowd's roar of approval.",
+  "id" : "gladiators_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to damage rolls",
+  "name" : "Gladiator's Girdle",
+  "rarity" : "Uncommon",
+  "textureName" : "Gladiator's Girdle",
+  "value" : 240,
+  "weight" : 0.5
+}

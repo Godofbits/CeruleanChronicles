@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Translucent white pants that seem almost ghostly in appearance. Woven from ectoplasm by mediums who commune with spirits, these leggings make the wearer harder to grasp physically. The fabric shifts between material and ethereal states, slipping free of grasping hands. Monks and those who study the mysteries of life and death sometimes wear such garments, walking the line between the physical and spiritual worlds.",
+  "id" : "ethereal_spirit_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to saves vs being grappled",
+  "name" : "Ethereal Spirit Leggings",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Ethereal_Spirit_Leggings",
+  "value" : 210,
+  "weight" : 0.5
+}

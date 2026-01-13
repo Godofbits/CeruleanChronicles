@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A fearsome mask of painted wood and bone, worn by tribal witch doctors and healers. The mask serves as a conduit to the spirit world, allowing the wearer to channel healing or harmful energies. The painted designs ward off evil spirits and mark the wearer as a spiritual authority. +0 AC.",
+  "id" : "witch_doctor_mask",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Witch Doctor Mask",
+  "rarity" : "Rare",
+  "textureName" : "Witch Doctor Mask",
+  "value" : 1550,
+  "weight" : 1
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 3,
+  "category" : "Reinforced",
+  "description" : "Black and purple scale armor harvested from a shadow dragon that hunted only during the darkest hours. The scales seem to drink in light, becoming nearly invisible after sunset. Crafted by a legendary armor smith who spent three years stalking the beast before finally slaying it, these greaves represent the pinnacle of both hunting skill and craftsmanship. Assassins of the Night's Watch, the secret order that serves no king, wear such armor when carrying out their lethal missions under cover of darkness.",
+  "id" : "nightfall_dragon_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on Stealth checks at night",
+  "name" : "Nightfall Dragon Greaves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Nightfall_Dragon_Greaves",
+  "value" : 980,
+  "weight" : 9
+}

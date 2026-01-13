@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A dark hood worn by members of forbidden cults. The fabric is dyed with alchemical compounds that help obscure the wearer's face even in torchlight. Many bear subtle symbols of dark entities woven into the hem. +0 AC.",
+  "id" : "cultist_hood",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Cultist Hood",
+  "rarity" : "Uncommon",
+  "textureName" : "Cultist Hood",
+  "value" : 75,
+  "weight" : 0.29999999999999999
+}

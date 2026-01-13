@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "The legendary winged sandals of Hermes, Greek god of travelers and thieves. These golden sandals sprout white wings that allow flight at incredible speeds. Perseus wore such sandals when he slew Medusa, flying beyond the reach of her gorgon sisters. The sandals grant divine swiftness—no mortal creature can catch one who wears them. Heroes who receive these sandals from Hermes himself are blessed with the god's favor, able to deliver messages across impossible distances and escape any pursuit. The wings shimmer with divine light, marking the wearer as chosen by the gods.",
+  "id" : "hermes_sandals",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Fly 120 ft, +40 ft movement speed, +3 Dexterity, Haste 1\/day, Cannot be caught",
+  "name" : "Hermes' Sandals",
+  "rarity" : "Legendary",
+  "textureName" : "Hermes' Sandals",
+  "value" : 15000,
+  "weight" : 1
+}

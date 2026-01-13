@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Heavy greaves blessed by clerics before battle. Worn by holy warriors who stand against evil. Though simple in construction, they carry the weight of sacred duty.",
+  "id" : "paladin_blessed_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Paladin Blessed Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Paladin_Blessed_Greaves",
+  "value" : 60,
+  "weight" : 13
+}

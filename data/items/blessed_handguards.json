@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gauntlets blessed by clerics in sacred rites. They provide protection against the touch of undead and necromantic magic. Paladins wear such gauntlets when hunting vampires, liches, and other creatures of unholy darkness.",
+  "id" : "blessed_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Blessed Handguards",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Blessed Handguards",
+  "value" : 200,
+  "weight" : 0.5
+}

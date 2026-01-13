@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that drips with magical poison, toxic to the touch for all save its master. The venom enhances offensive magic with deadly toxins. Assassins and those who study poisons craft such lethal implements.",
+  "id" : "staff_of_venom",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Venom",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Venom",
+  "value" : 1350,
+  "weight" : 3
+}

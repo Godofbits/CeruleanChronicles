@@ -1,0 +1,11 @@
+{
+  "description" : "A small rolled scroll sealed shut. Short messages carry urgent news, simple instructions, or brief updates. Couriers deliver dozens of these daily in busy cities, connecting the web of commerce and governance. The seal is often simple wax without a crest, indicating common correspondence. Such messages might announce a meeting time, report a completed task, or warn of approaching danger.",
+  "id" : "sealed_message",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Sealed Message",
+  "rarity" : "Common",
+  "textureName" : "Sealed Message",
+  "value" : 3,
+  "weight" : 0.10000000000000001
+}

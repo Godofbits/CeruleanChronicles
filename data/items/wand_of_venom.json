@@ -1,0 +1,11 @@
+{
+  "description" : "A green wand that drips with toxic venom from an unknown source. Yuan-ti alchemists created these by milking the venom of giant serpents and binding it magically. The poison never depletes and can coat weapons or fill darts. +2 spell bonus, 10 charges, poison damage.",
+  "id" : "wand_of_venom",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Venom",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Venom",
+  "value" : 2600,
+  "weight" : 1
+}

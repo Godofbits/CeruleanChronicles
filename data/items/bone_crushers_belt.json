@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A brutal belt reinforced with metal studs and plates. Favored by berserkers and warriors known for their crushing blows, it provides extra support when delivering powerful strikes. Some say the belt amplifies the wearer's strength when shattering shields and breaking bones.",
+  "id" : "bone_crushers_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Strength for breaking objects",
+  "name" : "Bone Crusher's Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Bone Crusher's Belt",
+  "value" : 235,
+  "weight" : 0.5
+}

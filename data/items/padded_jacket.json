@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Quilted cloth jacket providing minimal protection. The padding muffles some blows but restricts movement slightly. Common among peasant levies.",
+  "id" : "padded_jacket",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Padded Jacket",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Padded Jacket",
+  "value" : 5,
+  "weight" : 8
+}

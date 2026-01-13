@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand crowned with a luminous blue crystal that hums with arcane potential. The azure crystals are harvested from caves where ley lines intersect, naturally charged with magical energy. +1 spell bonus, 7 charges.",
+  "id" : "azure_crystal_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Azure Crystal Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Azure Crystal Wand",
+  "value" : 400,
+  "weight" : 1
+}

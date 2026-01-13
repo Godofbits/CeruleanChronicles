@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Golden gauntlets blessed by Apollo, Greek god of light, music, and healing. They grant divine presence and the power to heal with a touch. Priests and heroes favored by Apollo wear such gauntlets, their hands becoming instruments of the god's will. The gold never tarnishes and radiates warm, comforting light.",
+  "id" : "apollos_radiance_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Apollo's Radiance Handguards",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Apollo's Radiance Handguards",
+  "value" : 1150,
+  "weight" : 0.5
+}

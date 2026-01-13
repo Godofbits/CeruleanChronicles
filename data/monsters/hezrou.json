@@ -1,0 +1,153 @@
+{
+    "id": "hezrou",
+    "isActive": false,
+    "name": "Hezrou",
+    "size": "large",
+    "type": "fiend",
+    "subtype": "demon",
+    "alignment": "chaoticEvil",
+
+    "armorClass": 16,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 13,
+        "die": "d10",
+        "modifier": 65
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 19,
+        "dexterity": 17,
+        "constitution": 20,
+        "intelligence": 5,
+        "wisdom": 12,
+        "charisma": 13
+    },
+
+    "savingThrows": ["strength", "constitution", "wisdom"],
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold", "condition": null },
+        { "type": "fire", "condition": null },
+        { "type": "lightning", "condition": null },
+        { "type": "bludgeoning", "condition": "from nonmagical attacks" },
+        { "type": "piercing", "condition": "from nonmagical attacks" },
+        { "type": "slashing", "condition": "from nonmagical attacks" }
+    ],
+    "immunities": ["poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 11,
+    "languages": ["Abyssal"],
+    "telepathyRange": 120,
+
+    "challengeRating": "8",
+    "experiencePoints": 3900,
+
+    "texture": "Hezrou_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "abyssal",
+        "description": "Hezrou are toad-like demons that wallow in the filth of the Abyss, their nauseating stench preceding them into battle. They serve as brutish shock troops in demonic armies, overwhelming enemies through sheer ferocity.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Magic Resistance",
+            "description": "The hezrou has advantage on saving throws against spells and other magical effects.",
+            "effect": {
+                "type": "magicResistance",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Stench",
+            "description": "Any creature that starts its turn within 10 feet of the hezrou must succeed on a DC 14 Constitution saving throw or be poisoned until the start of its next turn.",
+            "effect": {
+                "type": "aura",
+                "parameters": {
+                    "range": 10,
+                    "saveDC": 14,
+                    "saveAbility": "constitution",
+                    "condition": "poisoned",
+                    "duration": 1
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The hezrou makes three attacks: one with its bite and two with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 15 (2d10 + 4) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d10",
+                        "modifier": 4,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 11 (2d6 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Magnificent greaves decorated with gold leaf and precious gems. Worn by emperors and kings during coronations and state ceremonies, these leg guards are as much symbol as protection. The gold catches light brilliantly, announcing the wearer's exalted status. Crafted by master artisans who serve royal courts, each pair is unique and bears the regalia of its patron's dynasty. The enchantments enhance the wearer's natural authority and commanding presence.",
+  "id" : "emperor_gilded_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Charisma",
+  "name" : "Emperor Gilded Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Emperor_Gilded_Greaves",
+  "value" : 450,
+  "weight" : 14
+}

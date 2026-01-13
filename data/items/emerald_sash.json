@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A green sash decorated with small emerald chips that shimmer like spring leaves. The emeralds resonate with natural magic, strengthening the wearer's connection to the living world. Druids and rangers who can afford such luxury often wear these sashes during important ceremonies.",
+  "id" : "emerald_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Nature checks",
+  "name" : "Emerald Sash",
+  "rarity" : "Uncommon",
+  "textureName" : "Emerald Sash",
+  "value" : 220,
+  "weight" : 0.5
+}

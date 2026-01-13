@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "fire",
+  "description" : "The edge of this blade glows red-hot, though the handle remains cool to the touch. Desert nomads use these swords to both fight and brand their cattle. Deals 1d8 fire damage.",
+  "id" : "scorching_edge",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Scorching Edge",
+  "rarity" : "Uncommon",
+  "textureName" : "Scorching Edge",
+  "value" : 520,
+  "weight" : 3
+}

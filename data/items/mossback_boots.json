@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots covered in living moss that never dies. They leave no tracks in natural terrain and make the wearer blend into forested areas. Druids of the deep wood craft such boots from materials gathered in sacred groves.",
+  "id" : "mossback_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Nature, Pass without trace in forests",
+  "name" : "Mossback Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Mossback Boots",
+  "value" : 190,
+  "weight" : 1
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Cloth wraps inscribed with mystical symbols from distant eastern lands. Monks who study the hidden paths of enlightenment wear such wraps, believing they enhance spiritual awareness. The symbols glow faintly when the wearer meditates, channels of flowing energy made visible.",
+  "id" : "mystic_wraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mystic Wraps",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Mystic Wraps",
+  "value" : 165,
+  "weight" : 0.5
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A rich brown belt crafted from cordovan horsehide, prized for its durability and smooth finish. Tanned in the traditional manner by craftsmen of the southern kingdoms, where the art of leatherworking has been perfected over generations. The leather darkens with age and wear, developing a distinguished patina.",
+  "id" : "cordovan_leather_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Cordovan Leather Belt",
+  "rarity" : "Common",
+  "textureName" : "Cordovan Leather Belt",
+  "value" : 10,
+  "weight" : 0.5
+}

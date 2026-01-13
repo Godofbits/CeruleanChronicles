@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll inscribed with concentric circles of skulls. This spell unleashes a sphere of necrotic energy that withers everything within a large radius. The magic draws life force from all creatures in the area, killing the weak and draining the strong. It was first cast during the Necromancer Wars, when rival lich lords battled for supremacy. The spell leaves no physical wounds—victims simply collapse as their life force is consumed. Entire battlefields have been cleared by a single circle of death. Single use.",
+  "id" : "scroll_of_circle_of_death",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Circle of Death",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Circle of Death",
+  "value" : 400,
+  "weight" : 0.10000000000000001
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Well-worn brown pants that have walked every road in Middle-earth. These belonged to a legendary wayfarer who spent his entire life walking, never staying in one place longer than a night. When he finally died, his boots and pants were found to be enchanted by the sheer distance they had traveled. Those who wear them can walk indefinitely without tiring, covering vast distances that would exhaust normal travelers. The Grey Company wore such pants during their desperate ride to Minas Tirith, arriving in time to turn the tide of battle.",
+  "id" : "wayfarer_road_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+15 feet movement speed, Immunity to exhaustion from forced marches",
+  "name" : "Wayfarer Road Pants",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Wayfarer_Road_Pants",
+  "value" : 820,
+  "weight" : 1.5
+}

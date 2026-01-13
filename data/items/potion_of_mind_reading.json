@@ -1,0 +1,13 @@
+{
+  "description" : "Your eyes swirl with mysterious cyan energy. Read surface thoughts of creatures within 30 feet for 10 minutes.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_mind_reading",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Mind Reading",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Mind Reading",
+  "value" : 400,
+  "weight" : 0.5
+}

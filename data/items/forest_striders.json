@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Enchanted boots that allow the wearer to move through dense undergrowth as easily as open ground. Brambles part and roots shift to ease passage. Elven rangers who must move swiftly through the deepest woods rely on such boots.",
+  "id" : "forest_striders",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Ignore difficult terrain in forests, +1 Survival",
+  "name" : "Forest Striders",
+  "rarity" : "Uncommon",
+  "textureName" : "Forest Striders",
+  "value" : 220,
+  "weight" : 1
+}

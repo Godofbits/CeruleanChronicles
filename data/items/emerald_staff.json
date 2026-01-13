@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a large emerald that glows with verdant light. The gem resonates with natural magic and enhances healing. Druids and clerics of nature deities seek such staffs.",
+  "id" : "emerald_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Emerald Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Emerald Staff",
+  "value" : 305,
+  "weight" : 3
+}

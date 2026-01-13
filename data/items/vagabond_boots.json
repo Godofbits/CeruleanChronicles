@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Patched and repaired boots worn by drifters and wanderers. Though humble in appearance, they're built to last through hard travel and harder times. Many a fortune-seeker started their career in such boots.",
+  "id" : "vagabond_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Vagabond Boots",
+  "rarity" : "Common",
+  "textureName" : "Vagabond Boots",
+  "value" : 6,
+  "weight" : 1
+}

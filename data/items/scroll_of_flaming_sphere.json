@@ -1,0 +1,11 @@
+{
+  "description" : "A red scroll bearing the image of a rolling ball of fire. This conjuration creates a five-foot sphere of flame that the caster can direct across the battlefield, ramming into enemies and igniting everything it touches. The sphere persists for the spell's duration, allowing repeated attacks. Fire elementalists developed this spell by studying fire elementals, mimicking their ability to maintain coherent flames. The sphere can pursue fleeing enemies, making it excellent for area denial and crowd control. Single use.",
+  "id" : "scroll_of_flaming_sphere",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Flaming Sphere",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Flaming Sphere",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

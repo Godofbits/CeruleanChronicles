@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Legendary",
+  "description" : "Black wraps inscribed with symbols of death and undeath. They amplify necromantic magic, making death spells nearly impossible to resist. Masters of the dark arts wrap their hands with such cloth, drawing upon the power of the grave to fuel their terrible magic.",
+  "id" : "necromancers_wraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Necromancer's Wraps",
+  "rarity" : "Rare",
+  "spellBonus" : "+2 spell save DC for necromancy, +1 spell slot (3rd level)",
+  "stealthDisadvantage" : false,
+  "textureName" : "Necromancer's Wraps",
+  "value" : 1250,
+  "weight" : 0.5
+}

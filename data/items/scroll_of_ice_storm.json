@@ -1,0 +1,11 @@
+{
+  "description" : "A blue scroll cold to the touch, covered in frost that never melts. This spell summons a devastating storm of ice and hail over a large area, pounding everything below with frozen projectiles. The magic channels the fury of winter itself, combining bludgeoning hail with freezing cold. Ice mages from the northern wastes developed this spell to recreate the deadly blizzards of their homeland. The storm creates difficult terrain and can shatter wooden structures. Single use.",
+  "id" : "scroll_of_ice_storm",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Ice Storm",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Ice Storm",
+  "value" : 200,
+  "weight" : 0.10000000000000001
+}

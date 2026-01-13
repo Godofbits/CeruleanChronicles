@@ -1,0 +1,13 @@
+{
+  "description" : "This pink potion makes your hands and feet sticky like a spider's. Gain a climbing speed equal to your walking speed for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_climbing",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Climbing",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Common",
+  "textureName" : "Potion of Climbing",
+  "value" : 75,
+  "weight" : 0.5
+}

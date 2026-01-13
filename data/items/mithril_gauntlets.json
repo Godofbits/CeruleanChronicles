@@ -1,0 +1,14 @@
+{
+  "acBonus" : 3,
+  "category" : "Legendary",
+  "description" : "Gauntlets forged from mithril, the legendary silver metal that is lighter than silk yet harder than dragon scales. Elven smiths alone know the secret of working mithril, and they guard it jealously. These gauntlets provide the protection of the heaviest armor with none of the weight or restriction. Heroes of legend wore such gauntlets on their greatest quests, and the metal never tarnishes or corrodes.",
+  "id" : "mithril_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mithril Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Mithril Gauntlets",
+  "value" : 1500,
+  "weight" : 0.5
+}

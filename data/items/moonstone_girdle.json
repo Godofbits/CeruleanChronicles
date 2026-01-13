@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt set with moonstones that glow with soft, silvery light. The gems wax and wane with the lunar cycle, brightest during the full moon. Clerics of moon deities and lycanthropes who have mastered their curse both seek such girdles, for moonstone enhances insight and grants the ability to see in darkness.",
+  "id" : "moonstone_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Wisdom, Darkvision 60 feet",
+  "name" : "Moonstone Girdle",
+  "rarity" : "Rare",
+  "textureName" : "Moonstone Girdle",
+  "value" : 775,
+  "weight" : 0.5
+}

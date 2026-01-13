@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Well-crafted steel gauntlets designed for knights in the king's service. Articulated plates allow full finger movement while protecting against sword cuts. The metal is polished to a mirror shine, marking the wearer as a true knight sworn to chivalric ideals.",
+  "id" : "knights_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Knight's Gauntlets",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Knight's Gauntlets",
+  "value" : 220,
+  "weight" : 0.5
+}

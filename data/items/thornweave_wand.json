@@ -1,0 +1,11 @@
+{
+  "description" : "A wand woven from thorny vines that never wilt. Druids of the wild forests weave these from plants that grow in sacred groves. The thorns extend slightly when the wielder is threatened. +1 spell bonus, 7 charges, piercing damage.",
+  "id" : "thornweave_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Thornweave Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Thornweave Wand",
+  "value" : 420,
+  "weight" : 0.5
+}

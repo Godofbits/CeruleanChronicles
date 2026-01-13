@@ -1,0 +1,15 @@
+{
+  "acBonus" : 1,
+  "category" : "Leather",
+  "description" : "Green-brown leather leggings treated with oils and unguents known only to marsh druids. Shamans who dwell in the Dead Marshes and Gladden Fields wear such garments, having adapted to life in the festering wetlands. The leather never rots despite constant exposure to water, and provides complete immunity to the diseases that plague swamp dwellers. The magic woven into the leggings allows communication with snakes, lizards, and crocodiles, making the wearer safe among the marshland's cold-blooded inhabitants.",
+  "id" : "swamp_shaman_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to Nature checks, Immunity to disease, Speak with reptiles",
+  "name" : "Swamp Shaman Leggings",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Swamp_Shaman_Leggings",
+  "value" : 720,
+  "weight" : 3.5
+}

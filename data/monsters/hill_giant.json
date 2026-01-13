@@ -1,0 +1,124 @@
+{
+    "id": "hill_giant",
+    "isActive": false,
+    "name": "Hill Giant",
+    "sortName": "Giant, Hill",
+    "size": "huge",
+    "type": "giant",
+    "subtype": null,
+    "alignment": "chaoticEvil",
+
+    "armorClass": 13,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 10,
+        "die": "d12",
+        "modifier": 40
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 21,
+        "dexterity": 8,
+        "constitution": 19,
+        "intelligence": 5,
+        "wisdom": 9,
+        "charisma": 6
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 2 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 12,
+    "languages": ["Giant"],
+    "telepathyRange": null,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "HillGiant_02",
+
+    "habitat": {
+        "environments": ["mountain", "grassland", "forest"],
+        "depth": "surface",
+        "description": "Hill giants are the dimmest and most gluttonous of giantkind, driven by an insatiable appetite that leads them to raid farms and villages. They measure status by their girth, with the fattest giants commanding the greatest respect.",
+        "rarity": "uncommon"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The giant makes two greatclub attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Greatclub",
+            "description": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 18 (3d8 + 5) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 8,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d8",
+                        "modifier": 5,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Rock",
+            "description": "Ranged Weapon Attack: +8 to hit, range 60/240 ft., one target. Hit: 21 (3d10 + 5) bludgeoning damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 8,
+                "reach": null,
+                "rangeNormal": 60,
+                "rangeLong": 240,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d10",
+                        "modifier": 5,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

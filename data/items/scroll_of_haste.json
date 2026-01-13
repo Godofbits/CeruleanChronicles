@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll whose runes seem to vibrate with barely contained speed. This powerful transmutation accelerates a creature's movement and actions, allowing them to move faster and strike twice as quickly. The spell bends time itself around the target, compressing their subjective experience of combat. Originally developed by elven bladedancers to enhance their martial prowess, it has become a favorite of war wizards buffing their allies before battle. The spell leaves its target exhausted when it ends. Single use.",
+  "id" : "scroll_of_haste",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Haste",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Haste",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

@@ -1,0 +1,13 @@
+{
+  "description" : "This orange-red potion is warm to the touch. Gain resistance to fire damage for 1 hour. Dragon hunters swear by these before facing fire-breathers.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_fire_resistance",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Fire Resistance",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Fire Resistance",
+  "value" : 150,
+  "weight" : 0.5
+}

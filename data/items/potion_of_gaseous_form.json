@@ -1,0 +1,13 @@
+{
+  "description" : "You become a cloud of mist for 1 hour. Fly at 10 ft. speed, squeeze through tiny cracks, and resist non-magical damage.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_gaseous_form",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Gaseous Form",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Gaseous Form",
+  "value" : 400,
+  "weight" : 0.5
+}

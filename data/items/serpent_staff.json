@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved in the likeness of a great serpent coiled around the shaft. The snake's eyes are gems that seem to watch with cold intelligence. Yuan-ti sorcerers and those who revere the serpent as sacred carry such staffs.",
+  "id" : "serpent_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Serpent Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Serpent Staff",
+  "value" : 295,
+  "weight" : 3
+}

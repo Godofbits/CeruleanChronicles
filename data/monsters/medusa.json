@@ -1,0 +1,169 @@
+{
+    "id": "medusa",
+    "isActive": false,
+    "name": "Medusa",
+    "size": "medium",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 15,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 17,
+        "die": "d8",
+        "modifier": 51
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 10,
+        "dexterity": 15,
+        "constitution": 16,
+        "intelligence": 12,
+        "wisdom": 13,
+        "charisma": 15
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "deception", "bonus": 5 },
+        { "skill": "insight", "bonus": 4 },
+        { "skill": "perception", "bonus": 4 },
+        { "skill": "stealth", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 14,
+    "languages": ["Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "6",
+    "experiencePoints": 2300,
+
+    "texture": "Medusa_01",
+
+    "habitat": {
+        "environments": ["ruins", "dungeon", "underground"],
+        "depth": "deep",
+        "description": "Medusas dwell in ancient temples and forgotten ruins, their lairs decorated with the petrified remains of those who gazed upon their terrible visage. Once beautiful mortals, they were cursed for their vanity and now despise all living things.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Petrifying Gaze",
+            "description": "When a creature that can see the medusa's eyes starts its turn within 30 feet of the medusa, the medusa can force it to make a DC 14 Constitution saving throw if the medusa isn't incapacitated and can see the creature. If the saving throw fails by 5 or more, the creature is instantly petrified. Otherwise, a creature that fails the save begins to turn to stone and is restrained. The restrained creature must repeat the saving throw at the end of its next turn, becoming petrified on a failure or ending the effect on a success.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The medusa makes either three melee attacks—one with its snake hair and two with its shortsword—or two ranged attacks with its longbow.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Snake Hair",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one creature. Hit: 4 (1d4 + 2) piercing damage plus 14 (4d6) poison damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 4,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Shortsword",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d6 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Longbow",
+            "description": "Ranged Weapon Attack: +5 to hit, range 150/600 ft., one target. Hit: 6 (1d8 + 2) piercing damage plus 7 (2d6) poison damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": null,
+                "rangeNormal": 150,
+                "rangeLong": 600,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 2,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

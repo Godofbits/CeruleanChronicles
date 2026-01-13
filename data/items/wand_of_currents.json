@@ -1,0 +1,11 @@
+{
+  "description" : "A blue-green wand that seems to flow like water when held. Crafted by sea mages, it channels the power of ocean currents. Water flows around the wielder protectively and can be shaped into weapons. +1 spell bonus, 7 charges, water damage.",
+  "id" : "wand_of_currents",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Currents",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of Currents",
+  "value" : 500,
+  "weight" : 1
+}

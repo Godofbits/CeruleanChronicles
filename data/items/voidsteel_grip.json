@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Gauntlets forged from voidsteel, metal harvested from the void between planes. They provide absolute protection against mental assault and resistance to magic. Warlocks who bargain with entities beyond reality sometimes receive such gauntlets, the metal seeming to contain an absence rather than a presence.",
+  "id" : "voidsteel_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Voidsteel Grip",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Voidsteel Grip",
+  "value" : 1000,
+  "weight" : 0.5
+}

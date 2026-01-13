@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A scarred and weathered belt that has seen countless battles. The leather bears cuts from near-misses and stains from old wounds. Veterans know that such belts, though worn, are often more reliable than pristine equipment—they have already proven their worth in combat.",
+  "id" : "battleworn_cincture",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Battle-Worn Cincture",
+  "rarity" : "Common",
+  "textureName" : "Battle-Worn Cincture",
+  "value" : 18,
+  "weight" : 0.5
+}

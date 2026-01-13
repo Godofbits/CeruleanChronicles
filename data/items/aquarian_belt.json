@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A water-resistant belt treated with oils and waxes to repel moisture. Popular among sailors, fishermen, and those who work near water. The leather remains supple even after repeated soaking, and salt stains wipe away easily.",
+  "id" : "aquarian_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Aquarian Belt",
+  "rarity" : "Common",
+  "textureName" : "Aquarian Belt",
+  "value" : 14,
+  "weight" : 0.5
+}

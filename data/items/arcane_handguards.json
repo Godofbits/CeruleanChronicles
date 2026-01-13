@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gauntlets inscribed with symbols of magical knowledge. They enhance the wearer's understanding of arcane lore and spellcraft. Battle-mages wear such gauntlets, combining martial prowess with deep magical learning.",
+  "id" : "arcane_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Arcane Handguards",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Arcane Handguards",
+  "value" : 240,
+  "weight" : 0.5
+}

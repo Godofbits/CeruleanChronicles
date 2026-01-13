@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Well-crafted leather armor bearing the marks of many journeys. Practical, comfortable, and proven in countless encounters.",
+  "id" : "adventurer_leather",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Adventurer Leather",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Adventurer Leather",
+  "value" : 20,
+  "weight" : 9
+}

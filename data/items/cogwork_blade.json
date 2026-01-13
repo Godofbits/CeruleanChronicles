@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "Gnomish artificers built this peculiar sword with internal gears that spin when swung, increasing cutting power. The clockwork mechanism requires occasional winding but rewards its owner with mechanical precision. Deals 1d8 slashing damage.",
+  "id" : "cogwork_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Cogwork Blade",
+  "rarity" : "Rare",
+  "textureName" : "Cogwork Blade",
+  "value" : 750,
+  "weight" : 4
+}

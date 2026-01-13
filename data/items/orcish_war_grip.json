@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Crude but effective gauntlets in the orcish style. Heavy plates of dark metal are bound with leather and chains. They lack refinement but deliver crushing force and turn aside most blows. The brutish design reflects orcish pragmatism in war.",
+  "id" : "orcish_war_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Orcish War Grip",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Orcish War Grip",
+  "value" : 21,
+  "weight" : 0.5
+}

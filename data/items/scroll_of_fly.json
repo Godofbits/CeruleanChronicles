@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll that feels buoyant, as if filled with air. This transmutation grants true flight, allowing the target to soar through the sky with a thought. Unlike levitation, flight provides full three-dimensional movement at considerable speed. The spell was first developed by wizards jealously studying dragons, seeking to claim the freedom of the skies for themselves. Flying changes the nature of combat, allowing archers to rain death from above while remaining untouchable by grounded foes. Single use.",
+  "id" : "scroll_of_fly",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Fly",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Fly",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

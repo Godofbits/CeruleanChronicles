@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A belt adorned with yellow citrine gemstones that catch and reflect light. The stones are said to promote clarity of thought and mental focus. Scholars and clerics wear such belts when undertaking tasks requiring concentration and insight.",
+  "id" : "citrine_studded_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Wisdom",
+  "name" : "Citrine Studded Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Citrine Studded Belt",
+  "value" : 180,
+  "weight" : 0.5
+}

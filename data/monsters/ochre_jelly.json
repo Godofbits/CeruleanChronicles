@@ -1,0 +1,117 @@
+{
+    "id": "ochre_jelly",
+    "isActive": false,
+    "name": "Ochre Jelly",
+    "size": "large",
+    "type": "ooze",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 8,
+    "armorType": null,
+    "hitDice": {
+        "count": 6,
+        "die": "d10",
+        "modifier": 12
+    },
+    "speeds": {
+        "walk": 10,
+        "climb": 10
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 15,
+        "dexterity": 6,
+        "constitution": 14,
+        "intelligence": 2,
+        "wisdom": 6,
+        "charisma": 1
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "acid" }
+    ],
+    "immunities": ["lightning", "slashing"],
+    "conditionImmunities": ["blinded", "charmed", "deafened", "exhaustion", "frightened", "prone"],
+
+    "senses": [
+        { "sense": "blindsight", "range": 60 }
+    ],
+    "passivePerception": 8,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "OchreJelly_01",
+
+    "habitat": {
+        "environments": ["dungeon", "underground"],
+        "depth": "deep",
+        "description": "Ochre jellies ooze through dungeon corridors and cave systems, dissolving organic matter with their acidic bodies. They can squeeze through the smallest cracks and are nearly impossible to destroy with conventional weapons.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Amorphous",
+            "description": "The jelly can move through a space as narrow as 1 inch wide without squeezing.",
+            "effect": null
+        },
+        {
+            "name": "Spider Climb",
+            "description": "The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Pseudopod",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 9 (2d6 + 2) bludgeoning damage plus 3 (1d6) acid damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 2,
+                        "type": "bludgeoning"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "acid"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": [
+        {
+            "name": "Split",
+            "trigger": "The jelly is subjected to lightning or slashing damage",
+            "description": "When a jelly that is Medium or larger is subjected to lightning or slashing damage, it splits into two new jellies if it has at least 10 hit points. Each new jelly has hit points equal to half the original jelly's, rounded down. New jellies are one size smaller than the original jelly."
+        }
+    ],
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "An even more powerful variant of the Belt of Giant Strength, this artifact was created by the stone giants in their high mountain strongholds. The belt is carved from a single piece of living granite and etched with giant runes of power. It grants not only the immense strength of stone giants but also their affinity with earth and rock. Wearers can hurl massive stones with deadly accuracy and sense movement through the ground itself. The belt is so heavy that only those with giant strength can comfortably wear it—creating a paradox that amuses the stone giants who crafted it.",
+  "id" : "belt_of_stone_giant_strength",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Strength becomes 25 (+7), Rock throwing, Tremorsense 30 feet",
+  "name" : "Belt of Stone Giant Strength",
+  "rarity" : "Legendary",
+  "textureName" : "Belt of Stone Giant Strength",
+  "value" : 22000,
+  "weight" : 0.5
+}

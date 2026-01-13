@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "radiant",
+  "description" : "Blessed by the High Priest of the Sun Temple, this golden blade channels the power of the sun itself. It burns brighter at noon and dims at night. Undead creatures recoil from its holy light. Deals 1d8+1 radiant damage.",
+  "id" : "solarium",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Solarium",
+  "rarity" : "Rare",
+  "textureName" : "Solarium",
+  "value" : 1650,
+  "weight" : 3
+}

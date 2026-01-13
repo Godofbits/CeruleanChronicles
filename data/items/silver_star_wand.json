@@ -1,0 +1,11 @@
+{
+  "description" : "A silver wand topped with a shimmering star that catches light beautifully. Blessed by celestial beings, the star seems to contain actual starlight. Particularly effective for divination and protective magic. +1 spell bonus, 7 charges, radiant damage.",
+  "id" : "silver_star_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Silver Star Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Silver Star Wand",
+  "value" : 500,
+  "weight" : 0.5
+}

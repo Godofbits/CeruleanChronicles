@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A skull-shaped mask of polished bone, used by necromancers to communicate with the dead. Each mask is carved from the skull of a willing sacrifice who agreed to serve as a spiritual conduit. The wearer can speak with spirits and sense undead creatures nearby. +0 AC.",
+  "id" : "death_mask",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Death Mask",
+  "rarity" : "Rare",
+  "textureName" : "Death Mask",
+  "value" : 1800,
+  "weight" : 1
+}

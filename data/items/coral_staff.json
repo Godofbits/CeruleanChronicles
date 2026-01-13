@@ -1,0 +1,11 @@
+{
+  "description" : "A staff made from a branch of dead coral, light and porous yet surprisingly strong. The calcium skeleton retains the intricate patterns of the living coral. Sea wizards harvest such coral from reefs, always careful to take only what has already died.",
+  "id" : "coral_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Coral Staff",
+  "rarity" : "Common",
+  "textureName" : "Coral Staff",
+  "value" : 36,
+  "weight" : 3
+}

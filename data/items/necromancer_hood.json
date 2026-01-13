@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A deep black hood that seems to absorb all light. Worn by practitioners of the death arts, the fabric is woven from shadowstuff and grave shrouds. Undead creatures perceive the wearer as one of their own, and spells involving death are enhanced. +0 AC.",
+  "id" : "necromancer_hood",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Necromancer Hood",
+  "rarity" : "Rare",
+  "textureName" : "Necromancer Hood",
+  "value" : 1650,
+  "weight" : 0.29999999999999999
+}

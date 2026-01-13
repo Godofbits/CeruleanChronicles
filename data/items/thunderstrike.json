@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d10+1",
+  "damageType" : "lightning",
+  "description" : "This massive blade crackles with barely contained electrical energy. It was forged from the remains of a lightning bolt that struck the same tree seven times. Each swing is accompanied by a thunderclap. Deals 1d10+1 lightning damage.",
+  "id" : "thunderstrike",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Thunderstrike",
+  "rarity" : "Very Rare",
+  "textureName" : "Thunderstrike",
+  "value" : 3800,
+  "weight" : 4
+}

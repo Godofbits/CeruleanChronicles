@@ -1,0 +1,11 @@
+{
+  "description" : "A staff inscribed with fundamental arcane formulas and magical theorems. It enhances the bearer's understanding of magic itself. Scholars at wizarding academies carry such staffs, the formulas serving as both tool and reference.",
+  "id" : "staff_of_arcana",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Arcana",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of Arcana",
+  "value" : 330,
+  "weight" : 3
+}

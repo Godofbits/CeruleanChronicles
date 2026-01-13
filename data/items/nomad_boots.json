@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Lightweight boots worn by desert nomads who must travel light. The design allows sand to shake free easily, and the leather is treated to resist the burning heat of sun-baked dunes. Tribal wanderers craft such boots from necessity and tradition.",
+  "id" : "nomad_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Nomad Boots",
+  "rarity" : "Common",
+  "textureName" : "Nomad Boots",
+  "value" : 10,
+  "weight" : 1
+}

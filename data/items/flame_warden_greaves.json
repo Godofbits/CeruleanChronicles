@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Orange and red leg armor worn by those who guard against fire. Firefighters and those who patrol volcanic regions favor such protection. The bright colors warn others of danger.",
+  "id" : "flame_warden_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Flame Warden Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Flame_Warden_Greaves",
+  "value" : 52,
+  "weight" : 11
+}

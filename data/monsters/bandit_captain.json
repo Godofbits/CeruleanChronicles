@@ -1,0 +1,130 @@
+{
+    "id": "bandit_captain",
+    "isActive": false,
+    "name": "Bandit Captain",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "chaoticNeutral",
+
+    "armorClass": 15,
+    "armorType": "studded leather",
+    "hitDice": {
+        "count": 10,
+        "die": "d8",
+        "modifier": 20
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 15,
+        "dexterity": 16,
+        "constitution": 14,
+        "intelligence": 14,
+        "wisdom": 11,
+        "charisma": 14
+    },
+
+    "savingThrows": ["strength", "dexterity", "wisdom"],
+    "skills": [
+        { "skill": "athletics", "bonus": 4 },
+        { "skill": "deception", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 10,
+    "languages": ["Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "mons_bandit_captain_01",
+
+    "habitat": {
+        "environments": ["forest", "grassland", "mountain", "urban"],
+        "depth": "surface",
+        "description": "Bandit captains command their outlaw bands through a combination of cunning, charisma, and ruthless violence. They plan ambushes, negotiate ransoms, and ensure their gangs remain profitable and loyal.",
+        "rarity": "uncommon"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Scimitar",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 6 (1d6 + 3) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Dagger",
+            "description": "Melee or Ranged Weapon Attack: +5 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 5 (1d4 + 3) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": 20,
+                "rangeLong": 60,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": [
+        {
+            "name": "Parry",
+            "description": "The captain adds 2 to its AC against one melee attack that would hit it. To do so, the captain must see the attacker and be wielding a melee weapon.",
+            "trigger": "when hit by a melee attack"
+        }
+    ],
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

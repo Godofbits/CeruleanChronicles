@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Common",
+  "description" : "Well-worn leather gloves with reinforced palms. Archers and swordsmen wear such grips to prevent blisters from weapon handles. The leather molds to the wearer's hands over time, providing a custom fit.",
+  "id" : "leather_grips",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Leather Grips",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Leather Grips",
+  "value" : 10,
+  "weight" : 0.5
+}

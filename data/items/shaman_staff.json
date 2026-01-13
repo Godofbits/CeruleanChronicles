@@ -1,0 +1,11 @@
+{
+  "description" : "A staff adorned with feathers, bones, and totems that rattle with each step. Tribal shamans use such staffs to commune with ancestral spirits and nature entities. The decorations are not mere ornament—each piece was earned through spiritual trials.",
+  "id" : "shaman_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Shaman Staff",
+  "rarity" : "Common",
+  "textureName" : "Shaman Staff",
+  "value" : 40,
+  "weight" : 3
+}

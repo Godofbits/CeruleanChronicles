@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Boots worn by those who keep watch over important places. Guards of treasure vaults, prison wardens, and fortress sentries wear such boots. They enhance alertness and help the wearer notice threats before they strike.",
+  "id" : "wardens_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Perception",
+  "name" : "Warden's Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Warden's Boots",
+  "value" : 155,
+  "weight" : 1
+}

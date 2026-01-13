@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Plate armor forged from blackened steel. The dark metal doesn't reflect light, making the wearer harder to spot at distance. Dark knights and those who serve shadow-cloaked masters favor such armor. Some say dark steel is forged with techniques that incorporate shadow magic, binding traces of the Shadowfell into the metal itself.",
+  "id" : "dark_steel_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Dark Steel Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Dark Steel Plate",
+  "value" : 850,
+  "weight" : 56
+}

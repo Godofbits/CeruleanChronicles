@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Handguards woven from threads extracted from the void. They can absorb hostile magic, nullifying the first spell cast at the wearer each day. The fabric seems to drink in light and sound, creating a small sphere of silence and darkness around the hands.",
+  "id" : "voidweave_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Voidweave Handguards",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Voidweave Handguards",
+  "value" : 1100,
+  "weight" : 0.5
+}

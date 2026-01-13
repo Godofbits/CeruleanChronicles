@@ -1,0 +1,140 @@
+{
+    "id": "ankheg",
+    "isActive": false,
+    "name": "Ankheg",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 14,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 6,
+        "die": "d10",
+        "modifier": 6
+    },
+    "speeds": {
+        "walk": 30,
+        "burrow": 10
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 17,
+        "dexterity": 11,
+        "constitution": 13,
+        "intelligence": 1,
+        "wisdom": 13,
+        "charisma": 6
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 },
+        { "sense": "tremorsense", "range": 60 }
+    ],
+    "passivePerception": 11,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "mons_ankheg_01",
+
+    "habitat": {
+        "environments": ["grassland", "forest", "underground"],
+        "depth": "shallow",
+        "description": "Ankhegs burrow beneath fertile farmland and meadows, erupting from the earth to drag prey into their tunnels. Farmers dread the telltale mounds of churned soil that mark an ankheg's territory, though the creatures inadvertently aerate the land they infest.",
+        "rarity": "uncommon"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) slashing damage plus 3 (1d6) acid damage. If the target is a Large or smaller creature, it is grappled (escape DC 13). Until this grapple ends, the ankheg can bite only the grappled creature and has advantage on attack rolls to do so.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "slashing"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "acid"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "grapple",
+                    "saveDC": 13,
+                    "saveType": null,
+                    "condition": "grappled",
+                    "duration": null,
+                    "damage": null,
+                    "description": "Target is grappled (escape DC 13) if Large or smaller"
+                }
+            ]
+        },
+        {
+            "name": "Acid Spray",
+            "description": "The ankheg spits acid in a line that is 30 feet long and 5 feet wide, provided that it has no creature grappled. Each creature in that line must make a DC 13 Dexterity saving throw, taking 10 (3d6) acid damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 13,
+                "type": "dexterity",
+                "onFail": "full damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": {
+                "range": [6, 6]
+            },
+            "onHit": [
+                {
+                    "type": "damage",
+                    "saveDC": 13,
+                    "saveType": "dexterity",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "acid"
+                    },
+                    "description": "30 ft line, DC 13 Dex save, 3d6 acid damage (half on success)"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

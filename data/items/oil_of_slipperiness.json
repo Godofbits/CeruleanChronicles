@@ -1,0 +1,13 @@
+{
+  "description" : "This slick oil makes surfaces nearly impossible to walk on. Can be used to escape grapples automatically or make a 10-foot square difficult terrain for 8 hours.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "oil_of_slipperiness",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Oil of Slipperiness",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Oil of Slipperiness",
+  "value" : 150,
+  "weight" : 0.5
+}

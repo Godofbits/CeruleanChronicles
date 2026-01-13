@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "necrotic",
+  "description" : "A blade forged from the tooth of a creature from the space between planes. It exists partially in the material world and partially elsewhere. Wounds inflicted by it seem to fester with otherworldly corruption. Deals 1d8+1 necrotic damage.",
+  "id" : "nether_fang",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Nether Fang",
+  "rarity" : "Rare",
+  "textureName" : "Nether Fang",
+  "value" : 1700,
+  "weight" : 3
+}

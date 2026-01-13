@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A magnificent blue sapphire fit for a king's crown. Those who wear this ring speak with the authority of royalty, their words carrying the weight of divine mandate. Persian kings wore such rings to enforce their rule.",
+  "id" : "royal_sapphire_of_command",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Persuasion, Cast Command 3\/day",
+  "name" : "Royal Sapphire of Command",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_48",
+  "value" : 650,
+  "weight" : 0
+}

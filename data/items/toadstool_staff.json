@@ -1,0 +1,11 @@
+{
+  "description" : "A whimsical staff topped with a large toadstool cap. The mushroom is poisonous to touch for most, but its bearer is protected. Hedge witches who brew potions from forest fungi sometimes carry such staffs, the toadstool serving as both ingredient and symbol.",
+  "id" : "toadstool_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Toadstool Staff",
+  "rarity" : "Common",
+  "textureName" : "Toadstool Staff",
+  "value" : 41,
+  "weight" : 3
+}

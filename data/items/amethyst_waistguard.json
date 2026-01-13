@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A belt adorned with purple amethyst gemstones. In ancient lore, amethyst protects against intoxication and mental influence. Those who must resist manipulation or enchantment often wear amethyst jewelry, trusting in the stone's protective properties.",
+  "id" : "amethyst_waistguard",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on saves vs charm",
+  "name" : "Amethyst Waistguard",
+  "rarity" : "Uncommon",
+  "textureName" : "Amethyst Waistguard",
+  "value" : 295,
+  "weight" : 0.5
+}

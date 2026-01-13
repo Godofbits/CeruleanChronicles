@@ -1,0 +1,13 @@
+{
+  "description" : "This pink potion smells of roses and tastes of honey. The next creature the drinker sees, they regard as their true love for 1d4 hours. The effects of such philters have caused countless complications throughout history.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "philter_of_love",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Philter of Love",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Philter of Love",
+  "value" : 140,
+  "weight" : 0.5
+}

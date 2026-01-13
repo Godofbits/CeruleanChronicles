@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A colorful cap with bells and tassels worn by court jesters and fools. The jingling bells announce the wearer's presence, which is usually the point. Some say the best jesters hide wisdom behind their foolery. +0 AC.",
+  "id" : "jester_cap",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Jester Cap",
+  "rarity" : "Common",
+  "textureName" : "Jester Cap",
+  "value" : 30,
+  "weight" : 0.20000000000000001
+}

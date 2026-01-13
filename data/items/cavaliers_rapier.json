@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "piercing",
+  "description" : "An elegant thrusting sword favored by mounted nobility. The ornate basket hilt protects the hand while allowing precise, deadly thrusts. A mark of status among the knightly orders. Deals 1d8 piercing damage.",
+  "id" : "cavaliers_rapier",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Cavalier's Rapier",
+  "rarity" : "Uncommon",
+  "textureName" : "Cavalier's Rapier",
+  "value" : 200,
+  "weight" : 2
+}

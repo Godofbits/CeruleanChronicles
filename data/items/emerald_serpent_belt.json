@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt crafted in the shape of a coiled serpent, its body formed from interlocking emerald segments. The eyes are tiny rubies that seem to watch with serpentine intelligence. Created by yuan-ti sorcerers or druids who revere the serpent as sacred, the belt grants complete immunity to venom and the ability to communicate with snakes.",
+  "id" : "emerald_serpent_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to poison, Speak with serpents",
+  "name" : "Emerald Serpent Belt",
+  "rarity" : "Rare",
+  "textureName" : "Emerald Serpent Belt",
+  "value" : 1100,
+  "weight" : 0.5
+}

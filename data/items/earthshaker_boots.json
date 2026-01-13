@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Massive boots forged by earth elementals and blessed by the primordial powers of stone. Each step causes minor tremors, and when the wearer stomps in anger, the very earth convulses. Giants and those who command earth magic wear such boots to demonstrate their dominion over stone and soil. Mountains themselves tremble when these boots march to war.",
+  "id" : "earthshaker_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Strength, Cast Earthquake 1\/day, Tremor stomp (3d6 damage, 20 ft radius) 3\/day",
+  "name" : "Earthshaker Boots",
+  "rarity" : "Very Rare",
+  "textureName" : "Earthshaker Boots",
+  "value" : 8000,
+  "weight" : 1
+}

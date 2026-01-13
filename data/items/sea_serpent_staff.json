@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved to resemble a coiled sea serpent, its scales painted in brilliant blues and greens. The serpent's mouth is open as if to strike. Those who carry this staff can breathe underwater as easily as air.",
+  "id" : "sea_serpent_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sea Serpent Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Sea Serpent Staff",
+  "value" : 285,
+  "weight" : 3
+}

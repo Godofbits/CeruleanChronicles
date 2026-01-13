@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Pale blue pants that seem woven from frozen mist and winter wind. Created by ice spirits who dwell in the frozen wastes beyond Forochel, these leggings are gifts to mortals who have earned their favor. The wearer becomes immune to cold, able to walk naked through blizzards without harm. In winter, the wearer radiates an aura of otherworldly beauty, appearing as a spirit of winter themselves. Those who wear these leggings too long find it difficult to feel warmth, eventually preferring the embrace of eternal ice.",
+  "id" : "winter_spirit_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to cold damage, +1 to Charisma in winter",
+  "name" : "Winter Spirit Leggings",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Winter_Spirit_Leggings",
+  "value" : 890,
+  "weight" : 1
+}

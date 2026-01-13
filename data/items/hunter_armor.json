@@ -1,0 +1,14 @@
+{
+  "baseAC" : 12,
+  "category" : "Light",
+  "description" : "Leather armor designed for tracking dangerous game. Reinforced against claws and antlers, with loops for carrying hunting implements.",
+  "id" : "hunter_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Hunter Armor",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Hunter Armor",
+  "value" : 25,
+  "weight" : 10
+}

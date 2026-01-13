@@ -1,0 +1,12 @@
+{
+  "category" : "Reinforced",
+  "description" : "Boots made from exceptionally thick leather, nearly as tough as metal. The leather comes from beasts known for their resilient hides. Adventurers who can't afford metal greaves often settle for ironhide boots.",
+  "id" : "ironhide_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ironhide Boots",
+  "rarity" : "Common",
+  "textureName" : "Ironhide Boots",
+  "value" : 20,
+  "weight" : 1
+}

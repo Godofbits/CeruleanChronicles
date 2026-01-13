@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "fire",
+  "description" : "Temple guardians of the Eternal Flame carried these blessed blades. The fire enchantment serves both as weapon and light source in the deepest catacombs. The flame responds to the wielder's will. Deals 1d8 fire damage.",
+  "id" : "flamekeeper",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Flamekeeper",
+  "rarity" : "Uncommon",
+  "textureName" : "Flamekeeper",
+  "value" : 650,
+  "weight" : 3
+}

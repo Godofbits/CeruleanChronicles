@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Scale mail with gilded scales that gleam like coins. More ceremonial than practical, worn by wealthy officers and nobles who wish to display their status on the battlefield. The gold plating makes the armor heavier and more visible, but undeniably impressive.",
+  "id" : "golden_scale_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Golden Scale Mail",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "textureName" : "Golden Scale Mail",
+  "value" : 600,
+  "weight" : 50
+}

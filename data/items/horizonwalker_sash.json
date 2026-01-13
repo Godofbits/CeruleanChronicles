@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A light sash worn by those who travel impossible distances. Rangers and explorers who have walked from one end of the world to the other favor such sashes. They are said to make each step cover more ground, bringing distant horizons ever closer.",
+  "id" : "horizonwalker_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+10 feet to walking speed",
+  "name" : "Horizonwalker Sash",
+  "rarity" : "Uncommon",
+  "textureName" : "Horizonwalker Sash",
+  "value" : 290,
+  "weight" : 0.5
+}

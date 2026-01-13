@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+1",
+  "damageType" : "cold",
+  "description" : "A curved blade enchanted with winter's chill. Northern raiders prize these weapons for their ability to freeze wounds, making them harder to heal. Deals 1d6+1 cold damage.",
+  "id" : "frost_scimitar",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Frost Scimitar",
+  "rarity" : "Uncommon",
+  "textureName" : "Frost Scimitar",
+  "value" : 500,
+  "weight" : 2.5
+}

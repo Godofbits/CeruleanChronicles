@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A nondescript cloth cap worn by thieves and pickpockets. The unremarkable design helps the wearer blend into crowds. Many have hidden pockets sewn into the lining for storing small valuables. +0 AC.",
+  "id" : "rogue_cap",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Rogue Cap",
+  "rarity" : "Common",
+  "textureName" : "Rogue Cap",
+  "value" : 15,
+  "weight" : 0.20000000000000001
+}

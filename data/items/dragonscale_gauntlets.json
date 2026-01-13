@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Gauntlets crafted from genuine dragon scales, each one harder than the finest steel. The scales retain the dragon's resistance to flame and radiate primal power. Such gauntlets require the slaying of a dragon and the skill to work with materials that resist conventional tools. The scales shimmer with inner fire, remembering the furnace-breath of their former owner. Dragonslayers wear such gauntlets as trophies of their greatest victory.",
+  "id" : "dragonscale_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dragonscale Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Dragonscale Gauntlets",
+  "value" : 800,
+  "weight" : 0.5
+}

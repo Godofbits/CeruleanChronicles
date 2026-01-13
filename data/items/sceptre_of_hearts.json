@@ -1,0 +1,11 @@
+{
+  "description" : "A pink crystalline sceptre topped with a heart-shaped gem that pulses with charm magic. Created by the Fey Queen of the Spring Court, it enhances enchantment spells and can inspire feelings of love and devotion. The heart beats faster when used for charm spells. +2 spell bonus, 10 charges.",
+  "id" : "sceptre_of_hearts",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sceptre of Hearts",
+  "rarity" : "Rare",
+  "textureName" : "Sceptre of Hearts",
+  "value" : 3000,
+  "weight" : 1.5
+}

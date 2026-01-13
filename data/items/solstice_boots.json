@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots that perfectly balance the powers of light and darkness, waxing and waning with the sun's journey across the sky. Forged during a perfect solstice when day and night stood in absolute equilibrium, these boots grant mastery over both illumination and shadow. The wearer can command the sun to set early or dawn to break ahead of schedule, bending the natural order to their will. Druids and mystics who understand that light and dark are but two faces of the same eternal cycle seek these boots. They shift appearance with the time of day—radiant gold at noon, deep shadow at midnight, balanced twilight at dawn and dusk. To wear them is to stand at the axis upon which the world turns.",
+  "id" : "solstice_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to all stats, Perfect balance of light\/dark powers, Immunity to radiant and necrotic, Control day\/night 1\/week",
+  "name" : "Solstice Boots",
+  "rarity" : "Legendary",
+  "textureName" : "Solstice Boots",
+  "value" : 22000,
+  "weight" : 1
+}

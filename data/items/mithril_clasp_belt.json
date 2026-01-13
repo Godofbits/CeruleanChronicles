@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt featuring a clasp and decorations made of mithril, the precious silver-colored metal that is lighter than silk yet harder than dragon scales. Elven smiths alone know the secret of working mithril, and they guard it jealously. The clasp will never break, ensuring the belt serves its owner for centuries.",
+  "id" : "mithril_clasp_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Belt never breaks or tears",
+  "name" : "Mithril Clasp Belt",
+  "rarity" : "Rare",
+  "textureName" : "Mithril Clasp Belt",
+  "value" : 650,
+  "weight" : 0.5
+}

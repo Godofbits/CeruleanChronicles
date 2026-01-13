@@ -1,0 +1,13 @@
+{
+  "description" : "A vial of pure sunlight captured at dawn. When opened, it sheds bright light in a 60-foot radius for 1 hour. Undead and creatures vulnerable to sunlight take 2d10 radiant damage if within the light.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "bottled_sunlight",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Bottled Sunlight",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Bottled Sunlight",
+  "value" : 500,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A black helm that seems to drink in light, worn by the Shadow Knights of the Dark Order. The helm was forged in darkness and quenched in shadow-stuff. The wearer can see perfectly in darkness and becomes harder to detect when standing still. +2 AC.",
+  "id" : "shadow_knight_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Shadow Knight Helm",
+  "rarity" : "Very Rare",
+  "textureName" : "Shadow Knight Helm",
+  "value" : 5200,
+  "weight" : 4.5
+}

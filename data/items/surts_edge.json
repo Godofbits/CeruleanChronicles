@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d10+2",
+  "damageType" : "fire",
+  "description" : "Named for the fire giant who guards the gates of the world's end, this massive flaming sword burns with apocalyptic fury. It is said that when all such blades are gathered, the end times will begin. Deals 1d10+2 fire damage.",
+  "id" : "surts_edge",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Surt's Edge",
+  "rarity" : "Legendary",
+  "textureName" : "Surt's Edge",
+  "value" : 10000,
+  "weight" : 5
+}

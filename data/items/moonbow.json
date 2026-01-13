@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "An elven blade that curves like a crescent moon, blessed under the full moon by priestesses of the Moon Goddess. It glows softly in darkness and is said to be sharper on moonlit nights. Deals 1d8 slashing damage.",
+  "id" : "moonbow",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Moonbow",
+  "rarity" : "Rare",
+  "textureName" : "Moonbow",
+  "value" : 1400,
+  "weight" : 2.5
+}

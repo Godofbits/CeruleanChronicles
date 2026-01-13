@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Magical",
+  "description" : "A crown of blackened iron and red gems, worn by conquerors and warlords throughout history. The crown is steeped in the blood of countless battles and grants its wearer an aura of command. Soldiers instinctively follow orders from the crowned one, and enemies feel their resolve weaken. +1 AC.",
+  "id" : "warlord_crown",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Warlord Crown",
+  "rarity" : "Very Rare",
+  "textureName" : "Warlord Crown",
+  "value" : 6800,
+  "weight" : 2.5
+}

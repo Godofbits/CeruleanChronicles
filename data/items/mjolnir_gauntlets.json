@@ -1,0 +1,14 @@
+{
+  "acBonus" : 3,
+  "category" : "Legendary",
+  "description" : "Iron gauntlets forged specifically for wielding Mjolnir, Thor's legendary hammer. The myths say Thor himself requires these gauntlets to handle his weapon's immense power. They grant thunderous strength and cause lightning to arc from the wearer's strikes. Only those deemed worthy by Thor can truly master these gauntlets.",
+  "id" : "mjolnir_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mjolnir Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Mjolnir Gauntlets",
+  "value" : 1450,
+  "weight" : 0.5
+}

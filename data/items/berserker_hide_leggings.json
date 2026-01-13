@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Rough hide leggings worn by tribal berserkers. Made from the pelts of fierce beasts. The primal design speaks of savage strength.",
+  "id" : "berserker_hide_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Berserker Hide Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Berserker_Hide_Leggings",
+  "value" : 26,
+  "weight" : 4
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A fearsome wooden mask carved with primal spirits, worn by chieftains of the deep jungle tribes. Each mask is blessed by a shaman and contains a fragment of an ancestral spirit. The wearer can communicate with jungle beasts and command their respect. +1 AC.",
+  "id" : "jungle_chieftain_mask",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Jungle Chieftain Mask",
+  "rarity" : "Rare",
+  "textureName" : "Jungle Chieftain Mask",
+  "value" : 850,
+  "weight" : 2
+}

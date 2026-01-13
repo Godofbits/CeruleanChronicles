@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots containing intricate clockwork mechanisms that regulate the wearer's pace. Created by gnomish inventors in the clockwork city of Mechanus, these boots ensure perfect timing and rhythm. The constant ticking is barely audible, like a heartbeat keeping perfect time. Warriors wearing these boots always strike first in battle.",
+  "id" : "clockwork_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+10 ft movement speed, Advantage on Initiative, Cannot be slowed",
+  "name" : "Clockwork Boots",
+  "rarity" : "Rare",
+  "textureName" : "Clockwork Boots",
+  "value" : 800,
+  "weight" : 1
+}

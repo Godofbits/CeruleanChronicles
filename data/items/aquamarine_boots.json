@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots adorned with aquamarines the color of tropical seas. They grant complete mastery over water, allowing the wearer to breathe and move as easily below the waves as above them. Merfolk princesses gift such boots to land-dwellers who have saved their people or won their hearts.",
+  "id" : "aquamarine_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Water breathing, Swim speed 40 ft, +2 Constitution in water",
+  "name" : "Aquamarine Boots",
+  "rarity" : "Rare",
+  "textureName" : "Aquamarine Boots",
+  "value" : 750,
+  "weight" : 1
+}

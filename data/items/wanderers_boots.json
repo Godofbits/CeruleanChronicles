@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Well-worn boots that have seen many seasons and countless sunsets. Those without fixed homes or destinations wear such boots, letting the wind choose their path. Each scuff and patch tells a story of roads traveled.",
+  "id" : "wanderers_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Wanderer's Boots",
+  "rarity" : "Common",
+  "textureName" : "Wanderer's Boots",
+  "value" : 7,
+  "weight" : 1
+}

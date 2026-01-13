@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "An emerald so dark it appears almost black, mined from the deepest caverns of the Underdark. Drow nobility wear such rings to pierce even the absolute darkness of their realm and uncover hidden passages.",
+  "id" : "deep_emerald_of_the_underdark",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Superior Darkvision 120 ft, Detect secret doors",
+  "name" : "Deep Emerald of the Underdark",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_40",
+  "value" : 580,
+  "weight" : 0
+}

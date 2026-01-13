@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A sash woven with threads of crystallized magic. The fabric shimmers with rainbow iridescence and feels cool to the touch. Created by archmages studying the nature of magical energy, these sashes help deflect hostile spells. The crystal threads disrupt magical patterns, causing enemy spells to fizzle or weaken before reaching the wearer.",
+  "id" : "crystal_weave_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+10% magic resistance",
+  "name" : "Crystal Weave Sash",
+  "rarity" : "Rare",
+  "textureName" : "Crystal Weave Sash",
+  "value" : 900,
+  "weight" : 0.5
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A practical leather cap worn by sellswords and hired guards. The lack of identifying marks is intentional - mercenaries serve whoever pays, and anonymity is valuable. +0 AC.",
+  "id" : "mercenary_cap",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Mercenary Cap",
+  "rarity" : "Common",
+  "textureName" : "Mercenary Cap",
+  "value" : 12,
+  "weight" : 0.40000000000000002
+}

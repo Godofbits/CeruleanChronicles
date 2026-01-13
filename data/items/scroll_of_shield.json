@@ -1,0 +1,11 @@
+{
+  "description" : "A tan scroll bearing the image of an invisible barrier. This reaction spell conjures a shield of magical force just in time to deflect an incoming blow or spell. The barrier appears as a shimmer in the air, deflecting arrows, swords, and even magic missiles. It was invented during the War of the Magi by a quick-thinking abjurer who realized that timing mattered as much as power. Many wizards have survived deadly encounters thanks to this split-second defense. Single use.",
+  "id" : "scroll_of_shield",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Shield",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Shield",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

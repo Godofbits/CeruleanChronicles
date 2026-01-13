@@ -1,0 +1,131 @@
+{
+    "id": "kobold",
+    "isActive": false,
+    "name": "Kobold",
+    "size": "small",
+    "type": "humanoid",
+    "subtype": "kobold",
+    "alignment": "lawfulEvil",
+
+    "armorClass": 12,
+    "armorType": null,
+    "hitDice": {
+        "count": 2,
+        "die": "d6",
+        "modifier": -2
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 7,
+        "dexterity": 15,
+        "constitution": 9,
+        "intelligence": 8,
+        "wisdom": 7,
+        "charisma": 8
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 8,
+    "languages": ["Common", "Draconic"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/8",
+    "experiencePoints": 25,
+
+    "texture": "mons_kobold_01",
+
+    "habitat": {
+        "environments": ["underground", "forest", "mountain"],
+        "depth": "shallow",
+        "description": "Kobolds dwell in darkness—cramped warrens mined from rock in hills and mountains, or dense forests where sunlight barely penetrates. Their overcrowded lairs bristle with traps, and they claim kinship with dragons, sometimes serving chromatic wyrms as minions.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Sunlight Sensitivity",
+            "description": "While in sunlight, the kobold has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.",
+            "effect": {
+                "type": "sunlightSensitivity",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Pack Tactics",
+            "description": "The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.",
+            "effect": {
+                "type": "packTactics",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Dagger",
+            "description": "Melee Weapon Attack: +4 to hit, reach 5 ft., one target. Hit: 4 (1d4 + 2) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Sling",
+            "description": "Ranged Weapon Attack: +4 to hit, range 30/120 ft., one target. Hit: 4 (1d4 + 2) bludgeoning damage.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 4,
+                "reach": null,
+                "rangeNormal": 30,
+                "rangeLong": 120,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 2,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

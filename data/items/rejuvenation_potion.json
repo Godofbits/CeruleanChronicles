@@ -1,0 +1,13 @@
+{
+  "description" : "A legendary draught said to reverse the effects of aging and death itself. The crimson liquid glows with inner light. Regain 10d4+20 hit points and restore 10 years of youth.",
+  "effect" : "Heals 10d4+20 HP (avg 45)",
+  "id" : "rejuvenation_potion",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Rejuvenation Potion",
+  "potionType" : "Potion of Supreme Healing",
+  "rarity" : "Very Rare",
+  "textureName" : "Rejuvenation Potion",
+  "value" : 1200,
+  "weight" : 0.5
+}

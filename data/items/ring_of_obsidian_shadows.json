@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A ring of volcanic obsidian, black as the void between stars. Assassins of the Shadow Thieves guild receive such rings upon completing their dark initiation. The ring seems to absorb light, making its wearer one with the darkness.",
+  "id" : "ring_of_obsidian_shadows",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Stealth, Advantage on Stealth in darkness",
+  "name" : "Ring of Obsidian Shadows",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_40",
+  "value" : 520,
+  "weight" : 0
+}

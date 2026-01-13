@@ -1,0 +1,13 @@
+{
+  "description" : "Your eyes glow with azure light. See through illusions, darkness, invisibility, and into the Ethereal Plane for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_true_sight",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of True Sight",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Very Rare",
+  "textureName" : "Potion of True Sight",
+  "value" : 1000,
+  "weight" : 0.5
+}

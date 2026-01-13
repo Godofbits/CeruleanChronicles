@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A radiant golden helm with sweeping wings, blessed by the Seraphim themselves. Only those of pure heart can don it without being blinded. The wings shimmer with divine light, and the wearer is said to be protected from fiendish influence. +2 AC.",
+  "id" : "celestial_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Celestial Helm",
+  "rarity" : "Legendary",
+  "textureName" : "Celestial Helm",
+  "value" : 8000,
+  "weight" : 4
+}

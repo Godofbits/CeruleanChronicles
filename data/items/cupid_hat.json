@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A whimsical pink cap with small decorative wings. Originally worn by messengers of the goddess of love, it has become popular at festivals and celebrations. Some claim wearing it improves one's romantic fortune. +0 AC.",
+  "id" : "cupid_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Cupid Hat",
+  "rarity" : "Uncommon",
+  "textureName" : "Cupid Hat",
+  "value" : 100,
+  "weight" : 0.20000000000000001
+}

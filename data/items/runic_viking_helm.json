@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A Viking helm inscribed with powerful Nordic runes by a völva seeress. Each rune was carved during a specific moon phase and blessed with blood sacrifice. The magic within grants the wearer protection from curses and supernatural cold. +1 AC.",
+  "id" : "runic_viking_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Runic Viking Helm",
+  "rarity" : "Rare",
+  "textureName" : "Runic Viking Helm",
+  "value" : 1450,
+  "weight" : 4
+}

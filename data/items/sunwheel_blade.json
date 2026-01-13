@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "radiant",
+  "description" : "The guard of this blade forms a sun symbol, and the metal itself seems to glow with captured sunlight. Created by sun-worshippers to fight the creatures of the night. Most effective against vampires and shadows. Deals 1d8+1 radiant damage.",
+  "id" : "sunwheel_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Sunwheel Blade",
+  "rarity" : "Rare",
+  "textureName" : "Sunwheel Blade",
+  "value" : 1700,
+  "weight" : 3
+}

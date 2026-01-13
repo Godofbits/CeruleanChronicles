@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A beautiful sash woven with threads of pure silver. Beyond its aesthetic appeal, the silver provides protection against creatures cursed with lycanthropy. Hunters of werewolves and other shapeshifters favor such sashes, combining elegance with practical defense against the moon-cursed.",
+  "id" : "silverwork_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Advantage on saves vs lycanthropy",
+  "name" : "Silverwork Sash",
+  "rarity" : "Uncommon",
+  "textureName" : "Silverwork Sash",
+  "value" : 210,
+  "weight" : 0.5
+}

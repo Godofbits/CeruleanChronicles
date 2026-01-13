@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Legendary",
+  "description" : "Gauntlets that crackle with perpetual lightning. Each strike delivers a shock of electricity along with physical force. Storm clerics and tempest druids wear such gauntlets when channeling the wrath of sky and thunder. The metal hums with barely contained electrical energy, occasionally arcing between the fingers.",
+  "id" : "stormtouch_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Stormtouch Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Stormtouch Gauntlets",
+  "value" : 1050,
+  "weight" : 0.5
+}

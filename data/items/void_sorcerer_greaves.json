@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Dark purple metal greaves that seem to contain swirling darkness within them. Created by warlocks who have peered into the void between stars, these greaves enhance magical power through connection to the Far Realm. The metal was forged using techniques taught by aberrant entities, and it resonates with alien energies. Wearing these greaves allows sorcerers to channel otherworldly power more effectively, though at the risk of attracting unwanted attention from things beyond reality.",
+  "id" : "void_sorcerer_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to spell attack rolls",
+  "name" : "Void Sorcerer Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Void_Sorcerer_Greaves",
+  "value" : 320,
+  "weight" : 13
+}

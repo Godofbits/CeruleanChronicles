@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Crimson-painted leg plates worn by elite guards who protect royalty. The red symbolizes the blood they will shed defending their charge. Battle-tested and reliable.",
+  "id" : "bloodguard_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bloodguard Legplates",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Bloodguard_Legplates",
+  "value" : 48,
+  "weight" : 12
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A green wooden wand topped with a living sunflower that always turns toward the sun. Blessed by nature spirits, the flower provides a conduit for solar and plant magic. It blooms when used to cast healing spells. +1 spell bonus, 7 charges, radiant damage.",
+  "id" : "sunflower_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Sunflower Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Sunflower Wand",
+  "value" : 400,
+  "weight" : 0.5
+}

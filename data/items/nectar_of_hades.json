@@ -1,0 +1,13 @@
+{
+  "description" : "Named for the Greek god of the underworld, this dark purple nectar grants power over death itself. For 1 hour, you can speak with the dead at will, see into the afterlife, and have resistance to necrotic damage. Hades ruled the underworld from his throne in the depths, judging the souls of the departed.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "nectar_of_hades",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Nectar of Hades",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Legendary",
+  "textureName" : "Nectar of Hades",
+  "value" : 3000,
+  "weight" : 0.5
+}

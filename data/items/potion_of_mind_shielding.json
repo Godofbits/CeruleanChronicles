@@ -1,0 +1,13 @@
+{
+  "description" : "This crimson potion tastes of iron and determination. Your mind becomes impenetrable for 8 hours: immune to telepathy, mind reading, and divination spells that would sense your thoughts.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_mind_shielding",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Mind Shielding",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Mind Shielding",
+  "value" : 300,
+  "weight" : 0.5
+}

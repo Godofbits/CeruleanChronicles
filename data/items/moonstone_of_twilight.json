@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A milky white stone that glows faintly under moonlight. Sacred to Selûne and other lunar deities.",
+  "id" : "moonstone_of_twilight",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Darkvision 60 ft (1 hour\/day)",
+  "name" : "Moonstone of Twilight",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_4",
+  "value" : 110,
+  "weight" : 0
+}

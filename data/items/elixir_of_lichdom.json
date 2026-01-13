@@ -1,0 +1,13 @@
+{
+  "description" : "The darkest and most forbidden of all elixirs. Drinking this begins the transformation into a lich, granting immortality at the cost of your humanity. Your soul becomes bound to a phylactery. This is the path of the greatest necromancers who sought to conquer death itself.",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "elixir_of_lichdom",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Lichdom",
+  "potionType" : "Poison",
+  "rarity" : "Legendary",
+  "textureName" : "Elixir of Lichdom",
+  "value" : 5000,
+  "weight" : 0.5
+}

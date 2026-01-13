@@ -1,0 +1,11 @@
+{
+  "description" : "A blue scroll that feels damp and cold. This spell creates a zone of freezing rain and sleet, turning the ground treacherous and making movement nearly impossible. The storm combines the obscurement of heavy precipitation with the danger of icy terrain. Enemies caught within struggle to maintain their footing and can barely see through the driving sleet. Druids who worship winter spirits favor this spell, as do tactical wizards who need to control enemy movement without direct damage. Single use.",
+  "id" : "scroll_of_sleet_storm",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Sleet Storm",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Sleet Storm",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

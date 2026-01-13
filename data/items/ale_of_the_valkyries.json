@@ -1,0 +1,13 @@
+{
+  "description" : "This frothy ale is said to be brewed in Valhalla for the einherjar, the honored dead. The Valkyries, warrior maidens of Odin, serve this drink to fallen heroes. Gain +4 to Strength and Constitution, advantage on death saving throws, and fight with the fury of a Viking warrior for 1 hour.",
+  "effect" : "Your Strength becomes 21 for 1 hour.",
+  "id" : "ale_of_the_valkyries",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Ale of the Valkyries",
+  "potionType" : "Potion of Strength",
+  "rarity" : "Rare",
+  "textureName" : "Ale of the Valkyries",
+  "value" : 600,
+  "weight" : 0.5
+}

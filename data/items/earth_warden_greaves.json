@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Brown metal greaves decorated with earth symbols. Druids who protect sacred groves sometimes wear armor. These greaves connect the wearer to the strength of stone.",
+  "id" : "earth_warden_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Earth Warden Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Earth_Warden_Greaves",
+  "value" : 52,
+  "weight" : 12
+}

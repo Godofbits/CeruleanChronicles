@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A girdle that combines the strength of the lion with the grace of the eagle, just as the gryphon unites these noble beasts. The belt grants both physical power and agility, making the wearer formidable in combat. Created by the gryphon riders of ancient kingdoms, these girdles are treasured heirlooms passed down through generations of warriors.",
+  "id" : "gryphonheart_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Dexterity, +2 Strength",
+  "name" : "Gryphonheart Girdle",
+  "rarity" : "Rare",
+  "textureName" : "Gryphonheart Girdle",
+  "value" : 1200,
+  "weight" : 0.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A small rolled scroll sealed with wax. Missives carry private correspondence between individuals, their contents known only to sender and recipient. The seal ensures privacy—a broken seal reveals the letter has been read. Nobles, merchants, and adventurers rely on couriers to deliver such messages across great distances. The contents could be anything from love letters to spy reports, battle plans to merchant negotiations.",
+  "id" : "sealed_missive",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Sealed Missive",
+  "rarity" : "Common",
+  "textureName" : "Sealed Missive",
+  "value" : 5,
+  "weight" : 0.10000000000000001
+}

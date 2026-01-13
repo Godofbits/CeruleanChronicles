@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Legendary",
+  "description" : "Gloves woven from the essence of wraiths, undead spirits consumed by hatred. They allow the wearer to become temporarily incorporeal, phasing through walls and avoiding attacks. The price of this power is the lingering touch of death—the gloves are cold as the grave and whisper with the voices of the damned.",
+  "id" : "cursed_wraithgloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Cursed Wraithgloves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Cursed Wraithgloves",
+  "value" : 1050,
+  "weight" : 0.5
+}

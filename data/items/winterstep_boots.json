@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots that leave no mark in snow, as if the wearer were weightless. Hunters in northern lands wear such boots when stalking prey through winter forests. The magic also helps in escaping pursuit across snowy wastes.",
+  "id" : "winterstep_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Leave no tracks in snow, +1 Survival in winter",
+  "name" : "Winterstep Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Winterstep Boots",
+  "value" : 185,
+  "weight" : 1
+}

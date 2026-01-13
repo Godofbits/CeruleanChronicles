@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A belt of surpassing craftsmanship, worn by the highest nobility and most powerful warlords. Forged by master craftsmen and enchanted by archmages, this belt represents the pinnacle of both martial and magical achievement. The belt enhances all of the wearer's natural abilities and provides strong protection against hostile magic. Only those of truly exceptional station have ever worn such a belt, and it is said that the belt itself chooses who is worthy to wear it.",
+  "id" : "highlords_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to all ability scores, Advantage on saving throws vs spells",
+  "name" : "Highlord's Belt",
+  "rarity" : "Very Rare",
+  "textureName" : "Highlord's Belt",
+  "value" : 9000,
+  "weight" : 0.5
+}

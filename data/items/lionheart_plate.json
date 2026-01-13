@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Magnificent plate emblazoned with a roaring lion. This armor was forged for Richard the Lionheart's crusaders, who wore it charging into impossible odds. The lion symbol grants courage to the wearer and their allies—those nearby gain advantage on saves against being frightened. The armor remembers the brave hearts who wore it before, and expects no less from its current owner.",
+  "id" : "lionheart_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Lionheart Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Lionheart Plate",
+  "value" : 2000,
+  "weight" : 56
+}

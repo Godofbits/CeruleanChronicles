@@ -1,0 +1,15 @@
+{
+  "baseAC" : 13,
+  "category" : "Medium",
+  "description" : "Hardened bark layered and shaped into protective armor. Unlike living bark armor, this has been treated and cured by druids into a more permanent form. It retains the rough texture of tree bark, blending the wearer with forest surroundings. Rangers and druids favor this armor for its balance of protection and natural origins.",
+  "id" : "barkskin_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Barkskin Armor",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Barkskin Armor",
+  "value" : 150,
+  "weight" : 22
+}

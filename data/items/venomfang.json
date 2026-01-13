@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+1",
+  "damageType" : "poison",
+  "description" : "A fang-shaped blade that constantly weeps toxic venom. The poison is harvested from the fangs of a great wyrm that terrorized the southlands. Even a minor wound can be fatal to the weak. Deals 1d6+1 poison damage.",
+  "id" : "venomfang",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Venomfang",
+  "rarity" : "Rare",
+  "textureName" : "Venomfang",
+  "value" : 1250,
+  "weight" : 2
+}

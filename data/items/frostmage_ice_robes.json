@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Pale blue robes that seem to radiate cold. Ice mages wear these while studying frost magic. The fabric helps channel elemental cold energy.",
+  "id" : "frostmage_ice_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Frostmage Ice Robes",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Frostmage_Ice_Robes",
+  "value" : 32,
+  "weight" : 1.5
+}

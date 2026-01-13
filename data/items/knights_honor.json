@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A well-crafted longsword bearing the crest of a knightly order. Each blade is presented to knights upon completing their vigil. To carry one is to carry the weight of sacred oaths. Deals 1d8 slashing damage.",
+  "id" : "knights_honor",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Knight's Honor",
+  "rarity" : "Uncommon",
+  "textureName" : "Knight's Honor",
+  "value" : 250,
+  "weight" : 3.5
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Dark robes that seem to shift and flow like living shadow. Woven by warlocks who traffic with entities from the Shadowfell, these garments enhance the wearer's command over darkness and illusion. The fabric is woven from shadow-silk, a rare material harvested from shadow spiders found only in the deepest caves. Illusionists prize these robes, for they make phantasms more convincing and shadows more substantial.",
+  "id" : "shadowmancer_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to spell save DC for illusion spells",
+  "name" : "Shadowmancer Robes",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Shadowmancer_Robes",
+  "value" : 240,
+  "weight" : 1.5
+}

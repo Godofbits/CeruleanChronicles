@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "fire",
+  "description" : "Steel alloyed with volcanic ore, this blade retains heat from the forge. Embers seem to dance along the edge when swung. Blacksmiths consider these blades bad luck to make. Deals 1d8 fire damage.",
+  "id" : "embersteel",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Embersteel",
+  "rarity" : "Uncommon",
+  "textureName" : "Embersteel",
+  "value" : 550,
+  "weight" : 3.5
+}

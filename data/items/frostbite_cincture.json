@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A cincture woven from the fur of winter wolves and enchanted with frost magic. The belt radiates cold, and frost forms on it even in warm climates. Explorers of arctic wastes and those who hunt creatures of elemental ice wear such cinctures, protected from even the most bitter cold.",
+  "id" : "frostbite_cincture",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to cold damage",
+  "name" : "Frostbite Cincture",
+  "rarity" : "Rare",
+  "textureName" : "Frostbite Cincture",
+  "value" : 870,
+  "weight" : 0.5
+}

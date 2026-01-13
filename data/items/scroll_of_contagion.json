@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll that seems diseased, its parchment spotted with corruption. This spell afflicts a target with a supernatural disease, causing weakness, fever, and eventual debilitation. The diseases this spell creates are magical in nature and spread faster than natural illness. Plague cultists and death priests use this magic to spread epidemics, while necromancers employ it to weaken enemies before finishing them. The spell was developed by studying the plagues that devastated ancient empires. Healers fear this magic, for it can undo their work in moments. Single use.",
+  "id" : "scroll_of_contagion",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Contagion",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Contagion",
+  "value" : 300,
+  "weight" : 0.10000000000000001
+}

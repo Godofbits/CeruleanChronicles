@@ -1,0 +1,13 @@
+{
+  "description" : "Your skin sprouts thorns like a rose bush. For 1 hour, creatures that hit you with melee attacks take 1d6 piercing damage.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_thorn_skin",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Thorn Skin",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Thorn Skin",
+  "value" : 200,
+  "weight" : 0.5
+}

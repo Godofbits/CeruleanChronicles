@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Sabatons crafted from volcanic obsidian, black as night and sharp as any blade. The volcanic glass has been enchanted to be as strong as steel while maintaining its light-drinking properties. Assassins and shadow warriors wear such sabatons when they must strike unseen and undetected by magical surveillance.",
+  "id" : "obsidian_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC, +2 Stealth, Immune to scrying",
+  "name" : "Obsidian Sabatons",
+  "rarity" : "Rare",
+  "textureName" : "Obsidian Sabatons",
+  "value" : 870,
+  "weight" : 1
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots carved from living stone taken from the heart of the world. They grant the resilience of mountains and the endurance of eternal stone. Dwarven kings wear such boots when they must stand immovable against any foe. The stone is warm to the touch, pulsing with the heartbeat of the earth itself. Those who wear them become as unmovable and unbreakable as the ancient peaks.",
+  "id" : "stoneheart_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 Constitution, Immunity to petrification, Resistance to all damage (except psychic), +2 AC",
+  "name" : "Stoneheart Boots",
+  "rarity" : "Very Rare",
+  "textureName" : "Stoneheart Boots",
+  "value" : 9500,
+  "weight" : 1
+}

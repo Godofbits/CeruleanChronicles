@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Leather gloves blessed by Artemis, Greek goddess of the hunt. They grant uncanny accuracy when hunting wild beasts and enhance survival skills in wilderness. Hunters who receive such gloves from Artemis herself never return from the forest empty-handed.",
+  "id" : "artemis_hunt_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Artemis' Hunt Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Artemis' Hunt Gloves",
+  "value" : 235,
+  "weight" : 0.5
+}

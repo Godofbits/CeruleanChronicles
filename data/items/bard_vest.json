@@ -1,0 +1,14 @@
+{
+  "baseAC" : 12,
+  "category" : "Light",
+  "description" : "Stylish leather vest reinforced with hidden steel plates. Designed for performers who need to look elegant while having protection against drunken brawls and jealous rivals. The colorful exterior conceals its defensive purpose.",
+  "id" : "bard_vest",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bard Vest",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Bard Vest",
+  "value" : 60,
+  "weight" : 9
+}

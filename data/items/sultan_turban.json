@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A magnificent silk turban with a massive ruby at its center, worn by sultans and wealthy merchants of the eastern deserts. The ruby is enchanted to detect poison and treachery, glowing red when danger is near. The wearer exudes an aura of authority and wealth. +0 AC.",
+  "id" : "sultan_turban",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Sultan Turban",
+  "rarity" : "Very Rare",
+  "textureName" : "Sultan Turban",
+  "value" : 6500,
+  "weight" : 0.80000000000000004
+}

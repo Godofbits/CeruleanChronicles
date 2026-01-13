@@ -1,0 +1,148 @@
+{
+    "id": "oni",
+    "isActive": false,
+    "name": "Oni",
+    "size": "large",
+    "type": "giant",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 16,
+    "armorType": "chain mail",
+    "hitDice": {
+        "count": 13,
+        "die": "d10",
+        "modifier": 39
+    },
+    "speeds": {
+        "walk": 30,
+        "fly": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 19,
+        "dexterity": 11,
+        "constitution": 16,
+        "intelligence": 14,
+        "wisdom": 12,
+        "charisma": 15
+    },
+
+    "savingThrows": ["dexterity", "constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "arcana", "bonus": 5 },
+        { "skill": "deception", "bonus": 8 },
+        { "skill": "perception", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 14,
+    "languages": ["Common", "Giant"],
+    "telepathyRange": null,
+
+    "challengeRating": "7",
+    "experiencePoints": 2900,
+
+    "texture": "Oni_01",
+
+    "habitat": {
+        "environments": ["forest", "mountain", "urban"],
+        "depth": "surface",
+        "description": "Oni are malevolent spirits that take the form of blue-skinned giants with terrible horns. They use their shapeshifting abilities to infiltrate settlements, feeding on humanoid flesh while sowing discord and fear.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Magic Weapons",
+            "description": "The oni's weapon attacks are magical.",
+            "effect": null
+        },
+        {
+            "name": "Regeneration",
+            "description": "The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The oni makes two attacks, either with its claws or its glaive.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 8 (1d8 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Glaive",
+            "description": "Melee Weapon Attack: +7 to hit, reach 10 ft., one target. Hit: 15 (2d10 + 4) slashing damage, or 9 (1d10 + 4) slashing damage in Small or Medium form.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d10",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Change Shape",
+            "description": "The oni magically polymorphs into a Small or Medium humanoid, into a Large giant, or back into its true form. Other than its size, its statistics are the same in each form. The only equipment that is transformed is its glaive, which shrinks so that it can be wielded in humanoid form. If the oni dies, it reverts to its true form, and its glaive reverts to its normal size.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

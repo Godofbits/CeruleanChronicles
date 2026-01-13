@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "One of the greatest treasures of Asgard, forged by the dwarven sons of Ivaldi for Odin himself. On every ninth night, eight new rings drip from Draupnir like dew from leaves. Odin placed this ring on Baldr's funeral pyre, but Baldr's death was not the end. The ring represents abundance, renewal, and the eternal cycle of creation. To wear Draupnir is to hold Odin's own authority.",
+  "id" : "draupnir_the_multiplier",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Every 9th night, produce 8 gold rings of equal weight, +3 Charisma",
+  "name" : "Draupnir, the Multiplier",
+  "rarity" : "Legendary",
+  "textureName" : "Rings V2_29",
+  "value" : 8000,
+  "weight" : 0
+}

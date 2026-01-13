@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Sabatons forged from darksteel, a black metal harder than any natural substance. The metal is mined in the deepest places of the Underdark where it grows like crystal in absolute darkness. These sabatons turn aside any blade and strike fear into those who recognize their significance. Drow warriors and dark knights favor such sabatons.",
+  "id" : "darksteel_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 AC, Resistance to slashing damage, +1 Intimidation",
+  "name" : "Darksteel Sabatons",
+  "rarity" : "Rare",
+  "textureName" : "Darksteel Sabatons",
+  "value" : 950,
+  "weight" : 1
+}

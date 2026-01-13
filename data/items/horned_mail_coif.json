@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A chainmail hood reinforced with small horns, blending Viking ferocity with practical protection. The combination provides flexibility while still intimidating foes. Northern mercenaries favor this hybrid design. +1 AC.",
+  "id" : "horned_mail_coif",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Horned Mail Coif",
+  "rarity" : "Uncommon",
+  "textureName" : "Horned Mail Coif",
+  "value" : 130,
+  "weight" : 3.5
+}

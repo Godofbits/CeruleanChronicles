@@ -1,0 +1,135 @@
+{
+    "id": "night_hag",
+    "isActive": false,
+    "name": "Night Hag",
+    "size": "medium",
+    "type": "fiend",
+    "subtype": null,
+    "alignment": "neutralEvil",
+
+    "armorClass": 17,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 15,
+        "die": "d8",
+        "modifier": 45
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 15,
+        "constitution": 16,
+        "intelligence": 16,
+        "wisdom": 14,
+        "charisma": 16
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "deception", "bonus": 7 },
+        { "skill": "insight", "bonus": 6 },
+        { "skill": "perception", "bonus": 6 },
+        { "skill": "stealth", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold" },
+        { "type": "fire" },
+        { "type": "bludgeoning", "condition": "nonmagical" },
+        { "type": "piercing", "condition": "nonmagical" },
+        { "type": "slashing", "condition": "nonmagical" }
+    ],
+    "immunities": null,
+    "conditionImmunities": ["charmed"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 16,
+    "languages": ["Abyssal", "Common", "Infernal", "Primordial"],
+    "telepathyRange": null,
+
+    "challengeRating": "5",
+    "experiencePoints": 1800,
+
+    "texture": "NightHag_01",
+
+    "habitat": {
+        "environments": ["planar", "swamp", "dungeon"],
+        "depth": "deep",
+        "description": "Night hags are fiendish crones who travel the Ethereal Plane, invading the dreams of mortals to harvest their souls. They peddle evil artifacts and vile bargains, corrupting the innocent with whispered temptations.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Magic Resistance",
+            "description": "The hag has advantage on saving throws against spells and other magical effects.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 7,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Change Shape",
+            "description": "The hag magically polymorphs into a Small or Medium female humanoid, or back into her true form. Her statistics are the same in each form. Any equipment she is wearing or carrying isn't transformed. She reverts to her true form if she dies.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Etherealness",
+            "description": "The hag magically enters the Ethereal Plane from the Material Plane, or vice versa. To do so, the hag must have a heartstone in her possession.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Nightmare Haunting",
+            "description": "While on the Ethereal Plane, the hag magically touches a sleeping humanoid on the Material Plane. As long as the contact persists, the target has dreadful visions. If these visions last for at least 1 hour, the target gains no benefit from its rest, and its hit point maximum is reduced by 5 (1d10). If this effect reduces the target's hit point maximum to 0, the target dies.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

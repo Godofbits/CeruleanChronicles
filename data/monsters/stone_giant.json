@@ -1,0 +1,144 @@
+{
+    "id": "stone_giant",
+    "isActive": false,
+    "name": "Stone Giant",
+    "sortName": "Giant, Stone",
+    "size": "huge",
+    "type": "giant",
+    "subtype": null,
+    "alignment": "trueNeutral",
+
+    "armorClass": 17,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 11,
+        "die": "d12",
+        "modifier": 55
+    },
+    "speeds": {
+        "walk": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 23,
+        "dexterity": 15,
+        "constitution": 20,
+        "intelligence": 10,
+        "wisdom": 12,
+        "charisma": 9
+    },
+
+    "savingThrows": ["dexterity", "constitution", "wisdom"],
+    "skills": [
+        { "skill": "athletics", "bonus": 12 },
+        { "skill": "perception", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 14,
+    "languages": ["Giant"],
+    "telepathyRange": null,
+
+    "challengeRating": "7",
+    "experiencePoints": 2900,
+
+    "texture": "SonteGiant_01_128x128",
+
+    "habitat": {
+        "environments": ["mountain", "underground"],
+        "depth": "deep",
+        "description": "Stone giants dwell in caverns and mountain peaks, living as reclusive artists who carve elaborate sculptures from the living rock. They view the surface world as a dream and rarely interfere with smaller creatures unless provoked.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Stone Camouflage",
+            "description": "The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The giant makes two greatclub attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Greatclub",
+            "description": "Melee Weapon Attack: +9 to hit, reach 15 ft., one target. Hit: 19 (3d8 + 6) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 9,
+                "reach": 15,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d8",
+                        "modifier": 6,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Rock",
+            "description": "Ranged Weapon Attack: +9 to hit, range 60/240 ft., one target. Hit: 28 (4d10 + 6) bludgeoning damage. If the target is a creature, it must succeed on a DC 17 Strength saving throw or be knocked prone.",
+            "actionType": "rangedWeapon",
+            "attack": {
+                "bonus": 9,
+                "reach": null,
+                "rangeNormal": 60,
+                "rangeLong": 240,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 4,
+                        "dieType": "d10",
+                        "modifier": 6,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": {
+                "dc": 17,
+                "type": "strength",
+                "onFail": "knocked prone",
+                "onSuccess": "none"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": [
+        {
+            "name": "Rock Catching",
+            "description": "If a rock or similar object is hurled at the giant, the giant can, with a successful DC 10 Dexterity check, catch the missile and take no bludgeoning damage from it.",
+            "trigger": "A rock or similar object is hurled at the giant"
+        }
+    ],
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

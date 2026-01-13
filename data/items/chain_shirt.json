@@ -1,0 +1,15 @@
+{
+  "baseAC" : 13,
+  "category" : "Medium",
+  "description" : "Short-sleeved mail shirt made of interlocking iron rings. Offers good protection without the bulk of full chain mail. Popular among soldiers and adventurers.",
+  "id" : "chain_shirt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Chain Shirt",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Chain Shirt",
+  "value" : 50,
+  "weight" : 20
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A helmet woven from enchanted willow branches by forest druids. Despite its fragile appearance, the magical weaving makes it surprisingly resilient. The helm is favored by those who wish to move silently through woodlands. +0 AC.",
+  "id" : "wicker_helm",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Wicker Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Wicker Helm",
+  "value" : 45,
+  "weight" : 1
+}

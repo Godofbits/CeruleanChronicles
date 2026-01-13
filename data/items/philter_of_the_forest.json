@@ -1,0 +1,13 @@
+{
+  "description" : "This deep green elixir grants you the blessing of the forest spirits. For 8 hours, you can move through difficult terrain made of plants without penalty, and you have advantage on Stealth checks in natural environments.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "philter_of_the_forest",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Philter of the Forest",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Philter of the Forest",
+  "value" : 350,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Gloves made of interlocking metal rings over leather backing. They provide excellent protection while maintaining flexibility for weapon handling. The distinctive sound of chainmail marks the approach of armored warriors.",
+  "id" : "chainmail_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Chainmail Gloves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Chainmail Gloves",
+  "value" : 28,
+  "weight" : 0.5
+}

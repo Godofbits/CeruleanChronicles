@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Green-dyed leather armor designed for forest travel. The coloration helps hunters and rangers blend with foliage.",
+  "id" : "woodland_leather",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Woodland Leather",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Woodland Leather",
+  "value" : 12,
+  "weight" : 8
+}

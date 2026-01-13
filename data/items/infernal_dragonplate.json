@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Plate armor crafted from the scales of a red dragon, infused with infernal power. The legendary smith who created this armor made a deal with an arch-devil to enhance already formidable dragon scales with hellfire. The result is armor providing immunity to fire damage, resistance to all other damage types except psychic, and the ability to cast fireball (7th level) once per day. The cost was the smith's soul—a price he paid willingly for this masterpiece.",
+  "id" : "infernal_dragonplate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Infernal Dragonplate",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Infernal Dragonplate",
+  "value" : 12000,
+  "weight" : 54
+}

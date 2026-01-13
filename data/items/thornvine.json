@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+1",
+  "damageType" : "piercing",
+  "description" : "A blade wrapped in enchanted thorny vines that never wither. The thorns dig into wounds, making extraction painful. Druids who have lost their way to darkness favor these cruel weapons. Deals 1d6+1 piercing damage.",
+  "id" : "thornvine",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Thornvine",
+  "rarity" : "Uncommon",
+  "textureName" : "Thornvine",
+  "value" : 450,
+  "weight" : 2.5
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "An ornate bronze sceptre with circular designs and a blue gem. Favored by court wizards and noble spellcasters, its elegant design conceals considerable magical power. The bronze was alloyed with trace amounts of mithril for enhanced conductivity. +1 spell bonus, 10 charges.",
+  "id" : "bronze_sceptre",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Bronze Sceptre",
+  "rarity" : "Uncommon",
+  "textureName" : "Bronze Sceptre",
+  "value" : 350,
+  "weight" : 2
+}

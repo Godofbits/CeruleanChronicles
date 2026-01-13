@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A simple black leather belt with a copper buckle that has begun to develop a green patina. Common among miners, smiths, and laborers who need reliable equipment at an affordable price. The copper buckle, while humble, will never rust.",
+  "id" : "copper_buckle_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Copper Buckle Belt",
+  "rarity" : "Common",
+  "textureName" : "Copper Buckle Belt",
+  "value" : 7,
+  "weight" : 0.5
+}

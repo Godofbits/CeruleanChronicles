@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Green boots that leave a trail of small flowers and grass in their wake. The effect is temporary and primarily decorative, but it marks the wearer as blessed by nature spirits. Priests of fertility goddesses sometimes wear such boots in ceremonies.",
+  "id" : "verdant_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Plants grow beneath your feet (cosmetic)",
+  "name" : "Verdant Boots",
+  "rarity" : "Uncommon",
+  "textureName" : "Verdant Boots",
+  "value" : 155,
+  "weight" : 1
+}

@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Plate armor integrated with mechanical augmentations. Gears and springs assist movement, partially offsetting the armor's weight. Created by gnomish artificers who blend magic and machinery, clockwork plate requires maintenance but provides exceptional protection. The armor ticks and whirrs softly with each movement, and occasionally releases puffs of steam from pressure valves.",
+  "id" : "clockwork_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Clockwork Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Clockwork Plate",
+  "value" : 3000,
+  "weight" : 60
+}

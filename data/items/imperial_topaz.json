@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A golden-orange topaz of exceptional clarity. Once reserved for Roman emperors and high nobility.",
+  "id" : "imperial_topaz",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Persuasion",
+  "name" : "Imperial Topaz",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_24",
+  "value" : 105,
+  "weight" : 0
+}

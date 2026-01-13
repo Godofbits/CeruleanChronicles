@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Flowing blue robes that reach to the ankles. Worn by apprentice wizards and hedge mages learning their craft. The azure color symbolizes the sky and the limitless potential of magic.",
+  "id" : "mystic_azure_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mystic Azure Robes",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Mystic_Azure_Robes",
+  "value" : 18,
+  "weight" : 1.5
+}

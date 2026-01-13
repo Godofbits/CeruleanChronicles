@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Green-brown leather pants designed for marsh travel. Water-resistant and resistant to rot. Swamp dwellers and those who hunt in wetlands wear such practical gear.",
+  "id" : "swamp_stalker_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Swamp Stalker Pants",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Swamp_Stalker_Pants",
+  "value" : 18,
+  "weight" : 3.5
+}

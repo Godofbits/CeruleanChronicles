@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Ice-blue robes that radiate cold even in warmest summer. Woven by frost giants and enchanted by winter wizards, these vestments protect against freezing temperatures. The fabric was created from the wool of sheep that graze on tundra, treated with alchemical solutions derived from glacial ice. Mages who study the elemental plane of ice wear such robes, their bodies adapted to eternal winter.",
+  "id" : "frost_mage_vestments",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to cold (5 damage reduction)",
+  "name" : "Frost Mage Vestments",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Frost_Mage_Vestments",
+  "value" : 230,
+  "weight" : 1.5
+}

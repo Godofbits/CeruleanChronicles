@@ -1,0 +1,13 @@
+{
+  "description" : "This purple potion tastes of dreams and memories. Gain resistance to psychic damage for 1 hour.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_psychic_resistance",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Psychic Resistance",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Psychic Resistance",
+  "value" : 175,
+  "weight" : 0.5
+}

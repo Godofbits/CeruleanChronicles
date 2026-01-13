@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Red plate that radiates intense heat. Forged by fire giants for their most favored champions, this armor provides immunity to fire damage. The metal retains heat from its forging in elemental fire, remaining perpetually warm. Enemies who strike the wearer in melee take fire damage from the heated metal. In cold climates, the armor keeps its wearer comfortably warm, but in hot environments it can become oppressive.",
+  "id" : "inferno_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Inferno Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Inferno Plate",
+  "value" : 4000,
+  "weight" : 56
+}

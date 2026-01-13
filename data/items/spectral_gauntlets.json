@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Legendary",
+  "description" : "Translucent gauntlets that exist partially in the ethereal plane. They allow the wearer to strike ghosts and wraiths as if they were solid. Exorcists and ghost hunters wear such gauntlets when confronting spirits that cannot be harmed by normal means.",
+  "id" : "spectral_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Spectral Gauntlets",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Spectral Gauntlets",
+  "value" : 900,
+  "weight" : 0.5
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Green-enameled leg plates worn by knights who serve the forest kingdoms. These warriors protect ancient groves and sacred woodlands from those who would despoil them. The emerald color represents their connection to growing things, and the armor is blessed by druids to enhance the wearer's understanding of nature. Emerald Knights are both warriors and wardens, equally skilled with sword and staff.",
+  "id" : "emerald_knight_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Nature checks",
+  "name" : "Emerald Knight Legplates",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Emerald_Knight_Legplates",
+  "value" : 330,
+  "weight" : 14
+}

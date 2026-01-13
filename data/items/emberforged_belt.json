@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A belt forged in volcanic forges where the earth's fire burns eternal. The metal components retain a faint warmth, comforting in cold climates. Smiths of the fire mountains create such belts, tempering them in lava flows before quenching in glacial meltwater.",
+  "id" : "emberforged_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to cold (5 damage reduction)",
+  "name" : "Emberforged Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Emberforged Belt",
+  "value" : 250,
+  "weight" : 0.5
+}

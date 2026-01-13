@@ -1,0 +1,11 @@
+{
+  "description" : "A light scroll that seems to resist falling when dropped. This reaction spell slows falling creatures to a gentle descent, like feathers drifting on the breeze. The magic was first developed by gnomish aviators whose flying machines had an unfortunate tendency to malfunction at critical moments. It has since saved countless lives, from adventurers tumbling into pit traps to wizards pushed from towers. The spell works even at the last instant before impact. Single use.",
+  "id" : "scroll_of_feather_fall",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Feather Fall",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Feather Fall",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

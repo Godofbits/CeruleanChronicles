@@ -1,0 +1,13 @@
+{
+  "description" : "This ruby-red elixir courses with life energy, restoring both body and spirit. Favored by adventurers before dangerous quests. Regain 4d4+4 hit points and remove one level of exhaustion.",
+  "effect" : "Heals 4d4+4 HP (avg 14)",
+  "id" : "elixir_of_vitality",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Vitality",
+  "potionType" : "Potion of Greater Healing",
+  "rarity" : "Uncommon",
+  "textureName" : "Elixir of Vitality",
+  "value" : 175,
+  "weight" : 0.5
+}

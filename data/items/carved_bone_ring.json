@@ -1,0 +1,13 @@
+{
+  "category" : "Plain",
+  "description" : "A ring carved from bleached bone. Its grim appearance unsettles those who see it.",
+  "id" : "carved_bone_ring",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Intimidation",
+  "name" : "Carved Bone Ring",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_6",
+  "value" : 5,
+  "weight" : 0
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots worn by the greatest berserkers of the north, those who never knew defeat in battle. The leather is stained with the blood of countless foes and blessed by Odin himself. When the wearer enters battle-fury, these boots grant supernatural endurance and strength. Warriors wearing them have fought for days without rest, sustained by pure rage. Some say the boots contain the spirits of fallen berserkers who lend their strength to worthy successors.",
+  "id" : "berserkers_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 Strength, +3 Constitution, Rage 3\/day, Immunity to fear and exhaustion",
+  "name" : "Berserker's Boots",
+  "rarity" : "Very Rare",
+  "textureName" : "Berserker's Boots",
+  "value" : 7200,
+  "weight" : 1
+}

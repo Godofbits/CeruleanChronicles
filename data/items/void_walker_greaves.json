@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Dark purple metal greaves that seem to absorb light. Worn by those who walk between planes. The metal is cold to the touch.",
+  "id" : "void_walker_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Void Walker Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Void_Walker_Greaves",
+  "value" : 50,
+  "weight" : 11
+}

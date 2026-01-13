@@ -1,0 +1,12 @@
+{
+  "category" : "Studded",
+  "description" : "A heavy leather belt with overlapping steel plates riveted along its length. Designed to provide extra protection to the vulnerable midsection during combat. Common issue for soldiers in modern armies, where steel has replaced bronze as the metal of war.",
+  "id" : "steelplate_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Steelplate Belt",
+  "rarity" : "Common",
+  "textureName" : "Steelplate Belt",
+  "value" : 25,
+  "weight" : 0.5
+}

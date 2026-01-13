@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A vibrant green peridot favored by elven rangers. In the light, it seems to hold the essence of spring leaves.",
+  "id" : "peridot_of_the_woodland_realm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Nature checks",
+  "name" : "Peridot of the Woodland Realm",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_9",
+  "value" : 75,
+  "weight" : 0
+}

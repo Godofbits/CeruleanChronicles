@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots woven from the fabric of the Shadowfell itself. They allow the wearer to step into one shadow and emerge from another in an instant. Assassins of the Shadow Thieves pay fortunes for such boots, which make escape nearly impossible to prevent. The transition is silent and leaves no trace.",
+  "id" : "shadowweave_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Teleport to visible shadow within 30 ft (1\/short rest)",
+  "name" : "Shadowweave Boots",
+  "rarity" : "Rare",
+  "textureName" : "Shadowweave Boots",
+  "value" : 850,
+  "weight" : 1
+}

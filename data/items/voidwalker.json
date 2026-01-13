@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d10+2",
+  "damageType" : "force",
+  "description" : "A blade that exists between dimensions, phasing in and out of reality. Forged in the spaces between planes by entities beyond mortal comprehension. It can cut through anything, even magical barriers. Those who stare into its depths see the void stare back. Deals 1d10+2 force damage.",
+  "id" : "voidwalker",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Voidwalker",
+  "rarity" : "Legendary",
+  "textureName" : "Voidwalker",
+  "value" : 12000,
+  "weight" : 3
+}

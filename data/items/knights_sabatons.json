@@ -1,0 +1,13 @@
+{
+  "category" : "Reinforced",
+  "description" : "Well-crafted sabatons designed for knights in the king's service. They balance protection with mobility, allowing the wearer to fight on foot or mount with equal facility. The metal is polished to a mirror shine, marking the wearer as a true knight.",
+  "id" : "knights_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC, +1 Athletics",
+  "name" : "Knight's Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "Knight's Sabatons",
+  "value" : 190,
+  "weight" : 1
+}

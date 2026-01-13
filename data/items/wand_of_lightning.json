@@ -1,0 +1,11 @@
+{
+  "description" : "A silver wand crackling with electrical energy that makes hair stand on end. Forged during a thunderstorm atop the highest peak, it was struck by lightning a hundred times during its creation. Thunder rumbles when powerful spells are cast. +2 spell bonus, 10 charges, lightning damage.",
+  "id" : "wand_of_lightning",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Lightning",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Lightning",
+  "value" : 3500,
+  "weight" : 1
+}

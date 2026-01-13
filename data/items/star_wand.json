@@ -1,0 +1,11 @@
+{
+  "description" : "A golden wand topped with a multi-pointed star that glimmers with celestial light. Crafted by astrologers who channel starlight into their magic, it is particularly effective during clear nights when the stars are visible. +1 spell bonus, 7 charges, radiant damage.",
+  "id" : "star_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Star Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Star Wand",
+  "value" : 480,
+  "weight" : 0.5
+}

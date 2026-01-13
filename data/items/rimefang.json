@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "cold",
+  "description" : "Fashioned from the fang of a frost wyrm, this curved blade bites with supernatural cold. The last breath of the dying beast was frozen into the weapon. Its victims turn blue before they fall. Deals 1d8+1 cold damage.",
+  "id" : "rimefang",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Rimefang",
+  "rarity" : "Rare",
+  "textureName" : "Rimefang",
+  "value" : 1350,
+  "weight" : 3
+}

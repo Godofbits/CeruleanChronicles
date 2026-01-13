@@ -1,0 +1,11 @@
+{
+  "description" : "A staff hewn from the heartwood of an ancient oak that stood for a thousand years. The wood remembers its strength and grants resilience to the bearer. Druids plant an acorn when they claim such a staff, ensuring the forest's renewal.",
+  "id" : "staff_of_the_oak",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Oak",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of the Oak",
+  "value" : 250,
+  "weight" : 3
+}

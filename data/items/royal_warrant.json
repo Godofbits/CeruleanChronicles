@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll authorizing specific actions in the king's name. Warrants grant permission for arrests, searches, requisitions, or military actions. They protect the bearer from legal consequences when executing the crown's will. Sheriffs and bailiffs carry such documents when enforcing royal justice. However, warrants can be forged, and many a clever thief has escaped custody by presenting a convincing fake to unsuspecting guards.",
+  "id" : "royal_warrant",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Royal Warrant",
+  "rarity" : "Uncommon",
+  "textureName" : "Royal Warrant",
+  "value" : 20,
+  "weight" : 0.10000000000000001
+}

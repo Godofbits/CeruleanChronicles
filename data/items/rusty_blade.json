@@ -1,0 +1,14 @@
+{
+  "category" : "Simple",
+  "damage" : "1d4",
+  "damageType" : "slashing",
+  "description" : "A badly corroded sword that has seen better days. The rust actually makes wounds more likely to fester. Better than nothing, barely. Deals 1d4 slashing damage.",
+  "id" : "rusty_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Rusty Blade",
+  "rarity" : "Common",
+  "textureName" : "Rusty Blade",
+  "value" : 2,
+  "weight" : 2.5
+}

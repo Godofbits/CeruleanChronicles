@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Robes of deep orange and red that radiate warmth, worn by prophets who have gazed into the eternal flame and seen the future written in its dancing tongues. The Flame Prophets of Khand wore such vestments when they foretold the coming of the Dark Lord and the War of the Ring. The robes enhance fire magic dramatically, turning simple flames into devastating infernos. Those who wear them are said to see visions in every fire they encounter, the future revealing itself in flickering patterns of light and shadow.",
+  "id" : "flame_prophet_vestments",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to spell attack rolls with fire spells, Fire spells deal +1d4 damage",
+  "name" : "Flame Prophet Vestments",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Flame_Prophet_Vestments",
+  "value" : 1050,
+  "weight" : 1.5
+}

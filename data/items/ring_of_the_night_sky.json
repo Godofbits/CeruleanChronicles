@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A deep purple amethyst flecked with points of light like distant stars. Worshippers of Nyx, Greek goddess of night, wore such rings to walk unseen beneath her starry veil.",
+  "id" : "ring_of_the_night_sky",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Cast Darkness 2\/day, See normally in magical darkness",
+  "name" : "Ring of the Night Sky",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_52",
+  "value" : 580,
+  "weight" : 0
+}

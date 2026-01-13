@@ -1,0 +1,11 @@
+{
+  "description" : "A red scroll that feels warm to the touch, inscribed with barrier runes. This spell creates a wall of roaring flames that blocks passage and burns those who dare cross it. The wall can be shaped into a line, circle, or hemispherical dome, adapting to tactical needs. Fire mages use these barriers to control the battlefield, channeling enemies into kill zones or protecting allies from advancing hordes. The flames burn for minutes, hot enough to ignite wood and scorch stone. Single use.",
+  "id" : "scroll_of_wall_of_fire",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Wall of Fire",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Wall of Fire",
+  "value" : 200,
+  "weight" : 0.10000000000000001
+}

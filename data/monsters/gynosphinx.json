@@ -1,0 +1,141 @@
+{
+    "id": "gynosphinx",
+    "isActive": false,
+    "name": "Gynosphinx",
+    "size": "large",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "lawfulNeutral",
+
+    "armorClass": 17,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 16,
+        "die": "d10",
+        "modifier": 48
+    },
+    "speeds": {
+        "walk": 40,
+        "fly": 60
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 15,
+        "constitution": 16,
+        "intelligence": 18,
+        "wisdom": 18,
+        "charisma": 18
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "arcana", "bonus": 12 },
+        { "skill": "history", "bonus": 12 },
+        { "skill": "perception", "bonus": 8 },
+        { "skill": "religion", "bonus": 8 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "bludgeoning", "condition": "nonmagical" },
+        { "type": "piercing", "condition": "nonmagical" },
+        { "type": "slashing", "condition": "nonmagical" }
+    ],
+    "immunities": ["psychic"],
+    "conditionImmunities": ["charmed", "frightened"],
+
+    "senses": [
+        { "sense": "truesight", "range": 120 }
+    ],
+    "passivePerception": 18,
+    "languages": ["Common", "Sphinx"],
+    "telepathyRange": null,
+
+    "challengeRating": "11",
+    "experiencePoints": 7200,
+
+    "texture": "Gynosphynx_01",
+
+    "habitat": {
+        "environments": ["desert", "ruins", "dungeon"],
+        "depth": "deep",
+        "description": "Gynosphinxes guard ancient temples and repositories of forbidden knowledge, testing all who approach with deadly riddles. They possess vast wisdom and can manipulate time itself within their lairs.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Inscrutable",
+            "description": "The sphinx is immune to any effect that would sense its emotions or read its thoughts, as well as any divination spell that it refuses. Wisdom (Insight) checks made to ascertain the sphinx's intentions or sincerity have disadvantage.",
+            "effect": null
+        },
+        {
+            "name": "Magic Weapons",
+            "description": "The sphinx's weapon attacks are magical.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The sphinx makes two claw attacks.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +8 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 8,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": {
+        "actionsPerRound": 3,
+        "description": "The sphinx can take 3 legendary actions, choosing from the options below.",
+        "actions": [
+            {
+                "name": "Claw Attack",
+                "cost": 1,
+                "description": "The sphinx makes one claw attack."
+            },
+            {
+                "name": "Teleport",
+                "cost": 2,
+                "description": "The sphinx magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see."
+            },
+            {
+                "name": "Cast a Spell",
+                "cost": 3,
+                "description": "The sphinx casts a spell from its list of prepared spells, using a spell slot as normal."
+            }
+        ]
+    },
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Reinforced",
+  "description" : "Standard-issue greaves for Roman legionaries. Mass-produced yet well-made, they protected the shins of soldiers who conquered half the known world. The metal bears the stamp of imperial armories.",
+  "id" : "legionnaire_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Legionnaire Greaves",
+  "rarity" : "Common",
+  "textureName" : "Legionnaire Greaves",
+  "value" : 26,
+  "weight" : 1
+}

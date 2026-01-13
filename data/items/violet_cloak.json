@@ -1,0 +1,14 @@
+{
+  "baseAC" : 10,
+  "category" : "Magical",
+  "description" : "Deep purple cloak favored by illusionists and enchanters. The violet hue is achieved through rare dyes that shimmer in magical light. Wearing such a cloak marks the owner as a practitioner of subtle magics—those who twist minds rather than hurl fire.",
+  "id" : "violet_cloak",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Violet Cloak",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Violet Cloak",
+  "value" : 50,
+  "weight" : 3
+}

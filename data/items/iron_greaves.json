@@ -1,0 +1,12 @@
+{
+  "category" : "Reinforced",
+  "description" : "Simple iron plates strapped over leather boots. Common issue for infantry soldiers who need leg protection without the cost of full plate. The metal has dulled from use but still turns aside blades and arrows.",
+  "id" : "iron_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Iron Greaves",
+  "rarity" : "Common",
+  "textureName" : "Iron Greaves",
+  "value" : 25,
+  "weight" : 1
+}

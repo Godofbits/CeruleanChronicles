@@ -1,0 +1,110 @@
+{
+    "id": "basilisk",
+    "isActive": false,
+    "name": "Basilisk",
+    "size": "medium",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 15,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 8,
+        "die": "d8",
+        "modifier": 16
+    },
+    "speeds": {
+        "walk": 20
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 16,
+        "dexterity": 8,
+        "constitution": 15,
+        "intelligence": 2,
+        "wisdom": 8,
+        "charisma": 7
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 9,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "3",
+    "experiencePoints": 700,
+
+    "texture": "mons_basilisk_01",
+
+    "habitat": {
+        "environments": ["underground", "dungeon", "ruins"],
+        "depth": "deep",
+        "description": "Basilisks lurk in dark caverns and ancient ruins, leaving petrified victims as grim warnings of their presence. Their lairs are often littered with stone statues of unfortunate adventurers who met their deadly gaze.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Petrifying Gaze",
+            "description": "If a creature starts its turn within 30 feet of the basilisk and the two of them can see each other, the basilisk can force the creature to make a DC 12 Constitution saving throw if the basilisk isn't incapacitated. On a failed save, the creature magically begins to turn to stone and is restrained. It must repeat the saving throw at the end of its next turn. On a success, the effect ends. On a failure, the creature is petrified until freed by the greater restoration spell or other magic.",
+            "effect": {
+                "type": "petrifyingGaze",
+                "parameters": {
+                    "range": 30,
+                    "saveDC": 12,
+                    "saveType": "constitution"
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6 + 3) piercing damage plus 7 (2d6) poison damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 3,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

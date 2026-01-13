@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt set with a large starstone, a meteorite fragment that fell from the heavens. The stone glows with faint starlight even in brightest day. Those who wear it feel no exhaustion and require no sleep, as if sustained by the eternal light of distant stars. However, extended use can disconnect the wearer from mortal concerns, leaving them feeling alien to their own world.",
+  "id" : "starstone_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fatigue, No need for sleep",
+  "name" : "Starstone Belt",
+  "rarity" : "Rare",
+  "textureName" : "Starstone Belt",
+  "value" : 1050,
+  "weight" : 0.5
+}

@@ -1,0 +1,103 @@
+{
+    "id": "acolyte",
+    "isActive": false,
+    "name": "Acolyte",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "trueNeutral",
+
+    "armorClass": 10,
+    "armorType": null,
+    "hitDice": {
+        "count": 2,
+        "die": "d8",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 10,
+        "intelligence": 10,
+        "wisdom": 14,
+        "charisma": 11
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "medicine", "bonus": 4 },
+        { "skill": "religion", "bonus": 2 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 12,
+    "languages": ["Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "mons_acolyte_01",
+
+    "habitat": {
+        "environments": ["urban", "ruins", "dungeon"],
+        "depth": "surface",
+        "description": "Acolytes serve in temples throughout the realm, dedicating their lives to divine service and spiritual study. Some venture into dangerous places on holy missions, while others fall into the service of dark gods.",
+        "rarity": "common"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Club",
+            "description": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 2 (1d4) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 2,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 0,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": {
+        "casterLevel": 1,
+        "ability": "wisdom",
+        "saveDC": 12,
+        "attackBonus": 4,
+        "slots": {
+            "1": 3
+        },
+        "spells": {
+            "1": ["light", "sacred flame", "thaumaturgy", "bless", "cure wounds", "sanctuary"]
+        }
+    },
+    "innateSpellcasting": null
+}

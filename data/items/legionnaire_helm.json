@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A Roman-style helm with wide cheek guards and a protective neck flange. Standard issue for the Imperial Legion, its design has been refined through countless campaigns. The iron construction is durable and easily repaired in the field. +2 AC.",
+  "id" : "legionnaire_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Legionnaire Helm",
+  "rarity" : "Common",
+  "textureName" : "Legionnaire Helm",
+  "value" : 45,
+  "weight" : 4
+}

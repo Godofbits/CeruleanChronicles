@@ -1,0 +1,11 @@
+{
+  "description" : "A turquoise wand with coral branches at the top. Grown in the underwater kingdoms and blessed by sea druids, it channels the power of the ocean depths. The coral is still alive and slowly grows over time. +1 spell bonus, 7 charges.",
+  "id" : "coral_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Coral Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Coral Wand",
+  "value" : 400,
+  "weight" : 1
+}

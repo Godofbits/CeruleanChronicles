@@ -1,0 +1,11 @@
+{
+  "description" : "A crimson wand that burns with dark red flames fueled by life force. Forged in the blood pits of the Nine Hells, it converts vitality into devastating fire magic. Using it drains the wielder slightly but produces flames that burn hotter than natural fire. +2 spell bonus, 10 charges, fire\/necrotic damage.",
+  "id" : "wand_of_bloodfire",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Bloodfire",
+  "rarity" : "Very Rare",
+  "textureName" : "Wand of Bloodfire",
+  "value" : 6000,
+  "weight" : 1
+}

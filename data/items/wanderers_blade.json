@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "slashing",
+  "description" : "A practical sword designed for travelers and adventurers. Light enough to carry on long journeys, sharp enough to handle trouble along the way. Deals 1d6 slashing damage.",
+  "id" : "wanderers_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Wanderer's Blade",
+  "rarity" : "Common",
+  "textureName" : "Wanderer's Blade",
+  "value" : 18,
+  "weight" : 2.5
+}

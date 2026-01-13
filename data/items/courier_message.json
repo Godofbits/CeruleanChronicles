@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll designed for swift delivery. Courier messages use abbreviated language and clear handwriting for quick reading. Professional messengers carry such scrolls in waterproof cases, racing between cities to deliver time-sensitive information. The message might report troop movements, price changes in distant markets, or personal emergencies. Speed matters more than ceremony in such correspondence.",
+  "id" : "courier_message",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Courier Message",
+  "rarity" : "Common",
+  "textureName" : "Courier Message",
+  "value" : 3,
+  "weight" : 0.10000000000000001
+}

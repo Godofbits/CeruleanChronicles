@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll covered in skulls and curse marks. This spell places a debilitating curse on a target, reducing their capabilities in various ways—weakening attacks, hampering defenses, or causing disadvantage on important actions. The curse's exact form is chosen at casting, allowing customization to the victim. Witches and necromancers have used such curses for revenge and warfare for millennia. Breaking the curse requires remove curse or similar magic. Some curses persist for days, while powerful versions last until dispelled. Single use.",
+  "id" : "scroll_of_bestow_curse",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Bestow Curse",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Bestow Curse",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

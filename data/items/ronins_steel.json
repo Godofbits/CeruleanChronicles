@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d8",
+  "damageType" : "slashing",
+  "description" : "A curved eastern blade carried by a masterless warrior who wandered far from home. The folded steel holds a razor edge, and the lacquered scabbard shows signs of many travels. Deals 1d8 slashing damage.",
+  "id" : "ronins_steel",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Ronin's Steel",
+  "rarity" : "Uncommon",
+  "textureName" : "Ronin's Steel",
+  "value" : 220,
+  "weight" : 3
+}

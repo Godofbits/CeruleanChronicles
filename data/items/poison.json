@@ -1,0 +1,13 @@
+{
+  "description" : "A creature takes 3d6 poison damage on a failed CON save (DC 13).",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "poison",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Poison",
+  "potionType" : "Poison",
+  "rarity" : "Common",
+  "textureName" : "Poison",
+  "value" : 100,
+  "weight" : 0.5
+}

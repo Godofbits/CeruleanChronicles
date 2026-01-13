@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Magical",
+  "description" : "The skull of an ancient lich, hollowed and enchanted to serve as a helm. The eye sockets glow with spectral fire, and the jaw moves when the wearer speaks. Grants immunity to fear and allows communication with the dead. Dark whispers constantly tempt the wearer toward necromancy. +1 AC.",
+  "id" : "lich_skull_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Lich Skull Helm",
+  "rarity" : "Legendary",
+  "textureName" : "Lich Skull Helm",
+  "value" : 18000,
+  "weight" : 2.5
+}

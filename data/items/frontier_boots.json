@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Rugged boots worn by settlers on the edge of civilization. Built to withstand hard work and harder weather, they're as common on farmsteads as in frontier forts. The leather is thick and practical rather than elegant.",
+  "id" : "frontier_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Frontier Boots",
+  "rarity" : "Common",
+  "textureName" : "Frontier Boots",
+  "value" : 12,
+  "weight" : 1
+}

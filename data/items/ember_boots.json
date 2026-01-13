@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots that glow with internal heat, leaving scorching footprints wherever they tread. The embers cool quickly but can ignite flammable materials. Fire dancers and pyromancers wear such boots in their rituals. The leather was tanned in volcanic forges where regular flames would be too cool.",
+  "id" : "ember_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to fire, Leave burning footprints (1d4 fire damage)",
+  "name" : "Ember Boots",
+  "rarity" : "Rare",
+  "textureName" : "Ember Boots",
+  "value" : 680,
+  "weight" : 1
+}

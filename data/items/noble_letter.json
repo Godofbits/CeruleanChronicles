@@ -1,0 +1,11 @@
+{
+  "description" : "An elegant rolled letter on fine parchment, sealed with a noble house's crest. Such correspondence maintains the complex web of alliances, rivalries, and obligations that define noble society. The language is formal and carefully chosen, for every word might be scrutinized for hidden meaning. These letters arrange marriages, negotiate treaties, issue challenges, or express condolences. The parchment and ink quality reflect the sender's status and respect for the recipient.",
+  "id" : "noble_letter",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Noble Letter",
+  "rarity" : "Uncommon",
+  "textureName" : "Noble Letter",
+  "value" : 10,
+  "weight" : 0.10000000000000001
+}

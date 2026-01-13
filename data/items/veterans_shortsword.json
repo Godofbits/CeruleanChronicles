@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "piercing",
+  "description" : "A well-maintained shortsword that has seen many campaigns. The blade shows signs of careful sharpening and the grip is worn smooth from years of use. A reliable companion. Deals 1d6 piercing damage.",
+  "id" : "veterans_shortsword",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Veteran's Shortsword",
+  "rarity" : "Common",
+  "textureName" : "Veteran's Shortsword",
+  "value" : 20,
+  "weight" : 2
+}

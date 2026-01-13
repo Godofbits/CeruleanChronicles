@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A quilted cloth hood worn under metal helms for padding. Also worn alone by those who cannot afford better protection. The layers of linen absorb some impact from blows. +0 AC.",
+  "id" : "padded_coif",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Padded Coif",
+  "rarity" : "Common",
+  "textureName" : "Padded Coif",
+  "value" : 10,
+  "weight" : 1
+}

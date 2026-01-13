@@ -1,0 +1,11 @@
+{
+  "description" : "A staff adorned with a raven's skull and black feathers. Ravens are messengers of omens and death, and this staff channels their knowing. Witches and warlocks who keep ravens as familiars often carry such staffs.",
+  "id" : "raven_skull_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Raven Skull Staff",
+  "rarity" : "Common",
+  "textureName" : "Raven Skull Staff",
+  "value" : 38,
+  "weight" : 3
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A girdle that perfectly balances the powers of light and darkness, waxing and waning with the sun's journey across the sky. Created by twin archmages, one devoted to day and one to night, who sought to prove that light and shadow are but two faces of the same truth. The belt shifts its enchantments with the sun's position: by day it enhances the wearer's capabilities, by night it provides impenetrable defense.",
+  "id" : "solstice_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to all ability scores during day, +2 AC during night, Immunity to light and darkness spells",
+  "name" : "Solstice Girdle",
+  "rarity" : "Very Rare",
+  "textureName" : "Solstice Girdle",
+  "value" : 9500,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "piercing",
+  "description" : "A slender dueling blade favored by nobles of the Golden Court. Its gilded guard and pommel mark the bearer as a person of refined taste and deadly skill. Deals 1d6 piercing damage.",
+  "id" : "auric_foil",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Auric Foil",
+  "rarity" : "Uncommon",
+  "textureName" : "Auric Foil",
+  "value" : 350,
+  "weight" : 1.5
+}

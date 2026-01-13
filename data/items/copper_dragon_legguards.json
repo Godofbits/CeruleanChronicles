@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Copper-colored scale armor with a distinctive patina. The design mimics copper dragon scales. Affordable protection with an exotic appearance.",
+  "id" : "copper_dragon_legguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Copper Dragon Legguards",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Copper_Dragon_Legguards",
+  "value" : 48,
+  "weight" : 7.5
+}

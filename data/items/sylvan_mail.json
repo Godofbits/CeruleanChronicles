@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Green-tinted elven mail woven with enchanted leaves and bark. The armor grows as naturally as a plant, shaped by druidic magic rather than forged. It provides the protection of steel while remaining as light as leather. Wood elves guard the secret of its creation, gifting it only to proven defenders of the forest.",
+  "id" : "sylvan_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Sylvan Mail",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Sylvan Mail",
+  "value" : 450,
+  "weight" : 25
+}

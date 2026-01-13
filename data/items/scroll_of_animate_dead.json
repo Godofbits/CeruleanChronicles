@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll decorated with skulls and death imagery. This necromantic spell raises corpses and skeletons as undead servants under the caster's control. The magic binds departed souls to their remains or animates them through pure negative energy. Necromancers use this spell to build undead armies, while desperate defenders might raise fallen enemies to fight their former allies. Most societies ban this spell, viewing it as a desecration of the dead. The undead created are mindless but obedient. Single use.",
+  "id" : "scroll_of_animate_dead",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Animate Dead",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Animate Dead",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

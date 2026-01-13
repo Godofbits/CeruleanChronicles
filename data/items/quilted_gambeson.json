@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Padded cloth armor quilted in diamond patterns. Worn by militia and peasant levies, it provides basic protection at minimal cost. Often worn under chain mail for additional padding.",
+  "id" : "quilted_gambeson",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Quilted Gambeson",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Quilted Gambeson",
+  "value" : 5,
+  "weight" : 8
+}

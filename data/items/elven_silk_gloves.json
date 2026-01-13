@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Gloves woven from silk produced by spiders bred in the hidden groves of Lothlórien. Lighter than gossamer yet stronger than common rope, the silk moves with the wearer like a second skin. Elven artisans create these gloves using techniques passed down through ages, and they remain prized by those who value grace and precision. The fabric seems to anticipate the wearer's movements, enhancing natural dexterity.",
+  "id" : "elven_silk_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Elven Silk Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Elven Silk Gloves",
+  "value" : 150,
+  "weight" : 0.5
+}

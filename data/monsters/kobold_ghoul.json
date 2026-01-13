@@ -1,0 +1,145 @@
+{
+    "id": "kobold_ghoul",
+    "isActive": false,
+    "name": "Kobold Ghoul",
+    "size": "small",
+    "type": "undead",
+    "subtype": "kobold",
+    "alignment": "chaoticEvil",
+
+    "armorClass": 11,
+    "armorType": null,
+    "hitDice": {
+        "count": 2,
+        "die": "d6",
+        "modifier": 0
+    },
+    "speeds": {
+        "walk": 25
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 7,
+        "dexterity": 13,
+        "constitution": 10,
+        "intelligence": 6,
+        "wisdom": 8,
+        "charisma": 5
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "stealth", "bonus": 3 }
+    ],
+
+    "vulnerabilities": ["radiant"],
+    "resistances": null,
+    "immunities": ["poison"],
+    "conditionImmunities": ["poisoned", "exhaustion"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 }
+    ],
+    "passivePerception": 9,
+    "languages": ["understands Common and Draconic but cannot speak"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/4",
+    "experiencePoints": 50,
+
+    "texture": "mons_001",
+
+    "habitat": {
+        "environments": ["underground", "underdark", "ruins"],
+        "depth": "deep",
+        "description": "These wretched undead kobolds haunt the tunnels where their tribes once dwelt, their hunger for flesh driving them to ambush any creature foolish enough to venture into their territory. They often lurk near kobold warrens that fell to necromantic corruption.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Sunlight Sensitivity",
+            "description": "While in sunlight, the kobold ghoul has disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight.",
+            "effect": {
+                "type": "sunlightSensitivity",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Undead Fortitude",
+            "description": "If damage reduces the kobold ghoul to 0 hit points, it can make a Constitution saving throw with a DC of 5 + the damage taken, unless the damage is radiant or from a critical hit. On a success, the kobold ghoul drops to 1 hit point instead.",
+            "effect": {
+                "type": "undeadFortitude",
+                "parameters": {
+                    "baseDC": 5
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Claws",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 3 (1d4 + 1) slashing damage. If the target is a creature, it must succeed on a DC 10 Constitution saving throw or be paralyzed for 1 round.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 1,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "paralyze",
+                    "saveDC": 10,
+                    "saveType": "constitution",
+                    "condition": "paralyzed",
+                    "duration": "1 round",
+                    "damage": null,
+                    "description": "Target must succeed on DC 10 Constitution save or be paralyzed for 1 round"
+                }
+            ]
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 2 (1d3 + 1) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 3,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 0,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

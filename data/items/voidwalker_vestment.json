@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Magical",
+  "description" : "Robes that seem to be made of starless night sky, with occasional pinpricks of distant light. Created by archmages who have gazed into the void between stars and returned changed. The vestments grant resistance to cold and necrotic damage, and the wearer can see normally in both magical and nonmagical darkness. Some say those who wear these robes too long begin to fade, becoming more shadow than substance.",
+  "id" : "voidwalker_vestment",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Voidwalker Vestment",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Voidwalker Vestment",
+  "value" : 800,
+  "weight" : 4
+}

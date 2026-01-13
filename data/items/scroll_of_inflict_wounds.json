@@ -1,0 +1,11 @@
+{
+  "description" : "A black scroll marked with a skull. This spell is the dark mirror of cure wounds, channeling necrotic energy through touch to cause terrible damage. Evil clerics and death priests favor this spell, using their connection to dark gods to spread pain and death. The magic rots flesh and curdles blood, leaving wounds that heal slowly and scar permanently. While some death gods permit their priests to use such magic in righteous causes, the spell is widely associated with evil. Single use.",
+  "id" : "scroll_of_inflict_wounds",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Inflict Wounds",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Inflict Wounds",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

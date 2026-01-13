@@ -1,0 +1,13 @@
+{
+  "description" : "A shimmering pink elixir that cures all diseases and ailments. Regain 2d4+2 hit points and immediately cure all diseases.",
+  "effect" : "Cures all diseases immediately.",
+  "id" : "elixir_of_health",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Elixir of Health",
+  "potionType" : "Elixir of Health",
+  "rarity" : "Rare",
+  "textureName" : "Elixir of Health",
+  "value" : 250,
+  "weight" : 0.5
+}

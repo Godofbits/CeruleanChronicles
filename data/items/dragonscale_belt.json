@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt crafted from genuine dragon scales, overlapping like armor. Each scale is harder than steel and retains the resistance to flame possessed by the dragon in life. Such belts are incredibly rare, requiring the slaying of a dragon and the skill to work with materials that resist conventional tools. The scales shimmer with an inner fire, remembering the heat of dragon's breath.",
+  "id" : "dragonscale_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to fire damage",
+  "name" : "Dragonscale Belt",
+  "rarity" : "Rare",
+  "textureName" : "Dragonscale Belt",
+  "value" : 800,
+  "weight" : 0.5
+}

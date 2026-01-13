@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Red scale armor designed to mimic dragon hide. Though made from common materials, the craftsmanship is excellent. Warriors wear these hoping to channel the power of wyrms.",
+  "id" : "crimson_dragon_legguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Crimson Dragon Legguards",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Crimson_Dragon_Legguards",
+  "value" : 58,
+  "weight" : 8
+}

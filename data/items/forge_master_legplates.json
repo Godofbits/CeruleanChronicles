@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Heavy leg plates forged by master smiths in the Great Forges of Erebor. Each rivet and plate is perfectly placed, the metal worked to ideal thickness and temper. Dwarven forge masters wear such armor with pride, for it represents the pinnacle of their craft. The armor seems to share the endurance of mountain stone, granting the wearer enhanced stamina and resilience.",
+  "id" : "forge_master_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Constitution",
+  "name" : "Forge Master Legplates",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Forge_Master_Legplates",
+  "value" : 310,
+  "weight" : 15
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Luxurious gauntlets decorated with gold leaf and fine engravings. Wealthy adventurers wear such gauntlets to display prosperity. Legend says these gauntlets attract wealth to their wearers, though skeptics claim it's merely the confidence that comes from appearing successful.",
+  "id" : "golden_grasp_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Golden Grasp Gauntlets",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Golden Grasp Gauntlets",
+  "value" : 290,
+  "weight" : 0.5
+}

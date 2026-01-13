@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Sturdy gloves with extra metal reinforcement at vulnerable points. Designed for those who must defend against blade strikes with their hands. Duelists and weapon masters favor such protection when facing skilled opponents.",
+  "id" : "reinforced_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Reinforced Handguards",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Reinforced Handguards",
+  "value" : 29,
+  "weight" : 0.5
+}

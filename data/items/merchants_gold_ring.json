@@ -1,0 +1,12 @@
+{
+  "category" : "Plain",
+  "description" : "A slightly ornate gold ring with decorative engravings. Worn by prosperous traders.",
+  "id" : "merchants_gold_ring",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Merchant's Gold Ring",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_22",
+  "value" : 30,
+  "weight" : 0
+}

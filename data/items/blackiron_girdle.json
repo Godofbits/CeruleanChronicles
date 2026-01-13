@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A belt forged from black iron mined in cursed lands where magic runs wild. The metal has absorbed enough residual magic to provide resistance against spells. Witch hunters and those who fight mages seek out black iron equipment for its anti-magical properties.",
+  "id" : "blackiron_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to saves vs magic",
+  "name" : "Blackiron Girdle",
+  "rarity" : "Uncommon",
+  "textureName" : "Blackiron Girdle",
+  "value" : 335,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d8+1",
+  "damageType" : "slashing",
+  "description" : "The ceremonial blade of the Sun Kings, passed down through seventeen generations of monarchs. Pure gold inlay traces sacred patterns along the fuller. It has never been used in anger until now. Deals 1d8+1 slashing damage.",
+  "id" : "golden_majesty",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Golden Majesty",
+  "rarity" : "Rare",
+  "textureName" : "Golden Majesty",
+  "value" : 2000,
+  "weight" : 3.5
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A magnificent golden helm with intricate runic engravings, worn by the lords of the great dwarven halls. Each helm takes a master smith three years to forge and is enchanted to resist both physical and magical attacks. The horns represent the mountains of the ancestral homeland. +2 AC.",
+  "id" : "dwarven_lord_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dwarven Lord Helm",
+  "rarity" : "Rare",
+  "textureName" : "Dwarven Lord Helm",
+  "value" : 2200,
+  "weight" : 5
+}

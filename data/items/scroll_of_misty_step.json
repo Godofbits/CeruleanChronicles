@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll wrapped in silvery mist that never fully dissipates. This spell transforms the caster into mist for an instant, allowing them to teleport a short distance. The technique originated with the fey of the Feywild, who move through their forests like morning fog. Wizards adopted the spell for its utility in battle and its elegant simplicity. Unlike teleportation circles, it requires no preparation—only will and word. Single use.",
+  "id" : "scroll_of_misty_step",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Misty Step",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Misty Step",
+  "value" : 75,
+  "weight" : 0.10000000000000001
+}

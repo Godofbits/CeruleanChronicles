@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Practical gauntlets worn by Norse raiders on their longships. Designed to protect hands during sword-work and rowing alike. The iron has been treated to resist salt water, essential for warriors who spend months at sea.",
+  "id" : "viking_raider_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Viking Raider Gauntlets",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Viking Raider Gauntlets",
+  "value" : 190,
+  "weight" : 0.5
+}

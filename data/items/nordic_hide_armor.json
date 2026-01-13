@@ -1,0 +1,15 @@
+{
+  "baseAC" : 12,
+  "category" : "Medium",
+  "description" : "Thick furs and leather worn by northern raiders. The fur lining provides warmth in frozen lands while the layered construction turns aside blades. Vikings and Norsemen favor such armor for coastal raids, believing the pelts of slain wolves and bears grant their courage.",
+  "id" : "nordic_hide_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Nordic Hide Armor",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Nordic Hide Armor",
+  "value" : 45,
+  "weight" : 12
+}

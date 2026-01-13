@@ -1,0 +1,11 @@
+{
+  "description" : "A staff forged in the Nine Hells, burning with flames that consume both body and soul. The fire is not natural—it's the essence of damnation made manifest. Warlocks bound to archdevils wield such staffs, spreading hellfire across the mortal world.",
+  "id" : "staff_of_hellfire",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Hellfire",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Hellfire",
+  "value" : 1900,
+  "weight" : 3
+}

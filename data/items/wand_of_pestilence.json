@@ -1,0 +1,11 @@
+{
+  "description" : "A sickly green wand that oozes disease and corruption. Created by a plague cult as an offering to their dread god, it spreads sickness with every spell. The wielder becomes immune to disease but may become a carrier. +2 spell bonus, 10 charges, poison\/necrotic damage.",
+  "id" : "wand_of_pestilence",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Pestilence",
+  "rarity" : "Very Rare",
+  "textureName" : "Wand of Pestilence",
+  "value" : 5500,
+  "weight" : 1
+}

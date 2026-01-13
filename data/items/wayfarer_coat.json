@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Long leather coat offering protection from weather and blades alike. Popular among traveling merchants and wanderers.",
+  "id" : "wayfarer_coat",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Wayfarer Coat",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Wayfarer Coat",
+  "value" : 18,
+  "weight" : 9
+}

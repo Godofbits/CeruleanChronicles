@@ -1,0 +1,11 @@
+{
+  "description" : "A bronze wand that rumbles with contained thunder. Forged during the Storm of Ages by dwarven storm priests, it releases deafening booms with each spell. The ground shakes when its full power is unleashed. +2 spell bonus, 10 charges, thunder damage.",
+  "id" : "wand_of_thunder",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Thunder",
+  "rarity" : "Rare",
+  "textureName" : "Wand of Thunder",
+  "value" : 3200,
+  "weight" : 1.5
+}

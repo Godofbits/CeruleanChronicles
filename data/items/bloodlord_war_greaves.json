@@ -1,0 +1,16 @@
+{
+  "acBonus" : 3,
+  "category" : "Plate",
+  "description" : "Crimson metal greaves that seem to pulse with dark hunger. Forged by a warlord who made pacts with demons for victory, these leg plates drain the life force of fallen enemies to heal the wearer. Each kill strengthens the wearer slightly, making them more dangerous as battle progresses. The metal is stained permanently red from the blood of thousands, and those who wear them hear whispers urging them to greater and greater violence. Bloodlords who have worn these greaves have conquered kingdoms, driven by an insatiable thirst for battle.",
+  "id" : "bloodlord_war_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 damage per hit, Heal 1 HP when you reduce an enemy to 0",
+  "name" : "Bloodlord War Greaves",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Bloodlord_War_Greaves",
+  "value" : 1300,
+  "weight" : 16
+}

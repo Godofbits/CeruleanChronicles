@@ -1,0 +1,16 @@
+{
+  "baseAC" : 16,
+  "category" : "Heavy",
+  "description" : "Polished plate armor designed for arena combat. While providing full protection, it's crafted to be visually impressive for crowds. Gladiators who earn their freedom through victories often keep their arena plate as a trophy. The armor bears marks of many fights—proof of survival.",
+  "id" : "arena_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Arena Plate",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 13,
+  "textureName" : "Arena Plate",
+  "value" : 400,
+  "weight" : 48
+}

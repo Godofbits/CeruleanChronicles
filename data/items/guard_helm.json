@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A standard-issue helm worn by city guards and watchmen. The open face allows for clear communication while the steel cap protects against common threats. +1 AC.",
+  "id" : "guard_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Guard Helm",
+  "rarity" : "Common",
+  "textureName" : "Guard Helm",
+  "value" : 25,
+  "weight" : 3
+}

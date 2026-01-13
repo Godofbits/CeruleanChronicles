@@ -1,0 +1,11 @@
+{
+  "description" : "A sealed scroll containing a direct command from the crown. Edicts are more focused than decrees, often targeting specific nobles, guilds, or regions with particular orders. The text carries the full authority of the monarch, and disobedience can result in severe punishment. Nobles display royal edicts in their halls as proof of the crown's favor or burden. These documents shape the political landscape of kingdoms.",
+  "id" : "royal_edict",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Royal Edict",
+  "rarity" : "Uncommon",
+  "textureName" : "Royal Edict",
+  "value" : 20,
+  "weight" : 0.10000000000000001
+}

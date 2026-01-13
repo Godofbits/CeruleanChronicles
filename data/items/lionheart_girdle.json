@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A girdle named for King Richard Lionheart, the legendary warrior who refused to fall in battle. The belt strengthens the wearer's vitality and will to survive. Even when mortally wounded, those wearing this girdle cling to life with supernatural tenacity, refusing to yield to death.",
+  "id" : "lionheart_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Constitution, Advantage on death saves",
+  "name" : "Lionheart Girdle",
+  "rarity" : "Rare",
+  "textureName" : "Lionheart Girdle",
+  "value" : 1075,
+  "weight" : 0.5
+}

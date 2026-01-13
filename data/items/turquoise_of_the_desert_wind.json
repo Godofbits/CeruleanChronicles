@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A sky-blue turquoise prized by desert nomads. Keeps its wearer cool even under the blazing sun.",
+  "id" : "turquoise_of_the_desert_wind",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to exhaustion from heat",
+  "name" : "Turquoise of the Desert Wind",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_23",
+  "value" : 95,
+  "weight" : 0
+}

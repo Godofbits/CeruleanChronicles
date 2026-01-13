@@ -1,0 +1,11 @@
+{
+  "description" : "A simple twig wand, the most basic focus for nature magic. Though humble, it connects the wielder directly to the natural world. Many powerful druids began their journey with such a simple implement. +0 spell bonus.",
+  "id" : "twig_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Twig Wand",
+  "rarity" : "Common",
+  "textureName" : "Twig Wand",
+  "value" : 5,
+  "weight" : 0.20000000000000001
+}

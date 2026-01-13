@@ -1,0 +1,13 @@
+{
+  "category" : "Reinforced",
+  "description" : "Sabatons forged in battlefield smithies and quenched in blood. Each dent and scar tells of a battle survived. Warriors believe such sabatons carry the strength of those who wore them before, granting endurance in desperate fights.",
+  "id" : "battleforged_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC, +1 Constitution saves",
+  "name" : "Battleforged Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "Battleforged Sabatons",
+  "value" : 200,
+  "weight" : 1
+}

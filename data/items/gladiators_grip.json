@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Leather gloves reinforced with metal studs, worn by arena champions. The grip is designed for both weapon combat and wrestling. Gladiators who survived countless bouts earned the right to wear such gloves beyond the arena sands.",
+  "id" : "gladiators_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Gladiator's Grip",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Gladiator's Grip",
+  "value" : 170,
+  "weight" : 0.5
+}

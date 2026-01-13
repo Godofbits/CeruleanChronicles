@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "The mightiest of the Three Rings of the Elven-kings, Vilya the Ring of Air was worn by Elrond Half-elven in Rivendell. Set with a brilliant sapphire that captures the essence of sky and wind, this ring grants wisdom beyond mortal ken and power over the very weather itself. Where Vilya's bearer commands, storms gather or disperse, seasons turn, and the elements themselves obey. It is the ring of preservation and healing, able to protect all that is good and fair from the ravages of time and darkness.",
+  "id" : "vilya_the_ring_of_air",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 to all mental stats, Cast Control Weather 1\/day, Immune to charm and fear",
+  "name" : "Vilya, the Ring of Air",
+  "rarity" : "Legendary",
+  "textureName" : "Rings V2_59",
+  "value" : 15000,
+  "weight" : 0
+}

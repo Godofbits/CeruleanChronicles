@@ -1,0 +1,11 @@
+{
+  "description" : "A blue scroll that radiates intense cold. This powerful spell blasts forth freezing air and ice in a sixty-foot cone, flash-freezing everything it touches. The spell was perfected by studying white dragons, whose breath weapon inspired generations of ice mages. Creatures caught in the cone find their blood turning sluggish and their limbs going numb. Water freezes solid, and metal becomes brittle enough to shatter. It is the ultimate expression of cold as a weapon. Single use.",
+  "id" : "scroll_of_cone_of_cold",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Cone of Cold",
+  "rarity" : "Rare",
+  "textureName" : "Scroll of Cone of Cold",
+  "value" : 300,
+  "weight" : 0.10000000000000001
+}

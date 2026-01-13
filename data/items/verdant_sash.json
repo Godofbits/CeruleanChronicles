@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A green cloth belt favored by those who serve nature. Often worn by herbalists, gardeners, and young druids learning their craft. The verdant color symbolizes growth and renewal, and such sashes are traditionally dyed with plant-based pigments gathered from sacred groves.",
+  "id" : "verdant_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Verdant Sash",
+  "rarity" : "Common",
+  "textureName" : "Verdant Sash",
+  "value" : 11,
+  "weight" : 0.5
+}

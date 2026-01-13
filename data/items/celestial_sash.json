@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A sash woven from threads of pure light by celestial beings. It glows with soft radiance and provides protection against both physical and magical harm. Angels sometimes gift such sashes to mortals who serve the cause of good, marking them as champions of the celestial realms.",
+  "id" : "celestial_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 AC, +1 to all saves, Radiant damage resistance",
+  "name" : "Celestial Sash",
+  "rarity" : "Rare",
+  "textureName" : "Celestial Sash",
+  "value" : 1100,
+  "weight" : 0.5
+}

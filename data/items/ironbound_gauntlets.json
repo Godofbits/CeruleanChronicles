@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Heavy gauntlets with iron plates riveted to thick leather. The weight provides devastating punching power while offering superior protection. Soldiers who wear these gauntlets can break bones with their bare fists.",
+  "id" : "ironbound_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ironbound Gauntlets",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Ironbound Gauntlets",
+  "value" : 30,
+  "weight" : 0.5
+}

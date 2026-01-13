@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Light brown leather pants enchanted to quicken the wearer's stride. Rangers who scout ahead of armies commissioned these from elven craftsmen, needing both protection and speed. The leather was taken from deer blessed by forest spirits, granting supernatural swiftness. Pathfinders and advance scouts wear these pants when covering vast distances ahead of their companies.",
+  "id" : "scout_pathfinder_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+5 feet movement speed",
+  "name" : "Scout Pathfinder Pants",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Scout_Pathfinder_Pants",
+  "value" : 200,
+  "weight" : 2.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Green scale armor that blends into woodland. Designed for rangers who fight in forest. The scales provide protection without hindering movement.",
+  "id" : "forest_drake_legguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Forest Drake Legguards",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Forest_Drake_Legguards",
+  "value" : 46,
+  "weight" : 7.5
+}

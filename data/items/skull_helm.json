@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A steel helm forged to resemble a grinning skull. Popular among death cultists and those who wish to intimidate their enemies. Despite its macabre appearance, the craftsmanship is excellent. Some warriors claim wearing it helps them embrace death in battle. +2 AC.",
+  "id" : "skull_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Skull Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Skull Helm",
+  "value" : 280,
+  "weight" : 4
+}

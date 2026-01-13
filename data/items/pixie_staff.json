@@ -1,0 +1,11 @@
+{
+  "description" : "A delicate staff that glows with faint pixie dust. It was crafted by pixies themselves, or at least blessed by their magic. The staff grants a touch of fey grace and the ability to outline foes in revealing light.",
+  "id" : "pixie_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Pixie Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Pixie Staff",
+  "value" : 250,
+  "weight" : 3
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Studded",
+  "description" : "A leather belt reinforced with bronze plates and a prominent bronze buckle. Favored by hoplites and infantry of the classical armies, where bronze equipment remains the standard. The metal has acquired a deep patina from long service under the sun.",
+  "id" : "bronze_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bronze Girdle",
+  "rarity" : "Common",
+  "textureName" : "Bronze Girdle",
+  "value" : 20,
+  "weight" : 0.5
+}

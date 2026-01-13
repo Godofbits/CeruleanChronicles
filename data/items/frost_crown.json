@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A crown of eternal ice that never melts, worn by the monarchs of the Frozen North. Forged from the heart of an ice elemental by frost giant smiths, it grants dominion over cold and winter. The wearer is immune to natural cold and can command blizzards at will. +0 AC.",
+  "id" : "frost_crown",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Frost Crown",
+  "rarity" : "Legendary",
+  "textureName" : "Frost Crown",
+  "value" : 15000,
+  "weight" : 1
+}

@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Magical",
+  "description" : "Dark robes embroidered with constellations and celestial maps. Worn by wizards who study the stars and their influence on magic. The star patterns are not mere decoration—they align with actual constellations, and the robes are said to grant insight during astrological conjunctions. Favored by diviners who seek to read fate in the heavens.",
+  "id" : "astrologer_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Astrologer Robes",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Astrologer Robes",
+  "value" : 80,
+  "weight" : 4
+}

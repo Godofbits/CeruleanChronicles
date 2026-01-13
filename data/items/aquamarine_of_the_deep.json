@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A pale blue-green stone like crystallized seawater. Sailors wear these for protection from drowning and storms.",
+  "id" : "aquamarine_of_the_deep",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+10 ft swim speed",
+  "name" : "Aquamarine of the Deep",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_34",
+  "value" : 90,
+  "weight" : 0
+}

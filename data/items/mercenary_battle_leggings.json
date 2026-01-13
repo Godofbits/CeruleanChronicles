@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Sturdy leather leggings reinforced with metal studs. Mercenaries and sellswords wear these for reliable protection at reasonable cost. Battle-proven design.",
+  "id" : "mercenary_battle_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mercenary Battle Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Mercenary_Battle_Leggings",
+  "value" : 38,
+  "weight" : 7
+}

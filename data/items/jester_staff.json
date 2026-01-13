@@ -1,0 +1,11 @@
+{
+  "description" : "A whimsical staff topped with a jester's cap complete with bells that jingle merrily. The staff's magic brings inappropriate mirth to grim situations. Court jesters who secretly studied magic sometimes carried such staffs, hiding power behind foolishness.",
+  "id" : "jester_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Jester Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Jester Staff",
+  "value" : 235,
+  "weight" : 3
+}

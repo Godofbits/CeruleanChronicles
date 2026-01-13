@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "A belt with a prominent clasp shaped like a lion's head, symbol of courage. Awarded to soldiers who displayed exceptional bravery in battle, it serves as both decoration and inspiration. When fear threatens to overwhelm, the wearer draws strength from the memory of their valorous deeds.",
+  "id" : "clasp_of_valor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to saving throws vs fear",
+  "name" : "Clasp of Valor",
+  "rarity" : "Uncommon",
+  "textureName" : "Clasp of Valor",
+  "value" : 230,
+  "weight" : 0.5
+}

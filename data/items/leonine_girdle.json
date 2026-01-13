@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A girdle decorated with a golden lion's head, its mane flowing across the belt's length. The lion's courage flows into the wearer, making them fearless in the face of any danger. Paladins and knights errant favor such girdles, for they embody the noble virtues of strength, courage, and leadership.",
+  "id" : "leonine_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Strength, +1 Charisma, Immunity to fear",
+  "name" : "Leonine Girdle",
+  "rarity" : "Rare",
+  "textureName" : "Leonine Girdle",
+  "value" : 880,
+  "weight" : 0.5
+}

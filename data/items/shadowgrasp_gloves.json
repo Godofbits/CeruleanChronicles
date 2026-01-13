@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Dark gloves that seem to absorb light. Master thieves wear such gloves when their fingers must work unseen. The shadow magic enhances both stealth and manual dexterity, perfect for picking pockets and locks.",
+  "id" : "shadowgrasp_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Shadowgrasp Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Shadowgrasp Gloves",
+  "value" : 245,
+  "weight" : 0.5
+}

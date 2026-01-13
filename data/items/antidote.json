@@ -1,0 +1,13 @@
+{
+  "description" : "Cures the poisoned condition immediately.",
+  "effect" : "Cures the poisoned condition immediately.",
+  "id" : "antidote",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Antidote",
+  "potionType" : "Antidote",
+  "rarity" : "Uncommon",
+  "textureName" : "Antidote",
+  "value" : 75,
+  "weight" : 0.5
+}

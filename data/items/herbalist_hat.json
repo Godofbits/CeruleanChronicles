@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A wide-brimmed straw hat worn by herbalists and farmers. The ventilated design keeps the wearer cool while working in fields and gardens. Often decorated with dried flowers. +0 AC.",
+  "id" : "herbalist_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Herbalist Hat",
+  "rarity" : "Common",
+  "textureName" : "Herbalist Hat",
+  "value" : 20,
+  "weight" : 0.29999999999999999
+}

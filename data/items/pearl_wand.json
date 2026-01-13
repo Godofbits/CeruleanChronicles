@@ -1,0 +1,11 @@
+{
+  "description" : "A silver wand topped with a lustrous pearl from the sacred oyster beds of the sea goddess. Pearls symbolize purity and are favored by healers and diviners. The pearl seems to shimmer with an inner light. +1 spell bonus, 7 charges.",
+  "id" : "pearl_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Pearl Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Pearl Wand",
+  "value" : 550,
+  "weight" : 0.5
+}

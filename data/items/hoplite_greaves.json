@@ -1,0 +1,12 @@
+{
+  "category" : "Reinforced",
+  "description" : "Classic Greek greaves worn by hoplite warriors in phalanx formation. The bronze is worked to anatomical perfection, fitting snugly without straps. Such greaves protected the legs of warriors who fought at Marathon and Thermopylae.",
+  "id" : "hoplite_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Hoplite Greaves",
+  "rarity" : "Common",
+  "textureName" : "Hoplite Greaves",
+  "value" : 28,
+  "weight" : 1
+}

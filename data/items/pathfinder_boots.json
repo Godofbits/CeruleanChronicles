@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Sturdy boots worn by those who blaze new trails through unmapped lands. Explorers and cartographers trust such boots to carry them through unknown territory. The reinforced soles can handle rough terrain and rocky ground.",
+  "id" : "pathfinder_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Pathfinder Boots",
+  "rarity" : "Common",
+  "textureName" : "Pathfinder Boots",
+  "value" : 13,
+  "weight" : 1
+}

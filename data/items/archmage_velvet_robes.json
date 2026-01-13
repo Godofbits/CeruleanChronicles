@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Rich purple velvet robes worn by senior wizards. The luxurious fabric speaks of years of magical study and achievement. Arcane symbols are embroidered in silver thread.",
+  "id" : "archmage_velvet_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Archmage Velvet Robes",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Archmage_Velvet_Robes",
+  "value" : 40,
+  "weight" : 2
+}

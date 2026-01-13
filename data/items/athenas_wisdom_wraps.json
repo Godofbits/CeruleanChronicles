@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Legendary",
+  "description" : "Silver wraps blessed by Athena, goddess of wisdom and strategic warfare. They grant both intellectual brilliance and tactical acumen in battle. Philosopher-warriors and strategic generals wear such wraps, their minds sharpened to cut through fog of war. The silver is inscribed with maxims of wisdom in ancient Greek.",
+  "id" : "athenas_wisdom_wraps",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Athena's Wisdom Wraps",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Athena's Wisdom Wraps",
+  "value" : 1180,
+  "weight" : 0.5
+}

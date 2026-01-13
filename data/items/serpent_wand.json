@@ -1,0 +1,11 @@
+{
+  "description" : "A green wooden wand carved to resemble a coiled serpent. Favored by yuan-ti spellcasters and those who practice snake magic, the serpent's eyes seem to follow nearby creatures. Enhances poison and transformation spells. +1 spell bonus, 7 charges, poison damage.",
+  "id" : "serpent_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Serpent Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Serpent Wand",
+  "value" : 450,
+  "weight" : 1
+}

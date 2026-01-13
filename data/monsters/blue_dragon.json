@@ -1,0 +1,231 @@
+{
+    "id": "blue_dragon",
+    "isActive": false,
+    "name": "Blue Dragon",
+    "sortName": "Dragon, Blue",
+    "size": "huge",
+    "type": "dragon",
+    "subtype": null,
+    "alignment": "lawfulEvil",
+
+    "armorClass": 19,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 18,
+        "die": "d12",
+        "modifier": 108
+    },
+    "speeds": {
+        "walk": 40,
+        "burrow": 30,
+        "fly": 80
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 25,
+        "dexterity": 10,
+        "constitution": 23,
+        "intelligence": 16,
+        "wisdom": 15,
+        "charisma": 19
+    },
+
+    "savingThrows": ["dexterity", "constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "perception", "bonus": 12 },
+        { "skill": "stealth", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["lightning"],
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 60 },
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 22,
+    "languages": ["Common", "Draconic"],
+    "telepathyRange": null,
+
+    "challengeRating": "16",
+    "experiencePoints": 15000,
+
+    "texture": "BlueDragon_01",
+
+    "habitat": {
+        "environments": ["desert", "coastal"],
+        "depth": "deep",
+        "description": "Blue dragons are vain and territorial, lording over their desert domains from lairs carved into rocky outcroppings or buried beneath the sands. They are methodical hunters who delight in unleashing devastating lightning breath upon their foes from great distances.",
+        "rarity": "very rare"
+    },
+
+    "traits": [
+        {
+            "name": "Legendary Resistance",
+            "description": "If the dragon fails a saving throw, it can choose to succeed instead (3/day).",
+            "effect": {
+                "type": "legendaryResistance",
+                "parameters": {
+                    "uses": 3
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The dragon can use its Frightful Presence. It then makes three attacks: one with its bite and two with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +12 to hit, reach 10 ft., one target. Hit: 18 (2d10 + 7) piercing damage plus 5 (1d10) lightning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 12,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d10",
+                        "modifier": 7,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d10",
+                        "modifier": 0,
+                        "type": "lightning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +12 to hit, reach 5 ft., one target. Hit: 14 (2d6 + 7) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 12,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 7,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Tail",
+            "description": "Melee Weapon Attack: +12 to hit, reach 15 ft., one target. Hit: 16 (2d8 + 7) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 12,
+                "reach": 15,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 7,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Frightful Presence",
+            "description": "Each creature of the dragon's choice that is within 120 feet of the dragon and aware of it must succeed on a DC 17 Wisdom saving throw or become frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 17,
+                "type": "wisdom",
+                "onFail": "frightened",
+                "onSuccess": "none"
+            },
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Lightning Breath",
+            "description": "The dragon exhales lightning in a 90-foot line that is 5 feet wide. Each creature in that line must make a DC 19 Dexterity saving throw, taking 66 (12d10) lightning damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 19,
+                "type": "dexterity",
+                "onFail": "full damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": {
+                "range": [5, 6]
+            },
+            "onHit": [
+                {
+                    "type": "damage",
+                    "saveDC": 19,
+                    "saveType": "dexterity",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 12,
+                        "dieType": "d10",
+                        "modifier": 0,
+                        "type": "lightning"
+                    },
+                    "description": "90 ft line, DC 19 Dex save, 12d10 lightning damage (half on success)"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": [
+        {
+            "name": "Detect",
+            "description": "The dragon makes a Wisdom (Perception) check.",
+            "cost": 1
+        },
+        {
+            "name": "Tail Attack",
+            "description": "The dragon makes a tail attack.",
+            "cost": 1
+        },
+        {
+            "name": "Wing Attack",
+            "description": "The dragon beats its wings. Each creature within 10 feet of the dragon must succeed on a DC 20 Dexterity saving throw or take 14 (2d6 + 7) bludgeoning damage and be knocked prone. The dragon can then fly up to half its flying speed.",
+            "cost": 2
+        }
+    ],
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

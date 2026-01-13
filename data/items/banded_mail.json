@@ -1,0 +1,15 @@
+{
+  "baseAC" : 15,
+  "category" : "Medium",
+  "description" : "Horizontal steel bands riveted to a leather backing. The bands overlap slightly, providing excellent protection against both slashing and piercing attacks. Heavy infantry favor this armor for its reliability and relatively simple maintenance.",
+  "id" : "banded_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Banded Mail",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Banded Mail",
+  "value" : 300,
+  "weight" : 42
+}

@@ -1,0 +1,12 @@
+{
+  "category" : "Plain",
+  "description" : "A simple band of pure gold. Valuable for its material alone.",
+  "id" : "gold_band",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Gold Band",
+  "rarity" : "Common",
+  "textureName" : "Rings V2_21",
+  "value" : 25,
+  "weight" : 0
+}

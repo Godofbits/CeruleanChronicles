@@ -1,0 +1,16 @@
+{
+  "acBonus" : 2,
+  "category" : "Plate",
+  "description" : "Bronze greaves worn by the legendary warriors of Sparta, whose discipline and courage were unmatched in the ancient world. These leg guards were crafted in the forges of Lacedaemon and have been worn by warriors who held Thermopylae against impossible odds. The bronze has been tempered not just in fire but in the blood of battle, granting the wearer the legendary endurance of Spartan warriors. Those who wear them are said to inherit a measure of Leonidas's unyielding will.",
+  "id" : "spartan_war_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to Constitution saves",
+  "name" : "Spartan War Greaves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 13,
+  "textureName" : "Spartan_War_Greaves",
+  "value" : 340,
+  "weight" : 13
+}

@@ -1,0 +1,11 @@
+{
+  "description" : "A staff sacred to goddesses of the dark moon—the hidden face, the shadow, the secrets kept from light. It grants mastery over shadow magic and invisibility. The staff's power is greatest during the new moon when the lunar goddess shows her dark face. Moon witches who practice shadow magic carry such staffs, drawing power from lunar darkness.",
+  "id" : "staff_of_the_dark_moon",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Dark Moon",
+  "rarity" : "Very Rare",
+  "textureName" : "Staff of the Dark Moon",
+  "value" : 8500,
+  "weight" : 3
+}

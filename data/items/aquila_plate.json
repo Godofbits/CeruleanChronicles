@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Steel plate emblazoned with the imperial eagle. Only those who serve directly under the emperor's banner may wear the aquila. The armor represents the might of Rome itself, and those who don it carry the weight of empire on their shoulders. Bearing the eagle is both honor and burden.",
+  "id" : "aquila_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Aquila Plate",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Aquila Plate",
+  "value" : 900,
+  "weight" : 54
+}

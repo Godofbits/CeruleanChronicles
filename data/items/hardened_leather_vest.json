@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Light",
+  "description" : "Boiled leather vest hardened through heat treatment. Provides basic protection while maintaining flexibility. Popular among caravan guards and town watchmen.",
+  "id" : "hardened_leather_vest",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Hardened Leather Vest",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Hardened Leather Vest",
+  "value" : 12,
+  "weight" : 9
+}

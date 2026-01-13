@@ -1,0 +1,12 @@
+{
+  "category" : "Studded",
+  "description" : "A rough-hewn belt reinforced with scavenged metal pieces. Worn by raiders, brigands, and those who take what they need by force. Each metal stud tells a story of plunder, though not one the wearer would share with lawmen.",
+  "id" : "marauders_waistguard",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Marauder's Waistguard",
+  "rarity" : "Common",
+  "textureName" : "Marauder's Waistguard",
+  "value" : 18,
+  "weight" : 0.5
+}

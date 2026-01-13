@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll bearing a proclamation from the throne. Unlike decrees which establish new laws, proclamations announce significant events—royal births, military victories, declarations of war, or celebrations. The document is written in ceremonial language, meant to inspire loyalty and pride in the realm's subjects. Town criers proclaim these to gathered crowds, often followed by festivals or periods of mourning, depending on the news.",
+  "id" : "royal_proclamation",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Royal Proclamation",
+  "rarity" : "Uncommon",
+  "textureName" : "Royal Proclamation",
+  "value" : 20,
+  "weight" : 0.10000000000000001
+}

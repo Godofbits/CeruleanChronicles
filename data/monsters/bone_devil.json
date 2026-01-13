@@ -1,0 +1,160 @@
+{
+    "id": "bone_devil",
+    "isActive": false,
+    "name": "Bone Devil",
+    "size": "large",
+    "type": "fiend",
+    "subtype": "devil",
+    "alignment": "lawfulEvil",
+
+    "armorClass": 19,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 15,
+        "die": "d10",
+        "modifier": 60
+    },
+    "speeds": {
+        "walk": 40,
+        "fly": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 16,
+        "constitution": 18,
+        "intelligence": 13,
+        "wisdom": 14,
+        "charisma": 16
+    },
+
+    "savingThrows": ["intelligence", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "deception", "bonus": 7 },
+        { "skill": "insight", "bonus": 6 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold", "condition": null },
+        { "type": "bludgeoning", "condition": "from nonmagical attacks not made with silvered weapons" },
+        { "type": "piercing", "condition": "from nonmagical attacks not made with silvered weapons" },
+        { "type": "slashing", "condition": "from nonmagical attacks not made with silvered weapons" }
+    ],
+    "immunities": ["fire", "poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 12,
+    "languages": ["Infernal"],
+    "telepathyRange": 120,
+
+    "challengeRating": "9",
+    "experiencePoints": 5000,
+
+    "texture": "mons_bone_devil_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "abyssal",
+        "description": "Bone devils are the interrogators and spies of the Nine Hells, their skeletal forms allowing them to blend among the damned. They extract secrets from souls through psychological torment and serve as lieutenants to more powerful archdevils.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Devil's Sight",
+            "description": "Magical darkness doesn't impede the devil's darkvision.",
+            "effect": {
+                "type": "devilsSight",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Magic Resistance",
+            "description": "The devil has advantage on saving throws against spells and other magical effects.",
+            "effect": {
+                "type": "magicResistance",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The devil makes three attacks: two with its claws and one with its sting.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 8 (1d8 + 4) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 8,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Sting",
+            "description": "Melee Weapon Attack: +8 to hit, reach 10 ft., one target. Hit: 13 (2d8 + 4) piercing damage plus 17 (5d6) poison damage, and the target must succeed on a DC 14 Constitution saving throw or become poisoned for 1 minute.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 8,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 5,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    }
+                ]
+            },
+            "save": {
+                "type": "constitution",
+                "dc": 14,
+                "onFail": "poisoned",
+                "onSuccess": "none"
+            },
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

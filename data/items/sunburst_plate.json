@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Brilliant golden plate emblazoned with sunburst designs. This armor radiates warmth and light, providing both resistance to radiant damage and the ability to cast daylight once per day. Champions of sun gods wear sunburst plate into battle against creatures of darkness, carrying dawn itself into the shadows. The armor never tarnishes and shines even in darkness.",
+  "id" : "sunburst_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Sunburst Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Sunburst Plate",
+  "value" : 2400,
+  "weight" : 56
+}

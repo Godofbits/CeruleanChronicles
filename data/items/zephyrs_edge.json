@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+1",
+  "damageType" : "slashing",
+  "description" : "A blade so light it seems to float, blessed by wind spirits of the western mountains. Its wielder moves with unnatural swiftness. The sword hums with the sound of a gentle breeze. Deals 1d6+1 slashing damage.",
+  "id" : "zephyrs_edge",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Zephyr's Edge",
+  "rarity" : "Rare",
+  "textureName" : "Zephyr's Edge",
+  "value" : 1200,
+  "weight" : 1
+}

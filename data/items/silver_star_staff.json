@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a silver star that can shine with radiant light on command. The star never tarnishes and provides illumination without heat. Diviners use such staffs to pierce darkness both literal and metaphorical.",
+  "id" : "silver_star_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Silver Star Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Silver Star Staff",
+  "value" : 275,
+  "weight" : 3
+}

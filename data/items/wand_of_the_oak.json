@@ -1,0 +1,11 @@
+{
+  "description" : "A sturdy oak wand carved with Celtic knotwork patterns. Cut from trees that have stood for centuries, it channels the endurance and strength of ancient oaks. Particularly effective for protective and strengthening magic. +1 spell bonus, 7 charges.",
+  "id" : "wand_of_the_oak",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Oak",
+  "rarity" : "Uncommon",
+  "textureName" : "Wand of the Oak",
+  "value" : 450,
+  "weight" : 1
+}

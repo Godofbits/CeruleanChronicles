@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d6+1",
+  "damageType" : "poison",
+  "description" : "A wavy-bladed kris dagger favored by assassins of the Serpent Cult. The blade is coated with venom harvested from giant snakes. Even a scratch can be lethal to the unprepared. Deals 1d6+1 poison damage.",
+  "id" : "serpents_fang",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Serpent's Fang",
+  "rarity" : "Rare",
+  "textureName" : "Serpent's Fang",
+  "value" : 1100,
+  "weight" : 1.5
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A sinister purple hat worn by those who have made pacts with otherworldly entities. The hat acts as a focus for eldritch power, enhancing spells granted by the wearer's patron. Strange whispers can sometimes be heard emanating from within its folds. +0 AC.",
+  "id" : "warlock_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Warlock Hat",
+  "rarity" : "Rare",
+  "textureName" : "Warlock Hat",
+  "value" : 1900,
+  "weight" : 0.40000000000000002
+}

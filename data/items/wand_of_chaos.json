@@ -1,0 +1,11 @@
+{
+  "description" : "A wand of swirling, ever-changing colors that never seems to hold the same form twice. Touched by the raw chaos of Limbo, spells cast through it are unpredictable but devastatingly powerful. Wild magic surges are common but often beneficial. +2 spell bonus, 10 charges, variable damage.",
+  "id" : "wand_of_chaos",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Chaos",
+  "rarity" : "Very Rare",
+  "textureName" : "Wand of Chaos",
+  "value" : 5000,
+  "weight" : 1
+}

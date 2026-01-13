@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A belt made of interlocking metal chains, symbolizing military hierarchy and discipline. Officers wear such belts to emphasize their authority over the ranks. The weight of the chain serves as a constant reminder of the burden of command.",
+  "id" : "chain_of_command",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Intimidation with subordinates",
+  "name" : "Chain of Command",
+  "rarity" : "Uncommon",
+  "textureName" : "Chain of Command",
+  "value" : 220,
+  "weight" : 0.5
+}

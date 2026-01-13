@@ -1,0 +1,11 @@
+{
+  "description" : "A simple wand that crackles with minor electrical energy. Popular among apprentices learning lightning magic, it provides a safe way to practice without risk of serious harm. +0 spell bonus, 5 charges, lightning damage.",
+  "id" : "spark_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Spark Wand",
+  "rarity" : "Common",
+  "textureName" : "Spark Wand",
+  "value" : 40,
+  "weight" : 0.5
+}

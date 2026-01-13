@@ -1,0 +1,11 @@
+{
+  "description" : "A golden scroll radiating holy light. This spell channels divine power into the caster's attacks, blessing their strikes with radiant energy. War clerics and paladins invoke this blessing before battle, knowing that their god watches over them. The spell represents a direct connection to divine power, a tangible sign of a deity's favor. Those blessed by this magic strike with supernatural accuracy and force, their weapons glowing with holy light. Single use.",
+  "id" : "scroll_of_divine_favor",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Divine Favor",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Divine Favor",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

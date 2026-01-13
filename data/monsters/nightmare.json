@@ -1,0 +1,116 @@
+{
+    "id": "nightmare",
+    "isActive": false,
+    "name": "Nightmare",
+    "size": "large",
+    "type": "fiend",
+    "subtype": null,
+    "alignment": "neutralEvil",
+
+    "armorClass": 13,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 8,
+        "die": "d10",
+        "modifier": 24
+    },
+    "speeds": {
+        "walk": 60,
+        "fly": 90
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 18,
+        "dexterity": 15,
+        "constitution": 16,
+        "intelligence": 10,
+        "wisdom": 13,
+        "charisma": 15
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["fire"],
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 11,
+    "languages": ["Abyssal", "Common", "Infernal"],
+    "telepathyRange": null,
+
+    "challengeRating": "3",
+    "experiencePoints": 700,
+
+    "texture": "Nightmare_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "abyssal",
+        "description": "Nightmares are demonic steeds with flaming hooves and manes of fire, serving as mounts for powerful fiends and evil mortals. They can gallop through the Ethereal Plane, carrying their riders between worlds unseen.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Confer Fire Resistance",
+            "description": "The nightmare can grant resistance to fire damage to anyone riding it.",
+            "effect": null
+        },
+        {
+            "name": "Illumination",
+            "description": "The nightmare sheds bright light in a 10-foot radius and dim light for an additional 10 feet.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Hooves",
+            "description": "Melee Weapon Attack: +6 to hit, reach 5 ft., one target. Hit: 13 (2d8 + 4) bludgeoning damage plus 7 (2d6) fire damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 6,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d8",
+                        "modifier": 4,
+                        "type": "bludgeoning"
+                    },
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Ethereal Stride",
+            "description": "The nightmare and up to three willing creatures within 5 feet of it magically enter the Ethereal Plane from the Material Plane, or vice versa.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

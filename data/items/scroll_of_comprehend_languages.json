@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll covered in text written in dozens of languages. This divination allows the caster to understand any spoken or written language, though it does not grant the ability to speak them in return. The spell was created by the first translators of the Library of Alexandria, who sought to preserve knowledge from all cultures. Diplomats and scholars carry these scrolls when venturing into foreign lands, for understanding begins with the ability to comprehend another's words. Single use.",
+  "id" : "scroll_of_comprehend_languages",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Comprehend Languages",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Comprehend Languages",
+  "value" : 50,
+  "weight" : 0.10000000000000001
+}

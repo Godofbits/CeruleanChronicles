@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A midnight-blue hat adorned with swirling galaxies and twinkling stars. Woven by astromancers who spend decades studying the celestial spheres, each hat contains a fragment of the night sky. Wearers can perceive magical auras and sometimes glimpse the future in the stars. +0 AC.",
+  "id" : "cosmic_wizard_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Cosmic Wizard Hat",
+  "rarity" : "Very Rare",
+  "textureName" : "Cosmic Wizard Hat",
+  "value" : 4200,
+  "weight" : 0.5
+}

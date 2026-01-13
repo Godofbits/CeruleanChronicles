@@ -1,0 +1,16 @@
+{
+  "acBonus" : 3,
+  "category" : "Plate",
+  "description" : "Red metal leg plates worn by crusaders who have sworn to destroy evil wherever it festers. The Knights of the Crimson Cross wore such armor during their centuries-long war against the forces of Morgoth and Sauron. The red color represents the blood spilled in holy warfare, and the metal has been blessed to strike terror into the hearts of undead and demons. Each pair of legplates bears the name of the crusader who wore it, a roll call of heroes who gave their lives fighting darkness.",
+  "id" : "crimson_crusader_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1d6 damage vs undead and fiends",
+  "name" : "Crimson Crusader Legplates",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 13,
+  "textureName" : "Crimson_Crusader_Legplates",
+  "value" : 950,
+  "weight" : 15
+}

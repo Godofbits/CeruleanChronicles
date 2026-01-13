@@ -1,0 +1,14 @@
+{
+  "category" : "Simple",
+  "damage" : "1d6",
+  "damageType" : "slashing",
+  "description" : "A basic iron sword issued to new recruits. Crude but functional, these mass-produced blades see soldiers through their first battles. Deals 1d6 slashing damage.",
+  "id" : "recruits_iron",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Recruit's Iron",
+  "rarity" : "Common",
+  "textureName" : "Recruit's Iron",
+  "value" : 8,
+  "weight" : 3
+}

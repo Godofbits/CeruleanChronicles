@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A deep hood that shadows the wearer's eyes, favored by seers and mystics. The fabric is woven with threads of moonsilver, enhancing the wearer's perception of magical auras and hidden things. Many oracles wear these to focus their visions. +0 AC.",
+  "id" : "seer_cowl",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Seer Cowl",
+  "rarity" : "Uncommon",
+  "textureName" : "Seer Cowl",
+  "value" : 350,
+  "weight" : 0.29999999999999999
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots made of crystallized magic, harder than diamond and lighter than silk. They refract light in dazzling patterns and provide protection against magical forces. Archmages craft such boots in their sanctums, growing the crystals over decades through careful application of transmutation magic.",
+  "id" : "crystal_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to force damage, +1 AC, Spells cannot target your feet",
+  "name" : "Crystal Boots",
+  "rarity" : "Rare",
+  "textureName" : "Crystal Boots",
+  "value" : 720,
+  "weight" : 1
+}

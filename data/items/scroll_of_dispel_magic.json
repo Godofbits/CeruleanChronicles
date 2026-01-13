@@ -1,0 +1,11 @@
+{
+  "description" : "A scroll inscribed with counter-glyphs that seem to absorb surrounding light. This powerful abjuration was born from the Mage Wars, when wizards needed to tear down each other's defenses. The spell unravels magical energy like pulling a thread from a tapestry, dispelling enchantments and ending ongoing spells. It is said that the archmage Elminster once used this spell to undo a wish. Single use.",
+  "id" : "scroll_of_dispel_magic",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Dispel Magic",
+  "rarity" : "Uncommon",
+  "textureName" : "Scroll of Dispel Magic",
+  "value" : 150,
+  "weight" : 0.10000000000000001
+}

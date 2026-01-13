@@ -1,0 +1,11 @@
+{
+  "description" : "A staff of bone and blackened wood that radiates the chill of the grave. It grants mastery over death and undeath, allowing the creation and command of unlimited undead servants. Liches and necromancer-lords carry such staffs, building armies of skeletal warriors and zombies. The staff is cold as death itself and whispers with the voices of souls trapped within it.",
+  "id" : "staff_of_the_dead",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Dead",
+  "rarity" : "Very Rare",
+  "textureName" : "Staff of the Dead",
+  "value" : 8000,
+  "weight" : 3
+}

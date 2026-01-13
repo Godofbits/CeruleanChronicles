@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A green gemstone carved in the shape of a serpent's eye. The stone seems to follow movement. In Germanic folklore, serpents guarded ancient treasures and could see through all deceptions.",
+  "id" : "ring_of_the_serpents_eye",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Perception, Darkvision 90 ft",
+  "name" : "Ring of the Serpent's Eye",
+  "rarity" : "Rare",
+  "textureName" : "Rings V2_32",
+  "value" : 480,
+  "weight" : 0
+}

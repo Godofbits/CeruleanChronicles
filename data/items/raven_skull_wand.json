@@ -1,0 +1,11 @@
+{
+  "description" : "A bone wand topped with a preserved raven skull whose eye sockets glow with ghostly light. Ravens are messengers between worlds, and this wand serves as a conduit to the realm of the dead. Spirits whisper secrets to the wielder. +1 spell bonus, 7 charges, necrotic damage.",
+  "id" : "raven_skull_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Raven Skull Wand",
+  "rarity" : "Rare",
+  "textureName" : "Raven Skull Wand",
+  "value" : 1300,
+  "weight" : 0.5
+}

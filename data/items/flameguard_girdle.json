@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A girdle enchanted to protect against all flame. The leather was treated with alchemical fire-resistant compounds and then blessed by priests of the forge god. Warriors wearing this girdle can walk through infernos unharmed and stand against the breath of red dragons without fear.",
+  "id" : "flameguard_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire damage",
+  "name" : "Flameguard Girdle",
+  "rarity" : "Rare",
+  "textureName" : "Flameguard Girdle",
+  "value" : 1000,
+  "weight" : 0.5
+}

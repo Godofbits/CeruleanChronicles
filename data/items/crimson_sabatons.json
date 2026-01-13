@@ -1,0 +1,13 @@
+{
+  "category" : "Ornate",
+  "description" : "Sabatons painted or enameled in deep crimson. The color of blood and war, they're favored by those who glory in battle. Berserkers and champions of war gods wear such sabatons, their presence a challenge to any foe.",
+  "id" : "crimson_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Strength",
+  "name" : "Crimson Sabatons",
+  "rarity" : "Uncommon",
+  "textureName" : "Crimson Sabatons",
+  "value" : 180,
+  "weight" : 1
+}

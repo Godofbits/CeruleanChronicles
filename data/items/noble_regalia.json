@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Ornate plate armor with noble house heraldry. More than protection, this armor announces bloodline and status. Every noble family maintains sets of regalia armor for formal occasions and ceremonies. While beautiful, it remains functional—nobles who cannot defend their honor in combat don't remain nobles for long.",
+  "id" : "noble_regalia",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Noble Regalia",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Noble Regalia",
+  "value" : 1800,
+  "weight" : 55
+}

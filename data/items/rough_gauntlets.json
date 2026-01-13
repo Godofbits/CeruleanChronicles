@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Crude gauntlets of rough leather and scrap metal. They lack elegance but provide solid protection for soldiers and mercenaries on a budget. Many a battle was won by hands protected by such humble armor.",
+  "id" : "rough_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Rough Gauntlets",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Rough Gauntlets",
+  "value" : 16,
+  "weight" : 0.5
+}

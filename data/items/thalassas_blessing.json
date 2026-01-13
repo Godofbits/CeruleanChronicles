@@ -1,0 +1,13 @@
+{
+  "description" : "Blessed by Thalassa, the primordial Greek goddess of the sea, this shimmering blue elixir grants her favor. Breathe and move freely underwater, and sea creatures will not attack unless provoked. Duration: 8 hours.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "thalassas_blessing",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Thalassa's Blessing",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Thalassa's Blessing",
+  "value" : 375,
+  "weight" : 0.5
+}

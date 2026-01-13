@@ -1,0 +1,11 @@
+{
+  "description" : "A simple wand that glows with warm embers at the tip. An entry-level fire wand for apprentice pyromancers, it produces enough heat to light candles and campfires. A good practice tool for learning fire magic safely. +0 spell bonus, 5 charges, fire damage.",
+  "id" : "wand_of_ember",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of Ember",
+  "rarity" : "Common",
+  "textureName" : "Wand of Ember",
+  "value" : 45,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Gloves covered in overlapping metal scales like those of a serpent or dragon. The scales provide excellent protection while maintaining flexibility. Knights and warriors who can afford better than plain leather but not full plate favor such armor.",
+  "id" : "scaled_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Scaled Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Scaled Gloves",
+  "value" : 175,
+  "weight" : 0.5
+}

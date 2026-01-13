@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Sabatons that shine with holy radiance, forged by celestial beings in the upper planes. They drive back darkness and make undead creatures flee in terror. Paladins of the highest orders receive such sabatons when they are anointed as champions of the light. The metal glows softly, banishing shadows for feet around.",
+  "id" : "radiant_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 AC, Radiant damage resistance, Cast Daylight 1\/day, Turn undead",
+  "name" : "Radiant Sabatons",
+  "rarity" : "Rare",
+  "textureName" : "Radiant Sabatons",
+  "value" : 1100,
+  "weight" : 1
+}

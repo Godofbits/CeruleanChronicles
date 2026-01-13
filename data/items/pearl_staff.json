@@ -1,0 +1,11 @@
+{
+  "description" : "A staff of polished wood inlaid with small pearls that gleam with inner luster. The pearls were gifts from the sea, each one representing years of patient growth within oyster shells. The staff channels water magic with particular ease.",
+  "id" : "pearl_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Pearl Staff",
+  "rarity" : "Common",
+  "textureName" : "Pearl Staff",
+  "value" : 48,
+  "weight" : 3
+}

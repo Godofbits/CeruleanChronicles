@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A worn brown leather belt with a sturdy rectangular buckle. Carried across countless miles by those who walk the long roads between cities. The leather bears the marks of weather and travel, testament to journeys both perilous and peaceful.",
+  "id" : "wayfarers_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Wayfarer's Belt",
+  "rarity" : "Common",
+  "textureName" : "Wayfarer's Belt",
+  "value" : 8,
+  "weight" : 0.5
+}

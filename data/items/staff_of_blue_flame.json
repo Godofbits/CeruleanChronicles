@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that burns with blue flame hotter than any forge. The flames are coldly beautiful, almost resembling ice in their pale intensity. Only masters of fire magic can safely wield such terrible heat.",
+  "id" : "staff_of_blue_flame",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Blue Flame",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Blue Flame",
+  "value" : 1150,
+  "weight" : 3
+}

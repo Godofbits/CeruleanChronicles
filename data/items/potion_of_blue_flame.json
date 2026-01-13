@@ -1,0 +1,13 @@
+{
+  "description" : "This potion burns with cold blue fire that doesn't consume. For 10 minutes, your weapon attacks deal an additional 2d6 cold fire damage that bypasses fire resistance.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_blue_flame",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Blue Flame",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Blue Flame",
+  "value" : 475,
+  "weight" : 0.5
+}

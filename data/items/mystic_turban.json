@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A silk turban wrapped in intricate patterns with a glowing gem at its center. Worn by mystics and seers of the eastern deserts, the third eye gem grants glimpses of possible futures. The swirling patterns are said to confuse mind-reading attempts. +0 AC.",
+  "id" : "mystic_turban",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Mystic Turban",
+  "rarity" : "Rare",
+  "textureName" : "Mystic Turban",
+  "value" : 1400,
+  "weight" : 0.5
+}

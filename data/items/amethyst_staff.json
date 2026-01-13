@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a large amethyst that provides mental clarity and protection. The purple gem guards against enchantment and manipulation. Mystics seeking truth carry such staffs.",
+  "id" : "amethyst_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Amethyst Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Amethyst Staff",
+  "value" : 295,
+  "weight" : 3
+}

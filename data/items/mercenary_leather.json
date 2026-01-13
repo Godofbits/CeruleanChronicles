@@ -1,0 +1,14 @@
+{
+  "baseAC" : 12,
+  "category" : "Light",
+  "description" : "Practical leather armor reinforced at vital points. Favored by sellswords who value reliability over appearance. Shows signs of repair and hard use.",
+  "id" : "mercenary_leather",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Mercenary Leather",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Mercenary Leather",
+  "value" : 20,
+  "weight" : 10
+}

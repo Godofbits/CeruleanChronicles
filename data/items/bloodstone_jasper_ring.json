@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A green jasper with red flecks resembling blood. Medieval healers believed it could staunch wounds and cure ailments.",
+  "id" : "bloodstone_jasper_ring",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Medicine checks",
+  "name" : "Bloodstone Jasper Ring",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_14",
+  "value" : 70,
+  "weight" : 0
+}

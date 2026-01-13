@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Enormous boots sized for frost giants, magically adjusting to fit any wearer. Created by the jotun—the giants of Norse legend who will fight the gods at Ragnarok. These boots grant the strength and stature of giants, allowing the wearer to grow to enormous size. The leather is from beasts that roamed the world in its youth, when giants ruled all lands. Mortal heroes who wear them walk as equals among the jotnar.",
+  "id" : "jotuns_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+3 Strength, +3 Constitution, Enlarge 3\/day, Immunity to cold, +20 ft reach with kicks",
+  "name" : "Jotun's Boots",
+  "rarity" : "Very Rare",
+  "textureName" : "Jotun's Boots",
+  "value" : 8500,
+  "weight" : 1
+}

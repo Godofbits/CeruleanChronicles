@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A conical helm with a prominent nasal guard, worn by Norman knights and their soldiers. The simple but effective design became the standard for European warriors during the age of conquest. +1 AC.",
+  "id" : "norman_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Norman Helm",
+  "rarity" : "Common",
+  "textureName" : "Norman Helm",
+  "value" : 30,
+  "weight" : 3
+}

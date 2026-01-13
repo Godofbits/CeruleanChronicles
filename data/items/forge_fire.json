@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "fire",
+  "description" : "Created by the legendary dwarven smith Thorin Flameheart, this blade was tempered in the heart of Mount Cinderpeak. The dwarves say it contains a spark of the First Forge that created the world. Deals 1d8+1 fire damage.",
+  "id" : "forge_fire",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Forge Fire",
+  "rarity" : "Rare",
+  "textureName" : "Forge Fire",
+  "value" : 1200,
+  "weight" : 4
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Standard-issue gloves for Roman legionaries. Simple but effective, they allowed soldiers to wield gladius and pilum without fear of hand wounds. These gauntlets marched across three continents in the hands of history's most disciplined army.",
+  "id" : "legionnaires_grasp",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Legionnaire's Grasp",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Legionnaire's Grasp",
+  "value" : 27,
+  "weight" : 0.5
+}

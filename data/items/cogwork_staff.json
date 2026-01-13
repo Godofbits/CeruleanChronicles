@@ -1,0 +1,11 @@
+{
+  "description" : "A staff adorned with spinning cogs and gears that turn without any visible power source. The mechanical components help analyze magical phenomena. Artificers studying the intersection of magic and machinery use such staffs.",
+  "id" : "cogwork_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Cogwork Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Cogwork Staff",
+  "value" : 280,
+  "weight" : 3
+}

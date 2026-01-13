@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Purple-tinted metal greaves decorated with amethyst studs. Worn by noble warriors who can afford decorative armor. The purple color marks them as persons of rank and distinction.",
+  "id" : "amethyst_war_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Amethyst War Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Amethyst_War_Greaves",
+  "value" : 50,
+  "weight" : 11
+}

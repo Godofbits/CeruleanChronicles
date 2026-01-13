@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A bronze helm in the classical Greek style with prominent cheek guards and nose piece. Favored by hoplites of the ancient city-states, its design has proven itself in countless phalanx formations. The T-shaped opening allows for clear vision while protecting the face. +1 AC.",
+  "id" : "corinthian_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Corinthian Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Corinthian Helm",
+  "value" : 85,
+  "weight" : 3.5
+}

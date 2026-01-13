@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A well-crafted brown leather belt with an ornate buckle, favored by woodsmen and scouts. Designed to hold hunting knife, pouches, and other wilderness tools without hindering movement through dense forest. Rangers of the North mark such belts with small notches for each year spent guarding the wild.",
+  "id" : "rangers_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Ranger's Belt",
+  "rarity" : "Common",
+  "textureName" : "Ranger's Belt",
+  "value" : 12,
+  "weight" : 0.5
+}

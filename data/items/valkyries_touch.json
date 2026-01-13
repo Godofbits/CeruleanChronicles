@@ -1,0 +1,14 @@
+{
+  "acBonus" : 3,
+  "category" : "Legendary",
+  "description" : "Silver gauntlets worn by the Valkyries, Odin's choosers of the slain. They grant the power to bring one fallen warrior back from the brink of death each week. Norse heroes sought the blessing of wearing such gauntlets, for they represent the Valkyries' sacred duty of deciding who lives and who earns their place in Valhalla.",
+  "id" : "valkyries_touch",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Valkyrie's Touch",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Valkyrie's Touch",
+  "value" : 8000,
+  "weight" : 0.5
+}

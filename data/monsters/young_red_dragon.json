@@ -1,0 +1,167 @@
+{
+    "id": "young_red_dragon",
+    "isActive": true,
+    "name": "Young Red Dragon",
+    "sortName": "Dragon, Red (Young)",
+    "size": "large",
+    "type": "dragon",
+    "subtype": null,
+    "alignment": "chaoticEvil",
+
+    "armorClass": 18,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 17,
+        "die": "d10",
+        "modifier": 85
+    },
+    "speeds": {
+        "walk": 40,
+        "climb": 40,
+        "fly": 80
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 23,
+        "dexterity": 10,
+        "constitution": 21,
+        "intelligence": 14,
+        "wisdom": 11,
+        "charisma": 19
+    },
+
+    "savingThrows": ["dexterity", "constitution", "wisdom", "charisma"],
+    "skills": [
+        { "skill": "perception", "bonus": 8 },
+        { "skill": "stealth", "bonus": 4 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["fire"],
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 30 },
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 18,
+    "languages": ["Common", "Draconic"],
+    "telepathyRange": null,
+
+    "challengeRating": "10",
+    "experiencePoints": 5900,
+
+    "texture": "mons_young_red_dragon_01",
+
+    "habitat": {
+        "environments": ["mountain", "underground"],
+        "depth": "deep",
+        "description": "Young red dragons claim volcanic peaks and deep mountain caverns as their lairs, hoarding treasure with the same avarice as their ancient kin. Though not yet fully grown, they are arrogant and cruel, demanding tribute from any who dwell near their territory.",
+        "rarity": "rare"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The dragon makes three attacks: one with its bite and two with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 17 (2d10 + 6) piercing damage plus 3 (1d6) fire damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 10,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d10",
+                        "modifier": 6,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 13 (2d6 + 6) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 10,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 2,
+                        "dieType": "d6",
+                        "modifier": 6,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Fire Breath",
+            "description": "The dragon exhales fire in a 30-foot cone. Each creature in that area must make a DC 17 Dexterity saving throw, taking 56 (16d6) fire damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 17,
+                "type": "dexterity",
+                "onFail": "full damage",
+                "onSuccess": "half damage"
+            },
+            "recharge": {
+                "range": [5, 6]
+            },
+            "onHit": [
+                {
+                    "type": "damage",
+                    "saveDC": 17,
+                    "saveType": "dexterity",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 16,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    },
+                    "description": "30 ft cone, DC 17 Dex save, 16d6 fire damage (half on success)"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

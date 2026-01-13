@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "An emerald carved from a troll's crystallized heart. Norse legends speak of trolls whose flesh regrows even when hewn apart. This ring grants a measure of that terrifying vitality, though fire and acid still pose danger.",
+  "id" : "ring_of_trollish_regeneration",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Regain 1d6 HP at start of each turn if above 0 HP",
+  "name" : "Ring of Trollish Regeneration",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_37",
+  "value" : 1800,
+  "weight" : 0
+}

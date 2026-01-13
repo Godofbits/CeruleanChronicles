@@ -1,0 +1,11 @@
+{
+  "description" : "A rolled scroll bearing terms of trade between parties. Contracts detail prices, delivery schedules, quality standards, and penalties for breach. Merchant guilds enforce these agreements, maintaining trust in the marketplace. The document is typically witnessed and signed by both parties, with copies held by each. A well-written contract prevents disputes, while a poorly worded one invites them. Many fortunes have been won or lost based on contract fine print.",
+  "id" : "merchant_contract",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Merchant Contract",
+  "rarity" : "Common",
+  "textureName" : "Merchant Contract",
+  "value" : 10,
+  "weight" : 0.10000000000000001
+}

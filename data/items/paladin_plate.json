@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Blessed plate armor that shines with holy radiance. Only paladins who have sworn sacred oaths may wear such armor, which is consecrated in ceremonies invoking divine power. The armor provides resistance to necrotic damage and sheds dim light in a 10-foot radius. Undead who approach the wearer feel the weight of divine judgment.",
+  "id" : "paladin_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Paladin Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Paladin Plate",
+  "value" : 2500,
+  "weight" : 55
+}

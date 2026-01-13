@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "Boots that crackle with the power of ocean storms. They combine the fury of thunder with the might of crashing waves. Storm clerics and tempest druids wear such boots when they summon the wrath of sky and sea against their enemies.",
+  "id" : "stormsea_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Resistance to lightning, +10 ft swim speed, Call Lightning 1\/day",
+  "name" : "Stormsea Boots",
+  "rarity" : "Rare",
+  "textureName" : "Stormsea Boots",
+  "value" : 750,
+  "weight" : 1
+}

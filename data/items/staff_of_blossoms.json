@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that blooms with flowers regardless of season. The blossoms can be harvested and eaten, providing sustenance and healing. Priests of fertility goddesses carry such staffs, spreading life wherever they walk.",
+  "id" : "staff_of_blossoms",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Blossoms",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of Blossoms",
+  "value" : 230,
+  "weight" : 3
+}

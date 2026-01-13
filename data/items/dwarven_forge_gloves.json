@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Heavy leather gloves reinforced with fire-resistant materials. Dwarven smiths wear such gloves when working at the forge. They allow handling of red-hot metal without burning, essential for master craftsmen shaping legendary weapons.",
+  "id" : "dwarven_forge_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Dwarven Forge Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Dwarven Forge Gloves",
+  "value" : 210,
+  "weight" : 0.5
+}

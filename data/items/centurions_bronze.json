@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "slashing",
+  "description" : "A gladius-style bronze sword carried by officers of the Old Empire's legions. This particular blade shows the patina of centuries, yet the edge remains serviceable. Deals 1d6 slashing damage.",
+  "id" : "centurions_bronze",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Centurion's Bronze",
+  "rarity" : "Uncommon",
+  "textureName" : "Centurion's Bronze",
+  "value" : 85,
+  "weight" : 2.5
+}

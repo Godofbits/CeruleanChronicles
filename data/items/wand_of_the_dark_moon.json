@@ -1,0 +1,11 @@
+{
+  "description" : "A black wand topped with a dark crescent that seems to drink in light. Forged during a solar eclipse by shadow priests, it channels the dark side of lunar power. Its magic is strongest during the new moon, when darkness reigns. +2 spell bonus, 10 charges, necrotic damage.",
+  "id" : "wand_of_the_dark_moon",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Wand of the Dark Moon",
+  "rarity" : "Very Rare",
+  "textureName" : "Wand of the Dark Moon",
+  "value" : 6000,
+  "weight" : 1
+}

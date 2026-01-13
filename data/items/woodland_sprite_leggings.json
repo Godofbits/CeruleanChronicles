@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Delicate green pants that seem almost ethereal. Said to be favored by fey creatures of the forest. Incredibly light and allow silent movement through leaves.",
+  "id" : "woodland_sprite_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Woodland Sprite Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Woodland_Sprite_Leggings",
+  "value" : 22,
+  "weight" : 0.5
+}

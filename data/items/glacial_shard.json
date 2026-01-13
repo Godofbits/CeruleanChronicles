@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6",
+  "damageType" : "cold",
+  "description" : "A short blade carved from ancient glacier ice and magically preserved. It functions as both weapon and cooling agent in desert climates. Deals 1d6 cold damage.",
+  "id" : "glacial_shard",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Glacial Shard",
+  "rarity" : "Uncommon",
+  "textureName" : "Glacial Shard",
+  "value" : 400,
+  "weight" : 2
+}

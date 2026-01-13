@@ -1,0 +1,13 @@
+{
+  "description" : "This earthy green potion grants you druidic powers for 1 hour. Cast Druidcraft at will, speak with animals, and predict the weather 24 hours in advance.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "draught_of_druidcraft",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Draught of Druidcraft",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Draught of Druidcraft",
+  "value" : 180,
+  "weight" : 0.5
+}

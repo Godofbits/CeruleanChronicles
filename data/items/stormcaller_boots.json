@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots that resonate with the voice of the storm itself. During thunderstorms, they grant the power of flight and unlimited lightning strikes. Thor's chosen warriors wore such boots, riding the tempest into battle. The leather is marked with lightning scars that glow when storms approach.",
+  "id" : "stormcaller_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to lightning, Fly during storms, Call Lightning at will during storms",
+  "name" : "Stormcaller Boots",
+  "rarity" : "Rare",
+  "textureName" : "Stormcaller Boots",
+  "value" : 980,
+  "weight" : 1
+}

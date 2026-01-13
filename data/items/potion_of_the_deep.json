@@ -1,0 +1,13 @@
+{
+  "description" : "A dark blue potion that swirls like deep ocean currents. Grants darkvision 60 ft. underwater and resistance to pressure damage for 8 hours.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_the_deep",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of the Deep",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of the Deep",
+  "value" : 200,
+  "weight" : 0.5
+}

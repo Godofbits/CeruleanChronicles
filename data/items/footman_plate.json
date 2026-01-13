@@ -1,0 +1,16 @@
+{
+  "baseAC" : 16,
+  "category" : "Heavy",
+  "description" : "Basic full plate armor issued to professional foot soldiers. While lacking decorative elements, it provides reliable protection. The plate is serviceable and practical, designed for the rigors of formation combat.",
+  "id" : "footman_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Footman Plate",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 13,
+  "textureName" : "Footman Plate",
+  "value" : 200,
+  "weight" : 50
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 4,
+  "category" : "Legendary",
+  "description" : "Gauntlets forged from adamantine, the hardest substance in existence. They are absolutely indestructible and turn aside any blow. Greek myths tell of the chains that bound the Titans being made of adamantine, and these gauntlets share that impossible strength. The metal is black as night and cold as the void between stars.",
+  "id" : "adamantine_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Adamantine Gauntlets",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "textureName" : "Adamantine Gauntlets",
+  "value" : 10000,
+  "weight" : 0.5
+}

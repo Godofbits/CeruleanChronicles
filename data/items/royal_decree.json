@@ -1,0 +1,11 @@
+{
+  "description" : "A tightly rolled scroll sealed with royal wax bearing the monarch's crest. Royal decrees carry the weight of law, announcing new edicts, taxes, or policies to the realm. The parchment is of exceptional quality, the script formal and ornate. Breaking the seal without authorization is considered treason in most kingdoms. Such documents are carried by heralds who read them aloud in town squares, ensuring all subjects hear the king's will.",
+  "id" : "royal_decree",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Royal Decree",
+  "rarity" : "Uncommon",
+  "textureName" : "Royal Decree",
+  "value" : 20,
+  "weight" : 0.10000000000000001
+}

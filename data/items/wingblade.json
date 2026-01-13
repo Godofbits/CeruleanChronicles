@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d6+1",
+  "damageType" : "slashing",
+  "description" : "A blade light as a feather, blessed by aarakocra shamans. The wind itself seems to guide its strikes. Wielders report feeling lighter on their feet and sometimes catch glimpses of invisible wings. Deals 1d6+1 slashing damage.",
+  "id" : "wingblade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Wingblade",
+  "rarity" : "Rare",
+  "textureName" : "Wingblade",
+  "value" : 1300,
+  "weight" : 1.5
+}

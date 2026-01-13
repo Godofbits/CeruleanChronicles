@@ -1,0 +1,14 @@
+{
+  "category" : "Exotic",
+  "damage" : "1d6+1",
+  "damageType" : "slashing",
+  "description" : "A blade shaped like an elegant leaf, carved from enchanted jade by monks of the Emerald Temple. It is said to cut only those with evil in their hearts, passing harmlessly through the innocent. Deals 1d6+1 slashing damage.",
+  "id" : "jade_leaf",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Jade Leaf",
+  "rarity" : "Rare",
+  "textureName" : "Jade Leaf",
+  "value" : 1100,
+  "weight" : 1.5
+}

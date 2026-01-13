@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "cold",
+  "description" : "A sapphire-encrusted blade created by the Ice Queen's royal smith for her champion. The gem at its heart contains a bound water elemental that protects the wielder from harm. Deals 1d8+1 cold damage.",
+  "id" : "sapphire_guardian",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Sapphire Guardian",
+  "rarity" : "Rare",
+  "textureName" : "Sapphire Guardian",
+  "value" : 1800,
+  "weight" : 3
+}

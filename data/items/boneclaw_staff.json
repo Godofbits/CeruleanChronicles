@@ -1,0 +1,11 @@
+{
+  "description" : "A disturbing staff fashioned from bone and topped with skeletal claws that seem to grasp at the air. The claws clack together with each movement, unsettling all who hear. Dark sorcerers carry such staffs to inspire fear in the living.",
+  "id" : "boneclaw_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Boneclaw Staff",
+  "rarity" : "Common",
+  "textureName" : "Boneclaw Staff",
+  "value" : 40,
+  "weight" : 3
+}

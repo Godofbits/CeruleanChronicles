@@ -1,0 +1,11 @@
+{
+  "description" : "A dark iron sceptre with a spiked mace-like head. This brutal implement was designed by war mages who valued intimidation as much as spellpower. The spikes can be used as a weapon if magic fails. +1 spell bonus, 10 charges.",
+  "id" : "iron_sceptre",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Iron Sceptre",
+  "rarity" : "Uncommon",
+  "textureName" : "Iron Sceptre",
+  "value" : 500,
+  "weight" : 3
+}

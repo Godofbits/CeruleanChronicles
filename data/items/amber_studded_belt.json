@@ -1,0 +1,13 @@
+{
+  "category" : "Studded",
+  "description" : "A rich brown leather belt decorated with polished amber studs that glow warmly in sunlight. Each amber piece contains ancient tree resin, some preserving insects from prehistoric forests. Bards and diplomats favor such belts, believing the amber enhances their natural charm and eloquence.",
+  "id" : "amber_studded_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Charisma",
+  "name" : "Amber Studded Belt",
+  "rarity" : "Uncommon",
+  "textureName" : "Amber Studded Belt",
+  "value" : 175,
+  "weight" : 0.5
+}

@@ -1,0 +1,129 @@
+{
+    "id": "remorhaz",
+    "isActive": false,
+    "name": "Remorhaz",
+    "sortName": null,
+    "size": "huge",
+    "type": "monstrosity",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 17,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 17,
+        "die": "d12",
+        "modifier": 85
+    },
+    "speeds": {
+        "walk": 30,
+        "burrow": 20
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 24,
+        "dexterity": 13,
+        "constitution": 21,
+        "intelligence": 4,
+        "wisdom": 10,
+        "charisma": 5
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": ["cold", "fire"],
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "darkvision", "range": 60 },
+        { "sense": "tremorsense", "range": 60 }
+    ],
+    "passivePerception": 10,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "11",
+    "experiencePoints": 7200,
+
+    "texture": "Remorhaz_01",
+
+    "habitat": {
+        "environments": ["arctic", "mountain"],
+        "depth": "surface",
+        "description": "Remorhazes are fearsome predators of the frozen north, their bodies generating such intense heat that they can burrow through ice and permafrost with ease. Despite dwelling in arctic regions, their internal furnace makes them glow with orange heat. Frost giants prize young remorhazes as guards and sometimes attempt to domesticate them, though adults are far too dangerous to control.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Heated Body",
+            "description": "A creature that touches the remorhaz or hits it with a melee attack while within 5 feet of it takes 10 (3d6) fire damage.",
+            "effect": {
+                "type": "heatedBody",
+                "parameters": {
+                    "damage": "3d6",
+                    "damageType": "fire"
+                }
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +11 to hit, reach 10 ft., one target. Hit: 40 (6d10 + 7) piercing damage plus 10 (3d6) fire damage. If the target is a creature, it is grappled (escape DC 17). Until this grapple ends, the target is restrained, and the remorhaz can't bite another target.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 11,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 6,
+                        "dieType": "d10",
+                        "modifier": 7,
+                        "type": "piercing"
+                    },
+                    {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "fire"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "grapple",
+                    "saveDC": 17,
+                    "saveType": "strength",
+                    "condition": "restrained",
+                    "description": "Target is grappled and restrained"
+                }
+            ]
+        },
+        {
+            "name": "Swallow",
+            "description": "The remorhaz makes one bite attack against a Medium or smaller creature it is grappling. If the attack hits, that creature takes the bite's damage and is swallowed, and the grapple ends. While swallowed, the creature is blinded and restrained, it has total cover against attacks and other effects outside the remorhaz, and it takes 21 (6d6) acid damage at the start of each of the remorhaz's turns. If the remorhaz takes 30 damage or more on a single turn from a creature inside it, the remorhaz must succeed on a DC 15 Constitution saving throw at the end of that turn or regurgitate all swallowed creatures, which fall prone in a space within 10 feet of the remorhaz. If the remorhaz dies, a swallowed creature is no longer restrained by it and can escape from the corpse using 15 feet of movement, exiting prone.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

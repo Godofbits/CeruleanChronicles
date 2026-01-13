@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Bronze leg armor worn by officers of the ancient legions. Polished to a mirror shine for parade, yet battle-tested in countless wars. The bronze has acquired a deep patina from long service under the sun.",
+  "id" : "bronze_centurion_greaves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bronze Centurion Greaves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Bronze_Centurion_Greaves",
+  "value" : 40,
+  "weight" : 10
+}

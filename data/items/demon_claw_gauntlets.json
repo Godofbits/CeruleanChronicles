@@ -1,0 +1,14 @@
+{
+  "acBonus" : 3,
+  "category" : "Legendary",
+  "description" : "Gauntlets forged in the Abyss, tipped with actual demon claws. They transform the wearer's hands into terrible weapons of fire and fury. The claws can tear through armor like parchment, and they radiate an aura of supernatural dread. Those who wear them risk corruption, as the demonic essence slowly seeps into their soul.",
+  "id" : "demon_claw_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Demon Claw Gauntlets",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Demon Claw Gauntlets",
+  "value" : 7500,
+  "weight" : 0.5
+}

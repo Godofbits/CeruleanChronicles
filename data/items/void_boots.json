@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots that seem to contain an absence rather than a presence. Made from material harvested from the void between planes, they anchor the wearer to reality itself. No spell or force can move you against your will while wearing these boots. Warlocks who bargain with entities of the void sometimes receive such boots as payment.",
+  "id" : "void_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immune to forced movement, +2 Constitution, Advantage vs paralysis",
+  "name" : "Void Boots",
+  "rarity" : "Rare",
+  "textureName" : "Void Boots",
+  "value" : 950,
+  "weight" : 1
+}

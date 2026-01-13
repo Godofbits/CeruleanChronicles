@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand topped with a miniature jester's cap complete with tiny bells. Created by trickster mages of the Laughing Court, spells cast through it often have unexpected but harmless side effects like colorful sparks or silly sounds. Perfect for illusion magic. +1 spell bonus, 7 charges.",
+  "id" : "jester_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Jester Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Jester Wand",
+  "value" : 450,
+  "weight" : 0.5
+}

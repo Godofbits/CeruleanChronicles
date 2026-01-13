@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8+1",
+  "damageType" : "lightning",
+  "description" : "A blade that crackles with captured lightning, forged by storm giants in the clouds above the Thunderpeak Mountains. It calls to the sky during storms, and thunder rumbles when it strikes. Deals 1d8+1 lightning damage.",
+  "id" : "skyblade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Skyblade",
+  "rarity" : "Rare",
+  "textureName" : "Skyblade",
+  "value" : 1400,
+  "weight" : 2.5
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 2,
+  "category" : "Reinforced",
+  "description" : "Leg guards forged in the heart of an active volcano, where magma flows like rivers of molten stone. Dwarven runesmiths of the Iron Hills created these, tempering the metal in lava flows and inscribing runes of fire resistance. The guards glow faintly with internal heat and never cool completely. Those who wear them can walk through flames unscathed, their legs protected by the very essence of volcanic fury.",
+  "id" : "magma_forged_legguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Immunity to fire damage from environment",
+  "name" : "Magma Forged Legguards",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Magma_Forged_Legguards",
+  "value" : 320,
+  "weight" : 9.5
+}

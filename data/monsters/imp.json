@@ -1,0 +1,151 @@
+{
+    "id": "imp",
+    "isActive": false,
+    "name": "Imp",
+    "size": "tiny",
+    "type": "fiend",
+    "subtype": "devil",
+    "alignment": "lawfulEvil",
+
+    "armorClass": 13,
+    "armorType": null,
+    "hitDice": {
+        "count": 3,
+        "die": "d4",
+        "modifier": 3
+    },
+    "speeds": {
+        "walk": 20,
+        "fly": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 6,
+        "dexterity": 17,
+        "constitution": 13,
+        "intelligence": 11,
+        "wisdom": 12,
+        "charisma": 14
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "deception", "bonus": 4 },
+        { "skill": "insight", "bonus": 3 },
+        { "skill": "persuasion", "bonus": 4 },
+        { "skill": "stealth", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold", "condition": null },
+        { "type": "bludgeoning", "condition": "from nonmagical attacks not made with silvered weapons" },
+        { "type": "piercing", "condition": "from nonmagical attacks not made with silvered weapons" },
+        { "type": "slashing", "condition": "from nonmagical attacks not made with silvered weapons" }
+    ],
+    "immunities": ["fire", "poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "darkvision", "range": 120 }
+    ],
+    "passivePerception": 11,
+    "languages": ["Infernal", "Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "1",
+    "experiencePoints": 200,
+
+    "texture": "mons_imp_01",
+
+    "habitat": {
+        "environments": ["planar", "urban", "dungeon"],
+        "depth": "shallow",
+        "description": "Native to the Nine Hells, imps serve as spies, messengers, and familiars for more powerful devils and mortal spellcasters. On the Material Plane, they lurk wherever their infernal masters send them, corrupting souls with whispered temptations.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Shapechanger",
+            "description": "The imp can use its action to polymorph into a beast form that resembles a rat, a raven, or a spider, or back into its true form. Its statistics are the same in each form, except for the speed changes noted. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.",
+            "effect": {
+                "type": "shapechanger",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Devil's Sight",
+            "description": "Magical darkness doesn't impede the imp's darkvision.",
+            "effect": {
+                "type": "devilsSight",
+                "parameters": null
+            }
+        },
+        {
+            "name": "Magic Resistance",
+            "description": "The imp has advantage on saving throws against spells and other magical effects.",
+            "effect": {
+                "type": "magicResistance",
+                "parameters": null
+            }
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Sting (Bite in Beast Form)",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 5 (1d4 + 3) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 10 (3d6) poison damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d4",
+                        "modifier": 3,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "poison",
+                    "saveDC": 11,
+                    "saveType": "constitution",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "poison"
+                    },
+                    "description": "Target must make DC 11 Constitution save or take 3d6 poison damage (half on success)"
+                }
+            ]
+        },
+        {
+            "name": "Invisibility",
+            "description": "The imp magically turns invisible until it attacks or until its concentration ends (as if concentrating on a spell). Any equipment the imp wears or carries is invisible with it.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

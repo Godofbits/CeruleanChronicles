@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A magnificent belt set with large rubies that burn like captured fire. The gems enhance the wearer's natural magnetism and force of personality. Kings and emperors have worn such cinctures, and many attribute their ability to inspire loyalty and command respect to the power of these blood-red stones.",
+  "id" : "ruby_cincture",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Charisma, Advantage on Persuasion",
+  "name" : "Ruby Cincture",
+  "rarity" : "Rare",
+  "textureName" : "Ruby Cincture",
+  "value" : 850,
+  "weight" : 0.5
+}

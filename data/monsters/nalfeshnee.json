@@ -1,0 +1,162 @@
+{
+    "id": "nalfeshnee",
+    "isActive": false,
+    "name": "Nalfeshnee",
+    "size": "large",
+    "type": "fiend",
+    "subtype": "demon",
+    "alignment": "chaoticEvil",
+
+    "armorClass": 18,
+    "armorType": "natural armor",
+    "hitDice": {
+        "count": 16,
+        "die": "d10",
+        "modifier": 96
+    },
+    "speeds": {
+        "walk": 20,
+        "fly": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 21,
+        "dexterity": 10,
+        "constitution": 22,
+        "intelligence": 19,
+        "wisdom": 12,
+        "charisma": 15
+    },
+
+    "savingThrows": ["constitution", "intelligence", "wisdom", "charisma"],
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": [
+        { "type": "cold" },
+        { "type": "fire" },
+        { "type": "lightning" },
+        { "type": "bludgeoning", "condition": "nonmagical" },
+        { "type": "piercing", "condition": "nonmagical" },
+        { "type": "slashing", "condition": "nonmagical" }
+    ],
+    "immunities": ["poison"],
+    "conditionImmunities": ["poisoned"],
+
+    "senses": [
+        { "sense": "truesight", "range": 120 }
+    ],
+    "passivePerception": 11,
+    "languages": ["Abyssal"],
+    "telepathyRange": 120,
+
+    "challengeRating": "13",
+    "experiencePoints": 10000,
+
+    "texture": "Nalfeshnee_01",
+
+    "habitat": {
+        "environments": ["planar"],
+        "depth": "abyssal",
+        "description": "Nalfeshnee are bloated, pig-faced demons that serve as judges and advisors in the Abyss, evaluating the souls of the damned. Despite their grotesque appearance, they possess cunning intellects and delight in psychological cruelty.",
+        "rarity": "rare"
+    },
+
+    "traits": [
+        {
+            "name": "Magic Resistance",
+            "description": "The nalfeshnee has advantage on saving throws against spells and other magical effects.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Multiattack",
+            "description": "The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.",
+            "actionType": "multiattack",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +10 to hit, reach 5 ft., one target. Hit: 32 (5d10 + 5) piercing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 10,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 5,
+                        "dieType": "d10",
+                        "modifier": 5,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Claw",
+            "description": "Melee Weapon Attack: +10 to hit, reach 10 ft., one target. Hit: 15 (3d6 + 5) slashing damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 10,
+                "reach": 10,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 3,
+                        "dieType": "d6",
+                        "modifier": 5,
+                        "type": "slashing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        },
+        {
+            "name": "Horror Nimbus",
+            "description": "The nalfeshnee magically emits scintillating, multicolored light. Each creature within 15 feet of the nalfeshnee that can see the light must succeed on a DC 15 Wisdom saving throw or be frightened for 1 minute. A creature can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.",
+            "actionType": "special",
+            "attack": null,
+            "save": {
+                "dc": 15,
+                "type": "wisdom",
+                "onFail": "frightened for 1 minute",
+                "onSuccess": "no effect"
+            },
+            "recharge": {
+                "range": [5, 6]
+            },
+            "onHit": null
+        },
+        {
+            "name": "Teleport",
+            "description": "The nalfeshnee magically teleports, along with any equipment it is wearing or carrying, up to 120 feet to an unoccupied space it can see.",
+            "actionType": "special",
+            "attack": null,
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

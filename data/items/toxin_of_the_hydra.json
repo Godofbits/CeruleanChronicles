@@ -1,0 +1,13 @@
+{
+  "description" : "Harvested from the blood of the legendary Hydra of Greek myth, whose very blood was poisonous. This virulent green toxin deals 10d6 poison damage on a failed CON save (DC 18) and prevents healing for 1 minute. Hercules dipped his arrows in hydra blood to make them deadlier.",
+  "effect" : "A creature takes 3d6 poison damage on a failed CON save.",
+  "id" : "toxin_of_the_hydra",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Toxin of the Hydra",
+  "potionType" : "Poison",
+  "rarity" : "Rare",
+  "textureName" : "Toxin of the Hydra",
+  "value" : 500,
+  "weight" : 0.5
+}

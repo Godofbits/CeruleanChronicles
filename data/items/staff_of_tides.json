@@ -1,0 +1,11 @@
+{
+  "description" : "A staff blessed by the god of tides, allowing command over rising and falling waters. The staff's power waxes and wanes with the moon. Coastal druids who regulate tidal zones carry such staffs.",
+  "id" : "staff_of_tides",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Tides",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of Tides",
+  "value" : 300,
+  "weight" : 3
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 2,
+  "category" : "Reinforced",
+  "description" : "Gauntlets forged in Erebor, the Lonely Mountain, before the coming of Smaug. Dwarven smiths at the height of their power created such armor. The steel contains small amounts of mithril, making it lighter yet stronger than any human-forged metal.",
+  "id" : "erebor_steel_gauntlets",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Erebor Steel Gauntlets",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Erebor Steel Gauntlets",
+  "value" : 250,
+  "weight" : 0.5
+}

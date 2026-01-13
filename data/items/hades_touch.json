@@ -1,0 +1,14 @@
+{
+  "acBonus" : 4,
+  "category" : "Legendary",
+  "description" : "Black gauntlets blessed by Hades, Greek god of the dead and ruler of the underworld. They grant absolute dominion over death and undead. A touch from these hands can slay instantly, pulling the victim's soul directly to the underworld. Only the most powerful death knights and chosen servants of Hades have ever worn such gauntlets. The metal is cold as the deepest pit of Tartarus, and wearing them grants the authority of death itself—even the mightiest undead must obey, for these hands carry the power of their ultimate master.",
+  "id" : "hades_touch",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Hades' Touch",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : false,
+  "textureName" : "Hades' Touch",
+  "value" : 25000,
+  "weight" : 0.5
+}

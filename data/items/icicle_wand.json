@@ -1,0 +1,11 @@
+{
+  "description" : "A crystalline ice wand with razor-sharp icicle formations. Formed in the heart of an eternal glacier by frost giants, this wand channels the bitter cold of the elemental plane of ice. The air around it is always several degrees colder. +2 spell bonus, 10 charges, cold damage.",
+  "id" : "icicle_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Icicle Wand",
+  "rarity" : "Rare",
+  "textureName" : "Icicle Wand",
+  "value" : 1800,
+  "weight" : 1
+}

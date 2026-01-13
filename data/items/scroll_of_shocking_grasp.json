@@ -1,0 +1,11 @@
+{
+  "description" : "A small rolled scroll that tingles to the touch. This cantrip channels electrical energy through the caster's hand, delivering a shocking touch to any creature struck. The spell is particularly effective against armored foes, as metal conducts the arcane electricity with devastating efficiency. Invented by a gnome tinker studying eels, it remains one of the most practical combat cantrips. Single use.",
+  "id" : "scroll_of_shocking_grasp",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Shocking Grasp",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Shocking Grasp",
+  "value" : 25,
+  "weight" : 0.10000000000000001
+}

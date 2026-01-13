@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "A sapphire carved with the image of a charging ram. The ring can project devastating kinetic force, shattering doors and bones with equal ease. Dwarven siege-masters craft such rings for breaking fortress gates.",
+  "id" : "ring_of_the_battering_ram",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "Project force damage (ranged attack), Break objects with magical force",
+  "name" : "Ring of the Battering Ram",
+  "rarity" : "Very Rare",
+  "textureName" : "Rings V2_50",
+  "value" : 1850,
+  "weight" : 0
+}

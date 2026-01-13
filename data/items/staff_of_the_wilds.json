@@ -1,0 +1,11 @@
+{
+  "description" : "A staff carved with images of beasts from untamed wilderness. The carvings seem to move in flickering firelight, prowling and hunting. Rangers who venture far from civilization carry such staffs, drawing upon the savage wisdom of wild things.",
+  "id" : "staff_of_the_wilds",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Wilds",
+  "rarity" : "Uncommon",
+  "textureName" : "Staff of the Wilds",
+  "value" : 260,
+  "weight" : 3
+}

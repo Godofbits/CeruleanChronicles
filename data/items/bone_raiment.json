@@ -1,0 +1,14 @@
+{
+  "baseAC" : 11,
+  "category" : "Magical",
+  "description" : "Robes adorned with bones, skulls, and death imagery. Necromancers craft such garments from the remains of their successful reanimations, each bone representing a corpse raised. The bones provide slight physical protection while the death magic woven into them grants advantage on saves against being frightened. Most civilized folk give wide berth to anyone wearing bone raiment, a social ostracism necromancers accept as the price of their art.",
+  "id" : "bone_raiment",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Bone Raiment",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Bone Raiment",
+  "value" : 350,
+  "weight" : 8
+}

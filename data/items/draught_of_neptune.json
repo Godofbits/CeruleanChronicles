@@ -1,0 +1,13 @@
+{
+  "description" : "This royal blue elixir bears the blessing of Neptune, Roman god of the seas and earthquakes. Command water elementals, part waters, and walk on water for 24 hours. The trident symbol shimmers within the liquid.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "draught_of_neptune",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Draught of Neptune",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Very Rare",
+  "textureName" : "Draught of Neptune",
+  "value" : 800,
+  "weight" : 0.5
+}

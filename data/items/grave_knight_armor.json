@@ -1,0 +1,16 @@
+{
+  "baseAC" : 18,
+  "category" : "Heavy",
+  "description" : "Black plate worn by knights who serve death itself. Some knights, unable to rest in death, rise as grave knights—undead warriors bound to their armor. This particular set was recovered from a defeated grave knight and cleansed through holy rituals. It retains some dark power, granting resistance to necrotic damage and immunity to being frightened, but whispers temptations of eternal service.",
+  "id" : "grave_knight_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Grave Knight Armor",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Grave Knight Armor",
+  "value" : 3200,
+  "weight" : 56
+}

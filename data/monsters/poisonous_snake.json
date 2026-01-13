@@ -1,0 +1,107 @@
+{
+    "id": "poisonous_snake",
+    "isActive": false,
+    "name": "Poisonous Snake",
+    "size": "tiny",
+    "type": "beast",
+    "subtype": null,
+    "alignment": "unaligned",
+
+    "armorClass": 13,
+    "armorType": null,
+    "hitDice": {
+        "count": 1,
+        "die": "d4",
+        "modifier": -1
+    },
+    "speeds": {
+        "walk": 30,
+        "swim": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 2,
+        "dexterity": 16,
+        "constitution": 8,
+        "intelligence": 1,
+        "wisdom": 10,
+        "charisma": 3
+    },
+
+    "savingThrows": null,
+    "skills": null,
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [
+        { "sense": "blindsight", "range": 10 }
+    ],
+    "passivePerception": 10,
+    "languages": [],
+    "telepathyRange": null,
+
+    "challengeRating": "1/8",
+    "experiencePoints": 25,
+
+    "texture": "mons_snake_01",
+
+    "habitat": {
+        "environments": ["forest", "swamp", "grassland", "desert"],
+        "depth": "surface",
+        "description": "These venomous serpents lurk in tall grass, dense undergrowth, and rocky outcroppings, striking at prey with lightning speed. They are most active during warm seasons and often shelter in abandoned burrows or beneath fallen logs.",
+        "rarity": "common"
+    },
+
+    "traits": null,
+
+    "actions": [
+        {
+            "name": "Bite",
+            "description": "Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 5,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 0,
+                        "dieType": "d4",
+                        "modifier": 1,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": [
+                {
+                    "type": "poison",
+                    "saveDC": 10,
+                    "saveType": "constitution",
+                    "condition": null,
+                    "duration": null,
+                    "damage": {
+                        "diceCount": 2,
+                        "dieType": "d4",
+                        "modifier": 0,
+                        "type": "poison"
+                    },
+                    "description": "Target must make DC 10 Constitution save or take 2d4 poison damage (half on success)"
+                }
+            ]
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

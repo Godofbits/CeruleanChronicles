@@ -1,0 +1,11 @@
+{
+  "description" : "A small metal tool for picking locks. Rogues are particularly skilled with these.",
+  "id" : "lockpick",
+  "isActive" : true,
+  "itemType" : "tool",
+  "name" : "Lockpick",
+  "rarity" : "Common",
+  "textureName" : "lockpicks_01",
+  "value" : 5,
+  "weight" : 0.10000000000000001
+}

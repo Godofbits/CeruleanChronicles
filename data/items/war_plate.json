@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Battle-tested full plate showing signs of combat. Dents have been hammered out, broken straps replaced, blood stains scrubbed away. This armor has seen real war and kept its wearer alive. Veterans trust armor that has already proven itself more than pristine parade plate.",
+  "id" : "war_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "War Plate",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "War Plate",
+  "value" : 600,
+  "weight" : 58
+}

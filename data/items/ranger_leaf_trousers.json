@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Green leather trousers decorated with patterns resembling leaves. These were worn by the Rangers of Ithilien, who kept watch over Mordor's borders during the Third Age. The leaf pattern helps the wearer blend into forest undergrowth, and subtle enchantments make them nearly invisible among trees. Faramir's rangers wore such trousers when ambushing orcs and Haradrim in the woods of Ithilien.",
+  "id" : "ranger_leaf_trousers",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to Stealth in forests",
+  "name" : "Ranger Leaf Trousers",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Ranger_Leaf_Trousers",
+  "value" : 195,
+  "weight" : 2.5
+}

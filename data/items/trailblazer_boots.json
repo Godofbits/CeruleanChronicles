@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Boots made for pioneers who venture into uncharted wilderness. The leather is treated to resist brambles and rough terrain. Settlers heading to new frontiers often invest in such boots before their journey.",
+  "id" : "trailblazer_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Trailblazer Boots",
+  "rarity" : "Common",
+  "textureName" : "Trailblazer Boots",
+  "value" : 11,
+  "weight" : 1
+}

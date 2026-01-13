@@ -1,0 +1,11 @@
+{
+  "description" : "A staff topped with a preserved jellyfish whose tentacles still contain active venom. The poison enhances the staff's offensive magic. Sea witches and those who study venomous creatures craft such unusual implements.",
+  "id" : "jellyfish_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Jellyfish Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Jellyfish Staff",
+  "value" : 255,
+  "weight" : 3
+}

@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 1,
+  "category" : "Medium",
+  "description" : "A segmented helm constructed from metal plates riveted to a frame. The design has been used by warriors across many cultures for its ease of construction and reliable protection. A nasal guard protects the face. +1 AC.",
+  "id" : "spangenhelm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Spangenhelm",
+  "rarity" : "Common",
+  "textureName" : "Spangenhelm",
+  "value" : 22,
+  "weight" : 3
+}

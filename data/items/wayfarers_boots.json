@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Sturdy boots designed for those who walk the long roads between cities. Merchants, pilgrims, and wandering bards favor such boots for their durability and comfort. The soles show wear from stone roads and dirt paths alike.",
+  "id" : "wayfarers_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Wayfarer's Boots",
+  "rarity" : "Common",
+  "textureName" : "Wayfarer's Boots",
+  "value" : 8,
+  "weight" : 1
+}

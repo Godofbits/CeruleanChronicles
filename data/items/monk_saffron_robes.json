@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Bright orange robes worn by monks of the eastern monasteries. The saffron color represents enlightenment and spiritual purity. These robes are dyed using traditional methods passed down through centuries, and blessed by abbots during meditation. Monks who wear them find their minds clearer and their spiritual discipline enhanced. The fabric is simple but the enchantments woven into it through prayer and meditation make it valuable beyond its material worth.",
+  "id" : "monk_saffron_robes",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to Wisdom saves",
+  "name" : "Monk Saffron Robes",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Monk_Saffron_Robes",
+  "value" : 180,
+  "weight" : 1
+}

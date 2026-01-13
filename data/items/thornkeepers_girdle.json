@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A practical belt worn by those who tend the thorny hedgerows and wild rose gardens. Thick leather protects against scratches, while the simple design allows for easy movement when pruning and cultivating. Named for the Thornkeepers, an order of botanical guardians.",
+  "id" : "thornkeepers_girdle",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Thornkeeper's Girdle",
+  "rarity" : "Common",
+  "textureName" : "Thornkeeper's Girdle",
+  "value" : 15,
+  "weight" : 0.5
+}

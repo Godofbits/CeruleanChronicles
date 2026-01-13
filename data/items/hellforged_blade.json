@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d10+1",
+  "damageType" : "fire",
+  "description" : "Forged in the pits of the Nine Hells by devil smiths, this blade burns with infernal fire. Its original owner traded their soul for its creation. The contract is said to be etched in invisible script along the blade. Deals 1d10+1 fire damage.",
+  "id" : "hellforged_blade",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Hellforged Blade",
+  "rarity" : "Very Rare",
+  "textureName" : "Hellforged Blade",
+  "value" : 3800,
+  "weight" : 4.5
+}

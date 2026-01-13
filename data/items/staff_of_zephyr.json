@@ -1,0 +1,11 @@
+{
+  "description" : "A staff as light as air that grants the power of flight on gentle winds. The zephyr is the west wind, bringer of spring and gentle breezes. Air elementalists who seek grace rather than fury favor such staffs.",
+  "id" : "staff_of_zephyr",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of Zephyr",
+  "rarity" : "Rare",
+  "textureName" : "Staff of Zephyr",
+  "value" : 1100,
+  "weight" : 3
+}

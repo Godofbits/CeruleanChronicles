@@ -1,0 +1,14 @@
+{
+  "category" : "Martial",
+  "damage" : "1d6",
+  "damageType" : "piercing",
+  "description" : "A well-balanced dueling sword favored by fencing academies. Its slender blade rewards precision over brute force. Deals 1d6 piercing damage.",
+  "id" : "fencers_pride",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Fencer's Pride",
+  "rarity" : "Common",
+  "textureName" : "Fencer's Pride",
+  "value" : 45,
+  "weight" : 1.5
+}

@@ -1,0 +1,15 @@
+{
+  "acBonus" : 1,
+  "category" : "Plate",
+  "description" : "Purple metal leg plates inscribed with flowing arcane runes. Battle sorcerers who need both magical power and physical protection wear such armor. The runes serve as reservoirs of magical energy, allowing the wearer to cast additional spells. Created by artificers who sought to combine the best aspects of warrior and wizard, these legplates represent a fusion of martial and magical traditions.",
+  "id" : "sorcerer_arcane_legplates",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 spell slot (1st level)",
+  "name" : "Sorcerer Arcane Legplates",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Sorcerer_Arcane_Legplates",
+  "value" : 380,
+  "weight" : 10
+}

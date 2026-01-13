@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Enchanted",
+  "description" : "Gloves woven with crystallized magic threads. The fabric shimmers with rainbow colors and provides protection against hostile spells. The crystal threads disrupt magical patterns, weakening enemy magic before it can harm the wearer.",
+  "id" : "crystalweave_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Crystalweave Gloves",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Crystalweave Gloves",
+  "value" : 280,
+  "weight" : 0.5
+}

@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Gauntlets worn by centurions of the ancient legions. Bronze plates shaped to anatomical perfection provide protection without hindering grip. Officers wore such gauntlets as marks of rank and practical armor alike.",
+  "id" : "centurion_gloves",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Centurion Gloves",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Centurion Gloves",
+  "value" : 35,
+  "weight" : 0.5
+}

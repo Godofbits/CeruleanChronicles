@@ -1,0 +1,11 @@
+{
+  "description" : "A pristine scroll of high-quality parchment, unmarked and ready for inscription. Wizards use such scrolls to scribe new spells, while scribes value them for important documents. The parchment has been specially prepared to accept magical inks without bleeding or fading, making it suitable for both mundane correspondence and arcane formulae. Every wizard's tower has a stock of blank scrolls, for you never know when inspiration will strike.",
+  "id" : "blank_scroll",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Blank Scroll",
+  "rarity" : "Common",
+  "textureName" : "Blank Scroll",
+  "value" : 2,
+  "weight" : 0.10000000000000001
+}

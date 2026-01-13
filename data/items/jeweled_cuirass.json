@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Steel cuirass inlaid with precious gems and gold filigree. More artwork than armor, yet still functional protection. Created for wealthy nobles who command from a distance, the jewels catch the light and mark the wearer as someone of importance—for better or worse.",
+  "id" : "jeweled_cuirass",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Jeweled Cuirass",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Jeweled Cuirass",
+  "value" : 800,
+  "weight" : 24
+}

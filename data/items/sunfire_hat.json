@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Magical",
+  "description" : "A brilliant golden wizard hat that radiates warmth and light. Created by priests of the sun god, the hat can emit bright light on command and grants resistance to cold damage. Fire spells cast while wearing it are more powerful during daylight hours. +0 AC.",
+  "id" : "sunfire_hat",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Sunfire Hat",
+  "rarity" : "Rare",
+  "textureName" : "Sunfire Hat",
+  "value" : 1950,
+  "weight" : 0.40000000000000002
+}

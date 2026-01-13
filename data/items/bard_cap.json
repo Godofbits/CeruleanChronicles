@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 0,
+  "category" : "Light",
+  "description" : "A jaunty feathered cap favored by traveling minstrels. The colorful feather helps draw audience attention. +0 AC.",
+  "id" : "bard_cap",
+  "isActive" : false,
+  "itemType" : "misc",
+  "name" : "Bard Cap",
+  "rarity" : "Common",
+  "textureName" : "Bard Cap",
+  "value" : 25,
+  "weight" : 0.20000000000000001
+}

@@ -1,0 +1,13 @@
+{
+  "category" : "Gemstone",
+  "description" : "A golden-yellow citrine that sharpens the mind. Scholars and wizards favor such gems for long nights of study.",
+  "id" : "citrine_of_clear_thought",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 Intelligence checks",
+  "name" : "Citrine of Clear Thought",
+  "rarity" : "Uncommon",
+  "textureName" : "Rings V2_10",
+  "value" : 90,
+  "weight" : 0
+}

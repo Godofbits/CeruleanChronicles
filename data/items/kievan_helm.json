@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A conical steel helm with a nasal guard and chainmail aventail, worn by the warriors of the eastern steppes. The distinctive shape deflects blows and the mail protects the neck. A design perfected over centuries of mounted warfare. +2 AC.",
+  "id" : "kievan_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Kievan Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Kievan Helm",
+  "value" : 140,
+  "weight" : 4
+}

@@ -1,0 +1,13 @@
+{
+  "description" : "This void-black potion extinguishes all light within 60 feet for 1 minute. Magical light is suppressed, and darkvision doesn't function.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_blackness",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Blackness",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Rare",
+  "textureName" : "Potion of Blackness",
+  "value" : 400,
+  "weight" : 0.5
+}

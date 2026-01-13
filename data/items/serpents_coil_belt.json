@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A belt designed to resemble a serpent coiled around the waist. The metal scales move smoothly against each other, and the belt seems almost alive. It grants the wearer the fluid flexibility of a snake, making them harder to grapple or restrain. Thieves and escape artists prize such belts for obvious reasons.",
+  "id" : "serpents_coil_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Dexterity, Advantage on escape checks",
+  "name" : "Serpent's Coil Belt",
+  "rarity" : "Rare",
+  "textureName" : "Serpent's Coil Belt",
+  "value" : 825,
+  "weight" : 0.5
+}

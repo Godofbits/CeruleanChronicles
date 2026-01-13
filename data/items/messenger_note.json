@@ -1,0 +1,11 @@
+{
+  "description" : "A small, hastily written note on cheap parchment. These informal messages handle everyday communication—meeting confirmations, dinner invitations, shopping lists, reminders. Street urchins and servants deliver such notes for copper coins, maintaining the flow of daily life in cities. The writing is often crude, the messages brief and practical. Despite their humble nature, these notes keep society functioning.",
+  "id" : "messenger_note",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Messenger Note",
+  "rarity" : "Common",
+  "textureName" : "Messenger Note",
+  "value" : 2,
+  "weight" : 0.10000000000000001
+}

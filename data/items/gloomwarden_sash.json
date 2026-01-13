@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "A shadowy belt favored by those who patrol in darkness. Worn by night watchmen and those who guard against things that move in shadow. The dark fabric helps the wearer remain unseen while keeping vigil through the darkest hours.",
+  "id" : "gloomwarden_sash",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Gloomwarden Sash",
+  "rarity" : "Common",
+  "textureName" : "Gloomwarden Sash",
+  "value" : 17,
+  "weight" : 0.5
+}

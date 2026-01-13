@@ -1,0 +1,11 @@
+{
+  "description" : "A small blue scroll rimmed with ice crystals. This cantrip fires a beam of freezing energy that chills targets to the bone and slows their movement. While less immediately destructive than fire bolt, ray of frost's ability to hinder enemy speed makes it tactically valuable. The spell draws heat from the target, leaving frost on their skin and ice in their lungs. Cryomancers can cast this endlessly, making it their primary attack in extended battles. Single use.",
+  "id" : "scroll_of_ray_of_frost",
+  "isActive" : false,
+  "itemType" : "scroll",
+  "name" : "Scroll of Ray of Frost",
+  "rarity" : "Common",
+  "textureName" : "Scroll of Ray of Frost",
+  "value" : 25,
+  "weight" : 0.10000000000000001
+}

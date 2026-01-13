@@ -1,0 +1,11 @@
+{
+  "description" : "A staff that seems to contain an absence rather than a presence, carved from material that exists between dimensions. It absorbs magic and can create zones where magic simply ceases to function. Warlocks who bargain with entities of the void between planes wield such staffs. The staff is unsettling to behold—the eye slides away from it, reluctant to acknowledge something that shouldn't exist.",
+  "id" : "staff_of_the_void",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Staff of the Void",
+  "rarity" : "Very Rare",
+  "textureName" : "Staff of the Void",
+  "value" : 9500,
+  "weight" : 3
+}

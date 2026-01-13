@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Steel scales overlapping like fish scales, sewn to a leather coat. Provides excellent protection against slashing attacks. The scales rustle slightly with movement.",
+  "id" : "steel_scale_mail",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Steel Scale Mail",
+  "rarity" : "Common",
+  "stealthDisadvantage" : true,
+  "textureName" : "Steel Scale Mail",
+  "value" : 50,
+  "weight" : 45
+}

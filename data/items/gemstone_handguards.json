@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Ornate",
+  "description" : "Elegant gauntlets set with semi-precious gems that catch the light. Nobles and wealthy merchants wear such handguards to display their prosperity. The gems serve both decorative and practical purposes, as their inherent magic enhances the wearer's presence.",
+  "id" : "gemstone_handguards",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Gemstone Handguards",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : false,
+  "textureName" : "Gemstone Handguards",
+  "value" : 205,
+  "weight" : 0.5
+}

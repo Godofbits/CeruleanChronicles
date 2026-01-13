@@ -1,0 +1,15 @@
+{
+  "acBonus" : 0,
+  "category" : "Cloth",
+  "description" : "Brightly colored pants in a chaotic pattern of multiple hues. Worn by court jesters and fools whose wit is sharper than any blade, these pants are more than mere costume. The seemingly random pattern contains subtle enchantments that make the wearer more entertaining and harder to read. Kings have been overthrown and wars prevented by jesters wearing such pants, their jokes concealing deadly serious truths. The greatest jesters know that foolishness is often the wisest course, and these pants help them walk that narrow line between humor and prophecy.",
+  "id" : "jester_motley_pants",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 to Performance, Advantage on Deception checks",
+  "name" : "Jester Motley Pants",
+  "rarity" : "Rare",
+  "stealthDisadvantage" : false,
+  "textureName" : "Jester_Motley_Pants",
+  "value" : 550,
+  "weight" : 1
+}

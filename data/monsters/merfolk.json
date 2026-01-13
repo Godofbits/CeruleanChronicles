@@ -1,0 +1,98 @@
+{
+    "id": "merfolk",
+    "isActive": false,
+    "name": "Merfolk",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "merfolk",
+    "alignment": "trueNeutral",
+
+    "armorClass": 11,
+    "armorType": null,
+    "hitDice": {
+        "count": 2,
+        "die": "d8",
+        "modifier": 2
+    },
+    "speeds": {
+        "walk": 10,
+        "swim": 40
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 10,
+        "dexterity": 13,
+        "constitution": 12,
+        "intelligence": 11,
+        "wisdom": 11,
+        "charisma": 12
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "perception", "bonus": 2 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 12,
+    "languages": ["Aquan", "Common"],
+    "telepathyRange": null,
+
+    "challengeRating": "1/8",
+    "experiencePoints": 25,
+
+    "texture": "Merfolk_01",
+
+    "habitat": {
+        "environments": ["aquatic", "coastal"],
+        "depth": "shallow",
+        "description": "Merfolk dwell in warm coastal waters, building villages of coral and shell among kelp forests and reef systems. They are curious about surface dwellers and sometimes trade with coastal settlements, though they fiercely defend their underwater territories from intruders.",
+        "rarity": "uncommon"
+    },
+
+    "traits": [
+        {
+            "name": "Amphibious",
+            "description": "The merfolk can breathe air and water.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Spear",
+            "description": "Melee or Ranged Weapon Attack: +2 to hit, reach 5 ft. or range 20/60 ft., one target. Hit: 3 (1d6) piercing damage, or 4 (1d8) piercing damage if used with two hands to make a melee attack.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 2,
+                "reach": 5,
+                "rangeNormal": 20,
+                "rangeLong": 60,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "piercing"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

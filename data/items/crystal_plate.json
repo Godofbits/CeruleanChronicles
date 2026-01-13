@@ -1,0 +1,16 @@
+{
+  "baseAC" : 17,
+  "category" : "Heavy",
+  "description" : "Plate armor forged from crystallized magic. The translucent purple plates are harder than steel yet lighter, created through arcane processes known only to elven artificers. The armor resonates with magical energy, granting advantage on saving throws against spells. Light refracts through the crystal, creating rainbow patterns that mesmerize observers.",
+  "id" : "crystal_plate",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 0,
+  "name" : "Crystal Plate",
+  "rarity" : "Very Rare",
+  "stealthDisadvantage" : true,
+  "strengthRequirement" : 15,
+  "textureName" : "Crystal Plate",
+  "value" : 3500,
+  "weight" : 45
+}

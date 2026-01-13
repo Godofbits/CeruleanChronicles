@@ -1,0 +1,13 @@
+{
+  "category" : "Enchanted",
+  "description" : "A massive belt forged from stone and metal, reinforced with the essence of earth elementals. The wearer's strength is greatly enhanced, and once per day they can stomp the ground to create a localized earthquake. Giants and their kin created these belts, and they remain sized for massive warriors, though magic can adjust them.",
+  "id" : "earthshaker_belt",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 Strength, Earthquake stomp 1\/day",
+  "name" : "Earthshaker Belt",
+  "rarity" : "Rare",
+  "textureName" : "Earthshaker Belt",
+  "value" : 1150,
+  "weight" : 0.5
+}

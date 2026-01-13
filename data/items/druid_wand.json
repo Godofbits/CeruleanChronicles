@@ -1,0 +1,11 @@
+{
+  "description" : "A wooden wand with a circular ring at the top, representing the cycle of nature. Grown rather than carved, this wand was shaped by druidic magic over many seasons. It responds best to those who respect the natural world. +1 spell bonus, 7 charges.",
+  "id" : "druid_wand",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Druid Wand",
+  "rarity" : "Uncommon",
+  "textureName" : "Druid Wand",
+  "value" : 350,
+  "weight" : 0.5
+}

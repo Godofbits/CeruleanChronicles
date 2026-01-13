@@ -1,0 +1,14 @@
+{
+  "acBonus" : 1,
+  "category" : "Reinforced",
+  "description" : "Battle-tested gauntlets worn by professional warriors. The leather and metal have been shaped by countless hours of training and combat. Those who wear such gauntlets have earned their keep through skill at arms.",
+  "id" : "warriors_grip",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Warrior's Grip",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Warrior's Grip",
+  "value" : 26,
+  "weight" : 0.5
+}

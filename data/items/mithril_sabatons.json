@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Sabatons forged from mithril, the legendary silver metal that is lighter than silk yet harder than dragon scales. Elven smiths alone know the secret of working mithril, and they guard it jealously. These sabatons provide the protection of the heaviest armor with none of the weight or restriction. Heroes of legend wore such sabatons in their greatest quests.",
+  "id" : "mithril_sabatons",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+2 AC, No armor penalty, +5 ft movement speed",
+  "name" : "Mithril Sabatons",
+  "rarity" : "Rare",
+  "textureName" : "Mithril Sabatons",
+  "value" : 1300,
+  "weight" : 1
+}

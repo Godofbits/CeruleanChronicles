@@ -1,0 +1,15 @@
+{
+  "baseAC" : 14,
+  "category" : "Medium",
+  "description" : "Armor constructed from small rectangular plates laced together in rows. The lamellar design originated in the distant east, brought westward by steppe nomads. The overlapping plates provide excellent protection while allowing surprising flexibility.",
+  "id" : "lamellar_armor",
+  "isActive" : false,
+  "itemType" : "armor",
+  "maxDexBonus" : 2,
+  "name" : "Lamellar Armor",
+  "rarity" : "Uncommon",
+  "stealthDisadvantage" : true,
+  "textureName" : "Lamellar Armor",
+  "value" : 100,
+  "weight" : 35
+}

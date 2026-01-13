@@ -1,0 +1,13 @@
+{
+  "category" : "Legendary",
+  "description" : "Boots carved with protective runes in the old dwarven manner. Each rune provides specific protection—against fire, against poison, against evil. Master runecrafters spend years on a single pair of such boots. The runes glow faintly when their protection activates, warding off harm.",
+  "id" : "runecarved_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "magicEffect" : "+1 to all saves, +1 AC, +1 spell save DC",
+  "name" : "Runecarved Boots",
+  "rarity" : "Rare",
+  "textureName" : "Runecarved Boots",
+  "value" : 900,
+  "weight" : 1
+}

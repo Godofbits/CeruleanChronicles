@@ -1,0 +1,13 @@
+{
+  "armorBonus" : 2,
+  "category" : "Heavy",
+  "description" : "A bronze helm with a tall horsehair crest, worn by the citizen-soldiers of ancient city-states. The impressive crest makes the wearer appear taller and more imposing. Veterans often dye their crests in distinctive colors to be recognized in battle. +2 AC.",
+  "id" : "hoplite_helm",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Hoplite Helm",
+  "rarity" : "Uncommon",
+  "textureName" : "Hoplite Helm",
+  "value" : 95,
+  "weight" : 4
+}

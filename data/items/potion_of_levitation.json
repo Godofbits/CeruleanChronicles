@@ -1,0 +1,13 @@
+{
+  "description" : "A pale blue potion that makes you feel weightless. Levitate up to 20 feet vertically for 10 minutes.",
+  "effect" : "Become invisible for 1 hour or until you attack.",
+  "id" : "potion_of_levitation",
+  "isActive" : false,
+  "itemType" : "potion",
+  "name" : "Potion of Levitation",
+  "potionType" : "Potion of Invisibility",
+  "rarity" : "Uncommon",
+  "textureName" : "Potion of Levitation",
+  "value" : 200,
+  "weight" : 0.5
+}

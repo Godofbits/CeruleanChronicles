@@ -1,0 +1,14 @@
+{
+  "category" : "Magical",
+  "damage" : "1d8",
+  "damageType" : "lightning",
+  "description" : "Copper wiring runs through this blade, allowing it to store and release electrical charges. Created by an eccentric inventor, it requires no magical ability to use. Deals 1d8 lightning damage.",
+  "id" : "voltaic_edge",
+  "isActive" : false,
+  "itemType" : "weapon",
+  "name" : "Voltaic Edge",
+  "rarity" : "Uncommon",
+  "textureName" : "Voltaic Edge",
+  "value" : 550,
+  "weight" : 3
+}

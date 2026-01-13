@@ -1,0 +1,11 @@
+{
+  "description" : "An elegant staff topped with a large ruby that burns like captured fire. The gemstone enhances the bearer's presence and authority. Sorcerers of noble blood often carry such staffs to display their status.",
+  "id" : "rubytipped_staff",
+  "isActive" : false,
+  "itemType" : "wand",
+  "name" : "Ruby-Tipped Staff",
+  "rarity" : "Uncommon",
+  "textureName" : "Ruby-Tipped Staff",
+  "value" : 320,
+  "weight" : 3
+}

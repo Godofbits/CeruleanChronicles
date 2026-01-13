@@ -1,0 +1,14 @@
+{
+  "acBonus" : 0,
+  "category" : "Leather",
+  "description" : "Black leather leggings that help the wearer blend into darkness. Assassins and night stalkers favor these for their stealth properties. Silent as shadow.",
+  "id" : "assassin_night_leggings",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Assassin Night Leggings",
+  "rarity" : "Common",
+  "stealthDisadvantage" : false,
+  "textureName" : "Assassin_Night_Leggings",
+  "value" : 28,
+  "weight" : 2.5
+}

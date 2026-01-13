@@ -1,0 +1,14 @@
+{
+  "acBonus" : 3,
+  "category" : "Legendary",
+  "description" : "Black gloves inscribed with pacts written in languages never meant for mortal tongues. They grant the powers of the greatest warlocks, channeling eldritch energy from beings beyond reality. Each touch can drain life force or blast enemies with raw magical power. Those who wear these gloves make bargains with their very being—the gloves slowly consume the wearer's soul, but in exchange grant power beyond imagination.",
+  "id" : "warlocks_touch",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Warlock's Touch",
+  "rarity" : "Legendary",
+  "stealthDisadvantage" : false,
+  "textureName" : "Warlock's Touch",
+  "value" : 22000,
+  "weight" : 0.5
+}

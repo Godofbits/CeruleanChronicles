@@ -1,0 +1,99 @@
+{
+    "id": "priest",
+    "isActive": false,
+    "name": "Priest",
+    "size": "medium",
+    "type": "humanoid",
+    "subtype": "any race",
+    "alignment": "lawfulGood",
+
+    "armorClass": 13,
+    "armorType": "chain shirt",
+    "hitDice": {
+        "count": 5,
+        "die": "d8",
+        "modifier": 5
+    },
+    "speeds": {
+        "walk": 30
+    },
+    "hoverCapable": false,
+
+    "abilities": {
+        "strength": 10,
+        "dexterity": 10,
+        "constitution": 12,
+        "intelligence": 13,
+        "wisdom": 16,
+        "charisma": 13
+    },
+
+    "savingThrows": null,
+    "skills": [
+        { "skill": "medicine", "bonus": 7 },
+        { "skill": "persuasion", "bonus": 3 },
+        { "skill": "religion", "bonus": 5 }
+    ],
+
+    "vulnerabilities": null,
+    "resistances": null,
+    "immunities": null,
+    "conditionImmunities": null,
+
+    "senses": [],
+    "passivePerception": 13,
+    "languages": ["Common", "Celestial"],
+    "telepathyRange": null,
+
+    "challengeRating": "2",
+    "experiencePoints": 450,
+
+    "texture": "Priest_01",
+
+    "habitat": {
+        "environments": ["urban", "ruins", "dungeon"],
+        "depth": "surface",
+        "description": "Priests serve as intermediaries between mortals and the divine, wielding holy magic to heal the faithful and smite the unholy. They can be found in temples, on pilgrimages, or venturing into dark places to root out evil.",
+        "rarity": "common"
+    },
+
+    "traits": [
+        {
+            "name": "Divine Eminence",
+            "description": "As a bonus action, the priest can expend a spell slot to cause its melee weapon attacks to magically deal an extra 10 (3d6) radiant damage to a target on a hit. This benefit lasts until the end of the turn.",
+            "effect": null
+        }
+    ],
+
+    "actions": [
+        {
+            "name": "Mace",
+            "description": "Melee Weapon Attack: +2 to hit, reach 5 ft., one target. Hit: 3 (1d6) bludgeoning damage.",
+            "actionType": "meleeWeapon",
+            "attack": {
+                "bonus": 2,
+                "reach": 5,
+                "rangeNormal": null,
+                "rangeLong": null,
+                "targets": 1,
+                "damage": [
+                    {
+                        "diceCount": 1,
+                        "dieType": "d6",
+                        "modifier": 0,
+                        "type": "bludgeoning"
+                    }
+                ]
+            },
+            "save": null,
+            "recharge": null,
+            "onHit": null
+        }
+    ],
+
+    "bonusActions": null,
+    "reactions": null,
+    "legendaryActions": null,
+    "spellcasting": null,
+    "innateSpellcasting": null
+}

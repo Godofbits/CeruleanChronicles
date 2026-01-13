@@ -1,0 +1,12 @@
+{
+  "category" : "Common",
+  "description" : "Soft-soled boots designed for moving quietly through wilderness. Army scouts and frontier rangers wear such boots when silence matters more than protection. The leather is treated to resist water and muffle footsteps.",
+  "id" : "scouts_boots",
+  "isActive" : false,
+  "itemType" : "armor",
+  "name" : "Scout's Boots",
+  "rarity" : "Common",
+  "textureName" : "Scout's Boots",
+  "value" : 12,
+  "weight" : 1
+}
